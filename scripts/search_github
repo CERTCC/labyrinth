@@ -136,7 +136,7 @@ def main(query, start_date=None, end_date=None, overwrite=False):
 
             if len(new_df):
                 # append new rows to existing
-                out_df = json_df.append(new_df, ignore_index=True)
+                out_df = pd.concat(json_df,new_df)
             else:
                 # we can skip to the next day if new_df is empty
                 print(f"No new results for {dt_pfx}, skipping ahead", flush=True)
