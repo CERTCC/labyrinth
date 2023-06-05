@@ -16,10 +16,10 @@ jobs:
       - name: Get dates
         id: date
         run: |
-          echo "::set-output name=today::$(date +'%Y-%m-%d')"
-          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
-          echo "::set-output name=this_month::$(date +'%Y-%m')"
-          echo "::set-output name=this_year::$(date +'%Y')"
+          echo "today=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "yesterday=$(date -d yesterday '+%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "this_month=$(date +'%Y-%m')" >> $GITHUB_OUTPUT
+          echo "this_year=$(date +'%Y')" >> $GITHUB_OUTPUT
 
       - name: checkout
         uses: actions/checkout@v3
