@@ -148,7 +148,7 @@ def process_row(row):
         _df = process_git_url(clone_url, workdir)
 
     if len(_df):
-        df = df.append(_df)
+        df = pd.concat([df,_df])
 
     if not len(df):
         return pd.DataFrame()

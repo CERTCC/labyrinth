@@ -93,7 +93,7 @@ def process_dir(path, workdir="/"):
             fpath = os.path.join(dirpath, f)
             _df = process_file(fpath, workdir)
             if len(_df):
-                df = df.append(_df)
+                df = pd.concat([df,_df])
             count += 1
             if count % 1000 == 0:
                 logger.info(f"Processed {count} files so far")
