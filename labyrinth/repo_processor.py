@@ -19,6 +19,7 @@ import time
 import datetime
 import glob
 import tempfile
+import pytz
 
 import dateutil.parser
 import pandas as pd
@@ -63,7 +64,9 @@ def _check_repo_newer(ts, repo_name):
     """
     True if Github has more recent data than repofile
     """
-    m_ts = datetime.datetime.fromtimestamp(ts)
+    m_ts_utc = datetime.utcfromtimestamp(ts)
+    m_tz_aware = m_ts_utc.replace(tzinfo=pytz.utc)
+    m_ts = m_tz_aware
 
     gh = Github(login_or_token=labyrinth.GH_TOKEN)
     check_rl_core(gh)
