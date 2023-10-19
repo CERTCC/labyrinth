@@ -16,7 +16,7 @@ created_at: 9/3/21 9:56 AM
 import logging
 import os
 import time
-import datetime
+from datetime import datetime
 import glob
 import tempfile
 import pytz
@@ -64,9 +64,7 @@ def _check_repo_newer(ts, repo_name):
     """
     True if Github has more recent data than repofile
     """
-    m_ts_utc = datetime.utcfromtimestamp(ts)
-    m_tz_aware = m_ts_utc.replace(tzinfo=pytz.utc)
-    m_ts = m_tz_aware
+    m_ts = datetime.fromtimestamp(ts, tz=timezone.utc)
 
     gh = Github(login_or_token=labyrinth.GH_TOKEN)
     check_rl_core(gh)
@@ -177,7 +175,7 @@ def process_row(row):
     # write the timestamp file for this repo
     with open(tsfile, "w") as fp:
         # we don't need subsecond resolution for this
-        now = datetime.datetime.now().replace(microsecond=0)
+        now = datetime.now().replace(microsecond=0)
         fp.write(f"{now.isoformat()}\n")
 
     return df
