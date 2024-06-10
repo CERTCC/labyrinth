@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     strategy:
+      max-parallel: 10
       fail-fast: false
       matrix:
        search_str: 
