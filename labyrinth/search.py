@@ -8,6 +8,9 @@ import datetime
 
 import pandas as pd
 from github import Github
+from github.GithubException import RateLimitExceededException
+import random
+import time
 
 import labyrinth
 from labyrinth.date_helpers import fixup_start_date, fixup_end_date
@@ -63,10 +66,22 @@ def do_search(query, start_date=None, end_date=None, page_size=100):
 
         # result is a generator of repository objects
         count = 0
-        for r in result:
-            # check your rate limits every so often
-            if len(results) % 50 == 0:
+
+        # manually iterate over the generator so we can catch rate limit exceptions at
+        # an individual result level
+        while True:
+            try:
+                r = next(result)
+            except StopIteration:
+                break
+            except RateLimitExceededException as e:
+                # we need to catch github.GithubException.RateLimitExceededException
+                print("Rate limit exceeded")
+                # take a random nap
+                time.sleep(random.randint(10, 30))
+                # and check rate limits
                 check_rate_limits(gh)
+                continue
 
             # timestamp
             ts = (
@@ -82,6 +97,7 @@ def do_search(query, start_date=None, end_date=None, page_size=100):
             data["matched_at"] = ts
             results.append(data)
             count += 1
+
         print(f"Found {count} results for {qstr}", flush=True)
 
     return results
