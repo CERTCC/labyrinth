@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+738364007,jmrcsnchz/ClinicQueueingSystem_RCE,README.md,20d5820ef2ac036610f4eec0e3cedf8d524590b4,CVE-2024-0264
+738364007,jmrcsnchz/ClinicQueueingSystem_RCE,README.md,20d5820ef2ac036610f4eec0e3cedf8d524590b4,CVE-2024-0265
+738364007,jmrcsnchz/ClinicQueueingSystem_RCE,clinicx.py,92e36b763efaf306fc46b22d2e3be9122c57c4d0,CVE-2024-0264
+738364007,jmrcsnchz/ClinicQueueingSystem_RCE,clinicx.py,92e36b763efaf306fc46b22d2e3be9122c57c4d0,CVE-2024-0265

@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-437314230,WazeHell/sam-the-admin,sam_the_admin.py,1c9ac4ad8426ed63ca77ffe2888dfcf8e46541fb,CVE-2021-42278
-437314230,WazeHell/sam-the-admin,sam_the_admin.py,1c9ac4ad8426ed63ca77ffe2888dfcf8e46541fb,CVE-2021-42287
+437314230,WazeHell/sam-the-admin,sam_the_admin.py,55547c62b7ef59fc9cca73a402fc1c8acf44e159,CVE-2021-42278
+437314230,WazeHell/sam-the-admin,sam_the_admin.py,55547c62b7ef59fc9cca73a402fc1c8acf44e159,CVE-2021-42287
 437314230,WazeHell/sam-the-admin,README.md,5dbdd5b7314b0e95af46acf17310a7604240974a,CVE-2021-42278
 437314230,WazeHell/sam-the-admin,README.md,5dbdd5b7314b0e95af46acf17310a7604240974a,CVE-2021-42287
 437314230,WazeHell/sam-the-admin,_GITHUB_REPO_METADATA_,,CVE-2021-42278

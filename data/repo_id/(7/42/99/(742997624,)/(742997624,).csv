@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+742997624,xaitax/SploitScan,README.md,f5dc2994a959074c66ea9f0051b660ddb3bf725a,CVE-2024-1709
+742997624,xaitax/SploitScan,README.md,f5dc2994a959074c66ea9f0051b660ddb3bf725a,CVE-2024-21413

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+34994225,infoslack/awesome-web-hacking,README.md,d09e3b8c3fde4c1e7bea1a3c29488e3606d55a32,CVE-2014-0160
+34994225,infoslack/awesome-web-hacking,README.md,d09e3b8c3fde4c1e7bea1a3c29488e3606d55a32,CVE-2014-6271

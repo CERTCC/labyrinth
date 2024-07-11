@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-J99J-QP89-PCFQ,0.03333333,https://github.com/curated-intel/Log4Shell-IOCs,curated-intel/Log4Shell-IOCs,437595483

@@ -1,7 +1,16 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-95108,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 BID-95108,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
+BID-95108,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550639048
+BID-95108,0.00163666,https://github.com/winterwolf32/CVE_Exploits-,winterwolf32/CVE_Exploits-,504265084
 BID-95108,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 BID-95108,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 BID-95108,0.00002386,https://github.com/kreattang/Collecting_CNVD_Dataset,kreattang/Collecting_CNVD_Dataset,188338231
 BID-95108,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
+BID-95108,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+BID-95108,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
+BID-95108,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+BID-95108,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-95108,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+BID-95108,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-95108,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

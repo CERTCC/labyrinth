@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,static/index.html,1b8cbab8864fef2dec1cc69d4aebadd622ba16fc,CVE-2023-25813
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,node_modules/moment-timezone/changelog.md,3d9032a0f6dcec52a10cf22e4047478fc4a94977,GHSA-56X4-J7P9-FCF9
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,node_modules/moment-timezone/changelog.md,3d9032a0f6dcec52a10cf22e4047478fc4a94977,GHSA-V78C-4P63-2J6C
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,node_modules/moment/CHANGELOG.md,53f665bb03c69f569c839f54dac749502997bf7d,GHSA-8HFJ-J24R-96C4
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,README.md,5caf4ca5d8e9aba2dccebf810438e3d10556ca5a,CVE-2023-25813
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,node_modules/@types/node/crypto.d.ts,70c4fb1951a999b00eeafedd6e65930f3c1ecd89,CVE-2021-44532
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,node_modules/mysql2/lib/constants/ssl_profiles.js,9ab182e2a08a96fe6d7affe2c679f842d2063cfc,VU#243
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,node_modules/mysql2/lib/constants/ssl_profiles.js,9ab182e2a08a96fe6d7affe2c679f842d2063cfc,VU#48
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,node_modules/mysql2/lib/constants/ssl_profiles.js,9ab182e2a08a96fe6d7affe2c679f842d2063cfc,VU#93
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,node_modules/@types/node/tls.d.ts,c3108fd129bb7777803a89792586c0d0f804a2ee,CVE-2021-44531
+789840283,bde574786/Sequelize-1day-CVE-2023-25813,_GITHUB_REPO_METADATA_,,CVE-2023-25813

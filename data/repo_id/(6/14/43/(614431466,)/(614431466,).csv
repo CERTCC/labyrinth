@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+614431466,iridium-soda/CVE-2019-14271_Exploit,README.md,286436bb27b1abc1368deb38fcd47267ad1fbf90,CVE-2019-14271
+614431466,iridium-soda/CVE-2019-14271_Exploit,Install_env.sh,b278be50b609d6de5334e98d70503d2b733fd799,CVE-2019-14271
+614431466,iridium-soda/CVE-2019-14271_Exploit,exp/Dockerfile,e3785dc89cc0f7f3706ca83cb686c8d2a4259307,CVE-2019-14271
+614431466,iridium-soda/CVE-2019-14271_Exploit,_GITHUB_REPO_METADATA_,,CVE-2019-14271

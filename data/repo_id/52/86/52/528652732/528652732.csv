@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+528652732,pwneddr/sudo-version-1.8.21p2_exploit,sudo-exploit.txt,43cc55e9fd53d505c42f951982c14c625f954d1a,CVE-2019-14287
+528652732,pwneddr/sudo-version-1.8.21p2_exploit,sudo-exploit.txt,43cc55e9fd53d505c42f951982c14c625f954d1a,CVE-2019-18634
+528652732,pwneddr/sudo-version-1.8.21p2_exploit,sudo-exploit.txt,43cc55e9fd53d505c42f951982c14c625f954d1a,CVE-2021-3156

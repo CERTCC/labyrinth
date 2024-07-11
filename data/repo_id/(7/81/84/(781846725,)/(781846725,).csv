@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+781846725,felipecosta09/cve-2024-3094,.github/workflows/image-scan.yml,04014953c02899b3bac407f28d28bab183eabecb,CVE-2024-3094
+781846725,felipecosta09/cve-2024-3094,cve2024-3094.sh,1fea140e3dacd270f4d3acb13dea235abb959291,CVE-2024-3094
+781846725,felipecosta09/cve-2024-3094,README.md,4f789b35d471b4b2253d31e5468211a928218339,CVE-2024-3094
+781846725,felipecosta09/cve-2024-3094,Dockerfile,a07799032d09985ad9956fcf1e7a5cf948d086b0,CVE-2024-3094
+781846725,felipecosta09/cve-2024-3094,_GITHUB_REPO_METADATA_,,CVE-2024-3094

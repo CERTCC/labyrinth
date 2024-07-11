@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+612902551,vamshi-vemula/JWT_Exploits,JWT_CVE-2018-0114_Injecting_JWK.py,67bc45ddcfef5973bb2337a218f9f5f092628f31,CVE-2018-0114

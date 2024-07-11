@@ -1,4 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZDI-20-334,0.01886792,https://github.com/rdomanski/Exploits_and_Advisories,rdomanski/Exploits_and_Advisories,254165166
-ZDI-20-334,0.00465116,https://github.com/pedrib/PoC,pedrib/PoC,13247147
+ZDI-20-334,0.33333333,https://github.com/Live-Hack-CVE/CVE-2020-10882,Live-Hack-CVE/CVE-2020-10882,597256305
+ZDI-20-334,0.01449275,https://github.com/rdomanski/Exploits_and_Advisories,rdomanski/Exploits_and_Advisories,254165166
+ZDI-20-334,0.00446429,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 ZDI-20-334,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
+ZDI-20-334,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-20-334,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+ZDI-20-334,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,6 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
+1840809,perlancar/exploits,cve-2016-5195-linux/cve-2016-5195-for-linux-2.6.patch,50e6574cdf18e40bdfe4b68d5bf37f920e071ce4,CVE-2016-5195
 1840809,perlancar/exploits,20090813-linux24_26_since2001-sendpage/4/exploit.c,5d130ce7ba0ab0ebcfa4fba6a851ff8cd7637278,CVE-2009-1895
 1840809,perlancar/exploits,cve-2016-5195-linux/dirtyc0w,678319ae0fc392b4df460be1c7b8d02315164f86,CVE-2016-5195
+1840809,perlancar/exploits,cve-2016-5195-linux/dirty.c,6a9ed2b0e0bac50ebd4b17484cd462a2a3163885,CVE-2016-5195
 1840809,perlancar/exploits,cve-2012-0056-linux/mempodipper,7ae16275c29f3ac5581013f24a9cc306d5825cf0,CVE-2012-0056
 1840809,perlancar/exploits,cve-2016-5195-linux/dirtyc0w.c,a5b7bc991c225101a3f482b99d8fcefd884d6334,CVE-2016-5195
+1840809,perlancar/exploits,cve-2016-5195-linux/notes.org,bb63b9c3b1d128a1d56fb18ae4f62b7919e0b41f,CVE-2016-5195
 1840809,perlancar/exploits,cve-2012-0056-linux/mempodipper.c,c80edc7cc19081f2ed048ed1e3ebc02efd67b8c4,CVE-2012-0056

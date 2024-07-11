@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+560260178,gamerpro83/metasploit-omnibus.git45,config/software/metasploit-framework.rb,22b0113c336c9519d89bd18ee98c29f366fc1b32,CVE-2016-4557
+560260178,gamerpro83/metasploit-omnibus.git45,config/patches/libxslt/libxslt-cve-2015-7995.patch,d1cbde4fd1d32447e1d6f844947782bf957b6641,CVE-2015-7995

@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+605452872,kannkyo/epss-api,README.rst,6cea38170512ee2f6d476129f7c6c0ace5db3efc,CVE-2022-0669
+605452872,kannkyo/epss-api,README.rst,6cea38170512ee2f6d476129f7c6c0ace5db3efc,CVE-2022-39952
+605452872,kannkyo/epss-api,README.rst,6cea38170512ee2f6d476129f7c6c0ace5db3efc,CVE-2023-0669
+605452872,kannkyo/epss-api,src/epss_api/epss.py,922110b85f34a18e02d1dd0a2dd0387a74ebe1fe,CVE-2014-6271
+605452872,kannkyo/epss-api,src/epss_api/epss.py,922110b85f34a18e02d1dd0a2dd0387a74ebe1fe,CVE-2014-7169
+605452872,kannkyo/epss-api,src/epss_api/epss.py,922110b85f34a18e02d1dd0a2dd0387a74ebe1fe,CVE-2022-39952
+605452872,kannkyo/epss-api,src/epss_api/epss.py,922110b85f34a18e02d1dd0a2dd0387a74ebe1fe,CVE-2023-0669
+605452872,kannkyo/epss-api,tests/epss_api/test_epss.py,946b26b6ed50521e85899a195be77a6ff5b9d4b5,CVE-1000-0123
+605452872,kannkyo/epss-api,tests/epss_api/test_epss.py,946b26b6ed50521e85899a195be77a6ff5b9d4b5,CVE-2022-0669
+605452872,kannkyo/epss-api,tests/epss_api/test_epss.py,946b26b6ed50521e85899a195be77a6ff5b9d4b5,CVE-2022-39952

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+795061700,RootHelp3r/Exploits,Exploits/apache_struts2_(cve-2017-5638)_rce_auto-exploiter_v2.py,33a7daf02b848aac2c6413d941ee773a97733510,CVE-2017-5638
+795061700,RootHelp3r/Exploits,Exploits/drupal_mass_exploiter.txt,5dd0b554cf08994cfe18aed2011d90ffd2383b5a,CVE-2014-3704

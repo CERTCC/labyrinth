@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+542704873,sealmindset/struts2rce,README.md,0066ec8371caf5ba6432a8a72f394c23003dabb4,CVE-2017-5638
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase.war,3b4e96c1111893e308b80837c17657b86c267262,VU#19
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase.war,3b4e96c1111893e308b80837c17657b86c267262,VU#226
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase.war,3b4e96c1111893e308b80837c17657b86c267262,VU#30
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase.war,3b4e96c1111893e308b80837c17657b86c267262,VU#62
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase.war,3b4e96c1111893e308b80837c17657b86c267262,VU#74
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase.war,3b4e96c1111893e308b80837c17657b86c267262,VU#77
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase.war,3b4e96c1111893e308b80837c17657b86c267262,VU#93
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase.war,3b4e96c1111893e308b80837c17657b86c267262,VU#95
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase/WEB-INF/lib/guava-19.0.jar,6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9,VU#13
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase/WEB-INF/lib/guava-19.0.jar,6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9,VU#37
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase/WEB-INF/lib/guava-19.0.jar,6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9,VU#78
+542704873,sealmindset/struts2rce,target/struts2-rest-showcase/WEB-INF/lib/commons-compress-1.19.jar,7e65777fb451ddab6a9c054beb879e521b7eab78,VU#66

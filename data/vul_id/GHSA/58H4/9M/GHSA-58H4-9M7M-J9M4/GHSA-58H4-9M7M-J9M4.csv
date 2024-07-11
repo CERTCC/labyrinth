@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-58H4-9M7M-J9M4,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-3145,Live-Hack-CVE/CVE-2022-3145,595242845
+GHSA-58H4-9M7M-J9M4,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-58H4-9M7M-J9M4,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

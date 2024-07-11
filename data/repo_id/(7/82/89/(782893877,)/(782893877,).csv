@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+782893877,tanm-sys/secure-ssl-vpn-exploit-kit,README.md,2e4ee3d7299f05467715a56ec647f8f51014ceeb,CVE-2019-11510
+782893877,tanm-sys/secure-ssl-vpn-exploit-kit,pwn-pulse.sh,ed272ca80807a33ddae5aa483dac63c66fc79b50,CVE-2019-11510

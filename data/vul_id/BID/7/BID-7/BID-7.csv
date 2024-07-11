@@ -2,5 +2,8 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-7,1.00000000,https://github.com/sristisravan/bsides2021,sristisravan/bsides2021,380673154
 BID-7,1.00000000,https://github.com/bolonobolo/shellcode,bolonobolo/shellcode,221265981
 BID-7,0.50000000,https://github.com/NeroMoi/shootGame,NeroMoi/shootGame,158328912
-BID-7,0.01234568,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
+BID-7,0.14285714,https://github.com/hyn0027/DualGen,hyn0027/DualGen,630908704
+BID-7,0.05000000,https://github.com/raymondzmc/Attention-Pattern-Exploitation,raymondzmc/Attention-Pattern-Exploitation,555256490
 BID-7,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+BID-7,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-7,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

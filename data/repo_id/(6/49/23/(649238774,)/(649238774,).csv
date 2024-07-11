@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+649238774,hau-zy/KeePass-dump-py,README.md,c7a2eddfa1de778c396a662bcd17bdec92fac901,CVE-2023-32784
+649238774,hau-zy/KeePass-dump-py,_GITHUB_REPO_METADATA_,,CVE-2023-32784

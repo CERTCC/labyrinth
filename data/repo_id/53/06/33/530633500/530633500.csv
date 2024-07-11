@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+530633500,Vulnmachines/oracle-weblogic-CVE-2021-2109,README.md,edcd87f7a9afa12728e1ef0ac914203b58b30a2d,CVE-2021-2109
+530633500,Vulnmachines/oracle-weblogic-CVE-2021-2109,README.md,edcd87f7a9afa12728e1ef0ac914203b58b30a2d,CVE-2022-2109
+530633500,Vulnmachines/oracle-weblogic-CVE-2021-2109,_GITHUB_REPO_METADATA_,,CVE-2021-2109
+530633500,Vulnmachines/oracle-weblogic-CVE-2021-2109,_GITHUB_REPO_METADATA_,,CVE-2022-2109

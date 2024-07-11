@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+489657622,elellacode/exploit-CVE-2017-7494,exploit.py,2d684e55093facdcd9d84670f57ac037dfcc198e,CVE-2017-7494
+489657622,elellacode/exploit-CVE-2017-7494,bindshell-samba.c,3e294006d891a67627db4f754095d99da3ce76e2,CVE-2017-7494
+489657622,elellacode/exploit-CVE-2017-7494,bindshell-samba.h,5daabd4ce25fd1718bc6d97b8e7d3adcec098459,CVE-2017-7494
+489657622,elellacode/exploit-CVE-2017-7494,README.md,bd02b667f999061744943efc0fe317f7585d18c6,CVE-2017-7494
+489657622,elellacode/exploit-CVE-2017-7494,_GITHUB_REPO_METADATA_,,CVE-2017-7494

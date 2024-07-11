@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+664453374,sunichi/cve-2022-4543-wrapper,README.md,a7bcbb2fab8c9e4940494820d4a9c82cd0293cf7,CVE-2022-4543
+664453374,sunichi/cve-2022-4543-wrapper,_GITHUB_REPO_METADATA_,,CVE-2022-4543

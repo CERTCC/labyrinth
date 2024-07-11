@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+534132363,santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack,README.md,aaa9ce9cd1e62bb5275b6f38c874cb1178324eca,CVE-2020-25478
+534132363,santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack,_GITHUB_REPO_METADATA_,,CVE-2020-25478

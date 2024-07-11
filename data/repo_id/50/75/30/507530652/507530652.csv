@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+507530652,lousix/Log4j2-RCE-Scanner,Log4jScanner(web版)/Log4j2UI/src/views/dashboard/admin/components/BoxCard.vue,79cd87e68b3e7ed489e8b5f356ea427a0d366d01,CVE-2021-44228
+507530652,lousix/Log4j2-RCE-Scanner,Log4jScanner(web版)/Log4j2UI/src/views/dashboard/admin/components/TimeLine.vue,9ee457dcf2bed765b986ccd1a14f1e5d8b78ea83,CVE-2021-44228

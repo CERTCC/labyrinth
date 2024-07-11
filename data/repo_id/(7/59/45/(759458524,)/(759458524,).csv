@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+759458524,ouldevloper/ARM_Exploitation,09-Advanced Reversing/ransomware/src/mbedtls-2.5.1/library/dhm.c,4445f44894a3ae8d41cab1b0c81517fa111b49ca,CVE-2005-2643
+759458524,ouldevloper/ARM_Exploitation,09-Advanced Reversing/ransomware/src/mbedtls-2.5.1/library/certs.c,bfe69dab1eccae96a0e8d08fdc7a02c430b6b1c2,VU#63
+759458524,ouldevloper/ARM_Exploitation,09-Advanced Reversing/ransomware/src/mbedtls-2.5.1/ChangeLog,e3fb25aab756d1d3d57076b6408b12da83061e31,CVE-2015-5291
+759458524,ouldevloper/ARM_Exploitation,09-Advanced Reversing/ransomware/src/mbedtls-2.5.1/ChangeLog,e3fb25aab756d1d3d57076b6408b12da83061e31,CVE-2017-2784

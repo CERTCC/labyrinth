@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+535818195,MaherAzzouzi/CVE-2022-37706-LPE-exploit,exploit.sh,21cbeecf013c28c60d08553cf9bd0e57f3ce8789,CVE-2022-37706
+535818195,MaherAzzouzi/CVE-2022-37706-LPE-exploit,PublicReferenceURL.txt,679eda2cec70a4d95649d07342b36717d13d7c0a,CVE-2022-37706
+535818195,MaherAzzouzi/CVE-2022-37706-LPE-exploit,README.md,adb639f4aa85a0a38e299b90e5de5d4ac8a42a86,CVE-2022-37706
+535818195,MaherAzzouzi/CVE-2022-37706-LPE-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-37706

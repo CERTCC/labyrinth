@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+630986197,enricollen/italian-birds-classifier-api-tflite-version,models/bird_classifier_no_optz.tflite,28c0155be71bb6cff0a1247dd810387ace782a73,VU#18

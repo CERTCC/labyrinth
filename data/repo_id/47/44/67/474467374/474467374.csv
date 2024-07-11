@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+474467374,netslutter/metasploit-framework,netslutter-gpg.pubkey,51fa5d08c932a26ae676f3c7efc9200673b864c9,VU#65
+474467374,netslutter/metasploit-framework,dists/netslutter/main/binary-aarch64/ruby_2.7.2-3_aarch64.deb,7dc86f112c0b4343336aab78a9a0a43db5224d6a,VU#50
+474467374,netslutter/metasploit-framework,dists/netslutter/main/binary-arm/ruby_2.7.2-3_arm.deb,d50e573b8accd22afaac68f665808d3840b7bac9,VU#45
+474467374,netslutter/metasploit-framework,dists/netslutter/main/binary-arm/ruby_2.7.2-3_arm.deb,d50e573b8accd22afaac68f665808d3840b7bac9,VU#50

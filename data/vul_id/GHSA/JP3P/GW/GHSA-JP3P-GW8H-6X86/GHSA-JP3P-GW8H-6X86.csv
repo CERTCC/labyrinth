@@ -1,0 +1,6 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-JP3P-GW8H-6X86,0.01587302,https://github.com/S444-gold/30-days-of-Exploitation,S444-gold/30-days-of-Exploitation,661327458
+GHSA-JP3P-GW8H-6X86,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+GHSA-JP3P-GW8H-6X86,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-JP3P-GW8H-6X86,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-JP3P-GW8H-6X86,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

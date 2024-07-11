@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+537378369,Sunqiz/cve-2010-2553-reproduction,CVE-2010-2553.md,18467d2880a3fedae0f2ff7d038ac73cd6219ae6,CVE-2010-2553
+537378369,Sunqiz/cve-2010-2553-reproduction,CVE-2010-2553.md,18467d2880a3fedae0f2ff7d038ac73cd6219ae6,MS10-055
+537378369,Sunqiz/cve-2010-2553-reproduction,poc.py,3f047fdbc6290aecbd67779944525629cd47f215,CVE-2010-2553
+537378369,Sunqiz/cve-2010-2553-reproduction,poc.py,3f047fdbc6290aecbd67779944525629cd47f215,MS10-055
+537378369,Sunqiz/cve-2010-2553-reproduction,poc1.py,9b77371ec6156b6eb0a3784db42c3d3c56312b9c,CVE-2010-2553
+537378369,Sunqiz/cve-2010-2553-reproduction,poc1.py,9b77371ec6156b6eb0a3784db42c3d3c56312b9c,MS10-055
+537378369,Sunqiz/cve-2010-2553-reproduction,Windows-Media-Player-10.rar,e119681a8a1471ad83d3952d01dec3d83f92f3fa,VU#05
+537378369,Sunqiz/cve-2010-2553-reproduction,_GITHUB_REPO_METADATA_,,CVE-2010-2553

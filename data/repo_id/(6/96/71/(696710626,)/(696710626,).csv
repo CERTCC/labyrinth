@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/.idea/vcs.xml,1bed1df89ee709b9c34fca9d4decb71c28b47bb6,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/pom.xml,1c42a5d1e251a263573ed53f4a9b311f50bd8a04,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/.idea/jarRepositories.xml,45ed0bc52c719eadb3482c723cc5a2c89c702ec3,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/.idea/encodings.xml,4f0663a31ba8aa2a7581c3829591cbca1ecb8dc7,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/Exploit.java,7b8dc91e2e52d9bdb92b31143acc12852b9ef8c9,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/.idea/misc.xml,85e9cc506a4d2bddc1efd19c9118985d57cfce94,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/README.md,9e79ce9dbc4c53e407b81e3e7b720512f5de404a,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/.idea/dictionaries,b434f4594c6824a6e00e752f8667029bedcc37ef,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/src/main/java/log4j.java,be920ff3ec5fac9dccc4b51e03dcbd0faeaf926d,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/.idea/compiler.xml,e57281f18f340d8d1f4c10cc88bdb0bdfdaa7694,CVE-2021-44228
+696710626,jmadotgg/log4j,CVE-2021-44228-Apache-Log4j-Rce/.idea/jpa-buddy.xml,e8d78d2d8eeb9c30e8faa6a0615f889221f2b112,CVE-2021-44228

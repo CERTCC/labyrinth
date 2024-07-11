@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+630988412,daniloalbuqrque/poc-cve-xss-inventory-press-plugin,README.md,d57de961775c91080061d13b8d2974939c11c56f,CVE-2023-2579
+630988412,daniloalbuqrque/poc-cve-xss-inventory-press-plugin,_GITHUB_REPO_METADATA_,,CVE-2023-2579

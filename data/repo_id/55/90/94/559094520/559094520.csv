@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+559094520,savior-only/CVE-2022-22947,src/main/java/org/example/poc.java,89f6d6e697f6cce43da47d5b19017883582b38e0,VU#29
+559094520,savior-only/CVE-2022-22947,_GITHUB_REPO_METADATA_,,CVE-2022-22947

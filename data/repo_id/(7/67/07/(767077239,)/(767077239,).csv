@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+767077239,AdamSonov/smbGhostCVE-2020-0796,"AI's Supercharge for Automation Writing Tools That Do More, Faster, and Smarter.pdf",33522fc3f9773df8e224a75d9975a1724423731d,CVE-2020-0796
+767077239,AdamSonov/smbGhostCVE-2020-0796,"AI's Supercharge for Automation Writing Tools That Do More, Faster, and Smarter.pdf",33522fc3f9773df8e224a75d9975a1724423731d,MS17-010
+767077239,AdamSonov/smbGhostCVE-2020-0796,smbCVE-2020-0796.py,5c33aff4902e7493d4726b47a590a86f5e0bbf86,CVE-2020-0796
+767077239,AdamSonov/smbGhostCVE-2020-0796,_GITHUB_REPO_METADATA_,,CVE-2020-0796

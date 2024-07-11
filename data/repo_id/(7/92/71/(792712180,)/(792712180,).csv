@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+792712180,truonghuuphuc/CVE-2024-27956,README.md,49218cdf3c883a4ddcb4ec080eaf309ff96aa604,CVE-2024-27956
+792712180,truonghuuphuc/CVE-2024-27956,wp-automatic.zip,585607d9c68f293d3997968fb7e0dd178801f5b7,VU#66
+792712180,truonghuuphuc/CVE-2024-27956,_GITHUB_REPO_METADATA_,,CVE-2024-27956

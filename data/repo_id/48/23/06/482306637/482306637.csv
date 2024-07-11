@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+482306637,michalbednarski/OrganizerTransaction,README.md,8f05b55a4dbdd65127a1299f5c1de352fafc6975,CVE-2020-0001
+482306637,michalbednarski/OrganizerTransaction,README.md,8f05b55a4dbdd65127a1299f5c1de352fafc6975,CVE-2021-39749
+482306637,michalbednarski/OrganizerTransaction,_GITHUB_REPO_METADATA_,,CVE-2021-39749

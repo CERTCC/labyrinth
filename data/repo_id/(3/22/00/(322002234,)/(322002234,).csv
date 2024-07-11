@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+322002234,ARPSyndicate/xlocate,xlocate.py,645cb7edbb60c2c02bef16476484e24ce22de160,CVE-2020-1937
+322002234,ARPSyndicate/xlocate,xlocate.py,645cb7edbb60c2c02bef16476484e24ce22de160,CVE-2020-1938

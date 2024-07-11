@@ -1,3 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 247133464,nyxgeek/exploits,cve-2018-8474.ps1,2e11ad90dc765a7b38402a89283e9101d6fc1949,CVE-2018-8474
 247133464,nyxgeek/exploits,cve-2017-8550.ps1,665e81aa99fd41eded194705ff4cf498b59849eb,CVE-2017-8550
+247133464,nyxgeek/exploits,README.md,fde176a71b8c35771e04f31ad55186b965b29cd2,CVE-2017-8550
+247133464,nyxgeek/exploits,README.md,fde176a71b8c35771e04f31ad55186b965b29cd2,CVE-2018-8474
+247133464,nyxgeek/exploits,README.md,fde176a71b8c35771e04f31ad55186b965b29cd2,CVE-2020-5774

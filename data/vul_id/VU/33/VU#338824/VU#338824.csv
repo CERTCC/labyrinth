@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#338824,0.50000000,https://github.com/binaryfigments/CVE-2020-0674,binaryfigments/CVE-2020-0674,235790827
+VU#338824,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

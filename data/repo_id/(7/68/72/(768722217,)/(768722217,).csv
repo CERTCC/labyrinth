@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+768722217,isthofa-source/Janus-Exploit-Vulnerability-2024,11 RESEARCH/Janus-Vulnerability.md,9333abc371a4c337046cf4ea029f54adc96a68b5,CVE-2017-13156
+768722217,isthofa-source/Janus-Exploit-Vulnerability-2024,README.md,e544e080e9212c1d61651d940ba58c7ca64d36f6,CVE-2017-13156

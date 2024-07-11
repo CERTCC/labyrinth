@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+813649965,Answerzzzy/POC_EXP_Python_Vulnerability_scanning,CVE-2024-36104 Apache OFBiz路径遍历RCE漏洞/Apache_OFBiz.py,158a889f722c7c67837d2a972c050f3697972445,CVE-2024-36104
+813649965,Answerzzzy/POC_EXP_Python_Vulnerability_scanning,KubePi JwtSigKey 登陆绕过漏洞/KubePi JwtSigKey 登陆绕过漏洞CVE-2023-22463.txt,31c6322b4dd9f4f2c718a8b787c0435095bcc200,CVE-2023-22463
+813649965,Answerzzzy/POC_EXP_Python_Vulnerability_scanning,CVE-2023-28432 MinIO集群模式信息泄露漏洞/CVE-2023-28432 MinIO集群模式信息泄露漏洞复现.txt,96fa283652c9ddf897201bc5930e781eeeb73631,CNNVD-202303-1795
+813649965,Answerzzzy/POC_EXP_Python_Vulnerability_scanning,CVE-2023-28432 MinIO集群模式信息泄露漏洞/CVE-2023-28432 MinIO集群模式信息泄露漏洞复现.txt,96fa283652c9ddf897201bc5930e781eeeb73631,CVE-2023-28432
+813649965,Answerzzzy/POC_EXP_Python_Vulnerability_scanning,宏景HCM SQL注入漏洞复现 (CNVD-2023-08743)/HCM_SQL_inject.py,aefdb5205917117c561bb84cdaedb85d0b19f1d1,CNVD-2023-08743
+813649965,Answerzzzy/POC_EXP_Python_Vulnerability_scanning,CVE-2023-28432 MinIO集群模式信息泄露漏洞/POCCVE-2023-28432.py,cfef867376a6dfa91e4fb9b1f1e36fb144f17163,CVE-2023-28432

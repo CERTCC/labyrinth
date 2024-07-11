@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+771904991,levpachmanov/cve-2024-28088-poc,poc.py,13d875263c15620c323772a54a335608bc805f4e,CVE-2024-28088
+771904991,levpachmanov/cve-2024-28088-poc,_GITHUB_REPO_METADATA_,,CVE-2024-28088

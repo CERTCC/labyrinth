@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+501283166,sentrium-security/Follina-Workaround-CVE-2022-30190,FollinaMitigation.ps1,064e7107368f3af66d5378e248df19dd9488c52a,CVE-2022-30190
+501283166,sentrium-security/Follina-Workaround-CVE-2022-30190,FollinaKeyImport.ps1,8f0675625a5ad07c57325041d4d4375eb9f0bf3f,CVE-2022-30190
+501283166,sentrium-security/Follina-Workaround-CVE-2022-30190,README.md,e312bbfebd0d1b79e8666399b6f551e629204a64,CVE-2022-30190
+501283166,sentrium-security/Follina-Workaround-CVE-2022-30190,_GITHUB_REPO_METADATA_,,CVE-2022-30190

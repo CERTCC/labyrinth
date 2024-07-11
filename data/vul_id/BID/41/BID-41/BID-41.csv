@@ -1,5 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-41,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 BID-41,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_detection,196969345
-BID-41,0.00157978,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
+BID-41,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 BID-41,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+BID-41,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-41,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

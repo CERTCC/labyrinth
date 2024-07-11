@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+476597168,snicoll-scratches/spring-boot-cve-2022-22965,spring-boot-2.4-maven-custom-parent/pom.xml,0c395e0586f35b282a3ff6a0a8f4c924a52c285b,CVE-2022-22965
+476597168,snicoll-scratches/spring-boot-cve-2022-22965,spring-boot-2.4-maven/pom.xml,2f04ae4b362dc897e0421ef235070afb07c3fb73,CVE-2022-22965
+476597168,snicoll-scratches/spring-boot-cve-2022-22965,README.adoc,967ec8259c01403c09a87eff043a1151d9dd8f7a,CVE-2022-22965
+476597168,snicoll-scratches/spring-boot-cve-2022-22965,_GITHUB_REPO_METADATA_,,CVE-2022-22965

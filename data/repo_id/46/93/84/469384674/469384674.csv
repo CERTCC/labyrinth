@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+469384674,retr0-13/pwnjs_browser-exploit,examples/CVE-2017-8548.js,02d974b60c0dade103cd1aae1e3a91e5a9da60e8,CVE-2017-8548
+469384674,retr0-13/pwnjs_browser-exploit,examples/CVE-2017-11873.js,2ada47f0d18b995879cafc000d1431e28f077417,CVE-2017-11873
+469384674,retr0-13/pwnjs_browser-exploit,examples/CVE-2017-11893.js,5d046ca2f1e4bd98734a9eac103077e40eeb657f,CVE-2017-11893
+469384674,retr0-13/pwnjs_browser-exploit,examples/webkit.html,a85a4a4527088d99e86925370bb1decdd9cf7160,CVE-2017-2547
+469384674,retr0-13/pwnjs_browser-exploit,examples/CVE-2017-11802.js,ba3b48ec1ea0e6f2b22e721dc5d15be1c134da2b,CVE-2017-11802
+469384674,retr0-13/pwnjs_browser-exploit,examples/webkit-CVE-2017-2547.js,c3520993d577b0c1acb4cd1620a35f75f322e819,CVE-2017-2547
+469384674,retr0-13/pwnjs_browser-exploit,examples/chakra.html,c494b78bcfb9e16097a3b15d3ca5c7457684a3c2,CVE-2017-0071
+469384674,retr0-13/pwnjs_browser-exploit,examples/chakra.html,c494b78bcfb9e16097a3b15d3ca5c7457684a3c2,CVE-2017-0266
+469384674,retr0-13/pwnjs_browser-exploit,examples/chakra.html,c494b78bcfb9e16097a3b15d3ca5c7457684a3c2,CVE-2017-11802
+469384674,retr0-13/pwnjs_browser-exploit,examples/chakra.html,c494b78bcfb9e16097a3b15d3ca5c7457684a3c2,CVE-2017-11873
+469384674,retr0-13/pwnjs_browser-exploit,examples/chakra.html,c494b78bcfb9e16097a3b15d3ca5c7457684a3c2,CVE-2017-8548
+469384674,retr0-13/pwnjs_browser-exploit,examples/CVE-2017-0266.js,ee40369827b1c7d54e4401fb5144c4af2ec5bf3c,CVE-2017-0266
+469384674,retr0-13/pwnjs_browser-exploit,examples/CVE-2017-0071.js,f65fdfa20566a96687ce7acac7341452f4b2a255,CVE-2017-0071

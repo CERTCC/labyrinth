@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+507917141,Daniil547/js-executor-rest,external-res/keycloak-docker/sql/kc_data.sql,24dd1c5cc110eb2ff5469f1ade857ceabb973497,VU#20
+507917141,Daniil547/js-executor-rest,deps-vulns-supressions.xml,55ded0bf1166e0c7bf268aa4a122bc25aa85329a,CVE-2016-1000027

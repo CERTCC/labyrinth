@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-7PRV-G565-82QP,0.50000000,https://github.com/h4m5t/CVE-2023-42820,h4m5t/CVE-2023-42820,697887359
+GHSA-7PRV-G565-82QP,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
+GHSA-7PRV-G565-82QP,0.00184843,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168

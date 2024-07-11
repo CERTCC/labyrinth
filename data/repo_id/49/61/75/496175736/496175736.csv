@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+496175736,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219,res/raw/system_nav_fully_gestural.mp4,b46f1a42ced24baca74534b2c591fb9dc669ee99,VU#51
+496175736,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219,tests/unit/src/com/android/settings/wifi/tether/TetherServiceTest.java,d38c4dea10246b01e9bad5af05f6f32e3f0cef87,BID-1
+496175736,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219,_GITHUB_REPO_METADATA_,,CVE-2020-0188

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+813577813,CharonDefalt/2024-CVE-Critical,CVE-2024-29849-veembackup.zip,835aad709d9dfde3559989be852fc7b7ed4cf3b0,CVE-2024-29849
+813577813,CharonDefalt/2024-CVE-Critical,CVE-2024-4358-TeleRik.zip,d4a31100ea6e83b95da22e8ef62191a5fdfae650,CVE-2024-4358

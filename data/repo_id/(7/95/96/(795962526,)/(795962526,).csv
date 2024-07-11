@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+795962526,truonghuuphuc/CVE-2024-30491-Poc,README.md,2e93b6eac7021afbebd613a25f33945f0c3e4003,CVE-2024-30491
+795962526,truonghuuphuc/CVE-2024-30491-Poc,profilegrid-user-profiles-groups-and-communities.5.7.8.zip,691033ff976d4f2525ae7b342e7ca7b7958edc83,VU#33
+795962526,truonghuuphuc/CVE-2024-30491-Poc,profilegrid-user-profiles-groups-and-communities.5.7.8.zip,691033ff976d4f2525ae7b342e7ca7b7958edc83,VU#37
+795962526,truonghuuphuc/CVE-2024-30491-Poc,profilegrid-user-profiles-groups-and-communities.5.7.8.zip,691033ff976d4f2525ae7b342e7ca7b7958edc83,VU#53
+795962526,truonghuuphuc/CVE-2024-30491-Poc,profilegrid-user-profiles-groups-and-communities.5.7.8.zip,691033ff976d4f2525ae7b342e7ca7b7958edc83,VU#97
+795962526,truonghuuphuc/CVE-2024-30491-Poc,profilegrid-user-profiles-groups-and-communities.5.7.9.zip,e042db55d61c2e2896b86051d081be74a4f0de06,VU#33
+795962526,truonghuuphuc/CVE-2024-30491-Poc,profilegrid-user-profiles-groups-and-communities.5.7.9.zip,e042db55d61c2e2896b86051d081be74a4f0de06,VU#37
+795962526,truonghuuphuc/CVE-2024-30491-Poc,profilegrid-user-profiles-groups-and-communities.5.7.9.zip,e042db55d61c2e2896b86051d081be74a4f0de06,VU#53
+795962526,truonghuuphuc/CVE-2024-30491-Poc,profilegrid-user-profiles-groups-and-communities.5.7.9.zip,e042db55d61c2e2896b86051d081be74a4f0de06,VU#97
+795962526,truonghuuphuc/CVE-2024-30491-Poc,_GITHUB_REPO_METADATA_,,CVE-2024-30491

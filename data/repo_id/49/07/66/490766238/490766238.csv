@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+490766238,Pa4ok/SerializeExploitMod,work/marshalsec-0.0.1-SNAPSHOT-all.jar,65e464348bf497af963988c16a9c2776f05548a6,VU#03
+490766238,Pa4ok/SerializeExploitMod,work/marshalsec-0.0.1-SNAPSHOT-all.jar,65e464348bf497af963988c16a9c2776f05548a6,VU#23
+490766238,Pa4ok/SerializeExploitMod,work/marshalsec-0.0.1-SNAPSHOT-all.jar,65e464348bf497af963988c16a9c2776f05548a6,VU#68
+490766238,Pa4ok/SerializeExploitMod,work/marshalsec-0.0.1-SNAPSHOT-all.jar,65e464348bf497af963988c16a9c2776f05548a6,VU#80
+490766238,Pa4ok/SerializeExploitMod,work/marshalsec-0.0.1-SNAPSHOT-all.jar,65e464348bf497af963988c16a9c2776f05548a6,VU#83
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#03
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#26
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#35
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#37
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#38
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#39
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#45
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#56
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#76
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#83
+490766238,Pa4ok/SerializeExploitMod,work/ysoserial-0.0.6-SNAPSHOT-all.jar,ed6a6deadbfece293c5443b51d72e527ed369800,VU#95

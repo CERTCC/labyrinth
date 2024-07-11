@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+495308692,korestreet/https-nj.gov---CVE-2019-8331,README.md,589fb3af12a4d925b66b254394bc3e0d4898094a,BID-107375
+495308692,korestreet/https-nj.gov---CVE-2019-8331,README.md,589fb3af12a4d925b66b254394bc3e0d4898094a,CVE-2019-8331
+495308692,korestreet/https-nj.gov---CVE-2019-8331,README.md,589fb3af12a4d925b66b254394bc3e0d4898094a,GHSA-9V3M-8FP8-MJ99
+495308692,korestreet/https-nj.gov---CVE-2019-8331,_GITHUB_REPO_METADATA_,,CVE-2019-8331

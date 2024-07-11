@@ -6,3 +6,4 @@ repo_id,repo_full_name,file,file_sha1,match
 387911288,xinerva/exploits,alfav41.php,70d61d193540e950c242d683530ea8a63e5b604c,VU#73
 387911288,xinerva/exploits,alfav41.php,70d61d193540e950c242d683530ea8a63e5b604c,VU#897
 387911288,xinerva/exploits,alfav41.php,70d61d193540e950c242d683530ea8a63e5b604c,VU#94
+387911288,xinerva/exploits,termorek.php,96ac2f807dfe12ec489610fb0f1fc16d741c74d0,VU#04

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+476996646,dotnes/spring4shell,CVE-2022-22965.yaml,87c69caacf06fba18459f0f80f30416bdd59a9e6,CVE-2022-22965
+476996646,dotnes/spring4shell,README.md,d19cc96b7927c410434ac70edaa316b9067f4b7b,CVE-2022-22963
+476996646,dotnes/spring4shell,README.md,d19cc96b7927c410434ac70edaa316b9067f4b7b,CVE-2022-22965
+476996646,dotnes/spring4shell,spring4shell-spring-mvc/src/main/java/com/example/spring4shell/controller/HelloWorldController.java,fedad596442006890246dcf041059c218bdeff87,CVE-2022-22965

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+503628259,VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer,README.md,692d741f2efc8c9da86affaa3e40278a75394e53,CVE-2019-6447
+503628259,VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer,ES File Explorer File Manager_v4.1.9.7.4_apkpure.com.apk,b558a232b770be2b72d86a4e3d42c0b18f169c18,VU#34
+503628259,VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer,ES File Explorer File Manager_v4.1.9.7.4_apkpure.com.apk,b558a232b770be2b72d86a4e3d42c0b18f169c18,VU#66
+503628259,VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer,_GITHUB_REPO_METADATA_,,CVE-2019-6447

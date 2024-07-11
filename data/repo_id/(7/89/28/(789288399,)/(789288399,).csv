@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+789288399,buluma/ansible-role-cve_2024_3094,meta/argument_specs.yml,1227b8b9cd514949ecf0eba3c39628c6630a942c,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,SECURITY.md,16bdeb5f9ae4e28abfee5aff4132ab7b865a25f1,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,vars/main.yml,198cf278336d6bff90d3371224d453e3c1ec3fb1,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,README.md,32a69750fe95fa491f9701396a7a8bc3fd86feaa,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,.github/settings.yml,59a955891e733c90e1a5fe21bd60fb66ff595cc5,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,handlers/main.yml,5b0cf66376ba1c70dfdb42e0621aa63f1920628c,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,CHANGELOG.md,787bb12c9c26e4790867be325a70ef8384e03f55,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,tasks/main.yml,a0825f0bd596bf5a451de173539260d0bc48863e,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,CONTRIBUTING.md,a787dd4ce1be5e6f17fc8a07a9a04c0d2ca16ebe,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,defaults/main.yml,b0989241547638cfe2ec127731946d66596fe313,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,meta/main.yml,ce6da9cc6cd5491dbaac0a90f97d3294bee9d5bf,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,tasks/assert.yml,d3e5a7fe72a940d6e25c6dafdeca23d5dba579d1,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,molecule/default/converge.yml,ff692ce6a65c1394d24f01f3a8a19dd788b7037c,CVE-2024-3094
+789288399,buluma/ansible-role-cve_2024_3094,_GITHUB_REPO_METADATA_,,CVE-2024-3094

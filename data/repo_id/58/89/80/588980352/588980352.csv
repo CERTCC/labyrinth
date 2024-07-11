@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+588980352,pwneddr/Sonic_CVE-2022-22274_poc,README.md,85f8238b4be03f2881a44af3f16995e674bf1e8b,CVE-2022-22274
+588980352,pwneddr/Sonic_CVE-2022-22274_poc,_GITHUB_REPO_METADATA_,,CVE-2022-22274

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+487055738,Swammers8/SubrionCMS-4.2.1-File-upload-RCE-auth-,exploit.py,0bf90d08a8d55783b9cdf24a8a02f686a16af59f,CVE-2018-19422
+487055738,Swammers8/SubrionCMS-4.2.1-File-upload-RCE-auth-,README.md,cffc77946460f02ceed5c3f020ed3d23565c7fd5,CVE-2018-19422
+487055738,Swammers8/SubrionCMS-4.2.1-File-upload-RCE-auth-,_GITHUB_REPO_METADATA_,,CVE-2018-19422

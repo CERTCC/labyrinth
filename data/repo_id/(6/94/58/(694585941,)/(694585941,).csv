@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+694585941,eackkk/linux_exploit,netfilter/CVE-2023-42753/poc.c,023a4b6a1ac66815d6183fae347fb61524aa4dd8,CVE-2023-42753
+694585941,eackkk/linux_exploit,netfilter/CVE-2022-32250/readme.md,30b909b701ab9086adc5e4c9ad91695d9579053b,CVE-2022-32250
+694585941,eackkk/linux_exploit,netfilter/CVE-2022-34918/readme.md,3a86d4edffb9599f76d00054601cf7541f99248a,CVE-2022-34918
+694585941,eackkk/linux_exploit,netfilter/CVE-2023-32233/readme.md,53a4b4230b4162e543180d1902a148ddf778e583,CVE-2023-32233
+694585941,eackkk/linux_exploit,netfilter/CVE-2023-42753/readme.md,98bd0aca3e10307fde6c9dcf9b52217d26c88d58,CVE-2023-42753
+694585941,eackkk/linux_exploit,netfilter/CVE-2022-1015/readme.md,98fe3c4d97a64cf0bafb20e5019fa79a0dccfe80,CVE-2022-1015
+694585941,eackkk/linux_exploit,netfilter/CVE-2021-22555/readme.md,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2021-22555
+694585941,eackkk/linux_exploit,netfilter/CVE-2022-25636/readme.md,d2328b76fab9c4cba1645cf56d4f976d6fcce8a0,CVE-2022-25636
+694585941,eackkk/linux_exploit,netfilter/CVE-2023-31248/readme.md,ebeb2258bf3154be2e179bc826b4a14d5d36bd59,CVE-2023-31248

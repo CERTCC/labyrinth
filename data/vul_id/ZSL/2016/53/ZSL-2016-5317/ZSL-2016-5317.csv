@@ -1,10 +1,12 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2016-5317,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 ZSL-2016-5317,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
-ZSL-2016-5317,0.00118765,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2016-5317,0.00102881,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2016-5317,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 ZSL-2016-5317,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZSL-2016-5317,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 ZSL-2016-5317,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 ZSL-2016-5317,0.00002386,https://github.com/kreattang/Collecting_CNVD_Dataset,kreattang/Collecting_CNVD_Dataset,188338231
 ZSL-2016-5317,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
+ZSL-2016-5317,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+ZSL-2016-5317,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

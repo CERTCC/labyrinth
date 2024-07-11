@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+780056999,T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read,README.md,365710b35920f267d700ffd1520978c84ee15791,CVE-2024-28247
+780056999,T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read,_GITHUB_REPO_METADATA_,,CVE-2024-28247

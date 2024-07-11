@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+496439468,RoseSecurity/APOLOGEE,siemens_field_panel_scanner.py,3a24d3d90536bc29d93beb0c235173eaf21873b0,CVE-2017-9946
+496439468,RoseSecurity/APOLOGEE,README.md,a63296453f4cddcb76484b2d5fd5ac8161b10585,CVE-2017-9947

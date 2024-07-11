@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+513739336,Shehzadcyber/log4j-Exploit,README.md,31093e9fa58abf7be921e0abde71a31944e5770c,CVE-2021-44228
+513739336,Shehzadcyber/log4j-Exploit,poc.py,998e4d217cbcddef2e2ee7d54e04412246b8932e,CVE-2021-44228

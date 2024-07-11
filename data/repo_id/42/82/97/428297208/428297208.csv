@@ -7,6 +7,7 @@ repo_id,repo_full_name,file,file_sha1,match
 428297208,alexplaygithub/Charasploit-Update-Database,CharasploitXP.zip,2195c77c49eefcc668d7be372e18977582cf737f,VU#46
 428297208,alexplaygithub/Charasploit-Update-Database,Charasploit6.1.zip,5288f76a5ddc28edc6a29c36c4c7818e13096a46,VU#46
 428297208,alexplaygithub/Charasploit-Update-Database,Charasploit6.1.zip,5288f76a5ddc28edc6a29c36c4c7818e13096a46,VU#62
+428297208,alexplaygithub/Charasploit-Update-Database,Charasploit V6.5 Beta.zip,5a9a801202a0c022458daa2d90ca33f380633b9e,VU#62
 428297208,alexplaygithub/Charasploit-Update-Database,9944.exe,9ff1f0610a4394bdd180a1a0a77de31e55863f27,VU#64
 428297208,alexplaygithub/Charasploit-Update-Database,9944.exe,9ff1f0610a4394bdd180a1a0a77de31e55863f27,VU#86
 428297208,alexplaygithub/Charasploit-Update-Database,9944.exe,9ff1f0610a4394bdd180a1a0a77de31e55863f27,VU#96
@@ -16,6 +17,7 @@ repo_id,repo_full_name,file,file_sha1,match
 428297208,alexplaygithub/Charasploit-Update-Database,9944.exe,9ff1f0610a4394bdd180a1a0a77de31e55863f27,VU#41
 428297208,alexplaygithub/Charasploit-Update-Database,Latest verison (Build 9933).exe,ad3bfb079230b7ea0b2e9df151d0a490b1c200b5,VU#57
 428297208,alexplaygithub/Charasploit-Update-Database,Latest verison (Build 9933).exe,ad3bfb079230b7ea0b2e9df151d0a490b1c200b5,VU#06
+428297208,alexplaygithub/Charasploit-Update-Database,Charasploit Installer.exe,b59ccb92ab6b123c8b2d5e36c63cfdbc9b937edf,VU#20
 428297208,alexplaygithub/Charasploit-Update-Database,Debug.rar,c0dd6afb4d633f5b3161e1c6345e8c237bf04b69,VU#57
 428297208,alexplaygithub/Charasploit-Update-Database,Debug.rar,c0dd6afb4d633f5b3161e1c6345e8c237bf04b69,VU#06
 428297208,alexplaygithub/Charasploit-Update-Database,3.5 SHEESH.zip,c15b0d14b90dd6498dbc71d838f92aff6a37853b,VU#26

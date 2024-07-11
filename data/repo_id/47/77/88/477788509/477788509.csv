@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+477788509,twseptian/cve-2022-22965,README.md,1beb1858ba514e23feb39699a30659c50d161761,CVE-2022-22965
+477788509,twseptian/cve-2022-22965,app/spring-form.war,8445e8fb48af282225c0552861ae69a8ff8bfe14,VU#45
+477788509,twseptian/cve-2022-22965,_GITHUB_REPO_METADATA_,,CVE-2022-22965

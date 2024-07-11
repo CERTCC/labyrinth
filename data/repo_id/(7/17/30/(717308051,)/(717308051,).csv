@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+717308051,MOffSec/OpenSSH_4.7p1-Exploit,openssh_4.7p1.py,3a0ab324a3978fcf57e11a24a7e52cd1ca8c128d,CVE-2008-5161
+717308051,MOffSec/OpenSSH_4.7p1-Exploit,README.md,417ee37c419e0042fa1e968d5f31e52e1bc77c9d,CVE-2008-5161

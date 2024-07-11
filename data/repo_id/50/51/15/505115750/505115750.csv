@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+505115750,kacperstyslo/exploit-finder,expliot_finder/scraper/executor.py,3eab42cc9e6195a182ce2cbbf51a46e3a03842be,CVE-2002-1646
+505115750,kacperstyslo/exploit-finder,expliot_finder/scraper/core/cve_scrapper.py,c6219588e18a2876e3f8dc51365e63e29ed2a518,CVE-2002-1646

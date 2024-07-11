@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+472548304,Enokiy/cve-2022-22947-spring-cloud-gateway,pom.xml,3c98830a63d929e500e3429322686479702496ae,CVE-2022-22947
+472548304,Enokiy/cve-2022-22947-spring-cloud-gateway,README.md,85802b5d860f1f222a3262e918c1ad778f5491b8,CVE-2022-22947
+472548304,Enokiy/cve-2022-22947-spring-cloud-gateway,22947.burp,91e98a7b985bd92a5270c2c2f1aa2f216e251b41,VU#29
+472548304,Enokiy/cve-2022-22947-spring-cloud-gateway,images/NettyMemShell.txt,cf6e8172cacbb46d7910b9fd53cd093137272434,VU#29
+472548304,Enokiy/cve-2022-22947-spring-cloud-gateway,src/test/java/com/github/enokiy/springcloudgatewaydemo/TestDemo.java,eaca407f0b8e2ff6c96c4e54821d9bdc9974d1f7,CVE-2022-22947
+472548304,Enokiy/cve-2022-22947-spring-cloud-gateway,_GITHUB_REPO_METADATA_,,CVE-2022-22947

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+788614854,JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution,IRC_BackDoorCommandExecution.py,923fb5fa79862103a0528c2c9779529dcbe70cd6,CVE-2010-2075
+788614854,JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution,README.md,bd30de5c2c30b98fa4bae2997fdeedbf69f7b2fb,CVE-2010-2075
+788614854,JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution,_GITHUB_REPO_METADATA_,,CVE-2010-2075

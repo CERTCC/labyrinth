@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+503471159,vidrez/log4j-rce-poc,README.md,2f85c5047fb79ac0efbc245e34b44591d0bd3f95,CVE-2021-44228
+503471159,vidrez/log4j-rce-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+503471159,vidrez/log4j-rce-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+503471159,vidrez/log4j-rce-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+503471159,vidrez/log4j-rce-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+503471159,vidrez/log4j-rce-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+503471159,vidrez/log4j-rce-poc,poc.py,a1ecf078a65a192a8f1b4706c2453008a0332cd9,CVE-2021-44228

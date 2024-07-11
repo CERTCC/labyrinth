@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+481573619,k3rwin/spring-cloud-function-rce,README.md,482b44ef62991ab399a213f0a5b917d5288d75f0,CVE-2022-22963
+481573619,k3rwin/spring-cloud-function-rce,function/__pycache__/banner.cpython-38.pyc,5dc591ed4990b77a3bbccdb25946e24e112a24fc,CVE-2022-22963
+481573619,k3rwin/spring-cloud-function-rce,function/banner.py,78163ac645838c28b9e3dbf1b333d0e7ce35b11b,CVE-2022-22963
+481573619,k3rwin/spring-cloud-function-rce,function/__pycache__/banner.cpython-39.pyc,e0ebf6b668919046d77ca8cabbd3ebcc349f473c,CVE-2022-22963
+481573619,k3rwin/spring-cloud-function-rce,_GITHUB_REPO_METADATA_,,CVE-2022-22963

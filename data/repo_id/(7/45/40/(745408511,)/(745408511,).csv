@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+745408511,tamaloa/avo-CVE-2024-22411,config/cable.yml,2c3ed0d104ff3b61797ff1e43c28b88e5f1285a2,CVE-2024-22411
+745408511,tamaloa/avo-CVE-2024-22411,config/environments/production.rb,c8b3becfedd171784333f9650875d03dbfcecc19,CVE-2024-22411
+745408511,tamaloa/avo-CVE-2024-22411,_GITHUB_REPO_METADATA_,,CVE-2024-22411

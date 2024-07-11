@@ -1,4 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-440216413,julian911015/Log4j-Scanner-Exploit,Log4j - Scanner.sh,7765b701909bcb2be320f5e708da034a6c098ff3,CVE-2021-44228
-440216413,julian911015/Log4j-Scanner-Exploit,README.md,c8759a3ab854d43630cdfe21450a5e254e75a036,CVE-2021-44228
 440216413,julian911015/Log4j-Scanner-Exploit,_GITHUB_REPO_METADATA_,,CVE-2021-44228

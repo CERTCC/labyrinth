@@ -1,0 +1,30 @@
+repo_id,repo_full_name,file,file_sha1,match
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/PDF-detection/pdfid.py,0b03951cd4bc297e7d3e6e4a41be8e242626a068,CVE-2009-3459
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#37
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#88
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#87
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#86
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#85
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#63
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#60
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#55
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#54
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#53
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#52
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#47
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#895
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#914
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#280
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#26
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#18
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#13
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#12
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#08
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#005
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#001
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Email-Spam-Detection/email-spam-detection-train.ipynb,7994a944d74222a05a7539697662b57ac13895ea,VU#31
+814192763,rachidoutaleb/Extension-for-CyberSecurity,all safe/python_server/Malware-detection/data.csv,99468b19eb697af7cacdff3f962ba3662d3f2db9,VU#450
+814192763,rachidoutaleb/Extension-for-CyberSecurity,scan-to-exploit/PROMPT.txt,dac8c32f277b12b19e9dd45580db4625b397161c,CVE-2020-1234
+814192763,rachidoutaleb/Extension-for-CyberSecurity,scan-to-exploit/PROMPT.txt,dac8c32f277b12b19e9dd45580db4625b397161c,CVE-2019-0211
+814192763,rachidoutaleb/Extension-for-CyberSecurity,scan-to-exploit/PROMPT.txt,dac8c32f277b12b19e9dd45580db4625b397161c,CVE-2018-15473
+814192763,rachidoutaleb/Extension-for-CyberSecurity,scan-to-exploit/PROMPT.txt,dac8c32f277b12b19e9dd45580db4625b397161c,BID-104128

@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+457413438,ishan-saha/LOG4SHELL,marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+457413438,ishan-saha/LOG4SHELL,marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+457413438,ishan-saha/LOG4SHELL,marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+457413438,ishan-saha/LOG4SHELL,marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+457413438,ishan-saha/LOG4SHELL,marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+457413438,ishan-saha/LOG4SHELL,main.py,614f6cfd2c8a745e6c654515d097bd02e1df42d3,CVE-2021-44228

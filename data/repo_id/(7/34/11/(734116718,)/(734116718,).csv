@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+734116718,Sic4rio/-Sendmail-with-clamav-milter-0.91.2---Remote-Command-Execution,README.md,8915531faad2a497d82aee7cf5ea375ae827a0db,BID-25439
+734116718,Sic4rio/-Sendmail-with-clamav-milter-0.91.2---Remote-Command-Execution,README.md,8915531faad2a497d82aee7cf5ea375ae827a0db,CVE-2007-4560
+734116718,Sic4rio/-Sendmail-with-clamav-milter-0.91.2---Remote-Command-Execution,README.md,8915531faad2a497d82aee7cf5ea375ae827a0db,OSVDB-36909

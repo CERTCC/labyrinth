@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+591675404,tijme/amd-ryzen-master-driver-v17-exploit,README.md,eb35f6e96549b5144c954b9ae716d8b186610a95,CVE-2020-12928

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+466986315,j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE,CVE-2022-22947.py,8234df299d66b2e19946ee51a451e78f5f4a53b8,CVE-2022-22947
+466986315,j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE,README.md,92806f63cde37a95be2d93a1dad1d5a28064c34d,CVE-2022-22947
+466986315,j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE,_GITHUB_REPO_METADATA_,,CVE-2022-22947

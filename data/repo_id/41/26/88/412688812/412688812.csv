@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+412688812,oscargilg1/CVEs,README.md,0c83a199320e7419566ecb78b233d4f219ceb8fb,CVE-2021-42220
+412688812,oscargilg1/CVEs,README.md,0c83a199320e7419566ecb78b233d4f219ceb8fb,CVE-2021-42940
+412688812,oscargilg1/CVEs,dolibarr 14 XSS to Privilege Escalation/poc.mp4,83c4414eeb79bced6563c1cd3b3e8f2e3ef8fc18,VU#64
+412688812,oscargilg1/CVEs,dolibarr 14 XSS to Privilege Escalation/poc.mp4,83c4414eeb79bced6563c1cd3b3e8f2e3ef8fc18,VU#73

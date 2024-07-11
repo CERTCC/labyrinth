@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+575479418,xelemental/Threat-Wild-YARA,Exploits/CVE-2022-41120_v1.yar,03500f7304a821beeb0a9d24d5ea1dbfa39285ad,CVE-2022-41120
+575479418,xelemental/Threat-Wild-YARA,Exploits/CVE-2022-41120_v2.yar,e95ec55677626188c91ae5105c548f14e2b750b3,CVE-2022-41120

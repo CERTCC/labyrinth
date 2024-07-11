@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+469331651,k3rwin/spring-cloud-gateway-rce,spring-cloud-gateway-rce.py,cd2769c8710fe94dbc0e2f52ebaeff45a2839a22,CVE-2022-22947
+469331651,k3rwin/spring-cloud-gateway-rce,README.md,dd5512aecee3b2d30798d7af007ec937423c7302,CVE-2022-22947
+469331651,k3rwin/spring-cloud-gateway-rce,_GITHUB_REPO_METADATA_,,CVE-2022-22947

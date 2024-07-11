@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+442421872,pjlantz/findings,opendmarc.md,15a4576f99186ace4899380eb8b4eec66a9f9344,CVE-2020-12460
+442421872,pjlantz/findings,cherokee.md,54d8578d1221fdd0571735cecccc1092f7a582bc,CVE-2020-12845
+442421872,pjlantz/findings,WDR4300.py,620bf8cb20477018f2ca22fe362b2d90f87f4c39,CVE-2017-13772
+442421872,pjlantz/findings,navi.md,6654cc311448f7f424f4cb868d37c3e7d693f89b,CVE-2020-13111
+442421872,pjlantz/findings,ArcherA7.md,6fb13cb0f2905ecdff3f4ab619ba110775bd7341,CVE-2020-10882
+442421872,pjlantz/findings,helpdesk.md,a16a2db479efecfdbd0605dcc25a58b4d10ec20a,CVE-2021-33351
+442421872,pjlantz/findings,helpdesk.md,a16a2db479efecfdbd0605dcc25a58b4d10ec20a,CVE-2021-33352
+442421872,pjlantz/findings,helpdesk.md,a16a2db479efecfdbd0605dcc25a58b4d10ec20a,CVE-2021-33353
+442421872,pjlantz/findings,modoboa.md,ab53031c4c80bca83acac6374b2bdbf0a3e28d5d,CVE-2019-19702
+442421872,pjlantz/findings,roxy.md,ccbf4bc8292fd404b101b7b05987f0310653eab5,CVE-2019-19731
+442421872,pjlantz/findings,libupnp.md,db7e83f75b4907f31c772b5aff313c8706c4b6e7,CVE-2020-13848

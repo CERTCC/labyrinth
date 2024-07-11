@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+531085944,r-ahmed2022/Weather-App,node_modules/source-map/dist/source-map.debug.js,a6bfe62f20aae6db6d91a21cd26493ec318050d4,VU#29
+531085944,r-ahmed2022/Weather-App,node_modules/source-map/dist/source-map.debug.js,a6bfe62f20aae6db6d91a21cd26493ec318050d4,VU#291
+531085944,r-ahmed2022/Weather-App,node_modules/websocket-extensions/CHANGELOG.md,b208be42d3dde52c2bede3eb60edcb1e3e04387c,CVE-2020-7662
+531085944,r-ahmed2022/Weather-App,node_modules/selfsigned/README.md,c4c6afc86efe8f4dd1ba8b3fe03612f8410ae9d0,VU#96
+531085944,r-ahmed2022/Weather-App,node_modules/@types/node/tls.d.ts,d6cb6e64c3e36e6798d3cccfbaa2b991f1dcb9a1,CVE-2021-44531
+531085944,r-ahmed2022/Weather-App,node_modules/node-forge/CHANGELOG.md,e56438e6ee1e860692070cafbbe2a4f6df9ed8d0,CVE-2020-7720
+531085944,r-ahmed2022/Weather-App,node_modules/node-forge/CHANGELOG.md,e56438e6ee1e860692070cafbbe2a4f6df9ed8d0,CVE-2022-24771
+531085944,r-ahmed2022/Weather-App,node_modules/node-forge/CHANGELOG.md,e56438e6ee1e860692070cafbbe2a4f6df9ed8d0,CVE-2022-24772
+531085944,r-ahmed2022/Weather-App,node_modules/node-forge/CHANGELOG.md,e56438e6ee1e860692070cafbbe2a4f6df9ed8d0,CVE-2022-24773
+531085944,r-ahmed2022/Weather-App,node_modules/node-forge/CHANGELOG.md,e56438e6ee1e860692070cafbbe2a4f6df9ed8d0,GHSA-2R2C-G63R-VCCR
+531085944,r-ahmed2022/Weather-App,node_modules/node-forge/CHANGELOG.md,e56438e6ee1e860692070cafbbe2a4f6df9ed8d0,GHSA-CFM4-QJH2-4765
+531085944,r-ahmed2022/Weather-App,node_modules/node-forge/CHANGELOG.md,e56438e6ee1e860692070cafbbe2a4f6df9ed8d0,GHSA-X4JG-MJRX-434G

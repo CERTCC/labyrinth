@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+702704845,mascencerro/axis-rce,README.md,59c2616858492256efacb594de0fbad9afb6bd12,CVE-2018-10660
+702704845,mascencerro/axis-rce,README.md,59c2616858492256efacb594de0fbad9afb6bd12,CVE-2018-10661
+702704845,mascencerro/axis-rce,README.md,59c2616858492256efacb594de0fbad9afb6bd12,CVE-2018-10662
+702704845,mascencerro/axis-rce,poc.py,b9f20999bed4102581c9e9104f4e154fc0674426,CVE-2018-10660
+702704845,mascencerro/axis-rce,poc.py,b9f20999bed4102581c9e9104f4e154fc0674426,CVE-2018-10661
+702704845,mascencerro/axis-rce,poc.py,b9f20999bed4102581c9e9104f4e154fc0674426,CVE-2018-10662
+702704845,mascencerro/axis-rce,srv/mipsel-bin/ligolo-mipsel,d21e35393e21c460d9ffad46cd54ac967d637a85,VU#78

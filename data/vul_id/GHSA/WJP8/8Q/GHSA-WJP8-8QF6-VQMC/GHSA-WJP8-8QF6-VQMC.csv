@@ -1,0 +1,10 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-WJP8-8QF6-VQMC,0.33333333,https://github.com/Live-Hack-CVE/CVE-2017-10617,Live-Hack-CVE/CVE-2017-10617,588763319
+GHSA-WJP8-8QF6-VQMC,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
+GHSA-WJP8-8QF6-VQMC,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
+GHSA-WJP8-8QF6-VQMC,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
+GHSA-WJP8-8QF6-VQMC,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+GHSA-WJP8-8QF6-VQMC,0.00000929,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+GHSA-WJP8-8QF6-VQMC,0.00000928,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-WJP8-8QF6-VQMC,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-WJP8-8QF6-VQMC,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

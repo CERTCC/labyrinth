@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+551101986,naumanshah03/apache-commons-text-rce,src/main/java/org/nauman/Main.java,036377cd58b4ec3a245dd28bba1993a54fbb9a16,CVE-2022-42889

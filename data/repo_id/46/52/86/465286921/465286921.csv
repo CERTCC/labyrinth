@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+465286921,lucksec/Spring-Cloud-Gateway-CVE-2022-22947,README.md,26c33f72f4d554985d55258c1e1d51b77b7aa19c,CVE-2022-22947
+465286921,lucksec/Spring-Cloud-Gateway-CVE-2022-22947,Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947）.md,2f0e9973a024b29fd2d2eae9637219fe587cf25a,CVE-2022-22947
+465286921,lucksec/Spring-Cloud-Gateway-CVE-2022-22947,_GITHUB_REPO_METADATA_,,CVE-2022-22947

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+740067240,netuseradministrator/CVE-2023-28432,README.md,a3494b673a565ea61a82f0cf3cd12de0119a6c64,CVE-2023-28432
+740067240,netuseradministrator/CVE-2023-28432,main.go,bd28ccba5b918c9d1df0a0f4bec455a707d02203,CVE-2023-28432
+740067240,netuseradministrator/CVE-2023-28432,_GITHUB_REPO_METADATA_,,CVE-2023-28432

@@ -1,0 +1,10 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#96873821,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22373,Live-Hack-CVE/CVE-2023-22373,591202929
+VU#96873821,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22339,Live-Hack-CVE/CVE-2023-22339,591202907
+VU#96873821,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22334,Live-Hack-CVE/CVE-2023-22334,591202896
+VU#96873821,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22331,Live-Hack-CVE/CVE-2023-22331,591202872
+VU#96873821,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-44456,Live-Hack-CVE/CVE-2022-44456,582615854
+VU#96873821,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-44456,Live-Hack-CVE/CVE-2022-44456,581303084
+VU#96873821,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#96873821,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#96873821,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

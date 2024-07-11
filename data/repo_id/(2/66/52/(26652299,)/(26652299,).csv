@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+26652299,tyranid/ExploitRemotingService,README.md,97423f1daddb81bb70ea3725a42f9a3a1bc46640,CVE-2014-1806
+26652299,tyranid/ExploitRemotingService,README.md,97423f1daddb81bb70ea3725a42f9a3a1bc46640,CVE-2014-4149

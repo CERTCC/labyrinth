@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+789035235,karanlvm/DirtyPipe-Exploit,README.md,0d944bf240d32113cc93107a33649525533eec41,CVE-2016-5195
+789035235,karanlvm/DirtyPipe-Exploit,README.md,0d944bf240d32113cc93107a33649525533eec41,CVE-2022-0487
+789035235,karanlvm/DirtyPipe-Exploit,README.md,0d944bf240d32113cc93107a33649525533eec41,CVE-2022-0847
+789035235,karanlvm/DirtyPipe-Exploit,exp.c,8f37ef477a383ffbaa0443cb21bc599780e312ec,CVE-2022-0847

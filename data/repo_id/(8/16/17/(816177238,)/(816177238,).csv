@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+816177238,hideckies/shcldr,shellcode/include/core/nt.hpp,dd20181a9194a8832720bf0d4b8e466d6ad64d9b,CVE-2017-5715

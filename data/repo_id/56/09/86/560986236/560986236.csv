@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+560986236,rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc,cve-2022-3602-4byteoverwrite.c,1ec9fdd55dbd3219c125e809b1bed47b888d082a,CVE-2022-3602
+560986236,rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc,cve-2022-3786-periods.c,31ce809ad1a6ca326efcda4d7cbdcc87310c08b1,CVE-2022-3786
+560986236,rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc,Makefile,98b33a2342f3886f22c4829b3b64e4a224aebd82,CVE-2022-3602
+560986236,rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc,Makefile,98b33a2342f3886f22c4829b3b64e4a224aebd82,CVE-2022-3786
+560986236,rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc,_GITHUB_REPO_METADATA_,,CVE-2022-3602
+560986236,rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc,_GITHUB_REPO_METADATA_,,CVE-2022-3786

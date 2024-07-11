@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+794593495,jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability,README.md,efe250ff0c49c12f115b843de87aa701c70f4342,CVE-2024-4040
+794593495,jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability,_GITHUB_REPO_METADATA_,,CVE-2024-4040

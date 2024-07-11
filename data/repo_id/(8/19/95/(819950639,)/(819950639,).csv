@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+819950639,truonghuuphuc/CVE-2024-6028-Poc,quiz-maker.6.5.8.3.zip,77a25c11558a7a4a7e4284a28d5f4f1a3d00863c,VU#33
+819950639,truonghuuphuc/CVE-2024-6028-Poc,quiz-maker.6.5.8.3.zip,77a25c11558a7a4a7e4284a28d5f4f1a3d00863c,VU#37
+819950639,truonghuuphuc/CVE-2024-6028-Poc,quiz-maker.6.5.8.3.zip,77a25c11558a7a4a7e4284a28d5f4f1a3d00863c,VU#46
+819950639,truonghuuphuc/CVE-2024-6028-Poc,README.md,7ec660536b3184ac29f069451890898b6bfefcc7,CVE-2024-6028
+819950639,truonghuuphuc/CVE-2024-6028-Poc,_GITHUB_REPO_METADATA_,,CVE-2024-6028

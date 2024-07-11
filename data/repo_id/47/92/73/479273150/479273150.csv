@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+479273150,cuongtop4598/CVE-2021-3129-Script,gadgetchains/Yii2/RCE/1/chain.php,03ac811a74360c361cdf7cf60a0a13efaab8e7b5,CVE-2020-15148
+479273150,cuongtop4598/CVE-2021-3129-Script,readme.md,14f18f9dbff063b6f36ddeda73d052f4a2064851,CVE-2021-3129
+479273150,cuongtop4598/CVE-2021-3129-Script,gadgetchains/Magento/SQLI/1/chain.php,4ba6ff4b0574fd4bc4e8e4627dfc0aa5067ebe7a,CVE-2016-4010
+479273150,cuongtop4598/CVE-2021-3129-Script,gadgetchains/Symfony/RCE/4/chain.php,668523a1a19e679d65af126d72e087a1b5567d21,CVE-2019-18889
+479273150,cuongtop4598/CVE-2021-3129-Script,_GITHUB_REPO_METADATA_,,CVE-2021-3129

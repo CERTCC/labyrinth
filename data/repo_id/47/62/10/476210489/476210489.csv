@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+476210489,DDuarte/springshell-rce-poc,README.md,19fa06a064898ab042a82b2ebab8499a55c661ea,CVE-2022-22965
+476210489,DDuarte/springshell-rce-poc,semgrep-rule.yml,99bbc5f452119d027d926738e5eae0b6e3ba6d3a,CVE-2022-22965
+476210489,DDuarte/springshell-rce-poc,_GITHUB_REPO_METADATA_,,CVE-2010-1622
+476210489,DDuarte/springshell-rce-poc,_GITHUB_REPO_METADATA_,,CVE-2022-22965

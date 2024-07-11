@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+437991499,ricardojba/Invoke-noPac,README.md,c04f01db2f2d8f23dced84442bf4616080112e48,CVE-2021-42278
+437991499,ricardojba/Invoke-noPac,README.md,c04f01db2f2d8f23dced84442bf4616080112e48,CVE-2021-42287
+437991499,ricardojba/Invoke-noPac,Invoke-noPac.ps1,ceb19fa99454bc036c9d4c4b16a022988706849f,VU#10
+437991499,ricardojba/Invoke-noPac,Invoke-noPac.ps1,ceb19fa99454bc036c9d4c4b16a022988706849f,VU#23
+437991499,ricardojba/Invoke-noPac,Invoke-noPac.ps1,ceb19fa99454bc036c9d4c4b16a022988706849f,VU#32
+437991499,ricardojba/Invoke-noPac,Invoke-noPac.ps1,ceb19fa99454bc036c9d4c4b16a022988706849f,VU#48
+437991499,ricardojba/Invoke-noPac,Invoke-noPac.ps1,ceb19fa99454bc036c9d4c4b16a022988706849f,VU#50
+437991499,ricardojba/Invoke-noPac,Invoke-noPac.ps1,ceb19fa99454bc036c9d4c4b16a022988706849f,VU#72
+437991499,ricardojba/Invoke-noPac,Invoke-noPac.ps1,ceb19fa99454bc036c9d4c4b16a022988706849f,VU#78
+437991499,ricardojba/Invoke-noPac,Invoke-noPac.ps1,ceb19fa99454bc036c9d4c4b16a022988706849f,VU#983
+437991499,ricardojba/Invoke-noPac,_GITHUB_REPO_METADATA_,,CVE-2021-42278
+437991499,ricardojba/Invoke-noPac,_GITHUB_REPO_METADATA_,,CVE-2021-42287

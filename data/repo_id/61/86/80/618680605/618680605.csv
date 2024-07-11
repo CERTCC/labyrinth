@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+618680605,SentimentSec/Simple_Shiro_Exploit,target/Shiro-exploit-1.0-SNAPSHOT.jar,8af02d18c644b6bd686dc465452527283a339a9b,VU#03
+618680605,SentimentSec/Simple_Shiro_Exploit,target/Shiro-exploit-1.0-SNAPSHOT.jar,8af02d18c644b6bd686dc465452527283a339a9b,VU#77
+618680605,SentimentSec/Simple_Shiro_Exploit,target/Shiro-exploit-1.0-SNAPSHOT.jar,8af02d18c644b6bd686dc465452527283a339a9b,VU#898
+618680605,SentimentSec/Simple_Shiro_Exploit,target/Shiro_exploit-1.0-SNAPSHOT.jar,d778a175d82b0d34d35ea29ece5392a4bbe967b5,VU#03
+618680605,SentimentSec/Simple_Shiro_Exploit,target/Shiro_exploit-1.0-SNAPSHOT.jar,d778a175d82b0d34d35ea29ece5392a4bbe967b5,VU#77
+618680605,SentimentSec/Simple_Shiro_Exploit,target/Shiro_exploit-1.0-SNAPSHOT.jar,d778a175d82b0d34d35ea29ece5392a4bbe967b5,VU#898

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+471537771,LudovicPatho/CVE-2022-0847_dirty-pipe,dirtypipez.c,373d6b84023a8bc2f90c67c6d1e1f27fdb349307,CVE-2022-0847
+471537771,LudovicPatho/CVE-2022-0847_dirty-pipe,README.md,bbfde5aac0053493a64647224b853ebd81bb83ac,CVE-2022-0847
+471537771,LudovicPatho/CVE-2022-0847_dirty-pipe,_GITHUB_REPO_METADATA_,,CVE-2022-0847

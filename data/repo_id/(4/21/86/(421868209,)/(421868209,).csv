@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#17
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#32
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#33
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#396
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#49
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#53
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#65
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#82
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#84
+421868209,openwrt-xiaomi/xmir-patcher,python/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#85
+421868209,openwrt-xiaomi/xmir-patcher,python/urllib3-1.26.7.dist-info/METADATA,de5141c067dbd44db2d3f6cef5efea711e1d2bea,CVE-2016-9015
+421868209,openwrt-xiaomi/xmir-patcher,python/urllib3-1.26.7.dist-info/METADATA,de5141c067dbd44db2d3f6cef5efea711e1d2bea,CVE-2019-9740
+421868209,openwrt-xiaomi/xmir-patcher,connect5.py,fd986a3a46bb15fcaab75a81fac41159a957b5cb,CVE-2023-26319

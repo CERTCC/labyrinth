@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+568186569,0xAbbarhSF/FollinaXploit,follinaExploiter.py,a2c8bd4a009444f31c3b287e4d42b671da2de423,CVE-2022-30190
+568186569,0xAbbarhSF/FollinaXploit,README.md,bca7b36ab66ebbe4e0bf3cd9a6b4c2d2ba78afa5,CVE-2022-30190
+568186569,0xAbbarhSF/FollinaXploit,_GITHUB_REPO_METADATA_,,CVE-2022-30190

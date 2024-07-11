@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+491872919,Phineas09/CVE-2021-44228,Docker-Ldap/java/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+491872919,Phineas09/CVE-2021-44228,Docker-Ldap/java/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+491872919,Phineas09/CVE-2021-44228,Docker-Ldap/java/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+491872919,Phineas09/CVE-2021-44228,Docker-Ldap/java/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+491872919,Phineas09/CVE-2021-44228,Docker-Ldap/java/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+491872919,Phineas09/CVE-2021-44228,Readme.md,90136788bcdb08c8af2b3c9cdcecb69156d9753a,CVE-2021-44228
+491872919,Phineas09/CVE-2021-44228,Docker-Ldap/exploit_generator.py,a6feb53dbe2a636fbfc7a8c30ac509d63a1a273c,CVE-2021-44228
+491872919,Phineas09/CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228

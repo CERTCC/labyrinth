@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+554575532,TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell,README.md,08af027630c16ec72a4cbe93950fba55dfe93d01,CVE-2022-41040
+554575532,TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell,README.md,08af027630c16ec72a4cbe93950fba55dfe93d01,VU#915563
+554575532,TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell,microsoft_exchange_server_proxynotshell_ssrf.py,9bf0cb6eb38263e6c93c5860d0d7e12e536b0e99,CVE-2022-41040
+554575532,TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell,_GITHUB_REPO_METADATA_,,CVE-2022-41040

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+651466716,hq-zhonger/ExploitToolsGo,Framework/Shiro.go,0901ea2cb7ce0f7aa8679676253caf8b60ad2fda,CVE-2010-3863
+651466716,hq-zhonger/ExploitToolsGo,Framework/Shiro.go,0901ea2cb7ce0f7aa8679676253caf8b60ad2fda,CVE-2016-4437

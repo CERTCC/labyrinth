@@ -1,0 +1,8 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-MW36-7C6C-Q4Q2,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-26217,Live-Hack-CVE/CVE-2020-26217,583080934
+GHSA-MW36-7C6C-Q4Q2,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-26217,Live-Hack-CVE/CVE-2020-26217,581718089
+GHSA-MW36-7C6C-Q4Q2,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+GHSA-MW36-7C6C-Q4Q2,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-MW36-7C6C-Q4Q2,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-MW36-7C6C-Q4Q2,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-MW36-7C6C-Q4Q2,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

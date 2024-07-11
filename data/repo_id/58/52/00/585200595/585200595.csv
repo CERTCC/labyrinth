@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+585200595,pyhrr0/pwnkit,README.md,d424deed0559b200723fa0244df0ff16f223a0c9,CVE-2021-4034
+585200595,pyhrr0/pwnkit,_GITHUB_REPO_METADATA_,,CVE-2021-4034

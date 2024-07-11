@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+619494083,AbelChe/evil_minio,README.md,0eb2e2d8495753fb86b80435fa3ff3c366fdc9b0,CVE-2023-28434
+619494083,AbelChe/evil_minio,cmd/bucket-replication.go,2689f5724eb174b2a375b291dc65df7b074b827a,GHSA-76WF-9VGP-PJ7W
+619494083,AbelChe/evil_minio,cmd/handler-utils.go,30439f53f3163d6ee2690cc522979aa1ffc9a990,GHSA-76WF-9VGP-PJ7W
+619494083,AbelChe/evil_minio,cmd/xl-storage-format-v2.go,4c9d0494aa28787fca0f84cb24c895a5e9307e2e,GHSA-76WF-9VGP-PJ7W
+619494083,AbelChe/evil_minio,cmd/testdata/metacache.s2,555d90c4fe5f75b7636bfe6779d54fe670a7d673,VU#37
+619494083,AbelChe/evil_minio,cmd/api-headers.go,72442b70b342d20f54c570621cfd5354d7700bab,GHSA-76WF-9VGP-PJ7W
+619494083,AbelChe/evil_minio,cmd/api-response.go,981af68902c671bc5138cf6c315a0b37dde55b06,GHSA-76WF-9VGP-PJ7W
+619494083,AbelChe/evil_minio,internal/crypto/header_test.go,d7d62a207af153e215c721079e8e99616b50c605,GHSA-76WF-9VGP-PJ7W
+619494083,AbelChe/evil_minio,_GITHUB_REPO_METADATA_,,CVE-2023-28434

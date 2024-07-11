@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+382872016,catp3rson/crypto_exploits,Digital Signature/ECDSA/README.md,66af8394a1039f57665b1d8e793e15d6d6fee1e6,CVE-2022-21449
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#03
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#07
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#222
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#38
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#418
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#47
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#68
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#76
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#79
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#80
+382872016,catp3rson/crypto_exploits,Misc/ECC/Rational Points on Elliptic Curves ( PDFDrive ).pdf,dc2f58a0073484da64a2f09c476e0e52b46662c9,VU#81

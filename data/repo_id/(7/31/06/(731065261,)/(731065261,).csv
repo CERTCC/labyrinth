@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+731065261,jakabakos/CVE-2023-50164-Apache-Struts-RCE,struts-app/pom.xml,0cf249847e3a8254021e5aca3013e736dbf81d43,CVE-2023-50164
+731065261,jakabakos/CVE-2023-50164-Apache-Struts-RCE,exploit/exploit.py,4ae9776fb569949b38f095b14621a5d51759995c,CVE-2023-50164
+731065261,jakabakos/CVE-2023-50164-Apache-Struts-RCE,README.md,8d6bd0705d17654c6abe29843d5a9fb8273549a2,CVE-2023-50164
+731065261,jakabakos/CVE-2023-50164-Apache-Struts-RCE,_GITHUB_REPO_METADATA_,,CVE-2023-50164

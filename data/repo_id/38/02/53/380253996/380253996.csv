@@ -1,3 +1,14 @@
 repo_id,repo_full_name,file,file_sha1,match
-380253996,kahla-sec/CVE-2021-27850_POC,README.md,8a501a421add2a2621359d8f7153d34d77832834,CVE-2021-27850
+380253996,kahla-sec/CVE-2021-27850_POC,README.md,a630a81ab86895a30a58a39955ee9e1d8ff4ce27,CVE-2021-27850
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#03
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#26
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#35
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#37
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#38
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#39
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#45
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#56
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#76
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#83
+380253996,kahla-sec/CVE-2021-27850_POC,ysoserial-master-d367e379d9-1.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#95
 380253996,kahla-sec/CVE-2021-27850_POC,_GITHUB_REPO_METADATA_,,CVE-2021-27850

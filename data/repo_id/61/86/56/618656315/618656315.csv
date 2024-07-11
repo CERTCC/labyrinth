@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+618656315,tranqtruong/Detect-BlueKeep,README.md,090aa0f4b647a32b5dab1cfb44c3e3fe7875fc0a,CVE-2019-0708
+618656315,tranqtruong/Detect-BlueKeep,Detect_BlueKeep.py,5e92bd6d5351c5bf647f784919be99a84c5f3f08,CVE-2019-0708
+618656315,tranqtruong/Detect-BlueKeep,_GITHUB_REPO_METADATA_,,CVE-2019-0708

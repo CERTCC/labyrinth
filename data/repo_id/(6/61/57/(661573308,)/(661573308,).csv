@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+661573308,itsraiko/exploit,exploit.py,92ec6f5074927c7049a52921c624e7c65a2d8651,CVE-2023-27372

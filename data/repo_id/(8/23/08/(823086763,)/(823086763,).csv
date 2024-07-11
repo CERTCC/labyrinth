@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+823086763,devarshishimpi/CVE-2024-6387-Check,check.sh,5fcd1021e01b1303a401ca5c2d1287704ad9f922,CVE-2024-6387
+823086763,devarshishimpi/CVE-2024-6387-Check,README.md,96e8c601fda51b9f292c9bef4bc02707b3906687,CVE-2024-6387
+823086763,devarshishimpi/CVE-2024-6387-Check,_GITHUB_REPO_METADATA_,,CVE-2024-6387

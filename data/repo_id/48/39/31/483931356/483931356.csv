@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+483931356,Trinadh465/frameworks_av_AOSP10_r33_CVE-2021-0509,media/libstagefright/exports.lds,cb4a2424acb0d666340d1257714f0c59e70a2447,VU#601
+483931356,Trinadh465/frameworks_av_AOSP10_r33_CVE-2021-0509,media/libstagefright/exports.lds,cb4a2424acb0d666340d1257714f0c59e70a2447,VU#709
+483931356,Trinadh465/frameworks_av_AOSP10_r33_CVE-2021-0509,cmds/stagefright/recordvideo.cpp,cd39e53b60f44943829a35d5c4eb0d6b43f4ed4e,VU#420
+483931356,Trinadh465/frameworks_av_AOSP10_r33_CVE-2021-0509,media/libstagefright/colorconversion/ColorConverter.cpp,f527652dce7aab2598a5b6700afc5813288ba7dd,VU#420
+483931356,Trinadh465/frameworks_av_AOSP10_r33_CVE-2021-0509,_GITHUB_REPO_METADATA_,,CVE-2021-0509

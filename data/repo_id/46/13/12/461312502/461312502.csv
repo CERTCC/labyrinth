@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+461312502,dhammon/HotelDruid-CVE-2021-42949,README.md,4fc017d52e53c0a6d4f4b7789c57ebafd2ca6ced,CVE-2021-42949
+461312502,dhammon/HotelDruid-CVE-2021-42949,_GITHUB_REPO_METADATA_,,CVE-2021-42949

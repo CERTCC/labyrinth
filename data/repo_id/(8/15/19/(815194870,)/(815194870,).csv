@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+815194870,Cappricio-Securities/CVE-2012-5321,cve20125321/includes/scan.py,07bbafbe92fac5062133eeb93800f286b28233ce,CVE-2012-5321
+815194870,Cappricio-Securities/CVE-2012-5321,cve20125321/main.py,089575a851d3dc867a729e103254428a13c4286d,CVE-2012-5321
+815194870,Cappricio-Securities/CVE-2012-5321,cve20125321/includes/bot.py,155e5fdb09f5b018f417b513d0ee64182ae38154,CVE-2012-5321
+815194870,Cappricio-Securities/CVE-2012-5321,cve20125321/utils/configure.py,30fdfaad228436ad55f8f1b017aa481920fef003,CVE-2012-5321
+815194870,Cappricio-Securities/CVE-2012-5321,setup.py,44b5fcde6daddd92f99051ef52aa164c4d6924cd,CVE-2024-0352
+815194870,Cappricio-Securities/CVE-2012-5321,README.md,7af4124d32a2504da185fd8a0b74bd1000dfd2db,CVE-2012-5321
+815194870,Cappricio-Securities/CVE-2012-5321,cve20125321/includes/filereader.py,7b48f9a23b97df2a6c771d28dd7e2f74ef8c0b67,CVE-2012-5321
+815194870,Cappricio-Securities/CVE-2012-5321,cve20125321/includes/writefile.py,84c73975f9d6408ec017cc8c41dfc1d0495f4717,CVE-2012-5321
+815194870,Cappricio-Securities/CVE-2012-5321,cve20125321/utils/const.py,d884dec8a9b0598a7b9221f2c51efd658b533efa,CVE-2012-5321
+815194870,Cappricio-Securities/CVE-2012-5321,cve20125321/utils/helpers.py,fc8a3aad864b5779b14b98b9753cff6ea340c3fd,CVE-2012-5321
+815194870,Cappricio-Securities/CVE-2012-5321,_GITHUB_REPO_METADATA_,,CVE-2012-5321

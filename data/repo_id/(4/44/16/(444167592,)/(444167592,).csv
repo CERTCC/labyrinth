@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+444167592,Somchandra17/Privilege-Escalation-For-Linux,cve-2021-4034-poc.c,17c7b09a926196fcf7ed099d6fb3b6f00da0d53a,CVE-2021-4034
+444167592,Somchandra17/Privilege-Escalation-For-Linux,README.md,c922b48996446b45e8d8a1b991b7e04eea7371ed,CVE-2016-5195
+444167592,Somchandra17/Privilege-Escalation-For-Linux,README.md,c922b48996446b45e8d8a1b991b7e04eea7371ed,CVE-2021-4034

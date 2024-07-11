@@ -1,0 +1,14 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#915563,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41082,Live-Hack-CVE/CVE-2022-41082,582795467
+VU#915563,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41082,Live-Hack-CVE/CVE-2022-41082,581425133
+VU#915563,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41040,Live-Hack-CVE/CVE-2022-41040,581425119
+VU#915563,0.50000000,https://github.com/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell,trhacknon/CVE-2022-41040-metasploit-ProxyNotShell,555062958
+VU#915563,0.50000000,https://github.com/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell,TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell,554575532
+VU#915563,0.00606061,https://github.com/maxamin/o-wicked-Exploits-out-there,maxamin/o-wicked-Exploits-out-there,826056433
+VU#915563,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#915563,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+VU#915563,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#915563,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+VU#915563,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#915563,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#915563,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 398943641,kashif-23/modified-public-exploits,40820-exploit-cve-2009-3103-python3.py,1ceeac5242981c117c6856265dfe13c22718c9d7,CVE-2009-3103
 398943641,kashif-23/modified-public-exploits,40820-exploit-cve-2009-3103-python3.py,1ceeac5242981c117c6856265dfe13c22718c9d7,MS09-050
+398943641,kashif-23/modified-public-exploits,CVE-2014-5301-Manage_Engine_Service_Desk.py,4e587e162c99c69e5da90b0b8e56a316d557e099,CVE-2014-5301

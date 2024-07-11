@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+263122268,ails-lab/with,resources/opennlp/en-pos-maxent.bin,1cc32d397dd22570dd2b5d85e853f39f048caa3f,VU#26
+263122268,ails-lab/with,resources/opennlp/en-pos-maxent.bin,1cc32d397dd22570dd2b5d85e853f39f048caa3f,VU#47
+263122268,ails-lab/with,resources/opennlp/en-ner-person.bin,78da74299ae61b263846885ce012c45aeefeb627,VU#23
+263122268,ails-lab/with,resources/opennlp/en-ner-person.bin,78da74299ae61b263846885ce012c45aeefeb627,VU#563
+263122268,ails-lab/with,resources/opennlp/en-chunker.bin,9aa9314c0917a05440367dc62bf52959baa4f1c1,VU#74
+263122268,ails-lab/with,resources/opennlp/en-ner-date.bin,d30dc8e151690968343826f36fc8141a16b47e82,VU#05
+263122268,ails-lab/with,app/controllers/CollectionObjectController.java,d7cb6400823bfcc932e77b5aa2b57fc8af5c8690,BID-0
+263122268,ails-lab/with,app/controllers/CollectionObjectController.java,d7cb6400823bfcc932e77b5aa2b57fc8af5c8690,BID-3
+263122268,ails-lab/with,.github/files/GEANT_OV_RSA_CA_4.crt,e92b252b4f78f561b47af36ee8107ff5a00e1ac5,VU#28
+263122268,ails-lab/with,.github/files/GEANT_OV_RSA_CA_4.crt,e92b252b4f78f561b47af36ee8107ff5a00e1ac5,VU#70

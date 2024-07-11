@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+610163694,JoeMatt/MacDirtyCow.swift,Sources/MacDirtyCow/grant_full_disk_access.m,0fe45b5dc4f5ef0af240e0e7f11d00065501278a,CVE-2022-46689
+610163694,JoeMatt/MacDirtyCow.swift,Sources/MacDirtyCow/grant_full_disk_access.h,17466f74679f4607c72c44a451951c70fe8bc881,CVE-2022-46689
+610163694,JoeMatt/MacDirtyCow.swift,Sources/MacDirtyCow.swift/Wrappers.swift,220236fe27214e480485e11fcbcd9f944dbc78ee,CVE-2022-46689
+610163694,JoeMatt/MacDirtyCow.swift,Sources/MacDirtyCow/vm_unaligned_copy_switch_race.h,471a4507439ae4e5f1109a904662b5f011172dd6,CVE-2022-46689

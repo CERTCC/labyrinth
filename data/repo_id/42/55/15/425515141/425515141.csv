@@ -1,0 +1,64 @@
+repo_id,repo_full_name,file,file_sha1,match
+425515141,pen4uin/awesome-java-security,basic-knowledge/jndi/README.md,18b1aff8608435fe1ef1f04ce8e61fd3416080eb,CVE-2021-44228
+425515141,pen4uin/awesome-java-security,ofcms/README.md,382b0ee0304b30c3ba5cb3715e3943cda0f51143,CVE-2019-9610
+425515141,pen4uin/awesome-java-security,ofcms/README.md,382b0ee0304b30c3ba5cb3715e3943cda0f51143,CVE-2019-9615
+425515141,pen4uin/awesome-java-security,spring messaging/README.md,4e24b9fc693579b5af728c948d2d39a74dd98bf0,CVE-2018-1270
+425515141,pen4uin/awesome-java-security,xstream/README.md,5011a0dc2e3434c961abbbe306c784819bb8a856,CVE-2020-26217
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2020-14841
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2019-2649
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2019-2650
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2019-2725
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2019-2729
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2020-14756
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2020-14882
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2020-14883
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2020-2551
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2020-2555
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2020-2883
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2021-2109
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2021-2135
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2021-2394
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2019-2648
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2019-2647
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2020-14645
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2019-1890
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2019-2615
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2022-21306
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2014-4210
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2015-4952
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2016-0638
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2016-3510
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2017-3248
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2017-10352
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2018-1894
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2018-2628
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2018-2893
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2018-3191
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2018-3245
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2018-3246
+425515141,pen4uin/awesome-java-security,weblogic/README.md,5ad8319a86f2e06525097aae3c74359d6b75f892,CVE-2017-3506
+425515141,pen4uin/awesome-java-security,jackson-databind/README.md,68a5f562c2238ce9db5fdd8eab808370aaf324bb,CVE-2020-8840
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2021-3156
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2021-21985
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2021-4034
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2021-22017
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2021-22005
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2021-21973
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2021-0000
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2021-44228
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2020-3952
+425515141,pen4uin/awesome-java-security,vmware vcenter/README.md,7aaaaac625079a87d671f9f1326c0df79d254392,CVE-2021-21972
+425515141,pen4uin/awesome-java-security,apache skywalking/README.md,91568ca6811825dbcef806b32c158efce2498f31,CVE-2021-44228
+425515141,pen4uin/awesome-java-security,帆软finereport/README.md,92c09b69f711b26ac5c74f09ed3bf4e0a416aa3d,CNVD-2021-34467
+425515141,pen4uin/awesome-java-security,apache jspwiki/README.md,97bf5af43a6d6c47c87cef59e71076a81c0a3c85,CVE-2021-44140
+425515141,pen4uin/awesome-java-security,apache jspwiki/README.md,97bf5af43a6d6c47c87cef59e71076a81c0a3c85,CVE-2021-44228
+425515141,pen4uin/awesome-java-security,泛微e-cology/README.md,a247a9c1b03fde6567da9ac651e6715044f8f389,CVE-2021-21350
+425515141,pen4uin/awesome-java-security,泛微e-cology/README.md,a247a9c1b03fde6567da9ac651e6715044f8f389,CVE-2021-39149
+425515141,pen4uin/awesome-java-security,spring boot/README.md,c20c0d0f5e39578912c0da22ee108511a40e26b8,CVE-2022-44228
+425515141,pen4uin/awesome-java-security,struts2/README.md,c483338b3e9dad798525fa2954de9f697fbdd90d,CVE-2021-44228
+425515141,pen4uin/awesome-java-security,atlassian jira/README.md,c83fca2226cef8e28855a983d361320fbcec6f13,CVE-2019-11581
+425515141,pen4uin/awesome-java-security,apache dubbo/README.md,cbf8dd556c13f4d802ec2aeb593c53bf44295a69,CVE-2021-43297
+425515141,pen4uin/awesome-java-security,resin/README.md,d117006a2a33cfb4d5a630a26910bb6cf67560ee,ZSL-2013-5144
+425515141,pen4uin/awesome-java-security,泛微e-mobile/README.md,ed87f3d26530a709c51e8fdc2729ed81aff5c5ea,CNVD-2017-07285
+425515141,pen4uin/awesome-java-security,泛微e-mobile/README.md,ed87f3d26530a709c51e8fdc2729ed81aff5c5ea,CNVD-2021-25287
+425515141,pen4uin/awesome-java-security,泛微e-mobile/README.md,ed87f3d26530a709c51e8fdc2729ed81aff5c5ea,CNVD-2017-03561

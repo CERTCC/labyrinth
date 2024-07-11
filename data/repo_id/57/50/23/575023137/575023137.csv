@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11981/fl1.JPG,0457559656613b4e6706a2b2e02b0c52f1da7724,CVE-2020-11981
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11981/Readme.md,403fd8116ca427c196b57e0a73e4ac05ebb0c7ca,CVE-2020-11981
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11981/exploit_airflow_celery.py,4c500b90446ef1860ec7a43744dbd94799ac3cbd,CVE-2020-11981
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11981/fl2.JPG,633467b90732abd873fc1a4c8a2c5e78ea1742a2,CVE-2020-11981
+575023137,navyaks55/Vulnerability_Exploitation,README.md,6480f23a63032478e3e63ae0681e357751e9e566,CVE-2020-11978
+575023137,navyaks55/Vulnerability_Exploitation,README.md,6480f23a63032478e3e63ae0681e357751e9e566,CVE-2020-11981
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11978/img3.JPG,7bb059d8ab15f5b78d9e369e4f307227290f5a0a,CVE-2020-11978
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11978/docker-compose.yml,90155436e1963425bb6628b3f57ee3cceeaf858b,CVE-2020-11978
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11981/docker-compose.yml,98600500a20ec2cddc7311ce125c7b8c93fc2f96,CVE-2020-11981
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11978/exploit_check.sh,c5b0d38d60ade309a3bdcdc1d5f55b1092d17c71,CVE-2020-11978
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11981/exploit_check.sh,dcd44c4335a5bf41fc71368046c13f53ed4a92e4,CVE-2020-11981
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11978/Readme.md,e3c8f9be6e97730761c3a7c314af136c4d6c6f01,CVE-2020-11978
+575023137,navyaks55/Vulnerability_Exploitation,CVE-2020-11981/log.JPG,e77f2b61b777bfdf13777bb6676d4ef8b7a7df50,CVE-2020-11981

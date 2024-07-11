@@ -1,0 +1,22 @@
+repo_id,repo_full_name,file,file_sha1,match
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/cvelist.txt,2b2bad2dda98ae08d3391f4d7fd9e610844c9bfd,CVE-2019-11510
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/cvelist.txt,2b2bad2dda98ae08d3391f4d7fd9e610844c9bfd,CVE-2018-13379
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/cvelist.txt,2b2bad2dda98ae08d3391f4d7fd9e610844c9bfd,CVE-2019-1579
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/cvelist.txt,2b2bad2dda98ae08d3391f4d7fd9e610844c9bfd,CVE-2018-13380
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/cvelist.txt,2b2bad2dda98ae08d3391f4d7fd9e610844c9bfd,CVE-2018-13381
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/cvelist.txt,2b2bad2dda98ae08d3391f4d7fd9e610844c9bfd,CVE-2019-11542
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/cvelist.txt,2b2bad2dda98ae08d3391f4d7fd9e610844c9bfd,CVE-2019-11507
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/cvelist.txt,2b2bad2dda98ae08d3391f4d7fd9e610844c9bfd,CVE-2020-3187
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/cvelist.txt,2b2bad2dda98ae08d3391f4d7fd9e610844c9bfd,CVE-2019-11540
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/pwnvpn.py,68880924a974908418f51a25cc6a2163b9f4b747,CVE-2019-1579
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/pwnvpn.py,68880924a974908418f51a25cc6a2163b9f4b747,CVE-2019-11542
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/pwnvpn.py,68880924a974908418f51a25cc6a2163b9f4b747,CVE-2019-11540
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/pwnvpn.py,68880924a974908418f51a25cc6a2163b9f4b747,CVE-2020-3187
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/pwnvpn.py,68880924a974908418f51a25cc6a2163b9f4b747,CVE-2019-11507
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/pwnvpn.py,68880924a974908418f51a25cc6a2163b9f4b747,CVE-2018-13381
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/pwnvpn.py,68880924a974908418f51a25cc6a2163b9f4b747,CVE-2018-13380
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/pwnvpn.py,68880924a974908418f51a25cc6a2163b9f4b747,CVE-2018-13379
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/pwnvpn.py,68880924a974908418f51a25cc6a2163b9f4b747,CVE-2019-11510
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,Pentest Heaven/README.md,cdf0e3840febac85f18fb8878947644589aefc1f,CVE-2016-4656
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,Pentest Heaven/README.md,cdf0e3840febac85f18fb8878947644589aefc1f,CVE-2016-4655
+484331316,alvin-tosh/Infosec-and-Hacking-Scripts,vpn/README.txt,f251ab56f90f6470dab6442c9a19f48315590d14,CVE-2019-1579

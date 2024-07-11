@@ -1,3 +1,15 @@
 repo_id,repo_full_name,file,file_sha1,match
 381902138,Y4er/openam-CVE-2021-35464,README.md,987ef50bf8d0756d0af9d30247e9425d20b6e83a,CVE-2021-35464
+381902138,Y4er/openam-CVE-2021-35464,README.md,987ef50bf8d0756d0af9d30247e9425d20b6e83a,VU#29
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#03
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#26
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#35
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#37
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#38
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#39
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#45
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#56
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#76
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#83
+381902138,Y4er/openam-CVE-2021-35464,lib/ysoserial.jar,c3cfec3a50fc998f69d436e46b6126fb21dc6bef,VU#95
 381902138,Y4er/openam-CVE-2021-35464,_GITHUB_REPO_METADATA_,,CVE-2021-35464

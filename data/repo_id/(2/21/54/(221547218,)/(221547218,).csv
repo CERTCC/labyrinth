@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+221547218,adrelanos/lkrg,CONCEPTS,1a4b7b6fa8abf61d82117948f4783f5e712956da,CVE-2014-9322
+221547218,adrelanos/lkrg,CONCEPTS,1a4b7b6fa8abf61d82117948f4783f5e712956da,CVE-2016-5195
+221547218,adrelanos/lkrg,CONCEPTS,1a4b7b6fa8abf61d82117948f4783f5e712956da,CVE-2017-5123
+221547218,adrelanos/lkrg,CONCEPTS,1a4b7b6fa8abf61d82117948f4783f5e712956da,CVE-2017-6074
+221547218,adrelanos/lkrg,debian/upstream/signing-key.asc,f1ff2e5050b4e4aeae7855222d6813201ff00021,VU#58

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+460251394,Greetdawn/SunloginClientRCE,README.md,0cb4f48d1a7f027634f3b41b3046fbe13eca2c84,CNVD-2022-10270
+460251394,Greetdawn/SunloginClientRCE,sunlogin_rce-main/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#08
+460251394,Greetdawn/SunloginClientRCE,sunlogin_rce-main/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#23
+460251394,Greetdawn/SunloginClientRCE,sunlogin_rce-main/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#67

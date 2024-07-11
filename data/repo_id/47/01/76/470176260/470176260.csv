@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+470176260,Prestaa/vsftpd-2.3.4,README.md,b7142e3c85e68a1667b438aba7591ba3f162fa1f,CVE-2011-2523
+470176260,Prestaa/vsftpd-2.3.4,_GITHUB_REPO_METADATA_,,CVE-2011-2523

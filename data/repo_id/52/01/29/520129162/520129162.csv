@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+520129162,unCodeBoss/SimplePlugin-0day-RCE-Authenticated,exploit.py,5b7f55e5823211e2f7318a2050346d56413a1943,CVE-2022-1221

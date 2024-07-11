@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+244424491,martinclauss/exim-rce-cve-2018-6789,README.md,66c6d6623956fe63e86ab8fa99cdbff685e8f40f,CVE-2018-6789
+244424491,martinclauss/exim-rce-cve-2018-6789,exim_code_backup/exim-fc6d65867e82009a6e0671771728d41d3423a790.zip,7ada5568ee339d9d44b2898c7f0c9b5ce265e099,CVE-2016-9663
+244424491,martinclauss/exim-rce-cve-2018-6789,_GITHUB_REPO_METADATA_,,CVE-2018-6789

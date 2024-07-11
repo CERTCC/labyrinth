@@ -1,2 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-12,0.05000000,https://github.com/raymondzmc/Attention-Pattern-Exploitation,raymondzmc/Attention-Pattern-Exploitation,555256490
+BID-12,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,717935231
 BID-12,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+BID-12,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-12,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

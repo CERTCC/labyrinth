@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+472483680,ExploiterWolfy/ExploiterWolfy.github.io,scripts/NexoUndoDelete/NexoKeyGenerator,77c6055e560c546bf94380445ae0c45a9210808f,VU#1931
+472483680,ExploiterWolfy/ExploiterWolfy.github.io,scripts/NexoUndoDelete/NexoKeyGenerator,77c6055e560c546bf94380445ae0c45a9210808f,VU#32
+472483680,ExploiterWolfy/ExploiterWolfy.github.io,node_modules/monaco-editor/CHANGELOG.md,8a53f7a322847e6b3b16893e9ecc528eb6a14423,CVE-2021-42574

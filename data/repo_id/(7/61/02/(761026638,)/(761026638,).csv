@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+761026638,vaishnavucv/autoscan,MS17-010 EternalBlue/README.md,30804f8e4250c3f61b6b4a1716e34aab16692c79,MS17-010
+761026638,vaishnavucv/autoscan,MS17-010 EternalBlue/ms17-010-ng.sh,30e79100b5c17cdc93e03f8c3259c8bdb5c7f3b5,MS17-010
+761026638,vaishnavucv/autoscan,MS17-010 EternalBlue/ms17-010-scanner.sh,699cac3702cb6e1dcff847cde5a6451f9095958e,CVE-2017-0143
+761026638,vaishnavucv/autoscan,MS17-010 EternalBlue/ms17-010-scanner.sh,699cac3702cb6e1dcff847cde5a6451f9095958e,MS17-010

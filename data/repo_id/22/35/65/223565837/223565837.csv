@@ -9,4 +9,5 @@ repo_id,repo_full_name,file,file_sha1,match
 223565837,ruvolof/exploits,windows/remote/nnm-7.5.1-ovas-http-host/nnm-7.5.1-ova-http-host.py,8afbfbcd6485583ad2c6f33d86915045b2a1a553,CVE-2004-2271
 223565837,ruvolof/exploits,windows/remote/xitami-2.5b4-if-modified-since/xitami-2.5b4-if-modified-since-eip-egg-Win7.py,9410b4b989642fe09b41cf1b12b9fdc5129a5698,CVE-2007-5067
 223565837,ruvolof/exploits,windows/remote/xitami-2.5b4-if-modified-since/xitami-2.5b4-if-modified-since-seh-egg-Win7.py,acb023ef1357fb08467997e7da4cec57c9549186,CVE-2007-5067
+223565837,ruvolof/exploits,multiple/remote/heartbleed.py,b41f784eb55b8e0404890e96cb331a01c2016d62,CVE-2014-0160
 223565837,ruvolof/exploits,windows/remote/winamp-5.12-pls/winamp-5.12-pls.pl,cf30f9155778fd495931b43f8ebf0eb222cce441,CVE-2006-0476

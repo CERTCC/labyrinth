@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+502679049,vidrez/log4j-deserialization-rce-POC,README.md,357097e092e0f1291624c19ecb7593fd1b5f9a71,CVE-2021-44228

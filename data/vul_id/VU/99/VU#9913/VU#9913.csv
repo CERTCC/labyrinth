@@ -1,2 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#9913,0.04347826,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
+VU#9913,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
+VU#9913,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
+VU#9913,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
+VU#9913,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#9913,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159

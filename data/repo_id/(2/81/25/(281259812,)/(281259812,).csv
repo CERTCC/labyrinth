@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+281259812,MFNttps/mfnttps.github.io,_mfnttps/priv-esc_checklist_win.md,13f674456a560b643840c080a79dc155ad0ed285,CVE-2020-0796
+281259812,MFNttps/mfnttps.github.io,_mfnttps/priv-esc_checklist_win.md,13f674456a560b643840c080a79dc155ad0ed285,MS10-059
+281259812,MFNttps/mfnttps.github.io,_mfnttps/priv-esc_checklist_win.md,13f674456a560b643840c080a79dc155ad0ed285,MS15-051
+281259812,MFNttps/mfnttps.github.io,_mfnttps/priv-esc_checklist_linux.md,4c547f1301f7e80fe45f6ad0fa5f419ad1998107,BID-45408
+281259812,MFNttps/mfnttps.github.io,_mfnttps/priv-esc_checklist_linux.md,4c547f1301f7e80fe45f6ad0fa5f419ad1998107,CVE-2010-2959
+281259812,MFNttps/mfnttps.github.io,_mfnttps/priv-esc_checklist_linux.md,4c547f1301f7e80fe45f6ad0fa5f419ad1998107,CVE-2010-4347
+281259812,MFNttps/mfnttps.github.io,_mfnttps/priv-esc_checklist_linux.md,4c547f1301f7e80fe45f6ad0fa5f419ad1998107,CVE-2016-1247

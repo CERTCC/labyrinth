@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+517085358,ehtec/translatepress-exploit,exploit.txt,90d1ffbc65330125381324181647972e505fb510,CVE-2022-3141
+517085358,ehtec/translatepress-exploit,README.md,cff32b0a49f67274f477767274d202769978b50c,CVE-2022-3141

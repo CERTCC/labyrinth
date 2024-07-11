@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+501026730,dsibilio/follina-spring,README.md,44ff0c25f0bc6b5442e21e0067bc881c771183b5,CVE-2022-30190
+501026730,dsibilio/follina-spring,_GITHUB_REPO_METADATA_,,CVE-2022-30190

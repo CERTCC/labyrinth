@@ -1,0 +1,8 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-W2GC-V2GM-Q7WQ,0.50000000,https://github.com/Vu0r1-sec/CVE-2022-31061,Vu0r1-sec/CVE-2022-31061,522289871
+GHSA-W2GC-V2GM-Q7WQ,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-W2GC-V2GM-Q7WQ,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+GHSA-W2GC-V2GM-Q7WQ,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+GHSA-W2GC-V2GM-Q7WQ,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
+GHSA-W2GC-V2GM-Q7WQ,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-W2GC-V2GM-Q7WQ,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

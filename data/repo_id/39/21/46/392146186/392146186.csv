@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-392146186,254nm/L2X9RebootCore,lib/spigot-1.12.2.jar,d2ac17b08f38f72d594f78dc02951615efc4235c,VU#38
-392146186,254nm/L2X9RebootCore,lib/spigot-1.12.2.jar,d2ac17b08f38f72d594f78dc02951615efc4235c,VU#39
+392146186,254nm/L2X9RebootCore,lib/patched_1.12.2.jar,2f0b70a2a5bedd34faea8f297e7d22d00bc56638,VU#05
+392146186,254nm/L2X9RebootCore,lib/patched_1.12.2.jar,2f0b70a2a5bedd34faea8f297e7d22d00bc56638,VU#38
+392146186,254nm/L2X9RebootCore,lib/patched_1.12.2.jar,2f0b70a2a5bedd34faea8f297e7d22d00bc56638,VU#64

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+706101422,vulncheck-oss/cisco-ios-xe-implant-scanner,implant-scanner.go,ed638d1de8cafc31e36bd15570679878858d022d,CVE-2023-20198

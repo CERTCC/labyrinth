@@ -1,11 +1,15 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-MS99-036,0.00191939,https://github.com/pikpikcu/XRCross,pikpikcu/XRCross,271491397
+MS99-036,0.00190114,https://github.com/pikpikcu/XRCross,pikpikcu/XRCross,271491397
 MS99-036,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 MS99-036,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_detection,196969345
 MS99-036,0.00159744,https://github.com/francisck/DanderSpritz_docs,francisck/DanderSpritz_docs,90116796
 MS99-036,0.00159490,https://github.com/r3p3r/DonnchaC-shadowbrokers-exploits,r3p3r/DonnchaC-shadowbrokers-exploits,115910466
 MS99-036,0.00159490,https://github.com/DonnchaC/shadowbrokers-exploits,DonnchaC/shadowbrokers-exploits,88255514
-MS99-036,0.00157978,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
+MS99-036,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
+MS99-036,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 MS99-036,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS99-036,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS99-036,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+MS99-036,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS99-036,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+MS99-036,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

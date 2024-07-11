@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+664227496,deeexcee-io/CVE-2021-44731-snap-confine-SUID,README.md,7473b9e541df5c24baf3dcedfe40f955c3062843,CVE-2021-44731
+664227496,deeexcee-io/CVE-2021-44731-snap-confine-SUID,_GITHUB_REPO_METADATA_,,CVE-2021-44731

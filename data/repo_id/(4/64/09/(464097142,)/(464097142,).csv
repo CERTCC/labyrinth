@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+464097142,mianbao-and-niunai/Vulnerability-POC-script,乐逍遥武器库-通达OA的注入漏洞分支/通达oa注入漏洞.exe,468062e3acf55a0dafc8c11cb18c4ddc8e759308,VU#09
+464097142,mianbao-and-niunai/Vulnerability-POC-script,乐逍遥武器库-HFS/hfs.exe,799a0837639c6e845a37ebd3d754a180ec0755c6,VU#09

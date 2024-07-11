@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+763860214,arajsingh-infosec/CVE-2022-30525_Exploit,CVE-2022-30525.py,1bd5a061dbf18e8a51dba99ddf6bb4d70dc2d58f,CVE-2022-30525
+763860214,arajsingh-infosec/CVE-2022-30525_Exploit,README.md,788760f3a22d0ec5d652d634d25ed05973c7e872,CVE-2022-30525
+763860214,arajsingh-infosec/CVE-2022-30525_Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-30525

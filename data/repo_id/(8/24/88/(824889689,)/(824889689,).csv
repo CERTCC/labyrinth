@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+824889689,M3str3/OpenEMR-exploits,cve-2021-41843/README.md,1dbf0349fadd4aea5b50b7adebf5e07dadd12739,CVE-2021-41843
+824889689,M3str3/OpenEMR-exploits,cve-2021-41843/pnuserapi.fixed.php,221ccb92a6bd7730911e9ef52cda83a7dc8d5125,CVE-2021-41843
+824889689,M3str3/OpenEMR-exploits,cve-2021-41843/exploit.py,b836b8401d1304d533534cd365ba8b8ea4e548fd,CVE-2021-41843
+824889689,M3str3/OpenEMR-exploits,cve-2018-17179/README.md,bcf04f11ce2c023169446e9d4c355265dea860c3,CVE-2018-17179
+824889689,M3str3/OpenEMR-exploits,cve-2018-17179/taskman_functions.fixed.php,cbf7868470f60ef5f589c862dac692dd57415ca9,CVE-2018-17179
+824889689,M3str3/OpenEMR-exploits,cve-2018-17179/exploit.py,e89cff20e98623e03fbe83d620b5fbe6ca1e09c5,CVE-2018-17179

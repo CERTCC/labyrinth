@@ -1,0 +1,9 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-V6WP-4M6F-GCJG,1.00000000,https://github.com/jharper-sec/sca-benchmark,jharper-sec/sca-benchmark,806759911
+GHSA-V6WP-4M6F-GCJG,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
+GHSA-V6WP-4M6F-GCJG,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,717935231
+GHSA-V6WP-4M6F-GCJG,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
+GHSA-V6WP-4M6F-GCJG,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+GHSA-V6WP-4M6F-GCJG,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-V6WP-4M6F-GCJG,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-V6WP-4M6F-GCJG,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

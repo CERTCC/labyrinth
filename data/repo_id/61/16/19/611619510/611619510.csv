@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+611619510,gibran-abdillah/CVE-2023-23752,README.md,678b80614400f4e1a79727710679e05d7b3ca868,CVE-2023-23752
+611619510,gibran-abdillah/CVE-2023-23752,data/banner.txt,dc8e75dc9aa65322d96f0698ad78bf4d6edec9fe,CVE-2023-23752
+611619510,gibran-abdillah/CVE-2023-23752,_GITHUB_REPO_METADATA_,,CVE-2023-23752

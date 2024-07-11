@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+824544385,sardine-web/CVE-2024-6387-template,CVE-2024-6387.yaml,7a207c0749ee6d916d82fa9dd2cb8152c5c106bb,CVE-2024-6387
+824544385,sardine-web/CVE-2024-6387-template,README.md,a7571066e7f5bf5c2916a7c9a8f5fa6c1d8fa240,CVE-2024-6387
+824544385,sardine-web/CVE-2024-6387-template,_GITHUB_REPO_METADATA_,,CVE-2024-6387

@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2019-08955,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
+CNVD-2019-08955,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+CNVD-2019-08955,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2019-08955,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+529954227,p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write,README.md,1cae58c95698080988e5ec25eed5a02b49c445d1,CVE-2021-31800
+529954227,p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write,exploit_env/Makefile,a9a0411a39744e681cdc7f6e5a22c50aaea9d2bf,CVE-2021-31800
+529954227,p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write,vulnerable_env/Makefile,b339c19a13865c76306a174794942d84835189f0,CVE-2021-31800
+529954227,p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write,_GITHUB_REPO_METADATA_,,CVE-2021-31800

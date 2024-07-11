@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+802826871,Cappricio-Securities/CVE-2020-3187,setup.py,1e77d2cf117d0aa07a46b22b358d8c97d2afe886,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,cve20203187/includes/scan.py,2a32d75f79fbc6961315e95eab4d0fb98c7c06bb,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,cve20203187/main.py,3306d188675438afe6083089abec93bc54560833,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,cve20203187/includes/filereader.py,697b74870596e2f0f180b181c6d9ebff3a038aa4,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,cve20203187/utils/configure.py,944ca44a0cb96a4e4a908ada6cbee08bd559ff53,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,cve20203187/includes/writefile.py,94a1eb48375ebff26c585412382956b341f6fd9d,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,cve20203187/utils/const.py,a5f290c75ee2d1c6dabdf3cd8556b59b142d20af,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,cve20203187/utils/helpers.py,d12450dc5074e82992c6e4ec66c42cfc7fbd521c,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,README.md,ee7c58e240a15edae04f75df649de6cbac60a344,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,cve20203187/includes/bot.py,f39729f01488190c341e23dd66fb2dcf8a6a1dcb,CVE-2020-3187
+802826871,Cappricio-Securities/CVE-2020-3187,_GITHUB_REPO_METADATA_,,CVE-2020-3187

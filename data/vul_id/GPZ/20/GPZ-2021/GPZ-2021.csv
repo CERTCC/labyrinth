@@ -2,3 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-2021,0.50000000,https://github.com/sv3nbeast/CVE-2020-5260,sv3nbeast/CVE-2020-5260,256267905
 GPZ-2021,0.50000000,https://github.com/Asgavar/CVE-2020-5260,Asgavar/CVE-2020-5260,255896500
 GPZ-2021,0.50000000,https://github.com/brompwnie/cve-2020-5260,brompwnie/cve-2020-5260,255880212
+GPZ-2021,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

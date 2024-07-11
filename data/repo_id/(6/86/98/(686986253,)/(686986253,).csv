@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+686986253,vulncheck-oss/fetch-broker-conf,README.md,e4cd617daf72321f93e215d1439db343b2223b98,CVE-2023-33246
+686986253,vulncheck-oss/fetch-broker-conf,_GITHUB_REPO_METADATA_,,CVE-2023-33246

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+783727950,huan-cdm/fastjson_rce,fastjson-exploit.jar,6bbbb5758824ca50d2b1833752b5bf0b0cbf64b5,VU#37
+783727950,huan-cdm/fastjson_rce,fastjson-exploit.jar,6bbbb5758824ca50d2b1833752b5bf0b0cbf64b5,VU#83

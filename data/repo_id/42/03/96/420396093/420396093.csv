@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
+420396093,7Rocky/HackTheBox-scripts,Machines/NodeBlog/README.md,0e4212a4c885c28795e7ff94e3c6d2a2813e895e,CVE-2017-5941
 420396093,7Rocky/HackTheBox-scripts,Machines/Monitors/README.md,7d02d0c8c619a8a0a85c8d9724d3a63a26ff6c6a,CVE-2020-9496
+420396093,7Rocky/HackTheBox-scripts,Machines/BountyHunter/README.md,a34d95656e8aedee65fc4f048a3257d927218248,VU#29
 420396093,7Rocky/HackTheBox-scripts,Machines/Horizontall/README.md,b5bd67fa533969e3b2e873a2b4166dfafde0d44c,CVE-2019-18818
 420396093,7Rocky/HackTheBox-scripts,Machines/Horizontall/README.md,b5bd67fa533969e3b2e873a2b4166dfafde0d44c,CVE-2019-19069
 420396093,7Rocky/HackTheBox-scripts,Machines/Horizontall/README.md,b5bd67fa533969e3b2e873a2b4166dfafde0d44c,CVE-2019-19609
-420396093,7Rocky/HackTheBox-scripts,Machines/BountyHunter/README.md,ef2b90d0a1a8a4eaec2a5662e408696c049094c1,VU#29
-420396093,7Rocky/HackTheBox-scripts,Machines/NodeBlog/README.md,ff5ebdf8ec23799ad10702657f2153dc20f7cb08,CVE-2017-5941

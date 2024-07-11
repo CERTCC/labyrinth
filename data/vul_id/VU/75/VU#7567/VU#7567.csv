@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#7567,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
+VU#7567,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343

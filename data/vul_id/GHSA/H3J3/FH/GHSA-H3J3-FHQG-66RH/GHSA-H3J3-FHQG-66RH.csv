@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-H3J3-FHQG-66RH,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-4428,Live-Hack-CVE/CVE-2022-4428,587879829
+GHSA-H3J3-FHQG-66RH,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-H3J3-FHQG-66RH,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+751072561,MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation,README.md,c25ec3533ddcf10f01c6505017e5f6d205655b7d,CVE-2019-13272
+751072561,MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation,_GITHUB_REPO_METADATA_,,CVE-2019-13272

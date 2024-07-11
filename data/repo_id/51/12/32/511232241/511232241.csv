@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+511232241,infobyte/cve-2022-27255,DEFCON/slides.pdf,6fb65d3f45abb487dcdf9d503b6b13c0f88208c1,CVE-2022-27255
+511232241,infobyte/cve-2022-27255,ghidra_scripts/firmware_vulnerability_checker.py,90881409b3e965c41dabd46c708616b30e35bd9a,CVE-2022-27255
+511232241,infobyte/cve-2022-27255,README.md,b58dc1d097fab981e58052f02f26b33dfeef8e89,CVE-2022-27255
+511232241,infobyte/cve-2022-27255,DEFCON/poc.mp4,ff79ebcede809b92392849c24580feb1a2e41ac4,VU#16
+511232241,infobyte/cve-2022-27255,_GITHUB_REPO_METADATA_,,CVE-2022-27255

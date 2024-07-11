@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+804610274,xmehulx/log4j-playground,ldap-server/unboundid-ldapsdk.jar,50debc4e945b166fdbc24eda907cfd796a4fbdb8,VU#34
+804610274,xmehulx/log4j-playground,README.md,aea4b8a4ee4fbdf7312feac97afe1007aa5abba4,CVE-2021-44228

@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-23-233,0.00083612,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+ZDI-23-233,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+ZDI-23-233,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+ZDI-23-233,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+ZDI-23-233,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-23-233,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

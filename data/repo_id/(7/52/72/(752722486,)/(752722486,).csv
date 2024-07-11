@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+752722486,mbadanoiu/CVE-2019-1332,Microsoft SQL Server Reporting Services - CVE-2019-1332.pdf,a2ce7f618dc9e6f3736f510acb47039768fc9331,CVE-2019-1332
+752722486,mbadanoiu/CVE-2019-1332,README.md,c8e4d03f8670c4b5d67ff5132f30dba4b4cc9870,CVE-2019-1332
+752722486,mbadanoiu/CVE-2019-1332,_GITHUB_REPO_METADATA_,,CVE-2019-1332

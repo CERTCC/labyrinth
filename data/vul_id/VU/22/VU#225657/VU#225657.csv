@@ -1,3 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#225657,0.20000000,https://github.com/martapanc/SATD-replication-package,martapanc/SATD-replication-package,94113844
 VU#225657,0.00139276,https://github.com/viertel/SecurityCodeRepository,viertel/SecurityCodeRepository,277093791
+VU#225657,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#225657,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#225657,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

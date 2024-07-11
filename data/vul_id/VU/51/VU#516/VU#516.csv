@@ -1,2 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#516,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
+VU#516,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
+VU#516,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
+VU#516,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#516,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
+VU#516,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
+VU#516,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
+VU#516,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
+VU#516,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
+VU#516,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685

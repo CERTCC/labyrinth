@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+567539935,trhacknon/exploit-grafana-CVE-2021-43798,README.md,e275ab77aa937e9aff6f1bddccbca0c5046e41e9,CVE-2021-43798
+567539935,trhacknon/exploit-grafana-CVE-2021-43798,_GITHUB_REPO_METADATA_,,CVE-2021-43798

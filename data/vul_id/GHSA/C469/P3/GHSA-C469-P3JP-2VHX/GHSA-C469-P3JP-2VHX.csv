@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-C469-P3JP-2VHX,0.01886792,https://github.com/hideckies/exploit-notes,hideckies/exploit-notes,568456034

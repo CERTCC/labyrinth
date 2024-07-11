@@ -1,0 +1,6 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-PVXJ-25M6-7VQR,0.50000000,https://github.com/electr0lulz/Mass-CVE-2022-1388,electr0lulz/Mass-CVE-2022-1388,506835397
+GHSA-PVXJ-25M6-7VQR,0.50000000,https://github.com/trhacknon/CVE-2022-1388,trhacknon/CVE-2022-1388,497313238
+GHSA-PVXJ-25M6-7VQR,0.50000000,https://github.com/Al1ex/CVE-2022-1388,Al1ex/CVE-2022-1388,490307613
+GHSA-PVXJ-25M6-7VQR,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-PVXJ-25M6-7VQR,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

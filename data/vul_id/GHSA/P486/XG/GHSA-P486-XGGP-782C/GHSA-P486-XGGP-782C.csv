@@ -1,0 +1,6 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-P486-XGGP-782C,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-32626,Live-Hack-CVE/CVE-2021-32626,583266488
+GHSA-P486-XGGP-782C,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+GHSA-P486-XGGP-782C,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-P486-XGGP-782C,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-P486-XGGP-782C,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

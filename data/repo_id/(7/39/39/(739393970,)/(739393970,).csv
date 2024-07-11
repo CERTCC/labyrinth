@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+739393970,kullaisec/CMS_Made_simple_exploit,http.py,9aa03392976abbc653c9b7e424e63164bedfe4e5,CVE-2018-1000094
+739393970,kullaisec/CMS_Made_simple_exploit,https.py,d56e32895cdc0359ba48f288fec17c9641d0476b,CVE-2018-1000094

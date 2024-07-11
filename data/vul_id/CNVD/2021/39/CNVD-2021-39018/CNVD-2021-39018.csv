@@ -1,0 +1,10 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2021-39018,0.05263158,https://github.com/MzzdToT/HAC_Bored_Writing,MzzdToT/HAC_Bored_Writing,670428048
+CNVD-2021-39018,0.04347826,https://github.com/purple-WL/vulnerability-poc,purple-WL/vulnerability-poc,538845179
+CNVD-2021-39018,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
+CNVD-2021-39018,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+CNVD-2021-39018,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNVD-2021-39018,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+CNVD-2021-39018,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+CNVD-2021-39018,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2021-39018,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

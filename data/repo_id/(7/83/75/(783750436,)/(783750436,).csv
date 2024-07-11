@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+783750436,nickswink/D-Link-NAS-Devices-Unauthenticated-RCE,README.md,9ec40f256b5cf1a3c578af6ca809b863f8e7ed49,CVE-2024-3272
+783750436,nickswink/D-Link-NAS-Devices-Unauthenticated-RCE,README.md,9ec40f256b5cf1a3c578af6ca809b863f8e7ed49,CVE-2024-3273
+783750436,nickswink/D-Link-NAS-Devices-Unauthenticated-RCE,exploit.py,d06f98d45418d09e87db62504736409f9e64a80a,CVE-2024-3272
+783750436,nickswink/D-Link-NAS-Devices-Unauthenticated-RCE,exploit.py,d06f98d45418d09e87db62504736409f9e64a80a,CVE-2024-3273
+783750436,nickswink/D-Link-NAS-Devices-Unauthenticated-RCE,_GITHUB_REPO_METADATA_,,CVE-2024-3272
+783750436,nickswink/D-Link-NAS-Devices-Unauthenticated-RCE,_GITHUB_REPO_METADATA_,,CVE-2024-3273

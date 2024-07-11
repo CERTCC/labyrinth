@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+625439221,0xInfection/EPScalate,epscalate.py,00f73047adccb3465b3dc512ae97ea073b5cd6dd,CVE-2023-31497
+625439221,0xInfection/EPScalate,README.md,5b139736eee9c988d0ce07271f0013c07c8c5553,CVE-2023-31497
+625439221,0xInfection/EPScalate,_GITHUB_REPO_METADATA_,,CVE-2023-31497

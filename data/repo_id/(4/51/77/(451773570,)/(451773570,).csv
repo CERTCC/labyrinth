@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+451773570,nobodyisnobody/docs,qemu.escape.related/CVE-2020-14364/CVE-2020-14364.QEMU.escape.vulnerability.analysis.md,61fbbda101bc04373173c9aa539c09e59d71fe34,CVE-2020-14364
+451773570,nobodyisnobody/docs,qemu.escape.related/CVE-2020-14364/README.md,94043b61f7e9e9224e98b8480d61814efc31a88b,CVE-2020-14364
+451773570,nobodyisnobody/docs,using.stdout.as.a.read.primitive/libc.so.6,e83f9afaff9a8c29aa3ad56f01e689768f765059,VU#30

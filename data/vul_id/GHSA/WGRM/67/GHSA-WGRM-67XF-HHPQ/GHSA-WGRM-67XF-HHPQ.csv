@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-WGRM-67XF-HHPQ,0.50000000,https://github.com/s4vvysec/CVE-2024-4367-POC,s4vvysec/CVE-2024-4367-POC,803533618
+GHSA-WGRM-67XF-HHPQ,0.33333333,https://github.com/LOURC0D3/CVE-2024-4367-PoC,LOURC0D3/CVE-2024-4367-PoC,803221600
+GHSA-WGRM-67XF-HHPQ,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

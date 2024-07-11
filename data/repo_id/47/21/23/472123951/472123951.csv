@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+472123951,DanaEpp/pwncat_dirtypipe,dirtypipe.py,3dd2d455e1c52318abe225f29081175ff02faec2,CVE-2022-0847
+472123951,DanaEpp/pwncat_dirtypipe,README.md,b44152e43fd5a9b958acfd8ec9900c5feee9ec03,CVE-2022-0847
+472123951,DanaEpp/pwncat_dirtypipe,_GITHUB_REPO_METADATA_,,CVE-2022-0847

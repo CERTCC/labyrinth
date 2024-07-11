@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+339679548,ir0nstone/blog-binaries,11 - pie/core,b1b8c2fec6328a301899baa2a09e3243620fb524,VU#16
+339679548,ir0nstone/blog-binaries,14 - ret2plt/core,b745e833007fa4a4d864a28b2dbcdc869c6e1ec1,VU#16
+339679548,ir0nstone/blog-binaries,7 - exploiting with params/core,bd95f50ca3a1e2f1e7a80aa0c12eb81144288842,VU#16

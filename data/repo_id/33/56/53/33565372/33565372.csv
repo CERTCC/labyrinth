@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-33565372,OWASP/Benchmark,results/Benchmark_1.2-ZAPweekly-20150824-18000.xml,ff4cc91304ca34f86c2e4af2d73f6d91d4bcf8eb,CVE-2014-6271
-33565372,OWASP/Benchmark,results/Benchmark_1.2-ZAPweekly-20150824-18000.xml,ff4cc91304ca34f86c2e4af2d73f6d91d4bcf8eb,CVE-2014-7169
+33565372,OWASP-Benchmark/BenchmarkJava,VMs/Dockerfile,d482eb267de7cd6c3adc45f7e294c96b6adeebc3,CVE-2022-24765
+33565372,OWASP-Benchmark/BenchmarkJava,results/Benchmark_1.2-ZAPweekly-20150824-18000.xml,ff4cc91304ca34f86c2e4af2d73f6d91d4bcf8eb,CVE-2014-6271
+33565372,OWASP-Benchmark/BenchmarkJava,results/Benchmark_1.2-ZAPweekly-20150824-18000.xml,ff4cc91304ca34f86c2e4af2d73f6d91d4bcf8eb,CVE-2014-7169

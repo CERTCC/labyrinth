@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+509508596,Davi-afk/jenkins-cve-CVE-2017-2606,changelog.html,6bc9889406d521bd0988fbbbf810e0717edb71a5,CVE-2014-3566
+509508596,Davi-afk/jenkins-cve-CVE-2017-2606,_GITHUB_REPO_METADATA_,,CVE-2017-2606

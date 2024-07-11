@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+471472774,PenTestical/linpwn,README.md,f08cfa60d24bece5a1e8bc5fd64c87cd5578cef3,CVE-2021-4034
+471472774,PenTestical/linpwn,README.md,f08cfa60d24bece5a1e8bc5fd64c87cd5578cef3,CVE-2022-0847

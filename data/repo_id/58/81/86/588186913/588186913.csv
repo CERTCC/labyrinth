@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+588186913,BomberFish/Mandela,Mandela/Common.swift,57e798236e0f4affd673e39cd66e9f07e7d2601d,VU#77
+588186913,BomberFish/Mandela,Mandela/Common.swift,57e798236e0f4affd673e39cd66e9f07e7d2601d,VU#88
+588186913,BomberFish/Mandela,Mandela/vm_unaligned_copy_switch_race.h,5d5706e590e6d465d75c9a3c6f9d17842c6ed4fb,CVE-2022-46689
+588186913,BomberFish/Mandela,README.md,61a5f556c6bd5b87e09995d139849da60789f9ec,CVE-2022-46689
+588186913,BomberFish/Mandela,HACKING.md,c9e7753237bf9f91ec07221c06f57b5db16dbfd0,CVE-2022-46689
+588186913,BomberFish/Mandela,Mandela/tccd-hijack.m,ed890438b5eb387486582448ca4cd4204819272f,CVE-2022-46689
+588186913,BomberFish/Mandela,_GITHUB_REPO_METADATA_,,CVE-2022-46689

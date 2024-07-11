@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+508673590,flux10n/CVE-2022-0847-DirtyPipe-Exploits,exploit-2.c,3d5391884fc45872f1bf5cf30dda63d5681df786,CVE-2022-0847
+508673590,flux10n/CVE-2022-0847-DirtyPipe-Exploits,exploit-1.c,670ac0c6b3d8c451ac8d886af232211629ef15d6,CVE-2022-0847
+508673590,flux10n/CVE-2022-0847-DirtyPipe-Exploits,README.md,b202d7cbfd2cc7b2063f1f15e897e99029e8ef41,CVE-2022-0847
+508673590,flux10n/CVE-2022-0847-DirtyPipe-Exploits,_GITHUB_REPO_METADATA_,,CVE-2022-0847

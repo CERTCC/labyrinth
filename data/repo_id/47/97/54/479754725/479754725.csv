@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+479754725,z3dc0ps/awesome-linux-exploits,cves/CVE-2022-0847.c,1282934ac33de81d4cbf689e58b48f9ef7c7942c,CVE-2022-0847
+479754725,z3dc0ps/awesome-linux-exploits,cves/CVE-2022-0847-1.c,3d5391884fc45872f1bf5cf30dda63d5681df786,CVE-2022-0847
+479754725,z3dc0ps/awesome-linux-exploits,cves/CVE-2021-4034-1.py,5ae5f995e1b07cedb7a9a338901e0007a8e388fc,CVE-2021-4034
+479754725,z3dc0ps/awesome-linux-exploits,cves/CVE-2021-4034-2.py,7d110a02f52934dfa15769b9f163cdeb091d352c,CVE-2021-4034
+479754725,z3dc0ps/awesome-linux-exploits,cves/CVE-2021-4034-2.py,7d110a02f52934dfa15769b9f163cdeb091d352c,VU#205
+479754725,z3dc0ps/awesome-linux-exploits,cves/CVE-2021-4034-2.py,7d110a02f52934dfa15769b9f163cdeb091d352c,VU#40
+479754725,z3dc0ps/awesome-linux-exploits,README.md,ebc0e05c2ed33b45b411f76cbbed334317b046ac,CVE-2021-4034
+479754725,z3dc0ps/awesome-linux-exploits,README.md,ebc0e05c2ed33b45b411f76cbbed334317b046ac,CVE-2022-0847
+479754725,z3dc0ps/awesome-linux-exploits,cves/CVE-2021-4034.py,f2fd05185a599861dc2bb90cf70e73885ae3ee86,CVE-2021-4034

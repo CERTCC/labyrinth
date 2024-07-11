@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+718447846,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20338,util/Patterns.java,97a39416594091f5a07455604ae207a2684d6619,VU#861
+718447846,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20338,_GITHUB_REPO_METADATA_,,CVE-2022-20338

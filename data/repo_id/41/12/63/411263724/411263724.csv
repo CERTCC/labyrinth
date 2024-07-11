@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+411263724,6lyxt/collection-of-exploits,wp-overload-single.py,248b6c55d9f34a6a6f2a091faeea5ab28bb7a5ce,CVE-2018-6389
+411263724,6lyxt/collection-of-exploits,README.md,788dd266387437e2397d1051debec76df5387c67,CVE-2018-6389

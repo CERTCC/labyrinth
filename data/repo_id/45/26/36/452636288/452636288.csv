@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+452636288,evdenis/lsm_bpf_check_argc0,README.md,370deb447ae141aab386d610ca70f847ecc8fee0,CVE-2021-4034
+452636288,evdenis/lsm_bpf_check_argc0,doc/ru_LSM_BPF_pwnkit.pdf,40f7c01637001c9d08278dd06694f081be4c290b,CVE-2021-4034
 452636288,evdenis/lsm_bpf_check_argc0,_GITHUB_REPO_METADATA_,,CVE-2021-4034

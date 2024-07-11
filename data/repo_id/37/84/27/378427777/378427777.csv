@@ -1,4 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-378427777,8ypass/weblogicExploit,README.md,574841c9ebc2a39a62665c582c9dcbc5b36df8bd,CVE-2018-3191
-378427777,8ypass/weblogicExploit,README.md,574841c9ebc2a39a62665c582c9dcbc5b36df8bd,CVE-2018-3245
-378427777,8ypass/weblogicExploit,README.md,574841c9ebc2a39a62665c582c9dcbc5b36df8bd,CVE-2020-2551
+378427777,8ypass/weblogicExploit,README.md,bea7de45c48c169c1efbe63e55220fca40348f7d,CVE-2018-3191
+378427777,8ypass/weblogicExploit,README.md,bea7de45c48c169c1efbe63e55220fca40348f7d,CVE-2018-3245
+378427777,8ypass/weblogicExploit,README.md,bea7de45c48c169c1efbe63e55220fca40348f7d,CVE-2020-14645
+378427777,8ypass/weblogicExploit,README.md,bea7de45c48c169c1efbe63e55220fca40348f7d,CVE-2020-14756
+378427777,8ypass/weblogicExploit,README.md,bea7de45c48c169c1efbe63e55220fca40348f7d,CVE-2020-2551
+378427777,8ypass/weblogicExploit,README.md,bea7de45c48c169c1efbe63e55220fca40348f7d,CVE-2021-2394

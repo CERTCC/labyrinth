@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+652809004,buka-pitch/Exploit-for-WordPress-Theme-Workreap-2.2.2,README.md,a623d74f07420613ef196b8f18d2531dddf87313,CVE-2021-24499
+652809004,buka-pitch/Exploit-for-WordPress-Theme-Workreap-2.2.2,exploit.py,d882c1bb48e3f0cc1addfd6f0e3df8014536d782,CVE-2021-24499

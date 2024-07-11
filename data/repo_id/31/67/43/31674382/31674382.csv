@@ -35,7 +35,7 @@ repo_id,repo_full_name,file,file_sha1,match
 31674382,offensive-security/exploitdb-bin-sploits,bin-sploits/13787.tar.enc,261cd907bcd4678bff9fc6d6f1c5b99a41b2040d,VU#97
 31674382,offensive-security/exploitdb-bin-sploits,bin-sploits/13787.tar.enc,261cd907bcd4678bff9fc6d6f1c5b99a41b2040d,VU#36
 31674382,offensive-security/exploitdb-bin-sploits,bin-sploits/15158.zip,29289188137f48db20bb6a7951bc11a507bf7aa5,VU#89
-31674382,offensive-security/exploitdb-bin-sploits,bin-sploits/_orphan/CVE-2019-2107-master.zip,2951f1b91483ddad59605aecac6d3568d49d3497,CVE-2019-2107
+31674382,offensive-security/exploitdb-bin-sploits,bin-sploits/_orphan/47157.zip,2951f1b91483ddad59605aecac6d3568d49d3497,CVE-2019-2107
 31674382,offensive-security/exploitdb-bin-sploits,bin-sploits/47933.zip,299d1ddfe27202846eb0f5d28cd72f20a18d66ca,CVE-2020-0601
 31674382,offensive-security/exploitdb-bin-sploits,bin-sploits/37877.zip,2af564964c2154a32ffe9db8bd2a625bd3703f87,VU#730
 31674382,offensive-security/exploitdb-bin-sploits,bin-sploits/47270.zip,2c9122416aa5339e0a72999d01ddc5d55e5ab0e0,VU#265

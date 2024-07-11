@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip/_vendor/certifi/cacert.pem,7e785afc6a7174f008b8b6e775c91c018d72aee3,VU#33
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip/_vendor/certifi/cacert.pem,7e785afc6a7174f008b8b6e775c91c018d72aee3,VU#37
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip/_vendor/certifi/cacert.pem,7e785afc6a7174f008b8b6e775c91c018d72aee3,VU#396
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip/_vendor/certifi/cacert.pem,7e785afc6a7174f008b8b6e775c91c018d72aee3,VU#49
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip/_vendor/certifi/cacert.pem,7e785afc6a7174f008b8b6e775c91c018d72aee3,VU#65
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip/_vendor/certifi/cacert.pem,7e785afc6a7174f008b8b6e775c91c018d72aee3,VU#82
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip/_vendor/certifi/cacert.pem,7e785afc6a7174f008b8b6e775c91c018d72aee3,VU#84
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip/_vendor/certifi/cacert.pem,7e785afc6a7174f008b8b6e775c91c018d72aee3,VU#85
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip-20.1.1.dist-info/RECORD,c98e3bf44ab73d191c8ff4a3175d0928fc3f6245,VU#55
+602042663,Glottocrisio/IKG4CH,env/Lib/site-packages/pip-20.1.1.dist-info/RECORD,c98e3bf44ab73d191c8ff4a3175d0928fc3f6245,VU#96

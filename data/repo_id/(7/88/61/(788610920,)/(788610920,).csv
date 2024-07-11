@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+788610920,JoseLRC97/Ruby-on-Rails-ActionPack-Inline-ERB-Remote-Code-Execution,README.md,c51d4adc68495309be0b19c5a84d856158b6dc1f,CVE-2016-2098
+788610920,JoseLRC97/Ruby-on-Rails-ActionPack-Inline-ERB-Remote-Code-Execution,Ruby_On_Rails_ActionPack_Inline_ERB-Remote_Code_Execution.py,e5931dd50e9e33bdd1c6b30863dd1763979d7c81,CVE-2016-2098
+788610920,JoseLRC97/Ruby-on-Rails-ActionPack-Inline-ERB-Remote-Code-Execution,_GITHUB_REPO_METADATA_,,CVE-2016-2098

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+764866619,BishopFox/cve-2024-21762-check,check-cve-2024-21762.py,68cdfc6f1fdde8eec959cadddf3a8d92bf5e0960,CVE-2024-21762
+764866619,BishopFox/cve-2024-21762-check,README.md,be4d34b8c90d5575a2934407fdf39e21536d36ef,CVE-2024-21762
+764866619,BishopFox/cve-2024-21762-check,_GITHUB_REPO_METADATA_,,CVE-2024-21762

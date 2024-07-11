@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+491736672,frostb1ten/RustSploit,plugins/CVE-2020-3452,245543ac5f5bbf84b2f7859a1de2930754a4b01d,CVE-2020-3452
+491736672,frostb1ten/RustSploit,plugins/CVE-2022-1388,2f2754a6c6c2bc558ae0fba49992d131946b5d4f,CVE-2022-1388
+491736672,frostb1ten/RustSploit,plugins/CVE-2020-5902,4f503647884edddf72b1240b53bc83b0917298f1,CVE-2020-5902

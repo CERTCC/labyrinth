@@ -1,0 +1,14 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#8888,0.11111111,https://github.com/xzx482/CVE-2024-1086,xzx482/CVE-2024-1086,824093061
+VU#8888,0.11111111,https://github.com/Notselwyn/CVE-2024-1086,Notselwyn/CVE-2024-1086,775151369
+VU#8888,0.05555556,https://github.com/brutexploiter/CVEHunt,brutexploiter/CVEHunt,819386815
+VU#8888,0.04761905,https://github.com/elefantesagradodeluzinfinita/exploits,elefantesagradodeluzinfinita/exploits,268221956
+VU#8888,0.04000000,https://github.com/DarkSynx/PhpInterface,DarkSynx/PhpInterface,591885378
+VU#8888,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
+VU#8888,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#8888,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
+VU#8888,0.00307692,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#8888,0.00271739,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
+VU#8888,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
+VU#8888,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
+VU#8888,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685

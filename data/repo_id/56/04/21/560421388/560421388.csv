@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+560421388,xcl1pper/hackthebox-scripts,Horizontall/horizontall.py,41eb11c1ef3970057b01f871d5ff0eaede152126,CVE-2019-18818
+560421388,xcl1pper/hackthebox-scripts,Horizontall/horizontall.py,41eb11c1ef3970057b01f871d5ff0eaede152126,CVE-2019-19609

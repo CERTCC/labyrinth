@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+603146964,retrymp3/apache2.4.49VulnerableLabSetup,README.md,8623ded1aca71245c9f0a1278b1c4492df4582a0,CVE-2021-41773
+603146964,retrymp3/apache2.4.49VulnerableLabSetup,_GITHUB_REPO_METADATA_,,CVE-2021-41773

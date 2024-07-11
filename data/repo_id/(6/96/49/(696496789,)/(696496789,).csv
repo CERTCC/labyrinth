@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+696496789,IdanBanani/ELF-Injection-Shellcode-Bridgehead,README.md,98966986d30d9505f3b55f209163501eb5ba830a,CVE-2022-34918

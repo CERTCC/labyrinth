@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-M98G-63QJ-FP8J,0.50000000,https://github.com/ndmalc/CVE-2021-20323,ndmalc/CVE-2021-20323,575588355
+GHSA-M98G-63QJ-FP8J,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+GHSA-M98G-63QJ-FP8J,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+GHSA-M98G-63QJ-FP8J,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-M98G-63QJ-FP8J,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-M98G-63QJ-FP8J,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

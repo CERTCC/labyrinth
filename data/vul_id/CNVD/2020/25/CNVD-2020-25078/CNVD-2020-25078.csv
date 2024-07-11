@@ -1,3 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2020-25078,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
 CNVD-2020-25078,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-CNVD-2020-25078,0.00217865,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+CNVD-2020-25078,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
+CNVD-2020-25078,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
+CNVD-2020-25078,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685

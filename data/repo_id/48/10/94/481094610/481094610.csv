@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+481094610,osy/WebcamViewer,README.md,47c94cd6003e80e3bfcd64099320f220e7fb51f4,CVE-2021-30731
+481094610,osy/WebcamViewer,0001-darwin-disable-entitlement-check.patch,4fe8d47cbb9fef6e8ee5c473dbdd6b00c30fa3d5,CVE-2021-30731
+481094610,osy/WebcamViewer,_GITHUB_REPO_METADATA_,,CVE-2021-30731

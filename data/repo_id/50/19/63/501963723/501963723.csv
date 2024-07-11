@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+501963723,warmachine-57/CVE-2021-44582,Privilege Escalation via Forced Browsing in Sourcecodester Money Transfer Management System,49c2896574c1d749e09229087a5b32f2ae2a6cac,CVE-2021-44582
+501963723,warmachine-57/CVE-2021-44582,_GITHUB_REPO_METADATA_,,CVE-2021-44582

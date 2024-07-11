@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+753499093,charonlight/SpringExploitGUI,README.md,01061ea4e500462bac26b98f5e291a81d1e50e38,CVE-2022-22947
+753499093,charonlight/SpringExploitGUI,README.md,01061ea4e500462bac26b98f5e291a81d1e50e38,CVE-2022-22963
+753499093,charonlight/SpringExploitGUI,README.md,01061ea4e500462bac26b98f5e291a81d1e50e38,CVE-2022-22965

@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#17
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#20
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#32
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#33
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#396
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#49
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#53
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#65
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#82
+727771886,Shiranuit/node-executable-app-exploit-poc,malware/assets/node.exe,ebf258e2567f9eb9f2daad3da810811d94825b59,VU#85

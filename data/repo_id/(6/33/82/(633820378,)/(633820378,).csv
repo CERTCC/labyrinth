@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+633820378,ait-testbed/attackmate,playbook.yml,18696bf8c0e81b89e28c9beba0827ceee13ff637,CVE-2021-4034
+633820378,ait-testbed/attackmate,examples/webserv.yml,2c2dbf5a04b43e1f825c8f503f5086003b30f73f,CVE-2012-1823
+633820378,ait-testbed/attackmate,docs/source/playbook/commands/msf-module.rst,48f68c29c629860e6d559cb49198854203670db2,CVE-2021-4034

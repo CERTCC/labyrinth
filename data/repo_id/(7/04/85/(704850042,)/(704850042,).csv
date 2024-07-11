@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+704850042,tarihub/blackjump,README.md,4997fb144d73bc48a3daa37ea174927a92b4db23,CVE-2023-42442
+704850042,tarihub/blackjump,README.md,4997fb144d73bc48a3daa37ea174927a92b4db23,CVE-2023-42820
+704850042,tarihub/blackjump,README_en.md,8de02e6cc881c48d6b16efc0f714683a8331c89e,CVE-2023-42442
+704850042,tarihub/blackjump,README_en.md,8de02e6cc881c48d6b16efc0f714683a8331c89e,CVE-2023-42820
+704850042,tarihub/blackjump,blackjump.py,d4d79c8d7308088017aef4d41c45b30c939905fb,CVE-2023-42442
+704850042,tarihub/blackjump,blackjump.py,d4d79c8d7308088017aef4d41c45b30c939905fb,CVE-2023-42820
+704850042,tarihub/blackjump,_GITHUB_REPO_METADATA_,,CVE-2023-42442
+704850042,tarihub/blackjump,_GITHUB_REPO_METADATA_,,CVE-2023-42820

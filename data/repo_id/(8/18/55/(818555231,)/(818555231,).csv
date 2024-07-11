@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+818555231,edenberger/redk8s,static/kubesploitServer-Linux-x64,455559ab5dfca8b6b1cfffa12004ea3e5793ecbb,VU#95
+818555231,edenberger/redk8s,static/kubesploitAgent-Linux-x64,63e3b204f650ee50be67b344fdbe7b99efee6a08,VU#95
+818555231,edenberger/redk8s,static/auger,659ca104be990e1c22b089532806e2a6e85ab2be,VU#322
+818555231,edenberger/redk8s,static/auger,659ca104be990e1c22b089532806e2a6e85ab2be,VU#98

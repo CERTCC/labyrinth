@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+531406394,greek0x0/CVE-2022-30526,zyxel_suid_cp_lpe.rb,04150209ea7aaad5c702a777c7673cb3821eecd0,CVE-2022-30525
+531406394,greek0x0/CVE-2022-30526,zyxel_suid_cp_lpe.rb,04150209ea7aaad5c702a777c7673cb3821eecd0,CVE-2022-30526
+531406394,greek0x0/CVE-2022-30526,_GITHUB_REPO_METADATA_,,CVE-2022-30526

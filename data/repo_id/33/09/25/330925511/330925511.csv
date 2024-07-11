@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-330925511,gh0st27/Struts2Scanner,readme.md,a83f489f01d234c8ae110317cce61371eae30447,CVE-2017-5638
-330925511,gh0st27/Struts2Scanner,readme.md,a83f489f01d234c8ae110317cce61371eae30447,CVE-2017-9791
-330925511,gh0st27/Struts2Scanner,readme.md,a83f489f01d234c8ae110317cce61371eae30447,CVE-2018-11776
-330925511,gh0st27/Struts2Scanner,readme.md,a83f489f01d234c8ae110317cce61371eae30447,CVE-2019-0230
-330925511,gh0st27/Struts2Scanner,readme.md,a83f489f01d234c8ae110317cce61371eae30447,CVE-2020-17530
+330925511,gh0st27/Struts2Scanner,readme.md,96b6f49dbbd79e5675be3f092af754a27dbead3a,CVE-2017-5638
+330925511,gh0st27/Struts2Scanner,readme.md,96b6f49dbbd79e5675be3f092af754a27dbead3a,CVE-2017-9791
+330925511,gh0st27/Struts2Scanner,readme.md,96b6f49dbbd79e5675be3f092af754a27dbead3a,CVE-2018-11776
+330925511,gh0st27/Struts2Scanner,readme.md,96b6f49dbbd79e5675be3f092af754a27dbead3a,CVE-2019-0230
+330925511,gh0st27/Struts2Scanner,readme.md,96b6f49dbbd79e5675be3f092af754a27dbead3a,CVE-2020-17530
 330925511,gh0st27/Struts2Scanner,Struts2Scanner.py,fa5a05792f90e64518fa4b1512241a70aa27e738,CVE-2018-11776

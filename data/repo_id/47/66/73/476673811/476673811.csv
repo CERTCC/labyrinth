@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+476673811,talentsec/Spring-Cloud-Gateway-CVE-2022-22947,README.md,617b037662418fcadfe8e6db5442d9b2546c5703,CVE-2022-22947
+476673811,talentsec/Spring-Cloud-Gateway-CVE-2022-22947,Spring-CVE-2022-22947-POC.py,696628372c6825c86ed7b3658fe9fe665dd8c966,CVE-2022-22947
+476673811,talentsec/Spring-Cloud-Gateway-CVE-2022-22947,_GITHUB_REPO_METADATA_,,CVE-2022-22947

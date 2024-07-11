@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,image/Makefile,0038e31dbad9224df26c7ee14ffd530fb1d7b2b4,CVE-2021-44228
-438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,image/ship-to/log4j-cve-2021-44228-hotpatch-1.1-3.amzn2.noarch.rpm,1484e9b6693cf9781becdbf2773493cdb7b68b3e,CVE-2021-44228
-438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,image/ship-to/log4j-cve-2021-44228-hotpatch-1.1-3.amzn2.noarch.rpm,1484e9b6693cf9781becdbf2773493cdb7b68b3e,VU#33
-438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,image/ship-to/log4j-cve-2021-44228-hotpatch-1.1-3.amzn1.noarch.rpm,4142da9bef5e71906c0d9f7b60ee8604167f9757,CVE-2021-44228
-438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,daemonset.yaml,55a5044e779fbceed6ee9190b09157630d4844ff,CVE-2021-44228
-438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,README.md,d59e2e678b5625a8686e3de26b319e854ab5e4d1,CVE-2021-44228
+438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,image/Makefile,0fb6087419228b59d755a01b647a0bc7b9b1bd4b,CVE-2021-44228
+438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,README.md,48ad2e2441b9899f3dce20e44356adb52a247b6a,CVE-2021-44228
+438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,README.md,48ad2e2441b9899f3dce20e44356adb52a247b6a,CVE-2021-45046
+438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,image/ship-to/log4j-cve-2021-44228-hotpatch-1.3-5.amzn1.noarch.rpm,4a984ce290f5f81a78c854dca947e3f6a6be1810,CVE-2021-44228
+438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,daemonset.yaml,722aa8ce3b7758d0c9a278a3277d5211c212ef34,CVE-2021-44228
+438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,image/ship-to/log4j-cve-2021-44228-hotpatch-1.3-5.amzn2.noarch.rpm,ae798815d5213285bade7b80bc049db4a03721e4,CVE-2021-44228
 438761150,aws-samples/kubernetes-log4j-cve-2021-44228-node-agent,_GITHUB_REPO_METADATA_,,CVE-2021-44228

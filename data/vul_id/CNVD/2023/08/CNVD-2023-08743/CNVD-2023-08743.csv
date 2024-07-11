@@ -1,0 +1,8 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2023-08743,0.20000000,https://github.com/Answerzzzy/POC_EXP_Python_Vulnerability_scanning,Answerzzzy/POC_EXP_Python_Vulnerability_scanning,813649965
+CNVD-2023-08743,0.05263158,https://github.com/Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,813661625
+CNVD-2023-08743,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+CNVD-2023-08743,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNVD-2023-08743,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+CNVD-2023-08743,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2023-08743,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

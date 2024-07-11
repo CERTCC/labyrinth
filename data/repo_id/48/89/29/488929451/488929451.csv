@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+488929451,numanturle/CVE-2022-1388,README.md,36c0dcc014715d8a5dc6a0eacaa8d8078633ebaa,CVE-2022-1388
+488929451,numanturle/CVE-2022-1388,bigip-icontrol-rest-rce.yaml,425161514de7e4dae752c0672d7d6d1b89a3d457,CVE-2022-1388
+488929451,numanturle/CVE-2022-1388,_GITHUB_REPO_METADATA_,,CVE-2022-1388

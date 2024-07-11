@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+603301567,T1erno/CVE-2022-0492-Docker-Breakout-Checker-and-PoC,CVE-2022-0492.sh,0a8c4aff14bf719c00746a8ce4e0ae0948c6370a,CVE-2022-0492
+603301567,T1erno/CVE-2022-0492-Docker-Breakout-Checker-and-PoC,README.md,44964c630bb9024c74a5b810325117037c410961,CVE-2022-0492
+603301567,T1erno/CVE-2022-0492-Docker-Breakout-Checker-and-PoC,_GITHUB_REPO_METADATA_,,CVE-2022-0492

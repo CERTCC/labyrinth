@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+488923685,cve-hunter/CVE-2022-1040-sophos-rce,cve-2022-1040-mass.py,98ca53f3edfae418212445828531f1d704cf4653,CVE-2022-1040
+488923685,cve-hunter/CVE-2022-1040-sophos-rce,README.md,c9664af6a3d67b528ef6db429ee086fd285b48d0,CVE-2022-1040
+488923685,cve-hunter/CVE-2022-1040-sophos-rce,_GITHUB_REPO_METADATA_,,CVE-2022-1040

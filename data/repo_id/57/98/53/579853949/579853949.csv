@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+579853949,nidhihcl/external_expat_2.1.0_CVE-2022-43680,lib/xmlparse.c,5484ec1248fe2f4277dc085e0375e5b357835731,BID-0
+579853949,nidhihcl/external_expat_2.1.0_CVE-2022-43680,lib/xmlparse.c,5484ec1248fe2f4277dc085e0375e5b357835731,BID-1
+579853949,nidhihcl/external_expat_2.1.0_CVE-2022-43680,Changes,9ffd7770a24cc9ffb3e4610836bbef4672fa4af0,CVE-2009-3560
+579853949,nidhihcl/external_expat_2.1.0_CVE-2022-43680,Changes,9ffd7770a24cc9ffb3e4610836bbef4672fa4af0,CVE-2009-3720
+579853949,nidhihcl/external_expat_2.1.0_CVE-2022-43680,Changes,9ffd7770a24cc9ffb3e4610836bbef4672fa4af0,CVE-2012-0876
+579853949,nidhihcl/external_expat_2.1.0_CVE-2022-43680,Changes,9ffd7770a24cc9ffb3e4610836bbef4672fa4af0,CVE-2012-1147
+579853949,nidhihcl/external_expat_2.1.0_CVE-2022-43680,Changes,9ffd7770a24cc9ffb3e4610836bbef4672fa4af0,CVE-2012-1148
+579853949,nidhihcl/external_expat_2.1.0_CVE-2022-43680,Changes,9ffd7770a24cc9ffb3e4610836bbef4672fa4af0,CVE-2022-43680
+579853949,nidhihcl/external_expat_2.1.0_CVE-2022-43680,_GITHUB_REPO_METADATA_,,CVE-2022-43680

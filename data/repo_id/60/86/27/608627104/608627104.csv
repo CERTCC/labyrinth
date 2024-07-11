@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+608627104,HaxorSec1945/cve-exploit,sudoex.py,5be6a23a6a777d62d9a2cf6afc7e9a35d1e88b8b,CVE-2021-3156

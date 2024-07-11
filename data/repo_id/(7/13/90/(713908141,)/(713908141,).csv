@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+713908141,TheF0rceAwak5ns/TheF0rceAwak5ns.github.io,_posts/2024-01-26-Shibboleth.md,52c687586eabb9fe7cc8c134e4e3b78952d73695,CVE-2021-27928
+713908141,TheF0rceAwak5ns/TheF0rceAwak5ns.github.io,_posts/2023-12-06-HACKPARK.md,768f63ba5b48473f3bc6b7d5b2e65d2c3c91f807,CVE-2019-6714
+713908141,TheF0rceAwak5ns/TheF0rceAwak5ns.github.io,_posts/2023-11-11-AGENTSUDO.md,a1684c92ad660f963c1553ca77b7dcb0db783141,CVE-2019-14287

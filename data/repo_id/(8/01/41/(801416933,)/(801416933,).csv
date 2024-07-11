@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+801416933,aravind0x7/MQTT-Vulnerable-Lab,vulnerable-mosquitto.tar,6dbf2ff4557e6a6c2dbea1aab8836a3031a55f0a,CVE-2017-7650
+801416933,aravind0x7/MQTT-Vulnerable-Lab,vulnerable-mosquitto.tar,6dbf2ff4557e6a6c2dbea1aab8836a3031a55f0a,CVE-2017-9868
+801416933,aravind0x7/MQTT-Vulnerable-Lab,vulnerable-mosquitto.tar,6dbf2ff4557e6a6c2dbea1aab8836a3031a55f0a,VU#01
+801416933,aravind0x7/MQTT-Vulnerable-Lab,CVE-2017-7651.py,98205187bce1b44e02e2680014179f7d3eff09cf,CVE-2017-7651

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+737810016,bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252,README.md,1f5756d3d140c6fd361b081248ca78d21154c71e,CVE-2023-28252
+737810016,bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252,x64/Release/clfs_eop.exe,596bc2694ed6ad9e3916be5ed6e66d7ec2ae708e,CVE-2023-28252
+737810016,bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252,_GITHUB_REPO_METADATA_,,CVE-2023-28252

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+648738565,tegal1337/POC,CVE-2001-1473/index.js,81a330ac516f7d0defab61a90af63e4fa0f81cb5,CVE-2001-1473
+648738565,tegal1337/POC,CVE-2023-23752/index.js,d30a8a62586e2e01cfb7a1b85eec09f079862894,CVE-2023-23752

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+463240147,bkojusner/CVE-2021-25461,README.md,34f7b2b97f35b251d2030081928bc26e664a2d4e,CVE-2021-25461
+463240147,bkojusner/CVE-2021-25461,samsung_apaservice_poc.sh,e788e286a99932b1b03e84b1a0d47f4e68e3a596,VU#25
+463240147,bkojusner/CVE-2021-25461,samsung_apaservice_poc.sh,e788e286a99932b1b03e84b1a0d47f4e68e3a596,VU#29
+463240147,bkojusner/CVE-2021-25461,samsung_apaservice_poc.sh,e788e286a99932b1b03e84b1a0d47f4e68e3a596,VU#74
+463240147,bkojusner/CVE-2021-25461,_GITHUB_REPO_METADATA_,,CVE-2021-25461

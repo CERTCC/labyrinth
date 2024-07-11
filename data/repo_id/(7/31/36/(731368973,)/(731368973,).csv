@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+731368973,imhunterand/Exploits,CVE-2010-0249/aurora.py,1d4982c13a9bed0c2a12be98ca7ec966e482114e,CVE-2010-0249
+731368973,imhunterand/Exploits,CVE-2010-0249/aurora.py,1d4982c13a9bed0c2a12be98ca7ec966e482114e,MS10-002
+731368973,imhunterand/Exploits,CVE-2008-4250/ms08_067_netapi.py,3f9319e2987715f3b9047da0825c4b724794f3ca,CVE-2008-4250
+731368973,imhunterand/Exploits,CVE-2008-4250/ms08_067_netapi.py,3f9319e2987715f3b9047da0825c4b724794f3ca,MS08-067
+731368973,imhunterand/Exploits,CVE_2006-6184/attftp_rce.py,447e21095eea9c0a4f85300ba33c7ad73d542adc,CVE-2006-6184
+731368973,imhunterand/Exploits,CVE-2003-0727/oracle9i_xdb_http_pass_rce.py,6fa4a4031ccf608adb23a9d47d4452a95fe9e859,CVE-2003-0727
+731368973,imhunterand/Exploits,CVE_2009-2685/hmp_rce.py,7bdd410370088b1e16737b5e2ad10b26bc9c688d,CVE-2009-2685
+731368973,imhunterand/Exploits,CVE-2003-0727/oracle9i_xdb_ftp_pass_rce.py,e7ee309ac9116ac9b94ca40aaf805e02c847cdac,CVE-2003-0727

@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+494256387,cxzero/CVE-2022-22965-spring4shell,README.md,297906cb32ff09dc3ac1908bb42e957c1bcad56c,CVE-2010-1622
+494256387,cxzero/CVE-2022-22965-spring4shell,README.md,297906cb32ff09dc3ac1908bb42e957c1bcad56c,CVE-2022-22965
+494256387,cxzero/CVE-2022-22965-spring4shell,exploits/exploit4b.py,3afd48d9086898fbe1a771dbceb50ac59f1cf9bb,CVE-2022-22965
+494256387,cxzero/CVE-2022-22965-spring4shell,springmvc5-helloworld-exmaple/src/main/java/net/javaguides/springmvc/helloworld/controller/HelloWorldController.java,df92b6acfcf46d920590eee266b3d66025e9b9cd,CVE-2022-22965
+494256387,cxzero/CVE-2022-22965-spring4shell,springmvc5-helloworld-exmaple/target/example.war,e43bd23c2e5875e04b3ba32b9d9c36c10cbffcd0,VU#26
+494256387,cxzero/CVE-2022-22965-spring4shell,springmvc5-helloworld-exmaple/target/example.war,e43bd23c2e5875e04b3ba32b9d9c36c10cbffcd0,VU#33
+494256387,cxzero/CVE-2022-22965-spring4shell,springmvc5-helloworld-exmaple/target/example.war,e43bd23c2e5875e04b3ba32b9d9c36c10cbffcd0,VU#51
+494256387,cxzero/CVE-2022-22965-spring4shell,springmvc5-helloworld-exmaple/target/example.war,e43bd23c2e5875e04b3ba32b9d9c36c10cbffcd0,VU#63
+494256387,cxzero/CVE-2022-22965-spring4shell,_GITHUB_REPO_METADATA_,,CVE-2022-22965

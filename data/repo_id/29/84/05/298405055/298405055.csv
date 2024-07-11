@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-298405055,FabioDefilippo/linuxallenum,linuxallenum.sh,7b19579afbe1d418b72aab5247794b23eba1bc59,CVE-2021-33909
+298405055,FabioDefilippo/linuxallenum,linuxallenum.sh,07b25c93575b3d6b2423ac96fa1f84f93c0630a2,CVE-2021-33909
+298405055,FabioDefilippo/linuxallenum,linuxallenum.sh,07b25c93575b3d6b2423ac96fa1f84f93c0630a2,CVE-2021-4034

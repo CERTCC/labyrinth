@@ -1,5 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-413924732,hassan-turi/Linux-Privilege-Escalation-Exploits,2021exploit.c,61267488f6b9208882d9f03ddcec5d7a67a0992e,CVE-2021-43267
+413924732,hassan-turi/Linux-Privilege-Escalation-Exploits,Kali 2021 exploit/cve-2021-4034.sh,636089fa2cace9cc33f482d348e9de8cb5cfc571,CVE-2021-4034
 413924732,hassan-turi/Linux-Privilege-Escalation-Exploits,hax.c,93c960a76732f26f7f7faa572e87bdde9e6dee49,CVE-2021-3156
 413924732,hassan-turi/Linux-Privilege-Escalation-Exploits,47163.c,b1f2ceb07ad13804493986fb517c4d6f2b1452cf,CVE-2019-13272
 413924732,hassan-turi/Linux-Privilege-Escalation-Exploits,47163.c,b1f2ceb07ad13804493986fb517c4d6f2b1452cf,GPZ-1903
+413924732,hassan-turi/Linux-Privilege-Escalation-Exploits,Kali Linux 2020 Exploit/README.md,c28175db2f692ef08e30b58e92bda44af7bbafc1,CVE-2021-4034
+413924732,hassan-turi/Linux-Privilege-Escalation-Exploits,2021exploit.c,cb3aa86914c6f449f27e86093557b997f8bc8195,CVE-2021-43267
+413924732,hassan-turi/Linux-Privilege-Escalation-Exploits,Kali 2021 exploit/cve-2021-4034.c,dd1674bb5ef8fb2114be093f11c2a8674fc66fe5,CVE-2021-4034

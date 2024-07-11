@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+577750614,domdom82/h2conn-exploit,README.md,f14ad8641071ec1ece602ac805f0c0fc3d975a1e,CVE-2022-41717
+577750614,domdom82/h2conn-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-41717

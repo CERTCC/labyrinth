@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+593531640,sondermc/git-cveissues,get_gitversion.sh,4b07584700aa37d6550666fc85cfec81fab72630,CVE-2022-23521
+593531640,sondermc/git-cveissues,get_gitversion.sh,4b07584700aa37d6550666fc85cfec81fab72630,CVE-2022-41903
+593531640,sondermc/git-cveissues,get_gitversion.sh,4b07584700aa37d6550666fc85cfec81fab72630,CVE-2022-41953
+593531640,sondermc/git-cveissues,README.md,4ee242cd6924b5b23c389c7dca829da75b0dc79e,CVE-2022-23521
+593531640,sondermc/git-cveissues,README.md,4ee242cd6924b5b23c389c7dca829da75b0dc79e,CVE-2022-41903
+593531640,sondermc/git-cveissues,README.md,4ee242cd6924b5b23c389c7dca829da75b0dc79e,CVE-2022-41953
+593531640,sondermc/git-cveissues,buildDockerimages.sh,f9e545c096ec78030221e5ce75b833380910a9f7,CVE-2022-23521
+593531640,sondermc/git-cveissues,buildDockerimages.sh,f9e545c096ec78030221e5ce75b833380910a9f7,CVE-2022-41903
+593531640,sondermc/git-cveissues,buildDockerimages.sh,f9e545c096ec78030221e5ce75b833380910a9f7,CVE-2022-41953
+593531640,sondermc/git-cveissues,_GITHUB_REPO_METADATA_,,CVE-2022-23521
+593531640,sondermc/git-cveissues,_GITHUB_REPO_METADATA_,,CVE-2022-41903
+593531640,sondermc/git-cveissues,_GITHUB_REPO_METADATA_,,CVE-2022-41953

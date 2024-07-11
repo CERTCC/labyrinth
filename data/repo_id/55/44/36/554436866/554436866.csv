@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+554436866,securekomodo/text4shell-scan,README.md,9d3a9c974e9af687cfbfdd5e3f926557c09b879f,CVE-2022-42889
+554436866,securekomodo/text4shell-scan,text4shell-scan.py,d40d3f0b51ed027c261f2b2bf0fc660cf932a6ef,CVE-2022-42889
+554436866,securekomodo/text4shell-scan,_GITHUB_REPO_METADATA_,,CVE-2022-42889

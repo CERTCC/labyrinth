@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#06
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#12
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#203
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#36
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#53
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#592
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#7098
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#74
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#78
+674706227,kirakundev/exploitHub,shell/alfatihah.php,3f4f7610c29d9829e3b76ae2f49d7f4cd9797225,VU#85
+674706227,kirakundev/exploitHub,shell/raw/kira.php,446fe1ef8c6fd53c569b1b9082512900eeb97482,VU#29
+674706227,kirakundev/exploitHub,rooting/cve/priv.c,94d8bcfd3ccadfc57bf2c7aa67d5f8025d014a71,CVE-2021-4034
+674706227,kirakundev/exploitHub,rooting/cve/ploit,cf34fe6c9052bca60e3e740323d9c4ca8f30d866,CVE-2021-43267

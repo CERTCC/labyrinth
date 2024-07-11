@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+129569913,thehappydinoa/CVE-2018-7600,exploiter.py,9408badb149068b5f1f1717795295683ed4be276,CVE-2018-7600
+129569913,thehappydinoa/CVE-2018-7600,README.md,d0a05119adab6b9c5f7a6dd9a5a8e67557bec861,CVE-2018-7600
+129569913,thehappydinoa/CVE-2018-7600,_GITHUB_REPO_METADATA_,,CVE-2018-7600

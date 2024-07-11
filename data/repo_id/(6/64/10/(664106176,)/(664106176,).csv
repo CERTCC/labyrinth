@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+664106176,Olagold-hackxx/metasploitable2-pentest,informationGathering/Nikto Information.txt,67a5f99e9113c6e148a9f1140c0feaece0da953e,CVE-1999-0678
+664106176,Olagold-hackxx/metasploitable2-pentest,informationGathering/Nikto Information.txt,67a5f99e9113c6e148a9f1140c0feaece0da953e,CVE-2003-1418
+664106176,Olagold-hackxx/metasploitable2-pentest,informationGathering/Nikto Information.txt,67a5f99e9113c6e148a9f1140c0feaece0da953e,OSVDB-12184

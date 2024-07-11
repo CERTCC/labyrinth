@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+350483461,H4rk3nz0/Exploits,disk savvy enterprise/cve-2018-6481.py,2e27cc7a67d647851e181ace8064358aec140467,CVE-2018-6481
+350483461,H4rk3nz0/Exploits,unified remote/unified-remote-web-triggerable-rce.py,9fca20228b814b45f8164508f3cf1653509d91ac,CVE-2023-52252
+350483461,H4rk3nz0/Exploits,seattle lab mail/cve-2003-0264.py,b95ee8c6617825c2dd3973526bb0f925e69456d9,CVE-2003-0264
+350483461,H4rk3nz0/Exploits,easy chat/cve-2004-2466.py,eb631f0f7ed72fcb7ab335c002506ed42e9be11c,CVE-2004-2466

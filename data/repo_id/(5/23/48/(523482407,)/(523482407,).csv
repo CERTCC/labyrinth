@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+523482407,5amu/pocbrowser,src/pocbrowser/scrapers/cvebase.cr,73da7cb28f1b739f8dd08575c98713fb11cb0b54,CVE-2000-1209
+523482407,5amu/pocbrowser,src/pocbrowser/scrapers/cvebase.cr,73da7cb28f1b739f8dd08575c98713fb11cb0b54,CVE-2021-2021

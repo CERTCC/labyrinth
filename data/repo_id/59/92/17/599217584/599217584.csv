@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+599217584,KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit,README.md,99f221d6bb167251eb2e85fff4f34247294d7b3b,CVE-2022-0316
+599217584,KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit,exploit.py,bb4ecbb50bdb814b964c8100677ec74e8fa51d58,CVE-2022-0316
+599217584,KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit,_GITHUB_REPO_METADATA_,,CVE-2022-0316

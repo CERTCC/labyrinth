@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+752760045,AlissonFaoli/Shellshock,shellshock.py,6ba38149912eae91ac26d5754e9b16255f87fb12,CVE-2014-6271
+752760045,AlissonFaoli/Shellshock,README.md,fe95b509a3821ad19765b451e53c46c78f36571a,CVE-2014-6271
+752760045,AlissonFaoli/Shellshock,_GITHUB_REPO_METADATA_,,CVE-2014-6271

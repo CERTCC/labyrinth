@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+470465024,NigmaZ/Pwnable,Pwnable.tw/3_CVE-2018-1160/README.md,3b7039e859376b56d7b40ad7f304f26da9d480ba,CVE-2018-1160
+470465024,NigmaZ/Pwnable,picoCTF/2022_picoCTF/3_CVE_XXXX_XXXX/CVE-2021-34527,6db97ea147f5c6fc344f4fa41684daf25b994fa2,CVE-2021-34527
+470465024,NigmaZ/Pwnable,Pwnable.tw/README.md,7a0c51c3bdeb8d64c715c65b5241dfc35f326916,CVE-2018-1160
+470465024,NigmaZ/Pwnable,Pwnable.tw/3_CVE-2018-1160/images/README.md,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2018-1160
+470465024,NigmaZ/Pwnable,ctflearn/Jenny/Jenny.class,d425771ce692c3f33ce071345f98179bcde6971f,VU#16
+470465024,NigmaZ/Pwnable,ctflearn/Jenny/Jenny.class,d425771ce692c3f33ce071345f98179bcde6971f,VU#569

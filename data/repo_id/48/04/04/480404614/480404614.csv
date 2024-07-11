@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+480404614,sherlocksecurity/VMware-CVE-2022-22954,README.md,922e662b107a7ff4dcf3ef7d8185de63b7c27af5,CVE-2022-22954
+480404614,sherlocksecurity/VMware-CVE-2022-22954,CVE-2022-22954.yaml,d1b2a6bfb98731df2a6d8b048f8c1fc02c3d218d,CVE-2022-22954
+480404614,sherlocksecurity/VMware-CVE-2022-22954,_GITHUB_REPO_METADATA_,,CVE-2022-22954

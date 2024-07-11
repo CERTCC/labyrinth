@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+562485463,redwaysecurity/CVEs,README.md,0f872857266fd7dddb4e688c97be1f43ec12781f,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/README.md,1382120642fa78a0ed71ac610ba7d6ad49c9e60c,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/environment/docker-compose.yml,157afbfc1b5f00bc8bd657b948644f23c888a522,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/exploit/exploit.rb,2d378ce89dc4b284c3a9f733d909883d17e2a487,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/exploit/ysoserial.rb,455c08cc0ecabea0b5f14946f9f8919688fcede4,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/exploit/Gemfile,53f5e81ec2e864466caf498a744f822779dcce41,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/environment/build.sh,8dab6e103c14aa19587dfe70d7b2a4213c6fbaf0,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/exploit/httpwrapper.rb,ac6ab533fce0c91eed418064ed59fe6b18b99e36,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/environment/healthy.sh,add4598b7d842296f31bb49cd95bfaf9e9ba958f,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/exploit/Gemfile.lock,c48d906d6ca35221c2f976936779a04467345324,CVE-2022-2992
+562485463,redwaysecurity/CVEs,CVE-2022-2992/exploit/git-server.rb,ed936c55a8fc5505fa950f24378abcd9162f23ba,CVE-2022-2992

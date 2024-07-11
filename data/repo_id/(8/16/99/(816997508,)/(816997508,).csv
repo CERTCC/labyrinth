@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+816997508,nkontopoul/checkwifivulnerability,README.md,28b3724647a18cad4faf6386444ddfd5b128de1f,CVE-2024-30078
+816997508,nkontopoul/checkwifivulnerability,cveanywindows.py,349b21d0907c0d683cc15860a9c9018ff10caa1f,CVE-2024-30078
+816997508,nkontopoul/checkwifivulnerability,cveanywindows.rar,85dcabed5505b858d26f561b28554bcb15d2a959,VU#91
+816997508,nkontopoul/checkwifivulnerability,CVE.py,9170314d29c697ae2c25f5b3bd8061770e3e7d39,CVE-2024-30078
+816997508,nkontopoul/checkwifivulnerability,_GITHUB_REPO_METADATA_,,CVE-2024-30078

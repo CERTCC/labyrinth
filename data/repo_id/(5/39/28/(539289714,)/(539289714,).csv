@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+539289714,EITSxiaozhai/Exploit_blog,templates/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+539289714,EITSxiaozhai/Exploit_blog,templates/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2015-8080
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-21309
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-32626
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-32627
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-32628
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-32672
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-32675
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-32687
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-32761
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-32762
+539289714,EITSxiaozhai/Exploit_blog,Redis-x64-5.0.14.1/00-RELEASENOTES,9a2caab33da3cb56761da443062fe4ad544110fa,CVE-2021-41099
+539289714,EITSxiaozhai/Exploit_blog,templates/css/main.css,c1ee38b2db440917ff87f0db3ca6a0eee92dfbcd,VU#300
+539289714,EITSxiaozhai/Exploit_blog,templates/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96

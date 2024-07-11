@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+758555813,xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability,CVE-2024-21413.py,d81c157af90bf040db1dbedc1e72c3cf61bb32cd,CVE-2024-21413
+758555813,xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability,README.md,e72881f85a854d857bf4ffe91c210d55060d26b1,CVE-2024-21413
+758555813,xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability,_GITHUB_REPO_METADATA_,,CVE-2024-21413

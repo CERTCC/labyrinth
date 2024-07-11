@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,SharpPrintNightmare/SharpPrintNightmare/.vs/SharpPrintNightmare/v16/.suo,752ef92148838e4f8f04c8cffb3983ad90ba9d4e,CVE-2021-1675
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,README.md,7cdc1363d7604b29ce0fc264ff327d8f0e750a03,CVE-2021-1675
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,README.md,7cdc1363d7604b29ce0fc264ff327d8f0e750a03,CVE-2021-34527
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,SharpPrintNightmare/README.md,986519ee644b7221584f2d9fb86ca6cf62af1a82,CVE-2021-1675
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,SharpPrintNightmare/README.md,986519ee644b7221584f2d9fb86ca6cf62af1a82,CVE-2021-34527
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,CVE-2021-1675.py,9e94cfd5a239e81a2fd6becdaaac31d171ee6bd4,CVE-2021-1675
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,CVE-2021-1675.py,9e94cfd5a239e81a2fd6becdaaac31d171ee6bd4,CVE-2021-34527
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,SharpPrintNightmare/SharpPrintNightmare/SharpPrintNightmare.csproj,a85d550f5bb68541d02a0e651ade9652d22c4926,CVE-2021-1675
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,SharpPrintNightmare/CVE-2021-1675.py,ee5150352ebd6e9ecc1a3a152a8de1f38c0bec79,CVE-2021-1675
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,SharpPrintNightmare/CVE-2021-1675.py,ee5150352ebd6e9ecc1a3a152a8de1f38c0bec79,CVE-2021-34527
+462124046,mtthwstffrd/cube0x0-CVE-2021-1675,_GITHUB_REPO_METADATA_,,CVE-2021-1675

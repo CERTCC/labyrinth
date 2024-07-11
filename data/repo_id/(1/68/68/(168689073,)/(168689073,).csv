@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+168689073,hktalent/exploit-poc,TP-Link TL-WR840N EU v5 Remote Code Execution CVE-2021-41653.docx,3c5a12ff1664118f0d1b816efb52bdc52588e3b4,CVE-2021-41653
+168689073,hktalent/exploit-poc,Unexpected Journey #7 – GravCMS Unauthenticated Arbitrary YAML Write:Update leads to Code Execution (CVE-2021-21425).docx,408706c13781c32e7f530b02f4445b92975c56b1,CVE-2021-21425
+168689073,hktalent/exploit-poc,Pardus 21 Linux发行版-远程代码执行0天2021 CVE-2021-3806.docx,7a1301a90820e888fe02d5792331013374390432,CVE-2021-3806
+168689073,hktalent/exploit-poc,README.md,afcddf069179ad411dfdfd0f45f62fd9b77a35eb,CVE-2022-23221
+168689073,hktalent/exploit-poc,利用CVE-2021-43267.docx,bb9053ca5527ef6582c4ab63b871cd70af98e0d6,CVE-2021-43267
+168689073,hktalent/exploit-poc,CVE-2021-43557 Apache APISIX- Path traversal in request_uri variable.docx,ccb32b1b6a80adfc4dd6576a19c2069c05f82485,CVE-2021-43557
+168689073,hktalent/exploit-poc,分布式哈希表(Distributed Hash Table DHT).pdf,e810c55420ef9263ef00220c3e3902d1b640ff82,VU#59

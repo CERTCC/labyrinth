@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+708193220,wolketich/THM-Writeup,Agent-Sudo/README.md,52fb3721fd6032ed984c52e2f07446a81388223f,CVE-2019-14287
+708193220,wolketich/THM-Writeup,ignite/exploit.py,80277bbf6984356ed974445beace3fbdd31407b0,CVE-2018-16763
+708193220,wolketich/THM-Writeup,Advent-of-Cyber-2020/Day12/README.md,82e24deaeb4115d0b2b8c5ce9e85c1aaaed12a12,CVE-2019-0232

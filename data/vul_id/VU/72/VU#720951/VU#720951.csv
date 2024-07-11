@@ -1,4 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#720951,0.33333333,https://github.com/vishvajeetpatil24/crackssl,vishvajeetpatil24/crackssl,81020507
-VU#720951,0.00048520,https://github.com/takuzoo3868/go-msfdb,takuzoo3868/go-msfdb,241559906
+VU#720951,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#720951,0.00048520,https://github.com/vulsio/go-msfdb,vulsio/go-msfdb,241559906
 VU#720951,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
+VU#720951,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#720951,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#720951,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

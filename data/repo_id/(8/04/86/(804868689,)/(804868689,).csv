@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+804868689,0danny/WndExploits,CVE-2006-3730/README.md,c30c90e90ff8b1e6bc2098806789034a1de2b7c2,CVE-2006-3730
+804868689,0danny/WndExploits,CVE-2006-3730/exploit.html,e5dbf7d4719a2f91f5f95170945475d99bd9af5c,CVE-2006-3730

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+606440872,Longstone-tech/Samba-smbd-3.x--4.x-Exploit,Samba smbd 3.x - 4.x Exploit.rb,69a313d4d323215c13ef386c9e28519ebd00528e,BID-23972
+606440872,Longstone-tech/Samba-smbd-3.x--4.x-Exploit,Samba smbd 3.x - 4.x Exploit.rb,69a313d4d323215c13ef386c9e28519ebd00528e,CVE-2007-2447
+606440872,Longstone-tech/Samba-smbd-3.x--4.x-Exploit,Samba smbd 3.x - 4.x Exploit.rb,69a313d4d323215c13ef386c9e28519ebd00528e,OSVDB-34700

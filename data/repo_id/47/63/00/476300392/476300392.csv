@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+476300392,k3rwin/spring-core-rce,spring-core-rce.py,4553079a2193f9feec2b87b739768f9859881291,CVE-2022-22965
+476300392,k3rwin/spring-core-rce,README.md,d0a7c14bc069a0df52fa9fa2d40b57b05cbb775b,CVE-2022-22965
+476300392,k3rwin/spring-core-rce,_GITHUB_REPO_METADATA_,,CVE-2022-22965

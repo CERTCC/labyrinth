@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+611109201,river-li/awesome-uefi-security,README.md,2fc4857fb53e44a8f019f23b10d42257ccea782e,CVE-2014-8274
+611109201,river-li/awesome-uefi-security,README.md,2fc4857fb53e44a8f019f23b10d42257ccea782e,CVE-2021-28216
+611109201,river-li/awesome-uefi-security,README.md,2fc4857fb53e44a8f019f23b10d42257ccea782e,CVE-2022-21894
+611109201,river-li/awesome-uefi-security,README.md,2fc4857fb53e44a8f019f23b10d42257ccea782e,CVE-2022-3430
+611109201,river-li/awesome-uefi-security,README.md,2fc4857fb53e44a8f019f23b10d42257ccea782e,CVE-2022-3431
+611109201,river-li/awesome-uefi-security,README.md,2fc4857fb53e44a8f019f23b10d42257ccea782e,CVE-2022-3432
+611109201,river-li/awesome-uefi-security,README.md,2fc4857fb53e44a8f019f23b10d42257ccea782e,CVE-2022-4020
+611109201,river-li/awesome-uefi-security,README.md,2fc4857fb53e44a8f019f23b10d42257ccea782e,VU#976132

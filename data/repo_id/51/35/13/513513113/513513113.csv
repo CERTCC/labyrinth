@@ -1,0 +1,19 @@
+repo_id,repo_full_name,file,file_sha1,match
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-0824/cve-2022-0824.md,08a959493b4b83090b022c4afd007f92a50cda8f,CVE-2022-0824
+513513113,KatherineHuangg/metasploit-POC,CVE-2020-14882/環境建置 & cve-2020-14882.md,1673d0f13c2f3e7056f4dbbdfcefc39d2be99d7d,VU#90
+513513113,KatherineHuangg/metasploit-POC,CVE-2020-14882/環境建置 & cve-2020-14882.md,1673d0f13c2f3e7056f4dbbdfcefc39d2be99d7d,CVE-2020-14882
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-26352/dotcms_file_upload_rce.py,2dc21b31452c86de60ad6755fed894a72c5d856e,CVE-2022-26352
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-29464/wso2_file_upload_rce.py,3241c59a35c82dd75fd84b172cccd1823a48a511,CVE-2022-29464
+513513113,KatherineHuangg/metasploit-POC,CVE-2020-14882/oracle_weblogic_rce.py,7720c9b64eda529b925a1c6e39ab77fc16cdd08e,CVE-2020-14882
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-41277/cve-2021-41277.md,b6dce1c6bfca1610b20a6a67ecf63a636cc246a4,GHSA-W73V-6P7P-FPFR
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-41277/cve-2021-41277.md,b6dce1c6bfca1610b20a6a67ecf63a636cc246a4,CVE-2021-41277
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-41277/cve-2021-41277.md,b6dce1c6bfca1610b20a6a67ecf63a636cc246a4,CVE-2022-41277
+513513113,KatherineHuangg/metasploit-POC,README.md,ba9e3c8f23a9947802369cd4a5df7c7e1e11881d,CVE-2022-0824
+513513113,KatherineHuangg/metasploit-POC,README.md,ba9e3c8f23a9947802369cd4a5df7c7e1e11881d,CVE-2022-26352
+513513113,KatherineHuangg/metasploit-POC,README.md,ba9e3c8f23a9947802369cd4a5df7c7e1e11881d,CVE-2020-14882
+513513113,KatherineHuangg/metasploit-POC,README.md,ba9e3c8f23a9947802369cd4a5df7c7e1e11881d,CVE-2022-29464
+513513113,KatherineHuangg/metasploit-POC,README.md,ba9e3c8f23a9947802369cd4a5df7c7e1e11881d,CVE-2021-41277
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-26352/cve-2022-26352.md,c3900bf57d9d885c4367d3886ead1b73c3a07961,CVE-2022-26352
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-29464/cve-2022-29464.md,c9ec43b2e8428dc5049ddad667dedb40da74486e,CVE-2022-29464
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-0824/webmin_revshell.py,e36c41268c2b3a6763ac8ad945978a48baeb538f,CVE-2022-0824
+513513113,KatherineHuangg/metasploit-POC,CVE-2022-41277/metabase_lfi.py,f33d1aab78f1e0dd0be2039377466941cc6474fd,CVE-2022-41277

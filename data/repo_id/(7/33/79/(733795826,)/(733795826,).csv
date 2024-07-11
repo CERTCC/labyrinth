@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+733795826,KharimMchatta/basketcraft,basketcraft.sh,4ae15d25c8503fcc48963283e9741a1d0174f3da,CVE-2023-27163
+733795826,KharimMchatta/basketcraft,README.md,c5a96a274a6ea13e706a5e13925c5539f0b2dde0,CVE-2023-27163
+733795826,KharimMchatta/basketcraft,_GITHUB_REPO_METADATA_,,CVE-2023-27163

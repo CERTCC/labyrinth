@@ -1,0 +1,84 @@
+repo_id,repo_full_name,file,file_sha1,match
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-3754.php,0a3a434628aae7a8c8c002688601c35edca5506f,VU#02
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2010-1297.php,1d85f4e18224201c7771d1d29794072aa174a1ee,VU#29
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2010-1297.php,1d85f4e18224201c7771d1d29794072aa174a1ee,VU#04
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/exploits/003.php,1fb0882fdc028a82904416b1dc983e8db7ff54aa,VU#06
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#71
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#02
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#64
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#82
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#43
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#84
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#14
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#02
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#03
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#25
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#34
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#70
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2008-2992.php,34a52a517d326f022de3eec3f22af1ffbb3c9628,VU#07
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/addRule2.php,3534009067c49955c3aca4f74169b521a5cb859c,VU#42
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#42
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#26
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#11
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#51
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#03
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#05
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#01
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#80
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#877
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/install.php,4fcffe64e95a624158b4a172f5585e994af97145,VU#29
+820706365,Shaku-Med/exploit,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/site.php,54953f522cece18cd69a94b32d1bdccf703740db,MS06-006
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/install.php,55c9e5a0e5fb62deee754bc9e5bae766acc95b45,VU#95
+820706365,Shaku-Med/exploit,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/load.php,5a0fcc0fe47dbc124a912ed55c2e773ef25b4723,MS09-002
+820706365,Shaku-Med/exploit,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/load.php,5a0fcc0fe47dbc124a912ed55c2e773ef25b4723,MS06-006
+820706365,Shaku-Med/exploit,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/readme.txt,5ad599cb776b7414cac92464dc99ba21e0a1be52,MS06-006
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/threadsAjax.php,5d2b927ca7f6b2e58daaf6c703b93205c62f7987,VU#64
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/threadsAjax.php,5d2b927ca7f6b2e58daaf6c703b93205c62f7987,VU#99
+820706365,Shaku-Med/exploit,ExploitKit/Phoenix2.5/2.5/Technical Notes.txt,70f76d148cd14ec22209f8c622bc06e888bfe31c,MS09-002
+820706365,Shaku-Med/exploit,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/fudfiles/exp.php,7162f8b1176176169e4b64b0819402b5c1521cea,MS09-002
+820706365,Shaku-Med/exploit,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/fudfiles/exp.php,7162f8b1176176169e4b64b0819402b5c1521cea,MS06-006
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#66
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#983
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#62
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#528
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#551
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-7274.php,73fe896be5ff3eecc3201bd59b7ca5bfeff0f1cf,VU#77
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/img/icons/countries/index.php,77ff7b5a056e49e5fbd7e48b450e710799f1ed1c,VU#697
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/browser.php,79144432e653e2a422e29a5a7b4dee38cc7aab27,VU#23
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/browser.php,79144432e653e2a422e29a5a7b4dee38cc7aab27,VU#90
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#86
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#5953
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#03
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#51
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#46
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#83
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#93
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#95
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/JavaSignedApplet.php,8733ad3900b9516a299f0dff46f5d33c469daad1,VU#63
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2010-2884.php,8e555d3420368c7af99fa67d1fa153d91a393d52,VU#389
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2010-2884.php,8e555d3420368c7af99fa67d1fa153d91a393d52,VU#32
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/include/shellcode.php,90f5ebaf8e3964363076de968edd40d4f7ffa2bb,VU#815
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/addWidget.php,929562cf7a334922ee36981789e031f21d5dba33,VU#71
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/ioncube/ioncube-loader-helper.php,a017fdaee5f177bc8c83be4f77ce74e66a4fae5d,VU#054
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/db.php,a13958780e0474d8cee3248eae4e4b085ada8816,VU#04
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/db.php,a13958780e0474d8cee3248eae4e4b085ada8816,VU#70
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/exploits/004.php,afa089afcf5ffcfc7683d74b9e40b8796122dd81,VU#90
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/login.php,b87c24be38cde0ffe4eda2cc9c6dba7fe8f94434,VU#55
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/sc.php,b9bae935f2635c838fdb3694eac6a5ad9687a63a,VU#00
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/include/ip2c.php,c20b72773ed899affb4267a73dde936903a02409,VU#51
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/filesAjax.php,c57b839b357bdfc2acc10f4a32fa578897c90614,VU#45
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/filesAjax.php,c57b839b357bdfc2acc10f4a32fa578897c90614,VU#682
+820706365,Shaku-Med/exploit,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/exp.php,c788ff097a6dfcf14dc5cc5a98a3f65e5b479b0f,MS09-002
+820706365,Shaku-Med/exploit,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/exp.php,c788ff097a6dfcf14dc5cc5a98a3f65e5b479b0f,MS06-006
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/cryptor.php,cb27b24b3ad22d363d16b777350361e889031d3c,VU#14
+820706365,Shaku-Med/exploit,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-80-2010-0188.php,ce2675049c434f439df21e4b555475971eabb16f,VU#29
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/adm.php,d5727aacde1c7f18d8fc2954115c53fdb94bea1a,VU#14
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/exploits/012.php,d7c1ef4040763faaadeb9d13218ed87027aee1ed,VU#18
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/control.php,dc6d7c1aa9ba15bf0f38084d9d591e07ae44b90a,VU#93
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/control.php,dc6d7c1aa9ba15bf0f38084d9d591e07ae44b90a,VU#36
+820706365,Shaku-Med/exploit,ExploitKit/Crimepack3.1.3/nolock/control.php,dc6d7c1aa9ba15bf0f38084d9d591e07ae44b90a,VU#812
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/index.php,dfe7b845e18eaece37e47bf246ab1438c8fae34e,VU#62
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/threads.php,e173b0d780cbbb34f7067defe758570acb177322,VU#87
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/pda/addFile.php,e8534ab42146e33363a41341097c1da6b7de670b,VU#68
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/threads.php,f7edade9df27f5b4a242ac203bac87ba7683fa38,VU#81
+820706365,Shaku-Med/exploit,ExploitKit/blackhole102/blackhole/lib/templates/default/threads.php,f7edade9df27f5b4a242ac203bac87ba7683fa38,VU#40144

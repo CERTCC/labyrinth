@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-24801967,tagatac/libsafe-CVE-2005-1125,ltrace.log,6bbb095fdf6831fdbac971bd0f18d324e8ff9ae8,CVE-2005-1
+24801967,tagatac/libsafe-CVE-2005-1125,ltrace.log,6bbb095fdf6831fdbac971bd0f18d324e8ff9ae8,CVE-2005-0001
 24801967,tagatac/libsafe-CVE-2005-1125,ltrace.log,6bbb095fdf6831fdbac971bd0f18d324e8ff9ae8,CVE-2005-1125
 24801967,tagatac/libsafe-CVE-2005-1125,analysis/gen_fig.py,8e8ed530ae7cbaac9c93edf653f29db13cb77ebc,CVE-2005-1125
 24801967,tagatac/libsafe-CVE-2005-1125,_GITHUB_REPO_METADATA_,,BID-13190

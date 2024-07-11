@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+480335115,saimanikanta1992/Spring4shellPOC,target/AppsecTeam-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-5.3.15.jar,a228b373eff7fe34e868827ab02c91b8bf7a643e,VU#45
+480335115,saimanikanta1992/Spring4shellPOC,target/AppsecTeam-0.0.1-SNAPSHOT.war,f1ccd5e0173597e4ddd76a6719267d0299e501a1,VU#19

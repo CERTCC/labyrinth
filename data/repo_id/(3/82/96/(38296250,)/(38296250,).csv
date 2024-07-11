@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+38296250,shipcod3/sploitchits,exploits/exp2.c,750c7569a3c802a87c496f049a542d4a7b304384,CVE-2017-6074
+38296250,shipcod3/sploitchits,misc/lfi-CVE-2019-5418.txt,af667d010b1c655a34906ef51bdb053cebc409fc,CVE-2019-5418

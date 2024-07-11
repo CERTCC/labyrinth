@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+573569557,xsscx/windows,crash/photoapp/photosapp-imagedll-cve-2022-26730-internal-exception-windowsuixaml-12022022-1627.txt,05ec64b80bcf4367c538b04b93e8ebe3addf93a3,CVE-2022-26730
+573569557,xsscx/windows,crash/iccprofileinspector/iccprofileinspector-64bit-windows11pro-invalid-pointer-read-cve-2022-26730.txt,202d653c542cef3a8ff7fba5f27b4f599d12515d,CVE-2022-26730
+573569557,xsscx/windows,crash/iccprofileinspector/Readme.md,41708a3523cee4a69ccf3cf54a7d87e7e1828279,CVE-2022-26730
+573569557,xsscx/windows,cve-2022-26730-poc-sample-002.icc,43d4203c32a1505f9f10f1efc88a4c7cb912213a,CVE-2022-26730
+573569557,xsscx/windows,crash/photoapp/photosapp-imagedll-cve-2022-26730-internal-exception-windowsuixaml-12022022-1624.txt,7638ba3bab5ce517b5698770fbae3f63fe03b99a,CVE-2022-26730
+573569557,xsscx/windows,crash/photoapp/Readme.md,9072f813e85b7e83dad83f50cf0d1cff187cf134,CVE-2022-26730
+573569557,xsscx/windows,cve-2022-26730-poc-sample-004.icc,abffed0b7fbf7989662184fe50119079707c3bf4,CVE-2022-26730
+573569557,xsscx/windows,cve-2022-26730-poc-sample-003.icc,ba2c27da179bb27733930fcf79655f03b2e0f528,CVE-2022-26730
+573569557,xsscx/windows,README.md,e2d56f43118d5aebc3f127cf32e659ffbf90c7d7,CVE-2022-26730

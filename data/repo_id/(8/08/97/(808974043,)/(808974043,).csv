@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+808974043,M3mby7e/exploits,CVE-2024-24919/README.md,0d95326c2ab94dd51c25549d08d06ac1d6310ee0,CVE-2024-24919
+808974043,M3mby7e/exploits,CVE-2024-24919/cve-2024-24919.sh,bef2bbd4c083fb1886d3b24de1bd964e527d8263,CVE-2024-24919

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+654818931,overgrowncarrot1/CVE-2023-24078,README.md,d5d9f1cd2bf284720ac5cca2dec15d5d7f29e890,CVE-2023-24078
+654818931,overgrowncarrot1/CVE-2023-24078,CVE-2023-24078.py,ebab413fdcd3dd8d21f9118b1d0a1dccf3ad7ada,CVE-2023-24078
+654818931,overgrowncarrot1/CVE-2023-24078,_GITHUB_REPO_METADATA_,,CVE-2023-24078

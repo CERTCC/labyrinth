@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+149422623,GoVanguard/legion,scripts/nmap/vulners.nse,5c3574ba97cf523e67acce83351b0f269f005dd4,CVE-2002-0029
+149422623,GoVanguard/legion,scripts/nmap/vulners.nse,5c3574ba97cf523e67acce83351b0f269f005dd4,CVE-2002-0651
+149422623,GoVanguard/legion,scripts/nmap/vulners.nse,5c3574ba97cf523e67acce83351b0f269f005dd4,CVE-2006-0987
+149422623,GoVanguard/legion,scripts/nmap/vulners.nse,5c3574ba97cf523e67acce83351b0f269f005dd4,CVE-2010-3615
+149422623,GoVanguard/legion,scripts/nmap/vulners.nse,5c3574ba97cf523e67acce83351b0f269f005dd4,CVE-2012-1667
+149422623,GoVanguard/legion,scripts/nmap/vulners.nse,5c3574ba97cf523e67acce83351b0f269f005dd4,CVE-2014-3214
+149422623,GoVanguard/legion,scripts/nmap/vulners.nse,5c3574ba97cf523e67acce83351b0f269f005dd4,CVE-2015-5986
+149422623,GoVanguard/legion,README.md,a8a68d62954adeba8fdec9366c4639850f4e9585,MS08-067
+149422623,GoVanguard/legion,deps/detectScripts.sh,cd0665716d2536ac1f7cc330f52dbce603206b53,MS08-067
+149422623,GoVanguard/legion,legion.conf,fe0f124854fb205108db71eaf3d4050b82a70ee4,CVE-2012-1182
+149422623,GoVanguard/legion,legion.conf,fe0f124854fb205108db71eaf3d4050b82a70ee4,MS10-054
+149422623,GoVanguard/legion,legion.conf,fe0f124854fb205108db71eaf3d4050b82a70ee4,MS10-061

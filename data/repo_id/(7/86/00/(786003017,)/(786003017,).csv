@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+786003017,HacktivistRO/CVEs-and-Exploits,CVE-2024-3400/requirements.txt,5e482a8a1a830d55b849679ab26b23146e90ceb9,CVE-2024-3400
+786003017,HacktivistRO/CVEs-and-Exploits,CVE-2024-3400/README.md,7710ca3e7b44d68d9406231249e3bf831db871ae,CVE-2024-3400
+786003017,HacktivistRO/CVEs-and-Exploits,CVE-2024-3400/exploit.py,fe11bef1cbdc76c3d727aa956ed31bc5315970ca,CVE-2024-3400

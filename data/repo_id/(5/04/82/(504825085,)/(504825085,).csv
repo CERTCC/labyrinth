@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+504825085,0xricksanchez/like-dbg,src/tests/files/testKernel_packed,7d99fc132d6df5d70ccba3b32af7405d78e8d534,VU#15
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2017-11176
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2019-15666
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2020-1350
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2021-22555
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2021-26708
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2021-33909
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2021-42008
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2021-43267
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2022-0101
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2022-0185
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2022-1015
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2022-1786
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2022-2586
+504825085,0xricksanchez/like-dbg,kb/README.md,b4d173247d645d3b09abcc8522ecabaaf962f5e5,CVE-2022-32250

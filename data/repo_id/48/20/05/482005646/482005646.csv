@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+482005646,twseptian/cve-2022-22947,jar/spring-gateway-demo-0.0.1-SNAPSHOT.jar,e63028560e5b55927c849e3b3bde9dd466fa9f1e,VU#45
+482005646,twseptian/cve-2022-22947,jar/spring-gateway-demo-0.0.1-SNAPSHOT.jar,e63028560e5b55927c849e3b3bde9dd466fa9f1e,VU#59
+482005646,twseptian/cve-2022-22947,README.md,f25655ab80df40f0fd03141c14512bb29c1c5cb9,CVE-2022-22947
+482005646,twseptian/cve-2022-22947,_GITHUB_REPO_METADATA_,,CVE-2022-22947

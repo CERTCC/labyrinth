@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+492846008,ratiros01/CVE-2014-8609-exploit,app/src/androidTest/java/com/example/cve_2014_8609_exploit/ExampleInstrumentedTest.java,161849bc2cef888a512d82ebdd210f7bbaa9c363,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,app/src/main/java/com/example/cve_2014_8609_exploit/AccountAuthenticator.java,3c2e429ae9d5d5f46e0a75c0e995984d75041d04,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,app/src/main/AndroidManifest.xml,4dbbaee58b881d7cef6652e701c2e64d92f5a95b,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,app/src/test/java/com/example/cve_2014_8609_exploit/ExampleUnitTest.java,59600007fc408de7f633d321c8d261188ef4d871,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,app/src/main/java/com/example/cve_2014_8609_exploit/AccountAuthenticatorService.java,6370782e3ee53b02c2c7e27999e14617a66e0a3c,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,app/src/main/res/values/strings.xml,76481c0d8cbabae5a4f8e90483738546e04782fa,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,settings.gradle,8e2348617ac376798f3e0ce1af99c2b149589299,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,app/src/main/java/com/example/cve_2014_8609_exploit/MainActivity.java,a6265160c45407caa9ab9d919ebd96b6fc9da6a8,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,README.md,b2160240f5a1170a484d131aea18ef939484fa60,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,app/build.gradle,bda4e465f13612f11d00013c65916a16f6fc6a82,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,app/src/main/res/layout/activity_main.xml,cde2a60977c23400c787ab42823bc04667daa7ad,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,app/src/main/res/xml/authenticator.xml,db2de5795c8ab22a3eab45084685615a3da1226c,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,.idea/misc.xml,fe28dc779edf46eeb7c063179ce685535034460f,CVE-2014-8609
+492846008,ratiros01/CVE-2014-8609-exploit,_GITHUB_REPO_METADATA_,,CVE-2014-8609

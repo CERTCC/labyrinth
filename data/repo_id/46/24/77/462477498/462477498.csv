@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+462477498,Nintendo-Homebrew/Tiramisu,Raiz do Cartão SD/install/wupgx2_install_channel_v1.3_rev21/00000004.app,0ed833c283697c99d2bc838ac2870d1de6a1d283,VU#11
+462477498,Nintendo-Homebrew/Tiramisu,Raiz do Cartão SD/install/wupgx2_install_channel_v1.3_rev21/00000004.app,0ed833c283697c99d2bc838ac2870d1de6a1d283,VU#56
+462477498,Nintendo-Homebrew/Tiramisu,Raiz do Cartão SD/wiiu/apps/appstore/appstore.rpx,f5b944f2d5c150957726430057513afb8ef13790,VU#52
+462477498,Nintendo-Homebrew/Tiramisu,Raiz do Cartão SD/wiiu/apps/appstore/appstore.rpx,f5b944f2d5c150957726430057513afb8ef13790,VU#88

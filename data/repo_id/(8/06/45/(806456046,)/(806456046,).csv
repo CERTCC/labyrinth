@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+806456046,ambionics/cnext-exploits,README.md,04671f612cf03b3da7e9ac4f42e0b5644187ea6a,CVE-2024-2961
+806456046,ambionics/cnext-exploits,pocs/poc.c,6a3e3c52312439ab5869cbda9601cefa5b3c2dea,CVE-2024-2961
+806456046,ambionics/cnext-exploits,roundcube-exploit.py,afe19c79dd33c546d13eeb14c1d37d3e92af6aa2,CVE-2024-2961
+806456046,ambionics/cnext-exploits,_GITHUB_REPO_METADATA_,,CVE-2024-2961

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+478028396,veritas501/pipe-primitive,README.md,4e0960dc077c1a559bfb59bed90d0c2f4ccc7afa,CVE-2019-5736
+478028396,veritas501/pipe-primitive,README.md,4e0960dc077c1a559bfb59bed90d0c2f4ccc7afa,CVE-2021-22555
+478028396,veritas501/pipe-primitive,README.md,4e0960dc077c1a559bfb59bed90d0c2f4ccc7afa,CVE-2022-0185
+478028396,veritas501/pipe-primitive,README.md,4e0960dc077c1a559bfb59bed90d0c2f4ccc7afa,CVE-2022-0847
+478028396,veritas501/pipe-primitive,README.md,4e0960dc077c1a559bfb59bed90d0c2f4ccc7afa,CVE-2022-25636

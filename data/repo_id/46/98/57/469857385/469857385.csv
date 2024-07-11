@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+469857385,Amar224/printer-exploitation-tool,testpages/lorem.ps,5dccd792ebd5046d36332c1b030675a020b6c830,VU#33
+469857385,Amar224/printer-exploitation-tool,testpages/cups.ps,77979e7865fb4accdfc1e99acbe4f5aa553fd3af,VU#33
+469857385,Amar224/printer-exploitation-tool,lpd/README,d72f913f8a791ad5b1d28f915a491404fc01a7fb,CVE-2014-6271
+469857385,Amar224/printer-exploitation-tool,lpd/README,d72f913f8a791ad5b1d28f915a491404fc01a7fb,CVE-2015-7547

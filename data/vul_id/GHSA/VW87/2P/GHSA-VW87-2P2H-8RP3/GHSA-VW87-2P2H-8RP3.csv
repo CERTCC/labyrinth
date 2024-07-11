@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-VW87-2P2H-8RP3,0.50000000,https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell,faisalfs10x/Webmin-CVE-2022-0824-revshell,466595745

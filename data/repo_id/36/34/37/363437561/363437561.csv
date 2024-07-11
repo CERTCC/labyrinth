@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+363437561,nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE,WNAP320 Firmware Version 2.0.3.zip,01033cdef1b6a2e6a70e1c939023a4d63a76e41f,VU#75
+363437561,nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE,WNAP320 Firmware Version 2.0.3.zip,01033cdef1b6a2e6a70e1c939023a4d63a76e41f,VU#91

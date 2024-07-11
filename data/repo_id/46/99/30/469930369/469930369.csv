@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+469930369,Shotokhan/cve_2022_0847_shellcode,README.md,0ee8782c6920c279238b2edb29f03624fdb99dd4,CVE-2022-0847
+469930369,Shotokhan/cve_2022_0847_shellcode,tiny_cve-2022-0847.c,93bdd51b5816fa951cd1ddc2750978dec5a59166,CVE-2022-0847
+469930369,Shotokhan/cve_2022_0847_shellcode,gen_shellcode.py,c9b20497d54c018bba6446be127b6eb8716b6f7b,CVE-2022-0847
+469930369,Shotokhan/cve_2022_0847_shellcode,_GITHUB_REPO_METADATA_,,CVE-2022-0847

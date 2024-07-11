@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+502323648,whokilleddb/CVE-2017-12561-Exploit,README.md,b9ae97470ccd1dd6b492199eddb05ba0756250ae,CVE-2017-12561
+502323648,whokilleddb/CVE-2017-12561-Exploit,README.md,b9ae97470ccd1dd6b492199eddb05ba0756250ae,ZDI-17-836
+502323648,whokilleddb/CVE-2017-12561-Exploit,_GITHUB_REPO_METADATA_,,CVE-2017-12561

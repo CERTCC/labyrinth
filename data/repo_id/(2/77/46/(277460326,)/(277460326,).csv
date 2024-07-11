@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+277460326,MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism,bluditCMSBypassBruteForceProtectionMechanism.py,11fb81056843948f423429fc6e678f56325319dd,CVE-2019-17240
+277460326,MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism,README.md,b0c76c3508c565c1ca27971240974a733ca75688,CVE-2019-17240

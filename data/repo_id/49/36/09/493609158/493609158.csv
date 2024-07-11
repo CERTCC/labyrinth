@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+493609158,litios/cve_2021_3572-old-pip,setup.py,2762e4be50e654710480a2a696e1b32f11b35108,CVE-2021-3572
+493609158,litios/cve_2021_3572-old-pip,README.md,8a76b01f229b8d5133cdb0116eff13956af231ab,CVE-2021-3572
+493609158,litios/cve_2021_3572-old-pip,_GITHUB_REPO_METADATA_,,CVE-2021-3572

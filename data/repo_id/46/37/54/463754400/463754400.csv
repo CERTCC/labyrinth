@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+463754400,claytonjgilmer/exploit-framework,crates/exploit-steam-auth/src/main.rs,1a98dcb04c2633165e3c4bfc58b54d5410683764,CVE-2018-20817

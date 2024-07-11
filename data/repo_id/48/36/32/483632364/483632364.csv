@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+483632364,jmiettinen/CVE-2022-21449-vuln-test,readme.md,b5db2d3e5af6cefb9b7959e163d6602a723c562e,CVE-2022-21449
+483632364,jmiettinen/CVE-2022-21449-vuln-test,_GITHUB_REPO_METADATA_,,CVE-2022-21449

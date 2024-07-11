@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+426691915,AndreMaquesMachado/POC,JAVA/XSS - Swing view/swing/Test.html,0da5402521d7545e681a82d6cce2a30bb5392537,VU#29
+426691915,AndreMaquesMachado/POC,JAVA/XSS - Swing view/swing/Test.html,0da5402521d7545e681a82d6cce2a30bb5392537,VU#38
+426691915,AndreMaquesMachado/POC,JAVA/NioFiles/src/main/java/Files/videxploit.mp4,7481e2815055073dfa33bee246aeece768a30105,VU#50

@@ -1,0 +1,118 @@
+repo_id,repo_full_name,file,file_sha1,match
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/CVE-2022-47966.py,0496bca822973f42f4b9b1be6f665a5437b8bd22,CVE-2022-47966
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Succubus.rar,05aa043ef815b8cbe75a845e6f81d8b5fdaaa74a,VU#64
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/AMP Methods/Port 33848 - Jenkins Hudson/README.md,069d8f1851c1fd58591f9e506a8d77e92f8ab6df,CVE-2020-2100
+172108023,R00tS3c/DDOS-RootSec,Botnets/Qbot/Reaper_v2_CnC_1.rar,093367add44ba6a1e20c9288b15a07278e6f4151,VU#64
+172108023,R00tS3c/DDOS-RootSec,Networking/DStat/Layer 4 graph (1).zip,0c5fcf3cbf9ea2138e631d8c57d94c6f91fcf9b7,VU#07
+172108023,R00tS3c/DDOS-RootSec,Networking/DStat/Layer 4 graph (1).zip,0c5fcf3cbf9ea2138e631d8c57d94c6f91fcf9b7,VU#93
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Kira.zip,0c82c1873bead15e70a27dea82719aa1d29fb4bd,VU#98
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/jstwovv.zip,0fad80124806dfa39630c172c588bbcc4dd4f638,VU#16
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/Faith.rar,13c696252e92b237ba972911681588d4230062bf,VU#18
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/cve-2022-30525.py,1c3c1f936f24e92ca4656a3082ba6054e62a7dc1,CVE-2022-30525
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/FULL SPLOITS PACK/Exploits.rar,1f7fac440ddde87252a6ced642238eecffd2a3bc,CVE-2017-5638
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/BadBooter.pw.zip,231ee85689e12d33b0fa3c0ff298e1ff0014be80,VU#94
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/BadBooter.pw.zip,231ee85689e12d33b0fa3c0ff298e1ff0014be80,VU#37
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/TrueStresser-Security.rar,25096a61fd10efa66ae80665e16eef3a9445f7f2,VU#26
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/TrueStresser-Security.rar,25096a61fd10efa66ae80665e16eef3a9445f7f2,VU#334
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/TrueStresser-Security.rar,25096a61fd10efa66ae80665e16eef3a9445f7f2,VU#599
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Infectednight.zip,27f2e16d8b408f2bdd2f627b54331a60802d189f,VU#98
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/HoHo (1).rar,3b05e49ef873b6b248a147c778ff5b8c283cd5d4,VU#30
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/FruitStresser - Source + SQL.rar,3c3fdb4930db071d11988991d352ce3b057b0f1b,VU#91
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/browser.zip,3de3a611dd4f19bb7e6980198bb5d213df69787e,VU#78
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/SLAYERSTRESS.COM LAYER7/HCAPTCHAv7[JS]/stressid,454567ff946a417304edf67f3b9944033ae2769d,VU#18
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/AMP Methods/Port 17185 - vxWorks/README.md,45fdb48c043cdcc0a58ec9a3aa12ab2fa23e387e,VU#362332
+172108023,R00tS3c/DDOS-RootSec,Botnets/HTTP/BetatBot1.8.0.11.zip,4c95837ac617d1687901d5dc4ea5c0fbea3417bf,VU#43
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/kflood.7z,4d747e06a4e6c9a77a8f84a94e89f55ae5377fa5,VU#39
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/kflood.7z,4d747e06a4e6c9a77a8f84a94e89f55ae5377fa5,VU#46
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Bassing-L7-Leak-main.zip,4d7a489a97c384aca02bdab86ddc61bd358290b3,VU#25
+172108023,R00tS3c/DDOS-RootSec,C2/Lucifer_2.zip,537c3fc0c54a8bb3dc8e8651c645dae30662fb17,VU#22
+172108023,R00tS3c/DDOS-RootSec,C2/Lucifer_2.zip,537c3fc0c54a8bb3dc8e8651c645dae30662fb17,VU#74
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/Celestial_Source.rar,58911e0f84d1f5bc5cc813b14e9d96b661f2bfc5,VU#37
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/Celestial_Source.rar,58911e0f84d1f5bc5cc813b14e9d96b661f2bfc5,VU#78
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/Celestial_Source.rar,58911e0f84d1f5bc5cc813b14e9d96b661f2bfc5,VU#33
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/tornado.js,58a7b59bfd9fdd4ecd91f7ca24e470911d935625,CVE-2023-44487
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/SOURCE Leaked.zip,609d6884b129a684deb43f2c08edfcd25038d8a2,VU#56
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/SOURCE Leaked.zip,609d6884b129a684deb43f2c08edfcd25038d8a2,VU#36
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/NightmareStresser - Source + SQL.zip,63b339cd012dd70194f3494943980b65014560bd,VU#37
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/NightmareStresser - Source + SQL.zip,63b339cd012dd70194f3494943980b65014560bd,VU#34
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/SLAYERSTRESS.COM LAYER7/HCAPTCHAv13[JS]/stress,63e29d3a04d0c5b5ca83c920a4bf1683b949a844,VU#18
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/AMP Methods/Port 502 - Modbus/README.md,67396472c8116df791df178725994a9af3fd31fc,CVE-2018-5400
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Hito.rar,68deee94780c90ba598eb1ebaab8a63403814766,VU#30
+172108023,R00tS3c/DDOS-RootSec,Botnets/Other botnet variants/fbot_satori.rar,6bf6364a7aed257020721f704c4b4f80e2570ae5,VU#23
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/CatAPI-Leaked.rar,6d20d019628f49166b48d7bde1ffd577e467ba46,VU#58
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/CatAPI-Leaked.rar,6d20d019628f49166b48d7bde1ffd577e467ba46,VU#88
+172108023,R00tS3c/DDOS-RootSec,Networking/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#20
+172108023,R00tS3c/DDOS-RootSec,Networking/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#57
+172108023,R00tS3c/DDOS-RootSec,Networking/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#40
+172108023,R00tS3c/DDOS-RootSec,Networking/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#09
+172108023,R00tS3c/DDOS-RootSec,Networking/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#33
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/V2_BROW.zip,7521eb903e26c7315169d6fd6b6ad9dfa03b0401,VU#48
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/CK-BROWSER.zip,753f52a81c53f27257f68d1b27d6a9204c71903d,VU#78
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/Booter.world source.rar,7fcbb02d68007efb441a218bea9089c1b8768b87,VU#40
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/RiftV2.zip,8058f3a4ddfcab93e5fe7281462f666fbc2185bc,VU#98
+172108023,R00tS3c/DDOS-RootSec,C2/Superior-CNC.zip,84053446cd0373bec857981898953d516b14426c,VU#47
+172108023,R00tS3c/DDOS-RootSec,C2/Superior-CNC.zip,84053446cd0373bec857981898953d516b14426c,VU#03
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/Instant Stresser V1.zip,846c0537cc769bfecdca390d48f97dc625c61b26,VU#37
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/zehir-botnet-mirai.zip,858ec646b3d410c3be826f6ec470c3509bba8ab9,VU#98
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/HTTP-ROSAMARY.zip,861dce2baea16d31ea7e115ad7bb28d448272076,VU#48
+172108023,R00tS3c/DDOS-RootSec,Botnets/Other botnet variants/HITECH.rar,86d3df7f6ad19e1cc299d76b1e3ec581dfe7c9b6,VU#30
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#71
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#130
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#26
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#92
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/layer7-browser.zip,8b06bf8be9221c49f5a3755a2f9c4ef23f06cd75,VU#21
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/HTTP Flood GoLang.7z,8b10960b98cbfd3181836946778463f28ba6b69b,VU#85
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/HTTP Flood GoLang.7z,8b10960b98cbfd3181836946778463f28ba6b69b,VU#37
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/CVE-2022-44877.py,8f2c7997e0b1a48595611cb1fdf9e4ca4fceb8a5,CVE-2022-44877
+172108023,R00tS3c/DDOS-RootSec,C2/Astro C2+Api.rar,944e56d8c8642accfd9b2f4218406f3d06fa9f6d,VU#849
+172108023,R00tS3c/DDOS-RootSec,C2/Astro C2+Api.rar,944e56d8c8642accfd9b2f4218406f3d06fa9f6d,VU#42
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/asiaexp.rar,955dbf9d244c356945bd0d4dade67316b5f0636c,VU#97
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/asiaexp.rar,955dbf9d244c356945bd0d4dade67316b5f0636c,VU#37
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/HelloWorldV2.8.zip,9a598ec81951386f0d2e1a822d4152bad7eda841,VU#26
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/HelloWorldV2.8.zip,9a598ec81951386f0d2e1a822d4152bad7eda841,VU#80
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/StormStressSource.zip,a4fc9d9bd65e27fcfb9600a7ca122e8dcdbfcf90,VU#53
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/blade-backdoored.rar,a532f47c50dc93a72e8389cd5e3e77722d960bde,VU#21
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/blade-backdoored.rar,a532f47c50dc93a72e8389cd5e3e77722d960bde,VU#600
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/magicNEW.zip,a72e0f5f7616f14b43d0b685fbd4f8d635e2ef37,VU#76
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/stress.gg.rar,aa6013f4c5f59943758638d1c31aba651bae88b0,VU#85
+172108023,R00tS3c/DDOS-RootSec,C2/triton-cnc.rar,ad99336dd74d867fcd473d918e3f992e1273b3c7,VU#33
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/webstresser.rar,b669329452b1e197bc7a9713ac3e1f514635db17,VU#74
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/PRIVATE-Mirai-Meerkat-Botnet-Source-main.zip,bee26254d3983bdad94b2f564711251ee66e6d7f,VU#98
+172108023,R00tS3c/DDOS-RootSec,Botnets/Scanning/TELNET/telnet-c.rar,c3cb02717d066cb832f8372c5c593932e77d9c46,VU#44
+172108023,R00tS3c/DDOS-RootSec,Botnets/Scanning/TELNET/telnet-c.rar,c3cb02717d066cb832f8372c5c593932e77d9c46,VU#61
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L4/L4-Sierra.tar,c6fcde116e2a14e05ab51ffeb891484cf52fb615,VU#575
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/holy.zip,ca623bdb51926e347c1d3180763b9f8d32067f43,VU#98
+172108023,R00tS3c/DDOS-RootSec,Botnets/API/StressyManager.zip,caaf72b19b72846d9f590d23a26549ba0243d9ff,VU#579
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/cylon.zip,cb05e4bb0d1b2560d1ffa706df4b98de22ee3ccf,VU#98
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#22
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#31
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#99
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#96
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#36
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#37
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#97
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/cracked kflood.zip,cf60cf26d1f8c77bb9cbbe3e9bc7b3a8717f81d7,VU#66
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/cracked kflood.zip,cf60cf26d1f8c77bb9cbbe3e9bc7b3a8717f81d7,VU#36
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Akiru.rar,d04d6a64fde7d952112a5fab8fd1b6267b013a34,VU#82
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/cronus/Cronus,d0cdb930bdddcb474a8ebdaeefe163726d5f6ea1,VU#00
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/cronus/Cronus,d0cdb930bdddcb474a8ebdaeefe163726d5f6ea1,VU#10
+172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/cronus/Cronus,d0cdb930bdddcb474a8ebdaeefe163726d5f6ea1,VU#70
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/katana.zip,d2b4407249303cf2e6b7872dc44502985c3a3c5d,VU#97
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Gucci_remastered.zip,d4432b0d9fc0deedcf6460aa058c85fe1c229c9c,VU#98
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Gucci_remastered.zip,d4432b0d9fc0deedcf6460aa058c85fe1c229c9c,VU#28
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/cosmic.zip,d789c0aadb7ca69a7a0f1a86eb5fbe7e15106d22,VU#25
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/cosmic.zip,d789c0aadb7ca69a7a0f1a86eb5fbe7e15106d22,VU#98
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#01
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#45
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#21
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/nstress.com.zip,e5783809a92cfa7f749c950dbaa1bf3772d61154,VU#66
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/nstress.com.zip,e5783809a92cfa7f749c950dbaa1bf3772d61154,VU#55
+172108023,R00tS3c/DDOS-RootSec,Botnets/Other botnet variants/j-bot.rar,e6d394f41aa769e407c3f8bf9b77605614f09eff,VU#30
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Squidward.zip,ea9ad766d5fa0fc945b5575a3211e7dd4e198ee8,VU#98
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Browser JSBypass v1.zip,ef6471c345b798b11ca77afc4b846afd14221fa3,VU#36
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/source.zip,efc21da81b72d97aa48d899963a6369d92210056,VU#05
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/stresser source.zip,f6a09d69036f05ee76dcd9bcbb47b9342faf4ec9,VU#94
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/stresser source.zip,f6a09d69036f05ee76dcd9bcbb47b9342faf4ec9,VU#37
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Dirtz Net.zip,f8ebc5e133730e18b07d33c035db4e48735c0621,VU#98
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/Time Source v1.0.zip,fea953fc0fb76ec44f160310b4137dfd8cf7f915,VU#66
+172108023,R00tS3c/DDOS-RootSec,Stresser sources/Time Source v1.0.zip,fea953fc0fb76ec44f160310b4137dfd8cf7f915,VU#55

@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-16-624,0.25000000,https://github.com/Live-Hack-CVE/CVE-2016-7869,Live-Hack-CVE/CVE-2016-7869,582913813
+ZDI-16-624,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-16-624,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+ZDI-16-624,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

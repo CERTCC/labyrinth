@@ -1,3 +1,16 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#553235,0.03030303,https://github.com/forse01/CVE-2019-17638-Jetty,forse01/CVE-2019-17638-Jetty,335844306
+VU#553235,0.02777778,https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2023-26049,hshivhare67/Jetty_v9.4.31_CVE-2023-26049,723996800
+VU#553235,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-34428,Trinadh465/jetty_9.4.31_CVE-2021-34428,712845829
+VU#553235,0.02777778,https://github.com/nidhi7598/jetty-9.4.31_CVE-2023-26049,nidhi7598/jetty-9.4.31_CVE-2023-26049,712837897
+VU#553235,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26048,Trinadh465/jetty_9.4.31_CVE-2023-26048,712774895
+VU#553235,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2022-2048,Trinadh465/jetty_9.4.31_CVE-2022-2048,712390990
+VU#553235,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26049,Trinadh465/jetty_9.4.31_CVE-2023-26049,712376244
+VU#553235,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-28169,Trinadh465/jetty_9.4.31_CVE-2021-28169,712373551
+VU#553235,0.02777778,https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165,nidhi7598/jetty-9.4.31_CVE-2021-28165,712370809
+VU#553235,0.02777778,https://github.com/nidhi7598/jetty-9.4.31_CVE-2020-27216,nidhi7598/jetty-9.4.31_CVE-2020-27216,712369405
+VU#553235,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#553235,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+VU#553235,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#553235,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#553235,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

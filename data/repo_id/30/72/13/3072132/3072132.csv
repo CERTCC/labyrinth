@@ -12,3 +12,4 @@ repo_id,repo_full_name,file,file_sha1,match
 3072132,rapid7/metasploit_data_models,spec/app/models/mdm/module/detail_spec.rb,2322aafdd277988660b4afe20b4df28aab6a24a1,OSVDB-27845
 3072132,rapid7/metasploit_data_models,spec/app/models/mdm/module/detail_spec.rb,2322aafdd277988660b4afe20b4df28aab6a24a1,OSVDB-49243
 3072132,rapid7/metasploit_data_models,spec/app/models/mdm/module/detail_spec.rb,2322aafdd277988660b4afe20b4df28aab6a24a1,OSVDB-80724
+3072132,rapid7/metasploit_data_models,lib/metasploit_data_models/yaml.rb,76229228017b5a1fd5a70c716224f8fdc7c2f133,CVE-2022-32224

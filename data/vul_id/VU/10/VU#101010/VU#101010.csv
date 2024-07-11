@@ -1,2 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#101010,0.11111111,https://github.com/xzx482/CVE-2024-1086,xzx482/CVE-2024-1086,824093061
+VU#101010,0.11111111,https://github.com/Notselwyn/CVE-2024-1086,Notselwyn/CVE-2024-1086,775151369
+VU#101010,0.05555556,https://github.com/brutexploiter/CVEHunt,brutexploiter/CVEHunt,819386815
+VU#101010,0.04761905,https://github.com/elefantesagradodeluzinfinita/exploits,elefantesagradodeluzinfinita/exploits,268221956
+VU#101010,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#101010,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
+VU#101010,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
+VU#101010,0.00307692,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921

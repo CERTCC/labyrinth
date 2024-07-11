@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,containerd.io_1.4.6-1_amd64.deb,1d28551d897dbf9b9e69dea55022725a115cf8eb,VU#02
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,containerd.io_1.4.6-1_amd64.deb,1d28551d897dbf9b9e69dea55022725a115cf8eb,VU#97
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,exp.sh,5b972055c6f3efd3d632b9591f90922809bc2bd4,CVE-2021-41091
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,docker-ce_20.10.5~3-0~ubuntu-xenial_amd64.deb,7cdb108c78c418b084ffc6a8f12b40913a21447c,VU#04
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,docker-ce_20.10.5~3-0~ubuntu-xenial_amd64.deb,7cdb108c78c418b084ffc6a8f12b40913a21447c,VU#65
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,docker-ce_20.10.5~3-0~ubuntu-xenial_amd64.deb,7cdb108c78c418b084ffc6a8f12b40913a21447c,VU#92
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,README.md,dc37b757d7857f33a1c2903f6503720577944f5b,CVE-2021-41091
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,docker-ce-cli_20.10.5~3-0~ubuntu-xenial_amd64.deb,fc40473c0976be32f209f871b9f35aa018133a5d,VU#30
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,docker-ce-cli_20.10.5~3-0~ubuntu-xenial_amd64.deb,fc40473c0976be32f209f871b9f35aa018133a5d,VU#80
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,docker-ce-cli_20.10.5~3-0~ubuntu-xenial_amd64.deb,fc40473c0976be32f209f871b9f35aa018133a5d,VU#81
+822121304,SNE-M23-SN/Vulnerable-Docker-Engine,_GITHUB_REPO_METADATA_,,CVE-2021-41091

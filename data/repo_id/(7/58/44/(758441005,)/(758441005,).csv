@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+758441005,fstringuetta/phpmailer,phpmailer-py3.py,6e48f26f11b77aabd6d4c6cb559031fadf155211,CVE-2016-10033
+758441005,fstringuetta/phpmailer,phpmailer-py3.py,6e48f26f11b77aabd6d4c6cb559031fadf155211,CVE-2016-10045

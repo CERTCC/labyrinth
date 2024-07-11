@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+467878952,pentestblogin/pentestblog-CVE-2022-0847,README.md,21a5021ce72487779a58fffb95bfbc72dacd978d,CVE-2022-0847
+467878952,pentestblogin/pentestblog-CVE-2022-0847,exploit.c,8f37ef477a383ffbaa0443cb21bc599780e312ec,CVE-2022-0847
+467878952,pentestblogin/pentestblog-CVE-2022-0847,_GITHUB_REPO_METADATA_,,CVE-2022-0847

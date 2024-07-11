@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-7C6V-F3H8-2X89,0.01470588,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231

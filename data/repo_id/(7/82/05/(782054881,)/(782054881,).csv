@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+782054881,robertdebock/ansible-playbook-cve-2024-3094,requirements.yml,43bb4d6cfcec884e7de72d6658510146d3e62299,CVE-2024-3094
+782054881,robertdebock/ansible-playbook-cve-2024-3094,playbook.yml,98a54f1f6b53ed61fa433a3136b6af3fac9b0528,CVE-2024-3094
+782054881,robertdebock/ansible-playbook-cve-2024-3094,_GITHUB_REPO_METADATA_,,CVE-2024-3094

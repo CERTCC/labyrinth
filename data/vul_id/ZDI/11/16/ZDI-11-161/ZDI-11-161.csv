@@ -1,3 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-11-161,0.00598802,https://github.com/pwnwiki/q,pwnwiki/q,5940002
-ZDI-11-161,0.00026420,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+ZDI-11-161,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
+ZDI-11-161,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
+ZDI-11-161,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+ZDI-11-161,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-11-161,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+ZDI-11-161,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

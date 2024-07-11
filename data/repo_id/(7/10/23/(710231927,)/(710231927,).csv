@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+710231927,ditekshen/ansible-cve-2023-4966,README.md,625c9ad5f0a04289c8a9382b26a8c6367cb842f3,CVE-2023-4966
+710231927,ditekshen/ansible-cve-2023-4966,cve-2023-4966.yml,d764ddc7ede6f750469e462a1a99fea21dac92ca,CVE-2023-4966
+710231927,ditekshen/ansible-cve-2023-4966,_GITHUB_REPO_METADATA_,,CVE-2023-4966

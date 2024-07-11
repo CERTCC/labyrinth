@@ -1,3 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-18-1075,0.02631579,https://github.com/thezdi/PoC,thezdi/PoC,136392889
 ZDI-18-1075,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 ZDI-18-1075,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
+ZDI-18-1075,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+ZDI-18-1075,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

@@ -1,2 +1,16 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#202,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
+VU#202,0.04166667,https://github.com/Delioos/dopamine-exploiter,Delioos/dopamine-exploiter,816137507
+VU#202,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
+VU#202,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
+VU#202,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
+VU#202,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#202,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
+VU#202,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
+VU#202,0.00222222,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
+VU#202,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
+VU#202,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
+VU#202,0.00164745,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
+VU#202,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
+VU#202,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
+VU#202,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
+VU#202,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685

@@ -1,0 +1,13 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2018-05738,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
+CNVD-2018-05738,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
+CNVD-2018-05738,0.00280899,https://github.com/wukong-bin/PeiQi-0day,wukong-bin/PeiQi-0day,465142654
+CNVD-2018-05738,0.00274725,https://github.com/chenxianshen789/0day,chenxianshen789/0day,808071258
+CNVD-2018-05738,0.00274725,https://github.com/GGStudy-DDUp/0day,GGStudy-DDUp/0day,541448279
+CNVD-2018-05738,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
+CNVD-2018-05738,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
+CNVD-2018-05738,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
+CNVD-2018-05738,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
+CNVD-2018-05738,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
+CNVD-2018-05738,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2018-05738,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

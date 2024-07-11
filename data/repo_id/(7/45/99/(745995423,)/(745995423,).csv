@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+745995423,tucommenceapousser/CVE-2024-21887,exploit.py,490bc0cbc691bb3540a87b3241903dd7a8bcb278,CVE-2024-21887
+745995423,tucommenceapousser/CVE-2024-21887,README.md,524e27ea6bbeb5d4269c33ffebf4525c221fe6c2,CVE-2024-21887
+745995423,tucommenceapousser/CVE-2024-21887,_GITHUB_REPO_METADATA_,,CVE-2024-21887

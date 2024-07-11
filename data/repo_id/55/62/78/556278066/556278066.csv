@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+556278066,cxzero/CVE-2022-42889-text4shell,src/main/java/com/example/springboot/TextController.java,22891cfc0b59ed485b87939106634af68a43d21b,CVE-2022-42889
+556278066,cxzero/CVE-2022-42889-text4shell,README.md,50ea58043b3a301adbb749bb12c39ee5776368c9,CVE-2022-42889
+556278066,cxzero/CVE-2022-42889-text4shell,pom.xml,8684fb4fe945e01ce78c015e86e68aa450c8dccb,CVE-2022-42889
+556278066,cxzero/CVE-2022-42889-text4shell,target/spring-boot-0.0.1-SNAPSHOT.jar,b78494ed3144300c5f359a11e954d2ec7bdc736d,VU#05
+556278066,cxzero/CVE-2022-42889-text4shell,target/spring-boot-0.0.1-SNAPSHOT.jar,b78494ed3144300c5f359a11e954d2ec7bdc736d,VU#45
+556278066,cxzero/CVE-2022-42889-text4shell,_GITHUB_REPO_METADATA_,,CVE-2022-42889

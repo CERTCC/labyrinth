@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+489028819,Koboltz/exploits,CVE-2021-4034/README.md,8c6fbef9f83da28e84d70077062f011ab4d35aba,CVE-2021-4034
+489028819,Koboltz/exploits,CVE-2021-4034/pwnkit.c,fda96e880dc410ebbd46a9eae4faa12f9b21a7c0,CVE-2021-4034

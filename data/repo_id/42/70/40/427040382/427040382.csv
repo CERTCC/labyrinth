@@ -1,3 +1,12 @@
 repo_id,repo_full_name,file,file_sha1,match
-427040382,Penya21/bgtoolbelt,app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex,2bb761b3b9137b2ad68d50b6b927fab0eaba2d3d,VU#861
-427040382,Penya21/bgtoolbelt,app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rLPhK1h6EOxmZv+etOz8yaMfViU=,d8cebccdcddd029022aa8646a5a953ff88b13ac8,VU#91
+427040382,Penya21/bgtoolbelt,app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/fDI17qHjjD1Zpsy9j9Z_aZiXcsg=,3351e0a196f8f2928f75ca93deec7fd21aba8d50,VU#55
+427040382,Penya21/bgtoolbelt,app/build/intermediates/module_bundle/release/base.zip,44ccc4c75bdf6f24145ffc8fe06a520d0961d1ba,VU#861
+427040382,Penya21/bgtoolbelt,app/build/intermediates/dex/release/mergeDexRelease/classes.dex,4ed87684843ca660525f525ac02598e57802fdfc,VU#861
+427040382,Penya21/bgtoolbelt,app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/qpvJK4COBF6e5_NRIjc2RjzzLQw=,56875b9485c4b90d5e47ed05b573e3c046fa5bef,VU#58
+427040382,Penya21/bgtoolbelt,app/build/outputs/apk/debug/app-debug.apk,b13575469ae947d683b6ca85fb7f91f87efafc71,VU#73
+427040382,Penya21/bgtoolbelt,app/build/intermediates/external_libs_dex/release/mergeExtDexRelease/classes.dex,b30fbf398325262198d18600b872520ef944177d,VU#861
+427040382,Penya21/bgtoolbelt,app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ccRylKk8AX7y++E8Drn6ZTBMmuI=,b8af3fe6f1ca88526914929add63cf5e7c5049af,VU#48
+427040382,Penya21/bgtoolbelt,app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/ccRylKk8AX7y++E8Drn6ZTBMmuI=,b8af3fe6f1ca88526914929add63cf5e7c5049af,VU#87
+427040382,Penya21/bgtoolbelt,app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/jy+fqPOPyzaaRO77HvmkBDfrBYc=,d80cbedd0abe8251c0b285209cfc3ad23f54d4af,VU#25
+427040382,Penya21/bgtoolbelt,app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex,ea8f6b948bc10bb8046fa8133f56ec6ca8309803,VU#861
+427040382,Penya21/bgtoolbelt,app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/PjNIGOAPdkIwDUaEnK_H_ed0qgc=,f4cc07a50437659e0043e7da762809a46932b6a0,VU#23

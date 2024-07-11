@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+543104406,RashidKhanPathan/WindowsPrivilegeEscalation,DLL Hijacking/CVE-2022-44939/Research.txt,1ce3fb96bba896a4a8c2c72e761d1e8030159d80,CVE-2022-44939

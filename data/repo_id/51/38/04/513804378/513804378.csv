@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+513804378,wqqqwqwq/thinkphp-rce,tppoc.py,0681b69dd6ad89310e208623be309471b87faeeb,CVE-2022-4334
+513804378,wqqqwqwq/thinkphp-rce,tpexp.py,919a5233830c72648b389da5e60a87f0b1bb12e0,CVE-2022-4334

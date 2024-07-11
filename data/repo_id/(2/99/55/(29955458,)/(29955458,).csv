@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+29955458,frohoff/ysoserial,src/main/java/ysoserial/exploit/JRMPClassLoadingListener.java,0d547f412b053c3b2e99601414578e0ccd0084da,CVE-2013-1537
+29955458,frohoff/ysoserial,src/main/java/ysoserial/payloads/Wicket1.java,162875232c3489cc85b8d69fd8b97c1d0e5f5919,CVE-2013-2186
+29955458,frohoff/ysoserial,src/main/java/ysoserial/exploit/JenkinsListener.java,9354c60df2b8944f8331bf30ecaaa36f1b2af485,CVE-2016-0788
+29955458,frohoff/ysoserial,src/main/java/ysoserial/exploit/JenkinsReverse.java,bb6efad45ba6e485181d51cdcc95e0d6fa840ba5,CVE-2016-0788

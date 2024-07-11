@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+459374550,testpilot031/vulnerability_struts-2.3.31,README.md,0423e1ae92fe1e425c27131828d3b0aa358555a2,CVE-2017-5638
+459374550,testpilot031/vulnerability_struts-2.3.31,_GITHUB_REPO_METADATA_,,CVE-2017-5638

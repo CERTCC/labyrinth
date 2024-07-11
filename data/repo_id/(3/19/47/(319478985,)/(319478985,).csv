@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+319478985,v-lavrentikov/meltdown-spectre,README.md,0506f194d4ca8c8313108f847d4e010e986376e1,CVE-2017-5715
+319478985,v-lavrentikov/meltdown-spectre,README.md,0506f194d4ca8c8313108f847d4e010e986376e1,CVE-2017-5753
+319478985,v-lavrentikov/meltdown-spectre,README.md,0506f194d4ca8c8313108f847d4e010e986376e1,CVE-2017-5754
+319478985,v-lavrentikov/meltdown-spectre,README.md,0506f194d4ca8c8313108f847d4e010e986376e1,CVE-2018-3639
+319478985,v-lavrentikov/meltdown-spectre,README.md,0506f194d4ca8c8313108f847d4e010e986376e1,CVE-2018-3640
+319478985,v-lavrentikov/meltdown-spectre,meltdown.c,3f627a98034c6fb930c95886b6039caa844dfc36,CVE-2017-5754
+319478985,v-lavrentikov/meltdown-spectre,spectre_v1.c,6d4f5a47fc4cff3952e7d0e3653cabe9b864625b,CVE-2017-5753
+319478985,v-lavrentikov/meltdown-spectre,spectre_v4.c,ca93412a52fc1a292b5b79b3bde8872982feb4b1,CVE-2018-3639

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+611272241,000Sushant/hacking_windows7_using_metasploit,README.md,b507ffdbdd185d8e05ee52d68142fcbf67a3498a,CVE-2017-0143
+611272241,000Sushant/hacking_windows7_using_metasploit,README.md,b507ffdbdd185d8e05ee52d68142fcbf67a3498a,MS17-010
+611272241,000Sushant/hacking_windows7_using_metasploit,README.md,b507ffdbdd185d8e05ee52d68142fcbf67a3498a,MS17-101

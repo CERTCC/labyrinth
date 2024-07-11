@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+521804110,raospiratory/Red-vs-Blue-Project,Images/ifconfigkali.PNG,070604496845d4487f3a20d78f5334814df07aec,VU#21
+521804110,raospiratory/Red-vs-Blue-Project,Presentation/PROJECT2REDVBLUE.pdf,222fc41f4c8277d4da088a5f3f3e7df4f8dc8cc3,CVE-2017-15710
+521804110,raospiratory/Red-vs-Blue-Project,Presentation/PROJECT2REDVBLUE.pdf,222fc41f4c8277d4da088a5f3f3e7df4f8dc8cc3,CVE-2021-21804
+521804110,raospiratory/Red-vs-Blue-Project,Presentation/PROJECT2REDVBLUE.pdf,222fc41f4c8277d4da088a5f3f3e7df4f8dc8cc3,CVE-2022-1039

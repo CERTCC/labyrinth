@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+694578895,yTxZx/FastJson1.2.24_RCE_exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,d7561136f2a6cd5bb568b4f625732f7b5d86a384,VU#03
+694578895,yTxZx/FastJson1.2.24_RCE_exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,d7561136f2a6cd5bb568b4f625732f7b5d86a384,VU#23
+694578895,yTxZx/FastJson1.2.24_RCE_exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,d7561136f2a6cd5bb568b4f625732f7b5d86a384,VU#68
+694578895,yTxZx/FastJson1.2.24_RCE_exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,d7561136f2a6cd5bb568b4f625732f7b5d86a384,VU#80
+694578895,yTxZx/FastJson1.2.24_RCE_exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,d7561136f2a6cd5bb568b4f625732f7b5d86a384,VU#83

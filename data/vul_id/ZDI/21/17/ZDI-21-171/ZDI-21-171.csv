@@ -1,2 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-21-171,0.50000000,https://github.com/r1l4-i3pur1l4/CVE-2021-21042,r1l4-i3pur1l4/CVE-2021-21042,432305625
+ZDI-21-171,0.25000000,https://github.com/j00sean/SecBugs,j00sean/SecBugs,510103220
+ZDI-21-171,0.01204819,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
+ZDI-21-171,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+ZDI-21-171,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

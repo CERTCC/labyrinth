@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-CNVD-2016-04742,0.01587302,https://github.com/Ascotbe/Medusa,Ascotbe/Medusa,204725727
+CNVD-2016-04742,0.01694915,https://github.com/Ascotbe/Medusa,Ascotbe/Medusa,204725727
+CNVD-2016-04742,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2016-04742,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

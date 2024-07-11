@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+794050521,Frat1n/Escalibur_Framework,exploits.txt,115b0844f04454e1025d8a964fe63ed8c7366b2e,CVE-2014-0160
+794050521,Frat1n/Escalibur_Framework,exploits.txt,115b0844f04454e1025d8a964fe63ed8c7366b2e,CVE-2014-6271
+794050521,Frat1n/Escalibur_Framework,exploits.txt,115b0844f04454e1025d8a964fe63ed8c7366b2e,CVE-2014-7169
+794050521,Frat1n/Escalibur_Framework,exploits.txt,115b0844f04454e1025d8a964fe63ed8c7366b2e,CVE-2017-0144
+794050521,Frat1n/Escalibur_Framework,exploits.txt,115b0844f04454e1025d8a964fe63ed8c7366b2e,CVE-2017-5715
+794050521,Frat1n/Escalibur_Framework,exploits.txt,115b0844f04454e1025d8a964fe63ed8c7366b2e,CVE-2017-5753
+794050521,Frat1n/Escalibur_Framework,exploits.txt,115b0844f04454e1025d8a964fe63ed8c7366b2e,CVE-2017-5754
+794050521,Frat1n/Escalibur_Framework,README.md,2a9e33fb7b3e7fe3aac1f77fc198e1f12ab81b94,CVE-2014-0160
+794050521,Frat1n/Escalibur_Framework,README.md,2a9e33fb7b3e7fe3aac1f77fc198e1f12ab81b94,CVE-2017-0144

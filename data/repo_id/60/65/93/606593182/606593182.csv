@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+606593182,mahaloz/netgear-pwnagent,README.md,a3e8c3a6198810de13b082cab59c01c7d33841c1,CVE-2023-24749
+606593182,mahaloz/netgear-pwnagent,_GITHUB_REPO_METADATA_,,CVE-2023-24749

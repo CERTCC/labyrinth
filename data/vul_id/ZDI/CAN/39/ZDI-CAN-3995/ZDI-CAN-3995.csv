@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-3995,0.08333333,https://github.com/cved-sources/cve-2017-7494,cved-sources/cve-2017-7494,164356178
-ZDI-CAN-3995,0.08333333,https://github.com/opsxcq/exploit-CVE-2017-7494,opsxcq/exploit-CVE-2017-7494,92457464
+ZDI-CAN-3995,0.04761905,https://github.com/opsxcq/exploit-CVE-2017-7494,opsxcq/exploit-CVE-2017-7494,92457464
+ZDI-CAN-3995,0.00763359,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150

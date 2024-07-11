@@ -1,2 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
+115394871,JoyChou93/java-sec-code,README.md,03639bb9e40b42a3312aef20ba71d50b56b0e322,CVE-2022-22978
+115394871,JoyChou93/java-sec-code,src/main/java/org/joychou/security/WebSecurityConfig.java,050a815139c3ce18fd88cf587b64c2196387e8e2,CVE-2022-22978
+115394871,JoyChou93/java-sec-code,src/main/java/org/joychou/controller/Rce.java,6d6ee598c8fa037b81e9d2e9e98b6b1316ead7cf,CVE-2022-21724
+115394871,JoyChou93/java-sec-code,README_zh.md,9260c102109da51f3c24f557abe89eb04561dd56,CVE-2022-22978
+115394871,JoyChou93/java-sec-code,src/main/java/org/joychou/controller/Dotall.java,99c6e05ba56a37ebaa8fcd08fd7be05bc859cda1,CVE-2022-22978
+115394871,JoyChou93/java-sec-code,pom.xml,9d16ac54d75d5a0d5ad4fb229381a1bc5f5d146f,CVE-2022-21724
+115394871,JoyChou93/java-sec-code,src/main/java/org/joychou/controller/XXE.java,b0297a813854e0cf7d8b68aadbcd9d9bc56599ea,CVE-2018-1259
 115394871,JoyChou93/java-sec-code,src/main/java/org/joychou/controller/Fastjson.java,d03c03a4e4303a853e76d205eed26da7c80e8833,VU#29

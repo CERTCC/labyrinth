@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,CVE-2016-3213
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,CVE-2016-3236
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,CVE-2018-8120
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,CVE-2018-8210
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,CVE-2021-1675
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,CVE-2021-36942
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,CVE-2021-42278
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,CVE-2021-42287
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,MS16-075
+517062920,suljov/Windows-and-Active-Directory,README.md,25e28e4eaa4f0a5adba7ad86721a202a6015a617,MS16-077

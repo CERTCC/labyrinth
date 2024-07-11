@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+527288721,huyql109/Kernel-exploitation,klibrary_3k2021/klibrary-3de299d2213145b523b53411f25dc943.tgz,09e3853b7fbf50cee4a61380bdbbc847566c64f6,VU#03
+527288721,huyql109/Kernel-exploitation,klibrary_3k2021/klibrary-3de299d2213145b523b53411f25dc943.tgz,09e3853b7fbf50cee4a61380bdbbc847566c64f6,VU#06
+527288721,huyql109/Kernel-exploitation,klibrary_3k2021/klibrary-3de299d2213145b523b53411f25dc943.tgz,09e3853b7fbf50cee4a61380bdbbc847566c64f6,VU#78
+527288721,huyql109/Kernel-exploitation,just-in-kernel_ductf2022/bzImage,8ab3e6f6cc44b669635ce7c9125a1a1f4e6b476f,VU#61

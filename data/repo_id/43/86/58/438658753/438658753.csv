@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-438658753,szymonh/inspector-gadget,README.md,710998e37a02487e97ba4fedc3cc0777c863e110,CVE-2021-39685
+438658753,szymonh/inspector-gadget,README.md,3cc4c635d1b8c598d25ba8b6012af7300da34c18,CVE-2021-39685
 438658753,szymonh/inspector-gadget,gadget.py,8c5206d50aafd4510064e06012b0ebde2acd5da8,CVE-2021-39685
 438658753,szymonh/inspector-gadget,_GITHUB_REPO_METADATA_,,CVE-2021-39685

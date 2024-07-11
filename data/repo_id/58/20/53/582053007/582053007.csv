@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+582053007,0xPugazh/Exploits,CVE-2018-7600.py,13db1d94c9869370cf66ffc0f62d0c89efc5059a,CVE-2018-7600
+582053007,0xPugazh/Exploits,CVE-2021-38314.php,f2f48f837c82fb341ce837d14e56c7aa227b896e,CVE-2021-38314

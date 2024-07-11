@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+481867757,hab1b0x/Spring4Shell,CVE-2022-22965.rb,2ae68a23845015c13280eca92602e61a512bebd1,CVE-2022-22965
+481867757,hab1b0x/Spring4Shell,README.md,b80898d5c944e0b69fbec4045969b1f8bffb7aed,CVE-2022-22965

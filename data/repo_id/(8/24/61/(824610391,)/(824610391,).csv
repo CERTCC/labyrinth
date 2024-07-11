@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+824610391,puckiestyle/CVE-2023-27532-RCE-Only,VeeamHax.exe,1802434ebc2d44877c0fb179d79a8c6e577e1da9,CVE-2023-27532
+824610391,puckiestyle/CVE-2023-27532-RCE-Only,Readme.md,ebb83755f21e985d5c1ed60f6ae6378f698d43ac,CVE-2023-27532
+824610391,puckiestyle/CVE-2023-27532-RCE-Only,_GITHUB_REPO_METADATA_,,CVE-2023-27532

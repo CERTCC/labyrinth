@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+476626448,tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce,README.md,05fa546dbcebf2df4aaee2081ee7a5ba4e5ff29a,CVE-2022-22965
+476626448,tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce,.idea/modules.xml,434f3126d881c616ba9e94d77573e09630b0b184,CVE-2022-22965
+476626448,tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce,main.go,5dd2a1917ae047e0bedce1251cf9cd4f1f74d657,CVE-2022-22965
+476626448,tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce,.idea/CVE-2022-22965-Spring-CachedintrospectionResults-Rce.iml,e97d654372ef437ced1d771fc7339a3a5ea653c8,CVE-2022-22965
+476626448,tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce,go.mod,f8ae56019ead94214ca6b44ea3176ca5dbd6750f,CVE-2022-22965
+476626448,tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce,_GITHUB_REPO_METADATA_,,CVE-2022-22965

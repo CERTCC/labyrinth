@@ -1,3 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
+126516611,w4fz5uck5/3XPL01t5,Real World By ME/ms16-032/Readme.md,495f7fee4b7658004c47d4172d85617303e107e7,MS16-032
+126516611,w4fz5uck5/3XPL01t5,OSEE_Training/HEVD_exploits/windowsx86/[HEVD]-WriteNULL/exploit.py,64ed74acf679b77709e8e7ec2af42bf87f09c50f,CVE-2020-0796
+126516611,w4fz5uck5/3XPL01t5,OSEE_Training/HEVD_exploits/windowsx86/[HEVD]-WriteNULL/exploit.py,64ed74acf679b77709e8e7ec2af42bf87f09c50f,MS14-058
+126516611,w4fz5uck5/3XPL01t5,Real World By ME/ms16-032/ms16-032.py,89f876a2a36a19534cd363822f09093b2493f385,MS16-032
 126516611,w4fz5uck5/3XPL01t5,OSEE_Training/Interesting.txt,9be3acfc58b0421df5d3f676d51279978f8e718f,CVE-2015-2545
 126516611,w4fz5uck5/3XPL01t5,OSEE_Training/Interesting.txt,9be3acfc58b0421df5d3f676d51279978f8e718f,MS11-080
+126516611,w4fz5uck5/3XPL01t5,OSEE_Training/HEVD_exploits/windowsx86/[HEVD]-ArbitraryIncrement/exploit.py,dbf0483e1f683bdc7f3373c19edc916afa250870,CVE-2020-1034
+126516611,w4fz5uck5/3XPL01t5,OSEE_Training/HEVD_exploits/windowsx86/[HEVD]-ArbitraryIncrement/exploit.py,dbf0483e1f683bdc7f3373c19edc916afa250870,MS14-058

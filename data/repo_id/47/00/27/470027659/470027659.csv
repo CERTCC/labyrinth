@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+470027659,phuonguno98/CVE-2022-0847,dirtypipez.c,373d6b84023a8bc2f90c67c6d1e1f27fdb349307,CVE-2022-0847
+470027659,phuonguno98/CVE-2022-0847,dirtypipe_exploit.c,5b7b89d51d92167447b94d6a65b57f6bce3f2b77,CVE-2022-0847
+470027659,phuonguno98/CVE-2022-0847,_GITHUB_REPO_METADATA_,,CVE-2022-0847

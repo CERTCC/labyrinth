@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation/Ivanti-Pulse_Client_Exploit_Privilege-escalation.vcxproj,05880d62be7293f30e34878cf36026003b1cc80c,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation/main.h,1dfad714ebbdda8fde34b971163a843e16675057,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation/error.c,37fbd749b0802aafb2b604e24fc59a087f8d022b,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation/Ivanti-Pulse_Client_Exploit_Privilege-escalation.vcxproj.user,3ba38385380485d9ff25eb142eca0a01d8ce2fab,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation/kernel.h,73b097ac3b091c5811e50aad4107d6c0706de154,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation/Ivanti-Pulse_Client_Exploit_Privilege-escalation.vcxproj.filters,a65057991153e6d4eb8787b8c5f16c1f4ac6868e,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation/main.c,a71141940efcaaedfd9bfaaab6688599a01eadae,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation/kernel.c,d18fe933d36bcf8106dde7c6fe984b7a6a88845a,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,README.md,def20f090191a4bc556558cf8011e7f3af87d884,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation.sln,e3a41506759c3f136b62e6f159ed18f212dc2dc1,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation/error.h,fb9f22d2a8f581ea54373da8462352404b80c0b9,CVE-2023-35080
+755572375,HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation,_GITHUB_REPO_METADATA_,,CVE-2023-35080

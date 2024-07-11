@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+715493897,magicming200/ChatGPT-Function-Call-Red-Team-Tools,ChatGPT_Function_Call.py,328801fe088d19c68a93996b9cc0df4047f8b155,CVE-2022-22965
+715493897,magicming200/ChatGPT-Function-Call-Red-Team-Tools,function_call/fc_exploit_vulnerability.py,6ea7ca08802542f6809d93845487434d878836c8,CVE-2022-22965
+715493897,magicming200/ChatGPT-Function-Call-Red-Team-Tools,README.md,a7f53cee80f9f0900d574ac9b98a0b0223cdae04,CVE-2022-22965

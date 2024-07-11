@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,CVE-2020-2555
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,CVE-2020-2883
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#03
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#10
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#11
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#29
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#364
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#46
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#47
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#574
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#77
+445610442,sdrinken/Def4Cloud-Log4J,Log4J-Exploit/JNDIExploit.v1.2/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#83
+445610442,sdrinken/Def4Cloud-Log4J,nhttpd-nostomo/exploit/nhttpd-exploit.py,db1cacc547ef51a6b44f1cda8dc57ddf41682fde,CVE-2019-16278

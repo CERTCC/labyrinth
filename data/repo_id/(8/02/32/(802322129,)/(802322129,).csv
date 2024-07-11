@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+802322129,X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version,exp.py,3d7989fa7366b01d83172a049796105493c9cdcb,CVE-2023-4596
+802322129,X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version,README.md,c06098e7c28bd13096cbf7f9e53aefec21da16f1,CVE-2023-4596
+802322129,X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version,_GITHUB_REPO_METADATA_,,CVE-2023-4596

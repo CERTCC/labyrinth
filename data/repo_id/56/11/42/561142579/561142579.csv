@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+561142579,corelight/CVE-2022-3602,scripts/detect_vulnerable_server.zeek,0cf31173376f70e7eaf63c57e6c952b5ac0ac766,CVE-2022-3602
+561142579,corelight/CVE-2022-3602,zkg.meta,14d82974cd2b4ecd154252520855ea7379f6b3f4,CVE-2022-3602
+561142579,corelight/CVE-2022-3602,README.md,4b16eaaf1bd491ba40d350cd505e016314ee0749,CVE-2022-3602
+561142579,corelight/CVE-2022-3602,testing/Baseline/tests.test/notice_cut_vulnerable.log,4b923f65a1c32283a058efdf3a5404bcee585919,CVE-2022-3602
+561142579,corelight/CVE-2022-3602,testing/Baseline/tests.test/notice_cut_exploit.log,afff62a4087694306a020d86c1666f0dd0533ebf,CVE-2022-3602
+561142579,corelight/CVE-2022-3602,scripts/detect_exploit.zeek,e0b1b12cf2d6e406ea11aa4ad481030a45770256,CVE-2022-3602
+561142579,corelight/CVE-2022-3602,_GITHUB_REPO_METADATA_,,CVE-2022-3602

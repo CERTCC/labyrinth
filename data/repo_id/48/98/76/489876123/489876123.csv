@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+489876123,ruchirasvmm/log4j-exploit-demo,ldap/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+489876123,ruchirasvmm/log4j-exploit-demo,ldap/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+489876123,ruchirasvmm/log4j-exploit-demo,ldap/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+489876123,ruchirasvmm/log4j-exploit-demo,ldap/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+489876123,ruchirasvmm/log4j-exploit-demo,ldap/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83

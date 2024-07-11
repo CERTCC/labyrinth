@@ -2,3 +2,9 @@ match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-9755,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 ZDI-CAN-9755,0.00000629,https://github.com/Vasileios-Mavroeidis/semantic-stix-vulnerability,Vasileios-Mavroeidis/semantic-stix-vulnerability,392265661
 ZDI-CAN-9755,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
+ZDI-CAN-9755,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
+ZDI-CAN-9755,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+ZDI-CAN-9755,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-CAN-9755,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+ZDI-CAN-9755,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+ZDI-CAN-9755,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

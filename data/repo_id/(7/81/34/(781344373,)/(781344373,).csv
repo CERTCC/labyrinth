@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+781344373,Security-Phoenix-demo/CVE-2024-3094-fix-exploits,debian-xz-liblzma.sh,4ca2a43a3169cc5a46bd9552b6713b8bbe323c28,CVE-2024-3094
+781344373,Security-Phoenix-demo/CVE-2024-3094-fix-exploits,debian-xz-liblzma.sh,4ca2a43a3169cc5a46bd9552b6713b8bbe323c28,GHSA-RXWQ-X6H5-X525
+781344373,Security-Phoenix-demo/CVE-2024-3094-fix-exploits,_GITHUB_REPO_METADATA_,,CVE-2024-3094

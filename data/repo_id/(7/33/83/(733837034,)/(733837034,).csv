@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+733837034,Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE,README.md,354908751fa907f098551d3cd854bd9c1f7f4b2e,CVE-2023-50164
+733837034,Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE,upload-1.0.0.war,99d4cb2e7cc722fa2583a20e8a89cd44cf4aca76,VU#41
+733837034,Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE,upload-1.0.0.war,99d4cb2e7cc722fa2583a20e8a89cd44cf4aca76,VU#92
+733837034,Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE,Dockerfile,fcf90ac283b536ddf7831b9ea35a73faf3f1142c,CVE-2023-50164
+733837034,Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE,_GITHUB_REPO_METADATA_,,CVE-2023-50164

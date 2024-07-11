@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+795943581,nikakharebava/RedMe,_writeups/_pentest_labs/_htb/lame.md,2b6b31996caea727397aed034d49ac70dc3056c6,CVE-2007-2447
+795943581,nikakharebava/RedMe,_storage/download/_pentest_labs/_htb/ready/gitlab_rce.py,2d6dad539feec8b2937e17f0438a96249284df3e,CVE-2018-19571
+795943581,nikakharebava/RedMe,_storage/download/_pentest_labs/_htb/ready/gitlab_rce.py,2d6dad539feec8b2937e17f0438a96249284df3e,CVE-2018-19585
+795943581,nikakharebava/RedMe,_storage/download/_pentest_labs/_htb/ready/gitlab_rce.py,2d6dad539feec8b2937e17f0438a96249284df3e,CVE-2020-10977
+795943581,nikakharebava/RedMe,_writeups/_pentest_labs/_htb/netmon.md,dea15bae5a848a4d8ae887725770e4f413a59344,CVE-2018-9276

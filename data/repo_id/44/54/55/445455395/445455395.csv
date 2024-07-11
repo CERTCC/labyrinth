@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-445455395,lwollan/log4j-exploit-server,README.md,2a53f3760d7cc4cad7abfd66df1ef7508dc738fc,CVE-2021-45046
+445455395,lwollan/log4j-exploit-server,README.md,015c17a4bdc4df857eb28b4a5e69c0fd4cb264dd,CVE-2021-45046

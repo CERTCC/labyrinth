@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+468135232,JustinApplegate/exploit-code,osticket/CVE-2019-14748/sample_payload.html,62e2bd123b8717bda55826d645e76b4a9ec78d27,CVE-2019-14748
+468135232,JustinApplegate/exploit-code,osticket/CVE-2019-14748/README.md,66707f1bc4043990153f307ee43c9816446ab8a7,CVE-2019-14748
+468135232,JustinApplegate/exploit-code,README.md,b9dd68862accfc8593e1dbdb01845b95d05f5717,CVE-2019-14748
+468135232,JustinApplegate/exploit-code,README.md,b9dd68862accfc8593e1dbdb01845b95d05f5717,CVE-2019-14749
+468135232,JustinApplegate/exploit-code,README.md,b9dd68862accfc8593e1dbdb01845b95d05f5717,CVE-2019-14750
+468135232,JustinApplegate/exploit-code,README.md,b9dd68862accfc8593e1dbdb01845b95d05f5717,CVE-2020-16193
+468135232,JustinApplegate/exploit-code,README.md,b9dd68862accfc8593e1dbdb01845b95d05f5717,CVE-2020-24881
+468135232,JustinApplegate/exploit-code,README.md,b9dd68862accfc8593e1dbdb01845b95d05f5717,CVE-2020-24917

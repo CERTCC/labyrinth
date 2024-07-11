@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+586456569,matteozappia/DynamicCow,Images/IMG_2392.PNG,3274e9766a4fdcdb42e2f4f9ae62bd31e808e4cf,VU#73
+586456569,matteozappia/DynamicCow,DynamicCow/Exploit/vm_unaligned_copy_switch_race.h,471a4507439ae4e5f1109a904662b5f011172dd6,CVE-2022-46689
+586456569,matteozappia/DynamicCow,DynamicCow/Exploit/grant_full_disk_access.m,cd1f0e6ea00f652a9be9799ac4e2afd4299e528f,CVE-2022-46689
+586456569,matteozappia/DynamicCow,DynamicCow/ContentView.swift,f781401afb081f4312286177efef3767dcc5e96d,CVE-2022-46689

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+742742502,jimbaud/LAB_F411_STM32CubeIDE,F411_SPI_7735_Screen/Datasheet/ST7735S.pdf,61515c240c6cf4e108279e5cfd9b7c7b1f448c11,VU#35
+742742502,jimbaud/LAB_F411_STM32CubeIDE,F411_UART_Update_BLE/Middlewares/ST/BlueNRG-MS/doc/BlueNRG-MS_UserManual.chm,df3e5b2e16563a7e203703271b9479b44c442a9f,VU#60

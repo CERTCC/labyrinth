@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+477889492,CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit,README.md,dcb4a6695a53e63d675a0019c18c35a4f579f7d1,CVE-2021-41773
+477889492,CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit,README.md,dcb4a6695a53e63d675a0019c18c35a4f579f7d1,CVE-2021-42013
+477889492,CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit,main.py,e8a049e5ed9a3503382370f4bfbaa2ff7e781cef,CVE-2021-41773
+477889492,CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit,main.py,e8a049e5ed9a3503382370f4bfbaa2ff7e781cef,CVE-2021-42013
+477889492,CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit,_GITHUB_REPO_METADATA_,,CVE-2021-41773
+477889492,CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit,_GITHUB_REPO_METADATA_,,CVE-2021-42013

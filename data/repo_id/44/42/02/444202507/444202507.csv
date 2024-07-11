@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+444202507,darkpills/CVE-2021-25094-tatsu-preauth-rce,README.md,11a4745630468f265127c6d72c92b5e32b996438,CVE-2021-25094
+444202507,darkpills/CVE-2021-25094-tatsu-preauth-rce,exploit-race.py,bbd6cb52e7bb3467af0ca707fd9de946180f7ec3,CVE-2021-25094
+444202507,darkpills/CVE-2021-25094-tatsu-preauth-rce,exploit-rce.py,c4a77af617e6195aed7b5772aa9e752daa5c434e,CVE-2021-25094
+444202507,darkpills/CVE-2021-25094-tatsu-preauth-rce,_GITHUB_REPO_METADATA_,,CVE-2021-25094

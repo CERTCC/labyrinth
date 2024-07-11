@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+429063885,boz3r/fatebot,irc/resource.txt,4c226d122d06354955cd2b5bcce654ef41cf9aa6,CVE-2022-22965
+429063885,boz3r/fatebot,irc/resource.txt,4c226d122d06354955cd2b5bcce654ef41cf9aa6,CVE-2022-30525
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2014-8361
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2017-17215
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2020-10987
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2020-25506
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2021-35395
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2022-22965
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2022-25075
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2022-26186
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2022-26210
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2022-30525
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2022-34538
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2022-46631
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,CVE-2022-46634
+429063885,boz3r/fatebot,internal/exploit.go,5d6d187a673dfed9db3cfd7e57728a5d6865a629,ZSL-2022-5717

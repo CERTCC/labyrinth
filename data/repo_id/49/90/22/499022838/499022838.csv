@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+499022838,ErrorNoInternet/FollinaScanner,README.md,8f1c6a2c8df81ed2788efe73c2db77401ac0d29f,CVE-2022-30190
+499022838,ErrorNoInternet/FollinaScanner,_GITHUB_REPO_METADATA_,,CVE-2022-30190

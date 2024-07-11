@@ -1,0 +1,98 @@
+repo_id,repo_full_name,file,file_sha1,match
+526179912,M8SZT8/Security-Hub,Dorking/<h0tak88r>onliners.md,08db0c89fdd6f753491f5452794519a1fe27b574,CVE-2022-1040
+526179912,M8SZT8/Security-Hub,Dorking/<h0tak88r>onliners.md,08db0c89fdd6f753491f5452794519a1fe27b574,CVE-2022-0378
+526179912,M8SZT8/Security-Hub,Dorking/<h0tak88r>onliners.md,08db0c89fdd6f753491f5452794519a1fe27b574,CVE-2021-41773
+526179912,M8SZT8/Security-Hub,Dorking/<h0tak88r>onliners.md,08db0c89fdd6f753491f5452794519a1fe27b574,CVE-2020-5902
+526179912,M8SZT8/Security-Hub,Dorking/<h0tak88r>onliners.md,08db0c89fdd6f753491f5452794519a1fe27b574,CVE-2020-3452
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-He-The-Hidden-RCE-Surfaces-That-Control-The-Droids.pdf,09165a4e0bcf1f0cb07eaddbae6167b6a4b79d6d,VU#99
+526179912,M8SZT8/Security-Hub,Nuclei Templates/bitrix-xss.yaml,0977b5c7679728d46d826cafe6a6b9fddae49773,CVE-2006-2476
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/PHP_.pdf,0aa63b68dc34304162fea8e1c80e966a6eec3615,VU#77
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Lai-Backdoor-Investigation-and-Incident-Response.pdf,0af2e034dd4d0600bb93076141036d227e4ae073,VU#75
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Lai-Backdoor-Investigation-and-Incident-Response.pdf,0af2e034dd4d0600bb93076141036d227e4ae073,VU#00
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Pajares-SMS-PVA-Supply-Chain-Botnets-wp.pdf,18fb75aca03b199c067e0fba6ec67d2ea542f63f,VU#22
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Pajares-SMS-PVA-Supply-Chain-Botnets-wp.pdf,18fb75aca03b199c067e0fba6ec67d2ea542f63f,VU#17
+526179912,M8SZT8/Security-Hub,"RFI,LFI,LFD,Directory-Traversal/(Video 41) LFI, LFD, RFI, and Directory Traversal.zip",1d2c0e70d53974cd2a43190baa019b22e14b75e3,VU#15
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Shabab-SideWinderUncoilsToStrike.pdf,226a0c324fbbad37022838bc2cc6f01debe448ed,VU#14
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2019-9618.yaml,279659cefb24bcbeaf033192e1fc5714e1108052,CVE-2019-9618
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2018-17422.yaml,2b689b0c075d76ae98f85b69ff998c54bbb697d1,CVE-2018-17422
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2018-18775.yaml,2be94ceedc492d5ae4f4909b9f13b135be038e35,CVE-2018-18775
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2021-24406.yaml,2cc5119f5e67d0aaf4bb98fa04a73761144e78aa,CVE-2021-24406
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2018-18777.yaml,335f926a28a21bd304fecb8217864f09d33f8ace,CVE-2018-18777
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2022-40684.md,33f1870332f558e892f627e085f3f93dbd6c3822,CVE-2022-40684
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2021-24210.yaml,38f932cf8f675bba9597fe6ea584e09952687ea8,CVE-2021-24210
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Fitzl-macOS-vulnerabilities-hiding-in-plain-sight.pdf,3f1f8a7c26204a9c157100527f8d7ffa9f37b376,VU#01
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Fitzl-macOS-vulnerabilities-hiding-in-plain-sight.pdf,3f1f8a7c26204a9c157100527f8d7ffa9f37b376,VU#10
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Fitzl-macOS-vulnerabilities-hiding-in-plain-sight.pdf,3f1f8a7c26204a9c157100527f8d7ffa9f37b376,VU#17
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Fitzl-macOS-vulnerabilities-hiding-in-plain-sight-wp.pdf,431f7a6e06c396f3cd6e97e734b83c81f59be50f,VU#575
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Fitzl-macOS-vulnerabilities-hiding-in-plain-sight-wp.pdf,431f7a6e06c396f3cd6e97e734b83c81f59be50f,CVE-2021-30798
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Pajares-SMS-PVA-Supply-Chain-Botnets.pdf,4679b25005c19d3e781efcaebdc04eae3460a5f2,VU#301
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Pajares-SMS-PVA-Supply-Chain-Botnets.pdf,4679b25005c19d3e781efcaebdc04eae3460a5f2,VU#566
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Pajares-SMS-PVA-Supply-Chain-Botnets.pdf,4679b25005c19d3e781efcaebdc04eae3460a5f2,VU#577
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2021-37859.yaml,481b3ddbb5b15569c738412e880bc0642ac38ed9,CVE-2021-37859
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/HTML_(Cyber_Guy).pdf,4d9425f169c5b1aaefca4efadfcf7a2350acfac5,VU#766
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/HTML_(Cyber_Guy).pdf,4d9425f169c5b1aaefca4efadfcf7a2350acfac5,VU#12
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/HTML_(Cyber_Guy).pdf,4d9425f169c5b1aaefca4efadfcf7a2350acfac5,VU#96
+526179912,M8SZT8/Security-Hub,Security-Books/dokumen.pub_bug-bounty-playbook-v1-1nbsped.pdf,531a9cac857bd1231863a2c844099efe3d602cf0,VU#544
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-LeonSilvia-NextGenPlugXShadowPad.pdf,5c71309c596a65e8e8066e44d9edba2cb53d9f57,VU#75
+526179912,M8SZT8/Security-Hub,Fuzzing Lists/onelistforall.txt,5d124fb612f420a9639536b901384233cf1e853a,VU#520
+526179912,M8SZT8/Security-Hub,Fuzzing Lists/onelistforall.txt,5d124fb612f420a9639536b901384233cf1e853a,VU#01
+526179912,M8SZT8/Security-Hub,Fuzzing Lists/onelistforall.txt,5d124fb612f420a9639536b901384233cf1e853a,VU#03
+526179912,M8SZT8/Security-Hub,Security-Books/WSTG-V4.2.pdf,620a5f91ae4b90c85a763ca15b25a4229c9984d2,VU#59
+526179912,M8SZT8/Security-Hub,Security-Books/WSTG-V4.2.pdf,620a5f91ae4b90c85a763ca15b25a4229c9984d2,VU#07
+526179912,M8SZT8/Security-Hub,Security-Books/WSTG-V4.2.pdf,620a5f91ae4b90c85a763ca15b25a4229c9984d2,BID-1806
+526179912,M8SZT8/Security-Hub,Security-Books/WSTG-V4.2.pdf,620a5f91ae4b90c85a763ca15b25a4229c9984d2,MS14-066
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CRLF Templates/CVE-2018-16979.yaml,6e5931fe50e951cf7ef9626a85887e4259bd68a0,CVE-2018-16979
+526179912,M8SZT8/Security-Hub,Security-Books/Networks/network+.pdf,6f73757503c244c65be0cfd14a1dbe5354d1add5,VU#87
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2015-5461.yaml,7013bd0dd1e4a87075448f205827139b665dfdaf,CVE-2015-5461
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2018-16299.yaml,711038e9251dcbe1b81a2575579ef575b06a87b1,CVE-2018-16299
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Geers-The-Virtual-Battlefield.pdf,74d93ce3c8e3af838355ed287fc184b619fca620,VU#65
+526179912,M8SZT8/Security-Hub,Bug Bounty Targets Data/domains.txt,77911e421b46313a90f689cde9ea10cce039d831,VU#01
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2019-7254.yaml,7d48c81ace02647e71e9ccda1b3489f1c91e483a,CVE-2019-7254
+526179912,M8SZT8/Security-Hub,Dorking/Intro to Cyber security and Main Job Profiles_(Infographic).pdf,7e8e0664ee6f36c227cb74e985b2ac84d3a3c79b,VU#87
+526179912,M8SZT8/Security-Hub,Dorking/Intro to Cyber security and Main Job Profiles_(Infographic).pdf,7e8e0664ee6f36c227cb74e985b2ac84d3a3c79b,VU#57
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2021-27519-test.yaml,89716363bc1ac4d56911f83775904aeebba682ad,CVE-2021-27519
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CRLF Templates/CVE-2019-6802.yaml,8c1dd371d3262e3279f9cc5e9be295e1ae9fe108,CVE-2019-6802
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2018-9118,93439cf1b589e13dcc54d623a4357877f2a62c86,CVE-2018-9118
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Nassi-The-Little-Seal-Bug.pdf,9c017e68a8eb4492939b3c0734edc028fb77817c,VU#72
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2021-34370.yaml,a82b32c8ae2e058082e1e1c58dfcd86dc7ad722c,CVE-2021-34370
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Java_Script.pdf,aae9bb26cb337f5cec4dc22fce31dbca3c59d7a9,VU#566
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Java_Script.pdf,aae9bb26cb337f5cec4dc22fce31dbca3c59d7a9,VU#76
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Java_Script.pdf,aae9bb26cb337f5cec4dc22fce31dbca3c59d7a9,VU#577
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Java_Script.pdf,aae9bb26cb337f5cec4dc22fce31dbca3c59d7a9,VU#455
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Java_Script.pdf,aae9bb26cb337f5cec4dc22fce31dbca3c59d7a9,VU#64
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Xu-The-Next-Generation-of-Windows-Exploitation-Attacking-the-Common-Log-File-System.pdf,ba6742baf6cc74e0f5a5f9222ba6aa14356aa929,CVE-2021-31956
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Xu-The-Next-Generation-of-Windows-Exploitation-Attacking-the-Common-Log-File-System.pdf,ba6742baf6cc74e0f5a5f9222ba6aa14356aa929,VU#40
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#10
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#58
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#83
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#81
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#84
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#01
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#07
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#50
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#48
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#4238
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#39
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#38
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#88
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#94
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#98
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#144
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#0200
+526179912,M8SZT8/Security-Hub,Security-Books/A Bug Hunters Diary.pdf,be477934719dce9ac20487d1a18fac902f610e88,VU#78
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2021-24316.yaml,c271039092c0f0f99a6c2f5db8b33ed1c23acd89,CVE-2021-24316
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2019-1010290.yaml,c8301b5a550e0448400d07b751e7f95fafd128da,CVE-2019-1010290
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2021-24237.yaml,d02896c6e8f8b9db0e66419fcf5ecfb8ff3fa8e1,CVE-2021-24237
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Qiuhao-Recursive-MMIO-final.pdf,d8b86a6fd17f28fe414b13a8bf8f82256dc4108c,CVE-2021-3929
+526179912,M8SZT8/Security-Hub,Security-Books/Bug-Bounty-Playbook-2-Exploitation-Cissp-Workbook.pdf,e65e72a3997bcb7f439f6a4ec0018115dffeed3c,VU#12
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2014-2383.yaml,e8fc1e1f8418638bd21263db9dafe3bf0e9bd9f2,CVE-2014-2383
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2020-25495.yaml,ea3e4b08fb493e1a4f08d6ee512c3c350feaa2b5,CVE-2020-25495
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Python.pdf,f83f737917796ecbd2bb22400715785c5f1ed18b,VU#82
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Python.pdf,f83f737917796ecbd2bb22400715785c5f1ed18b,VU#647
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Python.pdf,f83f737917796ecbd2bb22400715785c5f1ed18b,VU#91
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Python.pdf,f83f737917796ecbd2bb22400715785c5f1ed18b,VU#93
+526179912,M8SZT8/Security-Hub,Security-Books/langs-notes/Python.pdf,f83f737917796ecbd2bb22400715785c5f1ed18b,VU#28
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2013-2248.yaml,fab2958922f6edfc6801b8f34e084d909f2d5e22,CVE-2013-2248
+526179912,M8SZT8/Security-Hub,Nuclei Templates/CVE-2018-16836.yaml,fde052b2637225aff3f37f94deee1f2a490ce2b3,CVE-2018-16836
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Johnson-Start-Arbitrary-Activity-App-Components-as-the-System-User-Vulnerability-Affecting-Samsung-Android-Devices.pdf,ffc7986cf2fa8af0d384efe69130e2f589b3b99e,VU#34
+526179912,M8SZT8/Security-Hub,Security-Books/BlackHat_ASIA_2022/AS-22-Johnson-Start-Arbitrary-Activity-App-Components-as-the-System-User-Vulnerability-Affecting-Samsung-Android-Devices.pdf,ffc7986cf2fa8af0d384efe69130e2f589b3b99e,CVE-2022-22292

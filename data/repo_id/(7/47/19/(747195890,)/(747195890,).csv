@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+747195890,jaytiwari05/Portswigger-Exploits,cors/theory/CORS Complete Guide Theory Video Slides.pdf,34575567a4b4c60e0195f7ab7b5b84e8ff55a30b,VU#05
+747195890,jaytiwari05/Portswigger-Exploits,broken-authentication/theory/Authentication Vulnerabilities Complete Guide Theory Video Slides.pdf,6244fac56fd70937bff03601956d22fa3f566f62,VU#65
+747195890,jaytiwari05/Portswigger-Exploits,business-logic-vulnerabilities/theory/Business Logic Vulnerabilities - Complete Guide.pdf,81c62fd2b19b6d297eb0e69fab4e35897aa74b38,VU#89

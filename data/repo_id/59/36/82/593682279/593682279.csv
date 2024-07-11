@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel__5,8,0__TO__5,16,11.c",4b64a0cffb62e046c9dbbcba6a64a8ea6a2ac2b0,CVE-2022-0847
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel_2,6,0__TO__2,6,36.c",52bf6d3af3c948b8ffab765d6e6a2bbdcad910b9,CVE-2010-3848
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel_2,6,0__TO__2,6,36.c",52bf6d3af3c948b8ffab765d6e6a2bbdcad910b9,CVE-2010-3850
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel_2,6,0__TO__2,6,36.c",52bf6d3af3c948b8ffab765d6e6a2bbdcad910b9,CVE-2010-4073
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel_2,6,0__TO___2,6,36.c",62574ab9308e53b36de62e9073b0e451eb65c16a,CVE-2010-3437
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel_3,4,0__TO__3,13,1.c",7555642be1af444b88398dccde1dade5d59c0e54,CVE-2014-0038
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel__2,6,0__TO__2,6,36.c",c4882e68c9527650062174901660b7e1761caef4,CVE-2010-4347
+593682279,sujayadkesar/Linux-Privilege-Escalation,README.md,c4ee9c6a7ecaba7b053e8190abece9177f68ad5c,CVE-2014-0038
+593682279,sujayadkesar/Linux-Privilege-Escalation,README.md,c4ee9c6a7ecaba7b053e8190abece9177f68ad5c,CVE-2016-0072
+593682279,sujayadkesar/Linux-Privilege-Escalation,README.md,c4ee9c6a7ecaba7b053e8190abece9177f68ad5c,CVE-2016-1531
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel_3,8,0__TO__3,13,1.c",e9074f4773540712c73549a5ff3e1230f26e957e,CVE-2016-0072
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel_3,8,0__TO__3,13,1.c",e9074f4773540712c73549a5ff3e1230f26e957e,CVE-2016-0728
+593682279,sujayadkesar/Linux-Privilege-Escalation,"Kernel_EXPLOITS/kernel_2,6,18__TO__2,6,36.c",f21295f2d61fbd9f4c820dec30fe8e0bbf7d3dce,CVE-2010-2959

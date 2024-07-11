@@ -1,1 +1,5 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+400653864,VerityIncorporated/Sploitgate,packages/System.IO.Compression.4.3.0/lib/net46/System.IO.Compression.dll,629ce95c12b21678d877359ec4552d431c1cfbab,VU#60
+400653864,VerityIncorporated/Sploitgate,Sploitgate/Utils/Misc/Loading.resx,913a4c008b7c644e636bd5e70f27ee07ee991d9e,VU#85
+400653864,VerityIncorporated/Sploitgate,packages/MetroModernUI.1.4.0.0/lib/net/MetroFramework.Fonts.dll,cc72536b84384ec8479b9734b947dce885ef5d31,VU#62
+400653864,VerityIncorporated/Sploitgate,Sploitgate/Main.resx,edb0a565aec8c6966f0360b62099dc87f5d6acf3,VU#85

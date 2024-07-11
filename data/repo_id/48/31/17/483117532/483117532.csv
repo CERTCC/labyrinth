@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+483117532,Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332,headers/media_plugin/media/openmax/OMX_IVCommon.h,2f9cb4d69aca708847b1a1e18dba984514938968,VU#420
+483117532,Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332,headers/media_plugin/media/openmax/OMX_AsString.h,30e8a38dcc1f4be5dc524354e035af771b9cdb51,VU#420
+483117532,Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332,_GITHUB_REPO_METADATA_,,CVE-2021-0332

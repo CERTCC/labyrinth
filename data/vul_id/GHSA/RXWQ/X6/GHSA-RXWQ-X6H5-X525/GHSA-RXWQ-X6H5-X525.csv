@@ -1,0 +1,8 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-RXWQ-X6H5-X525,0.50000000,https://github.com/Security-Phoenix-demo/CVE-2024-3094-fix-exploits,Security-Phoenix-demo/CVE-2024-3094-fix-exploits,781344373
+GHSA-RXWQ-X6H5-X525,0.50000000,https://github.com/Yuma-Tsushima07/CVE-2024-3094,Yuma-Tsushima07/CVE-2024-3094,779977820
+GHSA-RXWQ-X6H5-X525,0.50000000,https://github.com/bioless/xz_cve-2024-3094_detection,bioless/xz_cve-2024-3094_detection,779473804
+GHSA-RXWQ-X6H5-X525,0.33333333,https://github.com/mightysai1997/CVE-2024-3094-info,mightysai1997/CVE-2024-3094-info,780339519
+GHSA-RXWQ-X6H5-X525,0.33333333,https://github.com/byinarie/CVE-2024-3094-info,byinarie/CVE-2024-3094-info,779364261
+GHSA-RXWQ-X6H5-X525,0.06666667,https://github.com/reuteras/CVE-2024-3094,reuteras/CVE-2024-3094,780415912
+GHSA-RXWQ-X6H5-X525,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

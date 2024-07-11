@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-2020,0.20000000,https://github.com/630r63k/safari-exploits,630r63k/safari-exploits,456247802
 GPZ-2020,0.11111111,https://github.com/drtychai/browser-exploitation,drtychai/browser-exploitation,193786815
+GPZ-2020,0.03571429,https://github.com/sploitem/WebKitPwn,sploitem/WebKitPwn,633963768

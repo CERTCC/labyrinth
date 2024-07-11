@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+540757312,yqcs/CSPOC,README.md,197642c702ff14ac0b63bc1e7a7bd0b1d81eceeb,CVE-2022-39197
+540757312,yqcs/CSPOC,_GITHUB_REPO_METADATA_,,CVE-2022-39197

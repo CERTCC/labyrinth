@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+454267599,daffychuy/Log4j-Exploit,attacker/RogueJndi-1.1.jar,a49583623825971596ea4b2ee3a84dbacb267360,VU#23
+454267599,daffychuy/Log4j-Exploit,attacker/RogueJndi-1.1.jar,a49583623825971596ea4b2ee3a84dbacb267360,VU#46
 454267599,daffychuy/Log4j-Exploit,README.md,a6c3c2627e14d00f573f84db6f1d7efb934ca342,CVE-2021-44228
 454267599,daffychuy/Log4j-Exploit,README.md,a6c3c2627e14d00f573f84db6f1d7efb934ca342,VU#270

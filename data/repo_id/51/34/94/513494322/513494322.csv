@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+513494322,penghaihan/thinkphp5.0.23-rce,tpexp.py,7d7055d8b2ae79ba3cb9af333811f50ba7e7034e,CVE-2022-4334
+513494322,penghaihan/thinkphp5.0.23-rce,tppoc.py,d64b2495ac8352426c8edfdd5be1b959a4f43d5a,CVE-2022-4334

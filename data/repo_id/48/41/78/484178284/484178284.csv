@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+484178284,RoryRees/Magento_Auto_Exploiter_Priv,README.md,e1235f82c6767d7d307ce1d8f43d73de397bd8c2,CVE-2022-24086
+484178284,RoryRees/Magento_Auto_Exploiter_Priv,README.md,e1235f82c6767d7d307ce1d8f43d73de397bd8c2,CVE-2022-24087

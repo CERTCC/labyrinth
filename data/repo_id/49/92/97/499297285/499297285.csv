@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+499297285,trhacknon/CVE-2014-6271,shellshock.py,32c235468c2a850401a2d80a8f93a08d0c28d0e9,CVE-2014-6271
+499297285,trhacknon/CVE-2014-6271,README.md,fe2e253cd61ed06bf52ce27602ec37fbabbc7f4f,CVE-2014-6271
+499297285,trhacknon/CVE-2014-6271,_GITHUB_REPO_METADATA_,,CVE-2014-6271

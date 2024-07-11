@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+368895563,NickSanzotta/scanman,utils/xmlparser.py,14c1c48cc0961d67d340926537d0a7d0a04e72e9,MS08-067
+368895563,NickSanzotta/scanman,utils/xmlparser.py,14c1c48cc0961d67d340926537d0a7d0a04e72e9,MS17-010
+368895563,NickSanzotta/scanman,configs/config.ini,c47d5d7def6d00fe9f58170ce2f185254ba18136,CVE-2017-7494
+368895563,NickSanzotta/scanman,configs/config.ini,c47d5d7def6d00fe9f58170ce2f185254ba18136,CVE-2019-0708
+368895563,NickSanzotta/scanman,configs/config.ini,c47d5d7def6d00fe9f58170ce2f185254ba18136,CVE-2021-21985
+368895563,NickSanzotta/scanman,configs/config.ini,c47d5d7def6d00fe9f58170ce2f185254ba18136,MS08-067
+368895563,NickSanzotta/scanman,configs/config.ini,c47d5d7def6d00fe9f58170ce2f185254ba18136,MS17-010

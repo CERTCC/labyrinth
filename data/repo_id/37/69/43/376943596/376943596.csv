@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-376943596,secnigma/CVE-2021-3560-Polkit-Privilege-Esclation,poc.sh,1230f0313bb055e1fc10b7a11e657d1af497f69a,CVE-2021-3560
-376943596,secnigma/CVE-2021-3560-Polkit-Privilege-Esclation,README.md,857c39bb47fa6ece9439f051babd1219879b450d,CVE-2021-3560
+376943596,secnigma/CVE-2021-3560-Polkit-Privilege-Esclation,README.md,892f3f1a8d1924fcea7ae935e286bfe2c5f12290,CVE-2021-3560
+376943596,secnigma/CVE-2021-3560-Polkit-Privilege-Esclation,poc.sh,c7fade1720a8990d49e8277c6ce243e4ffe7aaae,CVE-2021-3560
 376943596,secnigma/CVE-2021-3560-Polkit-Privilege-Esclation,_GITHUB_REPO_METADATA_,,CVE-2021-3560

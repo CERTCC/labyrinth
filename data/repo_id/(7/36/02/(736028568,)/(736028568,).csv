@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+736028568,ret2x-tools/drupalgeddon2-rce,README.md,78e107078086fc61fdf2c1f0e340dfdb8de63824,CVE-2018-7600
+736028568,ret2x-tools/drupalgeddon2-rce,poc.py,97b35ea209d43af408a2fd77cdf0707f56dc9c83,CVE-2018-7600

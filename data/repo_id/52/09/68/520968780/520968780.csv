@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+520968780,timb-machine-mirrors/cve-2021-3060.py,cve-2021-3060.py,3447a9da8a4864ddfc95dd7fb11d714063355bac,CVE-2021-3060
+520968780,timb-machine-mirrors/cve-2021-3060.py,_GITHUB_REPO_METADATA_,,CVE-2021-3060

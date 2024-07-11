@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+759312273,WDLegend/Ofbiz_Exploit,Ofbiz_Exploit.exe,52885a6792e6a417040b606632b1f48b3c130146,CVE-2023-51467
+759312273,WDLegend/Ofbiz_Exploit,exploit/CVE_2023_51467.go,66817a8cb33f9f9fcdfa870e0d7dbe3e8546f729,CVE-2023-51467
+759312273,WDLegend/Ofbiz_Exploit,scan/threadsPool.go,bfc05d9c57b0344dc7a10a6d191f80e08fe844ee,CVE-2023-51467

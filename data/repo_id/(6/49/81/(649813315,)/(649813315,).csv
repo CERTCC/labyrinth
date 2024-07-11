@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+649813315,sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50,README.md,253518f6372dc7f7ab648ab081b847b692c3b856,CVE-2021-41773
+649813315,sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50,exploit.py,69a33d8c3953780c603f51238a3fb0b4bfa3659c,CVE-2021-42013

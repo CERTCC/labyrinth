@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+794848047,absholi7ly/Cisco-Firepower-Management-Center-Exploit,README.md,3702cfd70e50d34f46d8454e0091845fa658da9b,CVE-2023-20048
+794848047,absholi7ly/Cisco-Firepower-Management-Center-Exploit,CVE-2023-20048.py,f636f6d9ffee7026daa6a87729050ae8eedb7722,CVE-2023-20048

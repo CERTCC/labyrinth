@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+756755586,akrebsCoding/Exploit-AD,Tools/ntlmrelayx.py,11394c7480ea458d499e8beb09898212a878ee30,CVE-2019-1019
+756755586,akrebsCoding/Exploit-AD,Tools/ntlmrelayx.py,11394c7480ea458d499e8beb09898212a878ee30,CVE-2019-1040
+756755586,akrebsCoding/Exploit-AD,Tools/ntlmrelayx.py,11394c7480ea458d499e8beb09898212a878ee30,MS16-077

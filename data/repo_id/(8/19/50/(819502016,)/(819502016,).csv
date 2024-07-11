@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+819502016,dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253,Readme.md,885b9aa9931af9c32fdf875e2fc03c5293b5ef7d,CVE-2023-30253
+819502016,dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253,exploit.py,b240c119a56f48db48037ec2db63e8da9a868acd,CVE-2023-30253
+819502016,dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253,_GITHUB_REPO_METADATA_,,CVE-2023-30253

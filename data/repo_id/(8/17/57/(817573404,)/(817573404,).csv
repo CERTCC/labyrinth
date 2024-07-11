@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+817573404,Secf1ve/vuln_rce_script,Zabbix/Zabbix_CVE-2016-10134.py,0a48dd0e781542556118d32053cdecd17c4f356e,CVE-2016-10134
+817573404,Secf1ve/vuln_rce_script,Apache_APISIX/APISIX_CVE-2020-13945.py,87dd6e551bb731c12f614f2aabf55e802c429efc,CVE-2020-13945
+817573404,Secf1ve/vuln_rce_script,Zabbix/Zabbix_CVE-2017-2824.py,94fe4e41e335176314b460ff8bee5c5c1a82f1c3,CVE-2017-2824
+817573404,Secf1ve/vuln_rce_script,AJ-Report/AJ-Report_CNVD-2024-15077.py,a36b67a9f958c72ab57e8199dff3d146e98b52fb,CNVD-2024-15077
+817573404,Secf1ve/vuln_rce_script,Apache_Airflow/Airflow_CVE-2020-17526.py,b2e3423eedd92a19b77fa593f019a1a220d75c88,CVE-2020-17526

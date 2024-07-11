@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+661387078,bhavikmalhotra/CVE-2022-44268-Exploit,README.md,1f9ae019fb8cdbbe3863ac657e05838466696ad9,CVE-2022-44268
+661387078,bhavikmalhotra/CVE-2022-44268-Exploit,lfi.py,d98001144ee223000b15c4b594620d449738f3ab,CVE-2022-44268
+661387078,bhavikmalhotra/CVE-2022-44268-Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-44268

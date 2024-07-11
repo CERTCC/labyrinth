@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-Q3MW-PVR8-9GGC,0.05555556,https://github.com/brutexploiter/CVEHunt,brutexploiter/CVEHunt,819386815

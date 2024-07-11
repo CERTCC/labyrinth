@@ -1,3 +1,14 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-71808,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
+BID-71808,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
+BID-71808,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
+BID-71808,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
+BID-71808,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+BID-71808,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 BID-71808,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 BID-71808,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
+BID-71808,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+BID-71808,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
+BID-71808,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-71808,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-71808,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

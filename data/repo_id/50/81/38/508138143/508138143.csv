@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+508138143,tedgrubbs/Detect_Exploit_Project_Notes,Dirty_Pipe/Dirty_Pipe.txt,9e84f131142d4a4fc5bd4ebf028f7ee4ba6f139f,CVE-2022-0847

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+492797770,eannaratone/struts2-rce,README.md,19874517c934f882b593464e277999790647946a,CVE-2017-5638

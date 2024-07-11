@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-362536494,LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933,README.md,7d7de1c7b4be760ca76f8221a09a8815adbf0721,CVE-2019-20933
-362536494,LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933,__main__.py,fa3c463ce1fdf77a929dd41e26ae016d41ccf014,CVE-2019-20933
+362536494,LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933,__main__.py,aa0676499aa00d5859ae8ee74d0ac57f1bab06e7,CVE-2019-20933
+362536494,LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933,README.md,b5a872295b37a5a0ea1862a673dab0120d6de5b6,CVE-2019-20933
 362536494,LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933,_GITHUB_REPO_METADATA_,,CVE-2019-20933

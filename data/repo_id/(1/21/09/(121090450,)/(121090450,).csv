@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+121090450,thewhiteh4t/thewhiteh4t.github.io,_posts/2018-02-18-cve-2018-6791-arbitrary-command-execution-in-kde-plasma.html,483376cf77173d056364f190be1c6154ad65fbf8,CVE-2018-6791
+121090450,thewhiteh4t/thewhiteh4t.github.io,about/index.html,49d0ead20bc5f3cbffef33b303a2bc201f34e20a,CVE-2020-9375
+121090450,thewhiteh4t/thewhiteh4t.github.io,about/index.html,49d0ead20bc5f3cbffef33b303a2bc201f34e20a,CVE-2023-37569
+121090450,thewhiteh4t/thewhiteh4t.github.io,_posts/2021-02-13-hackthebox-jewel-write-up.html,a9a91ad827a4b460df180a25dced7ad35402fdae,CVE-2020-8165
+121090450,thewhiteh4t/thewhiteh4t.github.io,images/posts/cve_2020_9375.webp,aae7a3cb5cc319e5eafff269c6947d8c746c86cc,CVE-2020-9375
+121090450,thewhiteh4t/thewhiteh4t.github.io,_posts/2020-02-27-CVE-2020-9375-TP-Link-Archer-C50-v3-Denial-of-Service.html,cad0803c0f627f904df10a575f2efa47383d752d,CVE-2020-9375

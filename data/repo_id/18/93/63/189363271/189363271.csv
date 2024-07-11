@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+189363271,Amzza0x00/Zerooo-Exploitation-Framework,modules/exploit/atlassian/confluence/cve-2022-26134-rce.py,0e14f8a803b1931d26fc74e3ac8d10912094d13e,CVE-2022-26134

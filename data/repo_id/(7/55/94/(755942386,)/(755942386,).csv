@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+755942386,vidura2/cve-2023-46747,exploit.py,1ac31f687c6d8b95137b377a5c2dbe0a9fc63afc,CVE-2023-46747
+755942386,vidura2/cve-2023-46747,_GITHUB_REPO_METADATA_,,CVE-2023-46747

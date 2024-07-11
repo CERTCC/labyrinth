@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+541494150,burpheart/CVE-2022-39197-patch,README.md,20d9a2338f3c9ca5bbe9dad0100426c2c3f79b04,CVE-2022-39197
+541494150,burpheart/CVE-2022-39197-patch,src/main/java/org/patch/Agent.java,9cfecd66be6100b28d52cf89737496081402c89d,CVE-2022-39197
+541494150,burpheart/CVE-2022-39197-patch,pom.xml,d624dd32c9ae86f037e609b41fe73022d0867e07,CVE-2022-39197
+541494150,burpheart/CVE-2022-39197-patch,_GITHUB_REPO_METADATA_,,CVE-2022-39197

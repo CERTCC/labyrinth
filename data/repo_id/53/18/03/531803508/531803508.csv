@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+531803508,pen4uin/vuln-hub,tomcat/tomcat-cve-2017-12615-put-rce/README.md,8c3894c2472299385b02133f99a7fe2eb0abcdea,CVE-2017-12615
+531803508,pen4uin/vuln-hub,javaserver-faces/richfaces-el-injection-3.x/richfaces.war,8f815d53be7a421dd0223a67e3d35e973fa80401,VU#038
+531803508,pen4uin/vuln-hub,tomcat/tomcat-cve-2017-12615-put-rce/Dockerfile,ac54cafb563cb3b53a75e5250695b613a56c3904,CVE-2017-12615
+531803508,pen4uin/vuln-hub,javaserver-faces/primefaces-el-injection-5.x/primefaces.war,bc9edeac211c51b224db6034e4955d97a1cda91f,VU#18
+531803508,pen4uin/vuln-hub,javaserver-faces/primefaces-el-injection-5.x/primefaces.war,bc9edeac211c51b224db6034e4955d97a1cda91f,VU#52
+531803508,pen4uin/vuln-hub,struts2/s2-001/demo.war,bf0003021f899c39b13c30c737fe01f1f41df126,VU#97
+531803508,pen4uin/vuln-hub,tomcat/tomcat-cve-2017-12615-put-rce/conf/web.xml,f7b46995e6006a0d5780a9bdb463487a59369936,CVE-2017-12615

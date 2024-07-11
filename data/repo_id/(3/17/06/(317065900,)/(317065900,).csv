@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+317065900,loneicewolf/fanny.bmp,2004.06195.pdf,0aa5d167306098ebe170a8f25892cbf44dbb461b,VU#556
+317065900,loneicewolf/fanny.bmp,us-18-Guri-AirGap.pdf,25c8d806b681535282f452168f82bcee8df1a1f0,VU#89
+317065900,loneicewolf/fanny.bmp,fanny_bmp_check.rb,40cef38f84fd7e602d526fa3cffda046f0c040a5,CVE-2010-2568
+317065900,loneicewolf/fanny.bmp,Equation_group_questions_and_answers.pdf,41aa5bd1ed03d80650a89de3649d051f900b958b,VU#19
+317065900,loneicewolf/fanny.bmp,Equation_group_questions_and_answers.pdf,41aa5bd1ed03d80650a89de3649d051f900b958b,VU#23
+317065900,loneicewolf/fanny.bmp,Equation_group_questions_and_answers.pdf,41aa5bd1ed03d80650a89de3649d051f900b958b,VU#28
+317065900,loneicewolf/fanny.bmp,Equation_group_questions_and_answers.pdf,41aa5bd1ed03d80650a89de3649d051f900b958b,VU#77
+317065900,loneicewolf/fanny.bmp,ReNewed(Fannybmp Winxp Poc) (With Rootkit Demo + Bug Crash) .mp4.7z,bb97f110962b177d29bc504c390f169c30ef1efc,VU#22
+317065900,loneicewolf/fanny.bmp,ReNewed(Fannybmp Winxp Poc) (With Rootkit Demo + Bug Crash) .mp4.7z,bb97f110962b177d29bc504c390f169c30ef1efc,VU#65
+317065900,loneicewolf/fanny.bmp,ReNewed(Fannybmp Winxp Poc) (With Rootkit Demo + Bug Crash) .mp4.7z,bb97f110962b177d29bc504c390f169c30ef1efc,VU#74
+317065900,loneicewolf/fanny.bmp,README.md,bf8987433496ef2c45ddd52aca457cab4d1ae20d,CVE-2010-2568
+317065900,loneicewolf/fanny.bmp,README.md,bf8987433496ef2c45ddd52aca457cab4d1ae20d,MS08-067
+317065900,loneicewolf/fanny.bmp,Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf,f5090f40e8f41b9677d2e8f5f6435976a8abe1db,CVE-2010-2568
+317065900,loneicewolf/fanny.bmp,Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf,f5090f40e8f41b9677d2e8f5f6435976a8abe1db,MS09-025

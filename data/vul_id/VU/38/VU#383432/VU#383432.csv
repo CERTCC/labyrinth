@@ -1,4 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#383432,0.33333333,https://github.com/crtaylor315/PrintNightmare-Before-Halloween,crtaylor315/PrintNightmare-Before-Halloween,418727290
 VU#383432,0.20000000,https://github.com/4RG0S/2021-Summer-Some-Day-Exploit,4RG0S/2021-Summer-Some-Day-Exploit,384202576
-VU#383432,0.00195312,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#383432,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#383432,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+VU#383432,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+VU#383432,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#383432,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#383432,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+480851528,Wangsafz/cve-2017-0358.sh,cve-2017-0358.sh,afa81bcb68fd431e5baab25823c4709e69013d7d,CVE-2017-0358
+480851528,Wangsafz/cve-2017-0358.sh,cve-2017-0358.sh,afa81bcb68fd431e5baab25823c4709e69013d7d,CVE-2017-0359
+480851528,Wangsafz/cve-2017-0358.sh,_GITHUB_REPO_METADATA_,,CVE-2017-0358

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+504577829,0neday/MA5671-exploit,firmware/MA5671V800R016C00SPH205_common_all_with_getshell.bin,26084ee487f85d3e4aec08441664c78b2d9d6fee,VU#30
+504577829,0neday/MA5671-exploit,firmware/MA5671V800R016C00SPH205_common_all_with_getshell.bin,26084ee487f85d3e4aec08441664c78b2d9d6fee,VU#37
+504577829,0neday/MA5671-exploit,firmware/origin/MA5671V800R313C00SPC101_common_all.bin,30ddc223c22ebdbec2dc822d4cf9f791d10c5748,VU#10
+504577829,0neday/MA5671-exploit,firmware/origin/MA5671V800R016C00SPH205_common_all.bin,818859b55d63ef322c9479ee94d347a9f9a0b95f,VU#30
+504577829,0neday/MA5671-exploit,firmware/origin/MA5671V800R016C00SPH205_common_all.bin,818859b55d63ef322c9479ee94d347a9f9a0b95f,VU#37

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+643690357,z-jxy/keepass_dump,keepass_dump.py,945e54ea4ed4b5d2c7839f53e83ffae286ed00b0,CVE-2023-32784
+643690357,z-jxy/keepass_dump,README.md,d495ee788c05b79cf2dcfac9150541bc8d339a5b,CVE-2023-32784
+643690357,z-jxy/keepass_dump,_GITHUB_REPO_METADATA_,,CVE-2023-32784

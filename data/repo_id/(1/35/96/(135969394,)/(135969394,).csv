@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+135969394,hackerschoice/THC-Archive,Tools/thc-orakelcrackert11g.tar.gz,2c3b9f60e017e2e65bca71bc46b1b0984d340e8e,VU#22
+135969394,hackerschoice/THC-Archive,Tools/thc-leapcracker-0.1.tar.gz,5ec39bd6e4c6b09533f0b140c5f1d7b5f1b71fd7,VU#51
+135969394,hackerschoice/THC-Archive,T-Shirts/THCShirtBACK-2011.eps,68158408983ee864ea9a32f872954268fbf92857,VU#58
+135969394,hackerschoice/THC-Archive,Tools/hydra-7.6.tar.gz,7df230bb4f228a5cdc776ef1a215a1523b58f40b,VU#31
+135969394,hackerschoice/THC-Archive,Exploits/REALSERVER_EXPLOIT_ANALYSIS.pdf,84d3f2039e71470c197e9ce938d0cf4bb7cfe3a1,BID-8476
+135969394,hackerschoice/THC-Archive,Exploits/REALSERVER_EXPLOIT_ANALYSIS.pdf,84d3f2039e71470c197e9ce938d0cf4bb7cfe3a1,VU#934932
+135969394,hackerschoice/THC-Archive,Tools/thc-orakel.tar.gz,8700c3e06d21d190315db1acfe0f9922521f7848,VU#02
+135969394,hackerschoice/THC-Archive,Tools/hydra-8.6.tar.gz,8a139f1e63814e8a87b2b6887c72c48317779a29,VU#22
+135969394,hackerschoice/THC-Archive,Tools/hydra-8.6.tar.gz,8a139f1e63814e8a87b2b6887c72c48317779a29,VU#34
+135969394,hackerschoice/THC-Archive,Tools/probe-4.1.tar.gz,985bfa0533d6d9bab00f685439a5ac6a3756cf03,VU#45
+135969394,hackerschoice/THC-Archive,Tools/hydra-6.4-src.tar.gz,c878ac5a22e7693695921b215826c579117fd098,VU#42
+135969394,hackerschoice/THC-Archive,T-Shirts/THCShirtFRONT-2011.eps,d6e634c5d0af5239318c95ccf7baa0a7562b72e2,VU#79

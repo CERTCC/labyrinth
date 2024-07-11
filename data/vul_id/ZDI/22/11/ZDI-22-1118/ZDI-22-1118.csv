@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-22-1118,0.33333333,https://github.com/hieunguyentr92/nf_tables_lpe,hieunguyentr92/nf_tables_lpe,603452463
+ZDI-22-1118,0.00307692,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+ZDI-22-1118,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

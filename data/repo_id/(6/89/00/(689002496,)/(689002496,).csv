@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+689002496,LovelyWei/clash_for_windows_1click_RCE,README.md,d8fc34b3d418ffe32c28da39242a90619580f669,CVE-2023-43840

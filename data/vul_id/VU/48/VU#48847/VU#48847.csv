@@ -1,3 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#48847,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
+VU#48847,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
+VU#48847,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#48847,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
+VU#48847,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

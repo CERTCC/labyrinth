@@ -1,2 +1,15 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#152,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
+VU#152,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
+VU#152,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
+VU#152,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#152,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
+VU#152,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
+VU#152,0.00291545,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#152,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
+VU#152,0.00222222,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
+VU#152,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
+VU#152,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
+VU#152,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
+VU#152,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#152,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

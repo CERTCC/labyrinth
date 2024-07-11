@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+815034714,huseyinstif/CVE-2024-28995-Nuclei-Template,README.md,15363cac0755a70cdb23175c1878c188edb65c41,CVE-2024-28995
+815034714,huseyinstif/CVE-2024-28995-Nuclei-Template,CVE-2024-28995.yaml,4f2cb2cd3dd17761d0adcdab67678fee2936e1b4,CVE-2024-28995
+815034714,huseyinstif/CVE-2024-28995-Nuclei-Template,_GITHUB_REPO_METADATA_,,CVE-2024-28995

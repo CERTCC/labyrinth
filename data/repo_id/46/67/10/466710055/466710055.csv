@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+466710055,SofianeHamlaoui/CVE-2022-0492-Checker,README.md,73605d739f121b6e7c8935f05e4b8731fcc374e5,CVE-2022-0492
+466710055,SofianeHamlaoui/CVE-2022-0492-Checker,escape-check.sh,99b72e258e4f414d60e75d6a36ac651b87985398,CVE-2022-0492
+466710055,SofianeHamlaoui/CVE-2022-0492-Checker,_GITHUB_REPO_METADATA_,,CVE-2022-0492

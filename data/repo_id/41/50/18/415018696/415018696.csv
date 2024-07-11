@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+415018696,SitinCloud/Owlyshield,owlyshield_predict/moonfire-tflite/testdata/ssd_mobilenet_v1_coco_2018_01_28.tflite,20cd907da3295a957338911436a6c29024ba58a8,VU#69
+415018696,SitinCloud/Owlyshield,owlyshield_predict/moonfire-tflite/testdata/edgetpu.tflite,bfb67f65807e6b4b14242ffdc984b1cac06ec086,VU#95

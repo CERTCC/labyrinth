@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+713583303,ffkarine/ExploitUbuntu14.04,test.c,367c516231b89dd795e6af810db387662b547f4e,CVE-2017-1000112
+713583303,ffkarine/ExploitUbuntu14.04,test.c,367c516231b89dd795e6af810db387662b547f4e,CVE-2017-16994
+713583303,ffkarine/ExploitUbuntu14.04,test.c,367c516231b89dd795e6af810db387662b547f4e,CVE-2018-5333
+713583303,ffkarine/ExploitUbuntu14.04,test.c,367c516231b89dd795e6af810db387662b547f4e,CVE-2019-9213
+713583303,ffkarine/ExploitUbuntu14.04,test.c,367c516231b89dd795e6af810db387662b547f4e,GPZ-1431
+713583303,ffkarine/ExploitUbuntu14.04,test.c,367c516231b89dd795e6af810db387662b547f4e,GPZ-1792
+713583303,ffkarine/ExploitUbuntu14.04,39166.c,fe9cca9addebabad8ea8dbb9d7c59014fec8f226,CVE-2015-8660

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+493644479,p0dalirius/CVE-2022-30780-lighttpd-denial-of-service,generate_tests.py,4fa87381bf6956a4e4a212adc19920d69fb642c3,CVE-2022-30780
+493644479,p0dalirius/CVE-2022-30780-lighttpd-denial-of-service,CVE-2022-30780-lighttpd-denial-of-service.py,5bdbb31e6a93b35926005e713776fbdc26da876a,CVE-2022-30780
+493644479,p0dalirius/CVE-2022-30780-lighttpd-denial-of-service,README.md,a638beb63baec90c249cfc4413cbb3e827cc9672,CVE-2022-30780
+493644479,p0dalirius/CVE-2022-30780-lighttpd-denial-of-service,_GITHUB_REPO_METADATA_,,CVE-2022-30780

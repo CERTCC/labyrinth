@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+769492173,NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK,cve-2023-3824-php-rce.py,085db0cffc6d5b602a30fd4eab3595a91b8fb3b9,CVE-2023-3824
+769492173,NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK,README.md,ed2bdb6499993297ba7dba8171b081948814bb19,CVE-2023-3824
+769492173,NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK,_GITHUB_REPO_METADATA_,,CVE-2023-3824

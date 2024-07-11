@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+474816843,sambacha/git-submodules-exploit,21300.sh,0000d14207eec6c4d35a3bea1671eea1e20849e5,CVE-2021-21300
+474816843,sambacha/git-submodules-exploit,README.md,721bc5d7957cdbb24f41ec992064093f40f82efb,CVE-2021-21300

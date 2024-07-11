@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+606785072,PsySlayer/Krum-V1-Exploit,Krum V1/finj.exe,1992249145ebb6288006cefcdb01f854878b7e7a,VU#46
+606785072,PsySlayer/Krum-V1-Exploit,Krum V1/finj.exe,1992249145ebb6288006cefcdb01f854878b7e7a,VU#93
+606785072,PsySlayer/Krum-V1-Exploit,Krum V1/kernel64.sys.dll,2200e8c8cd10a4ca26a23e04f7bdb357b8ddde80,VU#40
+606785072,PsySlayer/Krum-V1-Exploit,Krum V1/FastColoredTextBox.dll,4b60b87fd696b02d7fce38325c7adfc9e806f650,VU#69
+606785072,PsySlayer/Krum-V1-Exploit,Krum V1.rar,fb459c4d3537a53ada853073f9ff01e4b7ece4c2,VU#70

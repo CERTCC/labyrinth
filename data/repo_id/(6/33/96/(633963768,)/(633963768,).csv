@@ -1,0 +1,37 @@
+repo_id,repo_full_name,file,file_sha1,match
+633963768,sploitem/WebKitPwn,files/Exploiting an integer overflow with array spreading (WebKit) - phoenhex team.pdf,048c56bd89f9d5f1d7215fd7dfb7cb4115cccf4b,ZDI-17-358
+633963768,sploitem/WebKitPwn,files/Step-by-Step Walkthrough of CVE-2022-32792 - WebKit B3ReduceStrength Out-of-Bounds Write _ STAR Labs.pdf,056547ea18f3cc6886d19887daa480b4659aa5c7,ZDI-22-1123
+633963768,sploitem/WebKitPwn,files/Step-by-Step Walkthrough of CVE-2022-32792 - WebKit B3ReduceStrength Out-of-Bounds Write _ STAR Labs.pdf,056547ea18f3cc6886d19887daa480b4659aa5c7,CVE-2022-32792
+633963768,sploitem/WebKitPwn,files/Zero Day Initiative — Inverting Your Assumptions_ A Guide to JIT Comparisons.pdf,12d4b79c26e7a0c744545def2621c319a19e347e,CVE-2023-1389
+633963768,sploitem/WebKitPwn,files/Zero Day Initiative — Inverting Your Assumptions_ A Guide to JIT Comparisons.pdf,12d4b79c26e7a0c744545def2621c319a19e347e,ZDI-18-276
+633963768,sploitem/WebKitPwn,files/Zero Day Initiative — Inverting Your Assumptions_ A Guide to JIT Comparisons.pdf,12d4b79c26e7a0c744545def2621c319a19e347e,CVE-2022-29844
+633963768,sploitem/WebKitPwn,files/A New Bytecode Format for JavaScriptCore _ WebKit.pdf,155febcab8f021acf3b1f4b922495a82c8394c65,VU#48
+633963768,sploitem/WebKitPwn,files/Root Cause Analysis of the in the wild JIT bug (CVE-2022-42856).pdf,2fbefff1c5a75bf57bf3610185bbeb2d0d7d8864,CVE-2022-42856
+633963768,sploitem/WebKitPwn,README.md,316e12e2236d87ce1d8df377ca24c674d247a72f,CVE-2020-9802
+633963768,sploitem/WebKitPwn,README.md,316e12e2236d87ce1d8df377ca24c674d247a72f,CVE-2018-4441
+633963768,sploitem/WebKitPwn,README.md,316e12e2236d87ce1d8df377ca24c674d247a72f,CVE-2017-2446
+633963768,sploitem/WebKitPwn,README.md,316e12e2236d87ce1d8df377ca24c674d247a72f,CVE-2021-1789
+633963768,sploitem/WebKitPwn,files/The Mysterious Realm of JavaScriptCore.pdf,391c9eecb52719d60bf24986d176011411664e63,VU#912
+633963768,sploitem/WebKitPwn,files/The Mysterious Realm of JavaScriptCore.pdf,391c9eecb52719d60bf24986d176011411664e63,CVE-2018-4233
+633963768,sploitem/WebKitPwn,files/Zero Day Initiative — Diving Deep Into a Pwn2Own Winning WebKit Bug.pdf,55c6fad5461a969acd073c7924dcf42624f8224b,CVE-2017-2446
+633963768,sploitem/WebKitPwn,files/CVE-2018-4441 OOB R_W via JSArray unshiftCountWithArrayStorage (WebKit).pdf,56d58f3c47c56f7a2c8de0c936d4b3b970ba708f,CVE-2018-4441
+633963768,sploitem/WebKitPwn,files/CVE-2018-4441 OOB R_W via JSArray unshiftCountWithArrayStorage (WebKit).pdf,56d58f3c47c56f7a2c8de0c936d4b3b970ba708f,GPZ-1685
+633963768,sploitem/WebKitPwn,files/Apple Browser Internals.pdf,5e261a09f925a60f3a8c0f1cce397e31351553b3,VU#500
+633963768,sploitem/WebKitPwn,files/Apple Browser Internals.pdf,5e261a09f925a60f3a8c0f1cce397e31351553b3,VU#32
+633963768,sploitem/WebKitPwn,files/Exploiting WebKit JSPropertyNameEnumerator Out-of-Bounds Read (CVE-2021-1789).pdf,6e71c37faccd4731b29a1db73248a5faa4856e6c,CVE-2021-1789
+633963768,sploitem/WebKitPwn,files/Exploitation of CVE-2020-9802_ a JavaScriptCore JIT Bug - shxdow.pdf,70071650223b43304733b6a0e5e6b35dbc7b13f3,CVE-2020-9802
+633963768,sploitem/WebKitPwn,files/Exploitation of CVE-2020-9802_ a JavaScriptCore JIT Bug - shxdow.pdf,70071650223b43304733b6a0e5e6b35dbc7b13f3,GPZ-2020
+633963768,sploitem/WebKitPwn,files/Exploiting Safari's ANGLE Component _ Theori.pdf,76337a6c2ab4577573c7f45345039856373e8ad1,CVE-2022-26717
+633963768,sploitem/WebKitPwn,files/Pwn2Own 2017_ UAF in JSC__CachedCall (WebKit) - phoenhex team.pdf,77847bba8f611f72c5d4c942726616f32083b68e,ZDI-17-321
+633963768,sploitem/WebKitPwn,files/Exploiting Webkit CVE-2018-4441 _ Devilx86.pdf,8688aced7f86a8110fd1110f4d59e338307bcc93,CVE-2018-4441
+633963768,sploitem/WebKitPwn,files/Exploiting Webkit CVE-2018-4441 _ Devilx86.pdf,8688aced7f86a8110fd1110f4d59e338307bcc93,GPZ-1685
+633963768,sploitem/WebKitPwn,files/Webkit Exploitation Tutorial.pdf,aea41ec99c0f45634c42135b377cfab5fe57dcfb,GPZ-1033
+633963768,sploitem/WebKitPwn,files/Webkit Exploitation Tutorial.pdf,aea41ec99c0f45634c42135b377cfab5fe57dcfb,GPZ-1032
+633963768,sploitem/WebKitPwn,files/Webkit Exploitation Tutorial.pdf,aea41ec99c0f45634c42135b377cfab5fe57dcfb,CVE-2018-4416
+633963768,sploitem/WebKitPwn,files/Webkit Exploitation Tutorial.pdf,aea41ec99c0f45634c42135b377cfab5fe57dcfb,GPZ-1652
+633963768,sploitem/WebKitPwn,files/apple-safari-wasm-section-vuln-write-up-2018-04-16.pdf,bfeb6a301c5b0e6f48f613b93fd40a2dc715f8d5,GPZ-1522
+633963768,sploitem/WebKitPwn,files/Exploiting CSP in Webkit to Break Authentication & Authorization.pdf,df384ed7645aa246303a91fa4050a6fd093889b0,CVE-2021-30888
+633963768,sploitem/WebKitPwn,files/Exploiting CSP in Webkit to Break Authentication & Authorization.pdf,df384ed7645aa246303a91fa4050a6fd093889b0,CVE-2021-30682
+633963768,sploitem/WebKitPwn,files/CVE-2017-2446 or JSC__JSGlobalObject__isHavingABadTime_.pdf,f3929ed48d57e5aec0978982226d26bad81130cf,GPZ-1036
+633963768,sploitem/WebKitPwn,files/CVE-2017-2446 or JSC__JSGlobalObject__isHavingABadTime_.pdf,f3929ed48d57e5aec0978982226d26bad81130cf,GPZ-1032
+633963768,sploitem/WebKitPwn,files/CVE-2017-2446 or JSC__JSGlobalObject__isHavingABadTime_.pdf,f3929ed48d57e5aec0978982226d26bad81130cf,CVE-2017-2446

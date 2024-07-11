@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+363188851,ltfafei/my_POC,CVE-2021-42013_Apache_directory&RCE.py,00cf92c6567751c056bf32ef5b04d8a560737ab3,CVE-2021-42013
 363188851,ltfafei/my_POC,CVE-2017-7529/CVE-2017-7529_POC2.py,019e5accd696be4e6988b642c33099c7b974fc67,CVE-2017-7529
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/CommonsCollections2.py,01aa832cec8f23aa58f73953589881cdb9941389,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2017-12615/README.md,0330688da5f680ede7ba1a6fa19ca4e2b77a0f09,CVE-2017-12615
@@ -17,37 +18,50 @@ repo_id,repo_full_name,file,file_sha1,match
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/CommonsBeanutils1.py,128c805ccf5168830cb73c6d5de1e72a25060a74,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections10.cpython-38.pyc,130cf49d706b6aaee3012679b37b97dcb80c4181,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__init__.py,14bb7741c32755194b995fb324e926482e621a82,CVE-2016-4437
-363188851,ltfafei/my_POC,CVE-2021-42013_Apache_directory&RCE.py,14dd6d5993642c03ac861fd919a23f548720a069,CVE-2021-42013
-363188851,ltfafei/my_POC,CVE-2021-42013_Apache_directory&RCE.py,14dd6d5993642c03ac861fd919a23f548720a069,CVE-2021-41773
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/__init__.cpython-39.pyc,173880e3d0f896adb473ca2da1d111170da0441a,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/JSON1.py,18129574906f53fb49a8eedb3b4625edd5c47961,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Vaadin1.cpython-39.pyc,198be5fd797b0d600520f6e970ee850e416b9784,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections5.cpython-39.pyc,1c15337838515c8e58a77b51a53772783ef2434e,CVE-2016-4437
-363188851,ltfafei/my_POC,.idea/workspace.xml,1c5f950dd888ac9ac3adb518b70b33cd9de84410,CVE-2021-26084
-363188851,ltfafei/my_POC,.idea/workspace.xml,1c5f950dd888ac9ac3adb518b70b33cd9de84410,CVE-2021-1732
-363188851,ltfafei/my_POC,.idea/workspace.xml,1c5f950dd888ac9ac3adb518b70b33cd9de84410,CVE-2021-26295
-363188851,ltfafei/my_POC,.idea/workspace.xml,1c5f950dd888ac9ac3adb518b70b33cd9de84410,CVE-2021-42013
-363188851,ltfafei/my_POC,.idea/workspace.xml,1c5f950dd888ac9ac3adb518b70b33cd9de84410,CVE-2020-1938
-363188851,ltfafei/my_POC,.idea/workspace.xml,1c5f950dd888ac9ac3adb518b70b33cd9de84410,CVE-2021-41773
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections4.cpython-38.pyc,1dc215d460ef0a15e7d7f5ec2f5da7fea8aa50f5,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Jdk8u20.cpython-39.pyc,1e0c1b0d51bc8e525d557793fd77aa4b9b4840e8,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/MozillaRhino2.py,1e896efcb9dd0dd8b8ef8876bd4457b0f971e25d,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/BeanShell1.cpython-38.pyc,1ef081e4c23dc6408fbb9724f9ff50f7ce910562,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections2.cpython-37.pyc,1f895ccbbf276a844c0ac9fdd82d3250046c9d7a,CVE-2016-4437
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#26
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#56
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#83
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#95
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#76
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#32
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#45
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#39
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#38
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#03
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#35
+363188851,ltfafei/my_POC,Apereo-CAS_4.1.x_RCE/apereo-cas-attack-1.0-SNAPSHOT-all.jar,208acaf5e9f49017d6cf2984047618f02380eab6,VU#37
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollectionsK4.cpython-39.pyc,20ebb8537c2f256eef751ddc8dde4de89c7549b8,CVE-2016-4437
+363188851,ltfafei/my_POC,CVE-2021-41773_Apache_directory.py,22c3d4790f975ad8b16cba6e2b8fdac864842b78,CVE-2021-41773
+363188851,ltfafei/my_POC,CVE-2021-41773_Apache_directory.py,22c3d4790f975ad8b16cba6e2b8fdac864842b78,CVE-2021-42013
+363188851,ltfafei/my_POC,CNVD-2020-10487(CVE-2020-1938)-Tomcat_AJP/POC.py,23a87ff1d9f15ee52bb2f563549fbfc323d5ea2c,CNVD-2020-10487
 363188851,ltfafei/my_POC,CNVD-2020-10487(CVE-2020-1938)-Tomcat_AJP/POC.py,23a87ff1d9f15ee52bb2f563549fbfc323d5ea2c,CVE-2020-1938
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections5.cpython-38.pyc,2478d7b319b0699d037650c9866b74a8edf20255,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/CommonsCollections10.py,2572b2d9086e841692f6aac1f2f9752338232d29,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/CommonsCollections9.py,25c47c42686b55f8c02ba75ba74dcb6f1f48c24d,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/__init__.py,28b2ccde6e29ac86ff5ed319056b315df825864f,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/Groovy1.py,2985ff484f90a736c965d36ef9964cf8b5f45277,CVE-2016-4437
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/shiro_tool/shiro_tool.jar,2a488f0ff2ffddc83d3b0c4b64c6461247cd17e6,VU#45
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/shiro_tool/shiro_tool.jar,2a488f0ff2ffddc83d3b0c4b64c6461247cd17e6,CVE-2016-4437
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/shiro_tool/shiro_tool.jar,2a488f0ff2ffddc83d3b0c4b64c6461247cd17e6,VU#37
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/shiro_tool/shiro_tool.jar,2a488f0ff2ffddc83d3b0c4b64c6461247cd17e6,VU#83
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/shiro_tool/shiro_tool.jar,2a488f0ff2ffddc83d3b0c4b64c6461247cd17e6,VU#35
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/shiro_tool/shiro_tool.jar,2a488f0ff2ffddc83d3b0c4b64c6461247cd17e6,VU#95
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections1.cpython-38.pyc,2bdd31451098cf6e3028fa6d55f2046bf84bb05c,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/Spring3.py,2c413d2fb1b403e8698ba4a776f745cfba489697,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Hibernate1.cpython-39.pyc,2e4704b340b5b2f0eea0994269f436ea461be3b8,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Jdk7u21.cpython-39.pyc,2e937b4127d5946383d4fcc2a9303d6252a19cdd,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/__pycache__/main.cpython-38.pyc,2ed8b1681ad910b0d031c54253837abb3621db96,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/shiro_rce.py,2f14d1b55d1843b0a7f7f320a83133a40fd5d7fc,CVE-2016-4437
+363188851,ltfafei/my_POC,CNVD-2020-10487(CVE-2020-1938)-Tomcat_AJP/Simple_install_tomcat9.0.30.sh,2fd21f6d4ebb9b7c0645508cde8e11c0c2b92e08,CNVD-2020-10487
 363188851,ltfafei/my_POC,CNVD-2020-10487(CVE-2020-1938)-Tomcat_AJP/Simple_install_tomcat9.0.30.sh,2fd21f6d4ebb9b7c0645508cde8e11c0c2b92e08,CVE-2020-1938
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections10.cpython-37.pyc,30e3f15eb92a01d879574e7692f223db7f0433ae,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/CommonsCollectionsK3.py,32e50a8bdb3b4cf0e2e2d2f9ae0040615f7e360e,CVE-2016-4437
@@ -59,6 +73,22 @@ repo_id,repo_full_name,file,file_sha1,match
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Vaadin1.cpython-37.pyc,4244b32c4329eab473e91f22b3be9a15f0bfed25,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/MozillaRhino1.cpython-37.pyc,42d2f3bf23ce5357fa4ab90e2839ae658ba4f2a7,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2019-9740/CVE-2019-9740_python3.py,4360c9b496d4fdce2e5713454995204fa3ee0a94,CVE-2019-9740
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2021-42013
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2021-25646
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2021-21975
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2021-26295
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2021-21402
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2021-41773
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2016-4437
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2021-3156
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CNVD-2020-10487
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2020-1938
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CNVD-2021-26422
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2020-16898
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2017-7529
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2019-11043
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2019-9740
+363188851,ltfafei/my_POC,README.md,4875db4aedfe0fc0594860ec2047943d3855bfa4,CVE-2021-1732
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/CommonsCollections7.py,4997a7e678340513271b3c9c1e4043c69bccc36c,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Jdk8u20.cpython-38.pyc,4a6295c4c9eccf14781b9ee7526bef6f7e8a446a,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Vaadin1.cpython-38.pyc,4c49c31e9665df90ddba228047535056fbfad19f,CVE-2016-4437
@@ -104,18 +134,6 @@ repo_id,repo_full_name,file,file_sha1,match
 363188851,ltfafei/my_POC,CVE-2021-21402_Jellyfin/CVE-2021-21402_Jellyfin_POC.py,7ede79d9bea550851a3558e3b1fcb80d72107619,CVE-2021-21402
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/Jdk8u20.py,7ff9ce775658a855a57e48fd6928ac215207839b,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/CommonsCollections6.py,80a6662c94bb6d70ce7b37aa0d86f1329cd78b01,CVE-2016-4437
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2019-9740
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2021-21402
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2016-4437
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2021-3156
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2021-21975
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2020-1938
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2017-7529
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2021-26295
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2019-11043
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2021-25646
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2021-1732
-363188851,ltfafei/my_POC,README.md,85041b3123ca6b059aeb257d14a6d675b555bf88,CVE-2020-16898
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsBeanutils1.cpython-37.pyc,857765490689c0afbf72d8b500311e47f82aecbf,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections3.cpython-37.pyc,860bb67d54e1520425653c70e72244c11cb9334b,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/CommonsCollectionsK4.py,8c5b6101dd7aca2438bc99db655d7a2131db29a0,CVE-2016-4437
@@ -134,12 +152,12 @@ repo_id,repo_full_name,file,file_sha1,match
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/BeanShell1.cpython-39.pyc,952f26eb9a439a65d816304651a8b8961b8cf126,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/config/shell.jsp,95d751d4b380d3ca39d4db3950092ff4ec79ee35,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2017-7529/CVE-2017-7529_POC1.py,9600fd3c499f9500d2cdfdf68650bc686234a547,CVE-2017-7529
-363188851,ltfafei/my_POC,CVE-2021-41773_Apache_directory.py,97721a759d45e5097750f0d132dd0eb1d935bd35,CVE-2021-41773
+363188851,ltfafei/my_POC,jQuery_xss_POC/jQuery(CVE-2020-11022CVE-2020-11023)_xssPOC.html,97ff58fd2b104c84975af1a5e5e1a5b94ade584f,CVE-2020-11023
+363188851,ltfafei/my_POC,jQuery_xss_POC/jQuery(CVE-2020-11022CVE-2020-11023)_xssPOC.html,97ff58fd2b104c84975af1a5e5e1a5b94ade584f,CVE-2020-11022
+363188851,ltfafei/my_POC,jQuery_xss_POC/jQuery-CVE-2015-9521.html,97ff58fd2b104c84975af1a5e5e1a5b94ade584f,CVE-2015-9521
 363188851,ltfafei/my_POC,CVE-2019-11043_PHP-fpm_RCE/CVE-2019-11043_RCE_2.py,993ef436a8baf17446a5e8c75cdcd587f198a0aa,CVE-2019-11043
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections10.cpython-39.pyc,9b5ffc8690d01f2ed65a4ed79bbc215e5f17e35e,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/insightglacier_Shiro_exp/README.md,9ea74bd3b7f5d1c8dcd56043c0aebb8219dc6537,CVE-2016-4437
-363188851,ltfafei/my_POC,jQuery_xss_POC/jQuery(CVE-2020-11022CVE-2020-11023)_xssPOC.html,a24ea9730e5d7743a6c26fd4120ab143e35f32ff,CVE-2020-11023
-363188851,ltfafei/my_POC,jQuery_xss_POC/jQuery(CVE-2020-11022CVE-2020-11023)_xssPOC.html,a24ea9730e5d7743a6c26fd4120ab143e35f32ff,CVE-2020-11022
 363188851,ltfafei/my_POC,CVE-2019-9740/CVE-2019-9740_attack_redis.py,a352fbae992c764051d56f3222d0c638c9dccbd7,CVE-2019-9740
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/config/config.properties,a3b43d8960b6e5747e2533bb4fca8a2d99d50344,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/Jdk7u21.py,a4bbb9c4f7821d496852cebc883b01a839f8070d,CVE-2016-4437
@@ -147,13 +165,24 @@ repo_id,repo_full_name,file,file_sha1,match
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Hibernate2.cpython-38.pyc,a5cd4638715921da9f978a2e38a85c7628a19043,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsBeanutils1.cpython-38.pyc,ab01cc044cae7f9bc148db7f81bffeb5fbe2aa60,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/JSON1.cpython-37.pyc,ad34bd4e57220388b2a05012705ce82f3dd34d9d,CVE-2016-4437
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#56
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#03
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,CVE-2016-4437
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#35
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#37
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#38
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#39
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#45
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#76
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#26
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#81
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#83
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroExploit.V2.51/ysoserial.jar,ad8777680d8fc4bf5da0cdd6a9ec0304fca4e0cf,VU#95
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Spring3.cpython-37.pyc,adfd6af008cbf3afa2f54d817f3bb8bd29398f54,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Groovy1.cpython-39.pyc,ae3c464ea7d9ce47f5abc3c525311a11c6663428,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Spring1.cpython-39.pyc,af209bdc34081108a82634936de86e084fa83ae3,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/ROME.cpython-39.pyc,b47d394b31aabe07504436ba7879f33897e1790d,CVE-2016-4437
-363188851,ltfafei/my_POC,jQuery_xss_POC/jQuery-CVE-2015-9521.html,b8c5648fe415f2cf05959de4417b843986bed894,CVE-2015-9251
-363188851,ltfafei/my_POC,jQuery_xss_POC/jQuery-CVE-2015-9521.html,b8c5648fe415f2cf05959de4417b843986bed894,CVE-2015-9521
+363188851,ltfafei/my_POC,CNVD-2021-26422_eYouMail/CNVD-2021-26422_eYouMail_RCE_EXP.py,b8634d63b6ef111852da732d64514d7b96315db6,CNVD-2021-26422
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/URLDNS.py,bb4690be5f524f172c79b80fa2a6ee7703a34cb5,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/__init__.cpython-37.pyc,bb8fcf2d9e84d8ab10c919faf4b0146cf5250590,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollectionsK4.cpython-38.pyc,bf8c8ff93a02cdaebf982355c9209a13a720121e,CVE-2016-4437
@@ -167,6 +196,7 @@ repo_id,repo_full_name,file,file_sha1,match
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/shiro_tool/README.md,c708b1a26703b1202917f8d97e67092c2f0a6ac0,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/MozillaRhino1.py,c7a55af1ae8f647ac2a472f6b3c0508d7a4e196b,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/requirements.txt,c7bbdef3c335f8d5715bbed346c52a95bb890ec4,CVE-2016-4437
+363188851,ltfafei/my_POC,CNVD-2021-26422_eYouMail/CNVD-2021-26422_eYouMail_RCE_POC.py,c95466f0ca6b4c2fe286e788d348be3fe404249b,CNVD-2021-26422
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections6.cpython-39.pyc,ca1f44612c901a10d499c51eb892863b58d37640,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/__pycache__/main.cpython-39.pyc,cb33348de40fac45d7d3a213568b208ce2bd4ecb,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/URLDNS.cpython-37.pyc,cba348fca8a2bad498cfefc63d74712102871586,CVE-2016-4437
@@ -183,10 +213,25 @@ repo_id,repo_full_name,file,file_sha1,match
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections8.cpython-37.pyc,e0d90f7da015b38bb8a5a0ab83c0b5b9f123d62a,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/BeanShell1.cpython-37.pyc,e3e28cd030b906056802e58422e81089725330c6,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/insightglacier_Shiro_exp/shiro_exploit.py,e5dc6c7284151a6f5867a162c4fa3d3f501c1f70,CVE-2016-4437
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#46
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#26
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#45
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#39
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#95
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#38
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#03
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#76
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#81
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#37
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,CVE-2016-4437
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#83
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#35
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#59
+363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/ysoserial.jar,e5ed1b77a4344399d0bc294f59cb08901f77d544,VU#56
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/Myfaces1.cpython-39.pyc,e6bf78373c9decd6424e1bc0f274f7f190594cd7,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/Spring2.py,e70cf9d6e63ff327f4103d60a0c7ba98634ec982,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/MozillaRhino2.cpython-37.pyc,e77f06880f9966ab250755f04a3f80b808a29b95,CVE-2016-4437
+363188851,ltfafei/my_POC,CNVD-2020-10487(CVE-2020-1938)-Tomcat_AJP/request.txt,ed448c94ea8e23df67fc0dc681c52d528c0c2161,CNVD-2020-10487
 363188851,ltfafei/my_POC,CNVD-2020-10487(CVE-2020-1938)-Tomcat_AJP/request.txt,ed448c94ea8e23df67fc0dc681c52d528c0c2161,CVE-2020-1938
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/__pycache__/__init__.cpython-39.pyc,eddec586d8766ba75fc516a8395f58803b01e6c2,CVE-2016-4437
 363188851,ltfafei/my_POC,CVE-2016-4437 Apache_Shiro_RCE/ShiroScan_1.2.4/moule/plugins/__pycache__/CommonsCollections7.cpython-37.pyc,eed58f7d363af58e116df8f0620bb049af853253,CVE-2016-4437

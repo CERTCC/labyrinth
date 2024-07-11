@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+652570287,pwnipc/BadParcel,docs/README.md,25c1b14fbd10ff33ae7b285301f4a79ef08c0a90,CVE-2023-20963
+652570287,pwnipc/BadParcel,_GITHUB_REPO_METADATA_,,CVE-2023-20963

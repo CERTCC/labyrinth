@@ -1,2 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#867593,0.01612903,https://github.com/svrohith9/Penetration-testing,svrohith9/Penetration-testing,489994709
+VU#867593,0.00833333,https://github.com/ZielinskiNorbert/Metasploitable,ZielinskiNorbert/Metasploitable,818732446
+VU#867593,0.00154799,https://github.com/radar-webhook-testing/metasploit-framework-commits,radar-webhook-testing/metasploit-framework-commits,744218740
 VU#867593,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+VU#867593,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#867593,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#867593,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

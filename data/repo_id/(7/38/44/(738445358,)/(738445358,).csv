@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+738445358,RedTeamPentesting/bitwarden-windows-hello,README.md,0972799015c02bb6a69c28881381818bd7335040,CVE-2023-27706

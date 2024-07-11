@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-MF4F-J588-5XM8,0.03333333,https://github.com/curated-intel/Log4Shell-IOCs,curated-intel/Log4Shell-IOCs,437595483

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+598074036,Sybil-Scan/imagemagick-lfi-poc,README.md,76d975b8f6a480e10fe0422d079efb73aa10d173,CVE-2022-44268
+598074036,Sybil-Scan/imagemagick-lfi-poc,generate.py,f5ee50cd0cd8a847b81bf7d2a2fda6263b058e21,CVE-2022-44268
+598074036,Sybil-Scan/imagemagick-lfi-poc,_GITHUB_REPO_METADATA_,,CVE-2022-44268

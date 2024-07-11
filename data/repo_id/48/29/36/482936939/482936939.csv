@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+482936939,puneetbehl/grails3-cve-2022-27772,README.md,68dac3789b5d86da4ba65839d5816599658b6bc9,CVE-2022-27772
+482936939,puneetbehl/grails3-cve-2022-27772,README.md,68dac3789b5d86da4ba65839d5816599658b6bc9,GHSA-CM59-PR5Q-CW85
+482936939,puneetbehl/grails3-cve-2022-27772,_GITHUB_REPO_METADATA_,,CVE-2022-27772

@@ -1,5 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
+355091423,krishpranav/vuln-scanner-flask,static/vendor/visjs/vis-network.min.js,029a48ecce1a5d9b8153aac3101f159bea53abac,VU#42
 355091423,krishpranav/vuln-scanner-flask,rules/cves/rule_nginx-cve-2017-7529.py,353b689e968e9bd6b3e62cfd1ccabc7abee0aa8a,CVE-2017-7529
+355091423,krishpranav/vuln-scanner-flask,static/js/vis-network.min.js,88945822a86a4404a42d4b098fcc59fa17772d34,VU#42
 355091423,krishpranav/vuln-scanner-flask,rules/cves/rule_fortinet-cve-2018-13379.py,e414565fd57d2e594c243eff1fa44dfdb1114de3,CVE-2018-13379
 355091423,krishpranav/vuln-scanner-flask,rules/vulnerabilities/rule_shellshock.py,e6d59cca0241c047c09dae278e2a36d77030be3b,CVE-2014-6271
 355091423,krishpranav/vuln-scanner-flask,rules/cves/rule_f5-cve-2020-5902.py,efc67d05c300e151893ce1703cc840c8427d424e,CVE-2020-5902

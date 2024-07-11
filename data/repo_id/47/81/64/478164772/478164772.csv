@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+478164772,scottymcandrew/exploit-labs,log4shell_solr/marshalsec-0.0.3-SNAPSHOT-all.jar,e6eda3b56fb65e2b5c483a1b3edb1af533401a81,VU#03
+478164772,scottymcandrew/exploit-labs,log4shell_solr/marshalsec-0.0.3-SNAPSHOT-all.jar,e6eda3b56fb65e2b5c483a1b3edb1af533401a81,VU#23
+478164772,scottymcandrew/exploit-labs,log4shell_solr/marshalsec-0.0.3-SNAPSHOT-all.jar,e6eda3b56fb65e2b5c483a1b3edb1af533401a81,VU#68
+478164772,scottymcandrew/exploit-labs,log4shell_solr/marshalsec-0.0.3-SNAPSHOT-all.jar,e6eda3b56fb65e2b5c483a1b3edb1af533401a81,VU#80
+478164772,scottymcandrew/exploit-labs,log4shell_solr/marshalsec-0.0.3-SNAPSHOT-all.jar,e6eda3b56fb65e2b5c483a1b3edb1af533401a81,VU#83

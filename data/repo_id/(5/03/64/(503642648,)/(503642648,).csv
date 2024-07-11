@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+503642648,vladko312/SSTImap,plugins/engines/twig.py,667c5157d86e0267e065a3093d64c321bee692ff,CVE-2022-23614
+503642648,vladko312/SSTImap,plugins/legacy_engines/twig_filter.py,9ef74d60aa2ef91cd0ce1b16f72444b4750ea326,CVE-2022-23614

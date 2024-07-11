@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+742087101,ergot86/ancient_exploits,ms12-042/sysret.h,302cc04c14d410fb5f5435c0aea2039fe391309c,MS12-042
+742087101,ergot86/ancient_exploits,ms12-042/sysret.c,323337deeb3329a0b3abdad784faa96d13d3471a,MS12-042
+742087101,ergot86/ancient_exploits,ms12-042/README.md,70994250b8cc3c68ae111e66d501f7402043c8e8,MS12-042

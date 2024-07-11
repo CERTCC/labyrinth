@@ -1,6 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#154421,0.08333333,https://github.com/rstenvi/intrasploit,rstenvi/intrasploit,142786321
+VU#154421,0.05263158,https://github.com/ca3tie1/ExploitDepository,ca3tie1/ExploitDepository,428485331
+VU#154421,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/PhoneSploitPro,758471479
 VU#154421,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
+VU#154421,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
+VU#154421,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#154421,0.00111111,https://github.com/SourceCodeBackup/exploits-backup,SourceCodeBackup/exploits-backup,36551455
 VU#154421,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 VU#154421,0.00029516,https://github.com/alex-metasploit/metasploit-clone,alex-metasploit/metasploit-clone,25959480
@@ -10,3 +14,6 @@ VU#154421,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrd
 VU#154421,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 VU#154421,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 VU#154421,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+VU#154421,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#154421,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#154421,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

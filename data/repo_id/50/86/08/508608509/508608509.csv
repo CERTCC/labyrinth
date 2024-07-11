@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+508608509,Vbedtt54e5/interesting-release-of-CVE-2022-63432,butter.exe,30a04589858f024716c3d194274f17f3b48def31,VU#42
+508608509,Vbedtt54e5/interesting-release-of-CVE-2022-63432,nut.exe,73facd99c3e00474b6ac1c7483fb4c66f1d9f522,VU#21
+508608509,Vbedtt54e5/interesting-release-of-CVE-2022-63432,nut.exe,73facd99c3e00474b6ac1c7483fb4c66f1d9f522,VU#42
+508608509,Vbedtt54e5/interesting-release-of-CVE-2022-63432,nut.exe,73facd99c3e00474b6ac1c7483fb4c66f1d9f522,VU#45
+508608509,Vbedtt54e5/interesting-release-of-CVE-2022-63432,README.md,e34f54be90b56786f52f81e0cba1112218159a39,CVE-2022-63432
+508608509,Vbedtt54e5/interesting-release-of-CVE-2022-63432,_GITHUB_REPO_METADATA_,,CVE-2022-63432

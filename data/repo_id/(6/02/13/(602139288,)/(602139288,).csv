@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+602139288,hotpotcookie/CVE-2022-44877-white-box,doc/image/topology.drawio,2064a02d8a7da35534ea28eb5fc9b7fb9d27f33b,VU#60
+602139288,hotpotcookie/CVE-2022-44877-white-box,doc/capture/nikto.cap,6504245a2e479c30880bca8370bc5c0af23c1140,OSVDB-3092
+602139288,hotpotcookie/CVE-2022-44877-white-box,doc/setup.txt,9571e9d098d46d713c09919c0caaaf49d53ea67b,OSVDB-3092
+602139288,hotpotcookie/CVE-2022-44877-white-box,doc/image/attack-tree.drawio,c4365b99ca6d8a15280548c7afcebbabdd4af664,VU#18
+602139288,hotpotcookie/CVE-2022-44877-white-box,doc/image/attack-tree.drawio,c4365b99ca6d8a15280548c7afcebbabdd4af664,VU#85
+602139288,hotpotcookie/CVE-2022-44877-white-box,_GITHUB_REPO_METADATA_,,CVE-2022-44877

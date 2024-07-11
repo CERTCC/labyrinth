@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+758822408,yufongg/safecypher,safecypher.py,1375cb468c27108b26b7568c5d018cfbb066ac78,CVE-2021-42767
+758822408,yufongg/safecypher,safecypher.py,1375cb468c27108b26b7568c5d018cfbb066ac78,CVE-2022-23532
+758822408,yufongg/safecypher,safecypher.py,1375cb468c27108b26b7568c5d018cfbb066ac78,CVE-2022-37423
+758822408,yufongg/safecypher,safecypher.py,1375cb468c27108b26b7568c5d018cfbb066ac78,CVE-2023-23926
+758822408,yufongg/safecypher,misc/images/blind_bool_dump_all.mp4,da2dd659b2b06029707758ed6bbd068ede8c3ae5,VU#03

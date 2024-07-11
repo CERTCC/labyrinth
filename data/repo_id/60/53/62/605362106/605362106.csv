@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+605362106,ibaiw/joomla_CVE-2023-23752,README.md,a58fc16d94901e018ee5f8551fabfbeee4d891de,CVE-2023-23752
+605362106,ibaiw/joomla_CVE-2023-23752,joomla-Unauthorized.yaml,b4b6e58c11ec51246e492d4258569e0b187acfd6,CVE-2023-23752
+605362106,ibaiw/joomla_CVE-2023-23752,.idea/joomla_CVE-2023-23752.iml,e97d654372ef437ced1d771fc7339a3a5ea653c8,CVE-2023-23752
+605362106,ibaiw/joomla_CVE-2023-23752,.idea/modules.xml,f473924e60fcd93bff4de90a3d1f1ae74cd955ef,CVE-2023-23752
+605362106,ibaiw/joomla_CVE-2023-23752,_GITHUB_REPO_METADATA_,,CVE-2023-23752

@@ -1,0 +1,253 @@
+repo_id,repo_full_name,file,file_sha1,match
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.categoryAxisRenderer.min.js,008883793e873b9781553220bb1f0a78b91e1116,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-22978/poc/CVE-2022-22978Art.md,00b3df59354ff983b45a56a1b1067aadd7016a66,CVE-2022-22978
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2020_26258.java,01957525d69038d1ec03d8d2de332f1cf2d6c479,CVE-2020-26258
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/poc/POC-CVE-2022-44262.http,01d85721d8240e94c38ab8ea6dcaf7eea9ac5a4a,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/poc/POC-CVE-2021-27850.http,01facfbba9ec8faed27396b040529bd037489820,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/bootstrap.js,0220771679e24ad8d3ceb9f3096d45ce10aff59e,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/application.yml,02aac3debb110c123c965ed11d2105d1c0d898fa,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/h2database/CVE-2021-23463/src/main/resources/poc.sql,02f46f68c442ab78d01f8e3b3e46d491276997a4,CVE-2021-23463
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/services/DevelopmentModule.java,0353c512e3df4df37814efd52a16bd4a4c4c0fcf,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Shiro/CVE-2022-32532/src/main/resources/application.yml,050128713a24659249337bd67775c20ae8c073bd,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/resources/org/example/components/Layout.tml,06406bdd2929fb1ffe3c39f17bcff87b5bea4d84,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Spring Data MongoDB/CVE-2022-22980/src/main/java/com/cve202222980/dao/User.java,07c33ed7b5f8319d7da91277383ef4bd0a60cece,CVE-2022-22980
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/HessianDemo/CVE-2020-11995.py,09e559cd6e6299dea67eb1c76b56c33fb4ad06af,CVE-2020-11995
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/src/main/java/org/example/GreetingController.java,09e7648a83b7f340f86f5c47b65e48a35c709231,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.dateAxisRenderer.min.js,0a07f824aa828e380b11fda7c41cd064c9183279,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21344.java,0a3460ecac30657ece356161144cf068b53cb6d2,CVE-2021-21344
+552429290,Whoopsunix/PPPVULNS,components/Spring Cloud/CVE-2022-22947/src/main/java/com/example/cve_2022_22947/CBController.java,0aa8f59200f95e850a94a3998b24520774c2fecb,CVE-2022-22947
+552429290,Whoopsunix/PPPVULNS,components/Spring Cloud/CVE-2022-22947/src/main/java/com/example/cve_2022_22947/CBController.java,0aa8f59200f95e850a94a3998b24520774c2fecb,VU#29
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.woff,0cf254434bb21f352a953c295dda6816d608d0e3,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-22978/src/main/java/com/cve202222978/Cve202222978Application.java,0d5a39e6fa1e3ea5ac137571020617df293924fa,CVE-2022-22978
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/test/java/Serializer.java,124c1da5376b83ad1a809ed285f340388f5fedaa,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/font/fontawesome-webfont.woff,12f8c193902e99348493ace32e498031bf79b654,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/services/QaModule.java,1320556682b38fc163af88361d04c5a4cf13d558,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/resources/org/example/pages/Contact.tml,137b29a42eb0a6b095afa6b0243bb29b3fca65c6,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2020_26259.java,14327d8d3c1828bbead8551dc4ea9a0611205eb3,CVE-2020-26259
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/css/bootstrap-theme.css,15f41702461df3b7b9eccf96144e234d37af371d,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/css/bootstrap.css,184574627c72a619a1e8e79586b9a112945c71fe,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/payload/Serializer.java,186a511551b407389ccb3d5a59d948c1564685a5,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.pyramidAxisRenderer.min.js,19de88fb5a2f8e5870126f222683c964c5e26322,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_39149.java,1b67eaf168530f731da69e27d9f58a2631017abd,VU#29
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_39149.java,1b67eaf168530f731da69e27d9f58a2631017abd,CVE-2021-39149
+552429290,Whoopsunix/PPPVULNS,components/Apache Log4j2/CVE-2021-44228/src/main/webapp/WEB-INF/web.xml,1d1548a5a028e91b34508103be3b5b5f4672259e,CVE-2021-44228
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.pieRenderer.min.js,1df4a9c885b45f7c831d972e8e643f1d406c00d1,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/resources/log4j.properties,1e3c207b477deadc7d9a75b2bf5f8cd31d5c5f79,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Spring Data MongoDB/CVE-2022-22980/poc/POC-CVE-2022-22980.http,1e5469953643f2f2e457325262978ae94defae7c,CVE-2022-22980
+552429290,Whoopsunix/PPPVULNS,components/Spring Cloud/CVE-2022-22947/poc/CVE-2022-22947Art.md,204378c19de02f6bc23b041a689fa58dc2bf1848,CVE-2022-22947
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/css/font-awesome-3.2.1.css,20828dcdf2cd07e5980fe52759101591bf5014ab,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/css/style.css,21668918ab987409dbe76d4c43dcfed6cb10b7a5,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.pyramidRenderer.min.js,233b141ca1a4505d60c8f5a93c6728d58c833bcb,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_39139.java,23ec81c3b7ba18a9fc67059802123b374f1383bb,CVE-2021-39139
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_39139.java,23ec81c3b7ba18a9fc67059802123b374f1383bb,VU#29
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.funnelRenderer.min.js,263cac8b2e56314c7d048076177c1d77d0b51ace,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,sinks/MINASSHDDemo/src/main/java/org/example/CVE_2022_45047.java,264a40dbf60e46edec7c8b35cdd8eea456190a57,CVE-2022-45047
+552429290,Whoopsunix/PPPVULNS,components/Spring Cloud/CVE-2022-22947/src/main/java/com/example/cve_2022_22947/Cve202222947Application.java,26c90cd4bc8ea43f2a8aa0ec930545014f4f8d38,CVE-2022-22947
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/src/main/java/org/apache/dubbo/samples/http/HttpConsumer.java,270006ebe621d19c36d1927c0890af55b39a423d,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.mekkoAxisRenderer.min.js,271fa4e4a13af0e366b5a884cb0a39f2337511b8,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/test/conf/testng.xml,28d4d82f2b5d763500f350eaf4daf8b571047c00,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2017_7957.java,2b029b1ebe9d19d45ee4f6e32afb0dd3da9c7ffe,CVE-2017-7957
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/src/main/resources/static/main.css,2dc336c580189dd1c156c183b4eae5bc098d243f,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/poc/POC-CVE-2019-17564.http,2ecbf53c211e019673172ee197fd0116c0db1c5b,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.ttf,3021ed7a5499d1db8a1f1bcad77fa95f689c4d2e,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.meterGaugeRenderer.min.js,32252b809870935b4fab0c90caefa24dcb409299,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.canvasAxisLabelRenderer.min.js,34b0a70e86354a082e8499ae1d1c2f7f3325a95a,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/components/Layout.java,3591aa694497581aa7ebe10cb795d2f748b8ab1d,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/test/java/PLACEHOLDER,36104b11d2f97c6072f3f87edb1b4416294d7cae,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/dropdown.js,3649933246068d9092fca5f6b5f74ac729f9ed6e,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-22978/src/main/resources/templates/admin.html,3798b2123eea582ba360d23464e47a4a67eaabf3,CVE-2022-22978
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/payload/ClassFiles.java,38ebc887925edfc06419d5bf2bb89d4078053d6a,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Commons JXPath/CVE-2022-41852/src/main/java/com/example/jxpathdemo/JxpathDemoApplication.java,395ca91c8a60414763187706c3060d778d927ce0,CVE-2022-41852
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/test/conf/webdefault.xml,3caacd56f56d534345af38ebce83adedc07fbc3c,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/font/fontawesome-webfontd41d.eot,3ce87b82c7a4ffdf65e96765c2ffda10b1a283c6,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.ciParser.min.js,3d6887dcd23864116f0bd4b3d8730c83ec447ced,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21349.java,3ec564599bf7de7ef4554b0f57cb3b166b333ff3,CVE-2021-21349
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/resources/org/example/logback.xml,3fdc42d7ddaccbf10c055fd99b40e0c911e00c00,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/resources/org/example/pages/Login.tml,44becb0b1948ade240a0739c0c8cd3960793b07c,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/payload/CVE_2021_27850.java,45a20dd827ab97274cf0483f99a1d81ee789441e,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Shiro/CVE-2022-32532/src/main/java/com/example/cve_2022_32532/MyFilter.java,45c662cb94e25537958212666f589ca298ae2f34,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/services/AppModule.java,45f2fc6b573e95a158d649d8d592d51973da5d98,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.dragable.min.js,47e7969f3967d2d039bca807c46329eaf441b6e1,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2016_3674.java,49de27781a74055e71a690f50cba21bd358989ea,CVE-2016-3674
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/font/fontawesome-webfont.svgz,4bfdd33ed702e32ae01399fcc2652377f78e7626,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/popover.js,4eabc6aa7c985f108f87d8ae52cd5849aa816b04,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/templates/index.html,4eafa20822bd28f14a80ce62cbd56522e9a93dbf,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.donutRenderer.min.js,5053e2c806141bd6da21385e57177323ae58b482,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/transition.js,506c40035e0d22560478629434d0fea27643b77a,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/jacksonDemo/src/main/java/org/example/CVE_2020_35491.java,52f6c4f6a23ee510e61c141a01922d9877b7b591,CVE-2020-35491
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.canvasTextRenderer.min.js,54ab71086bb43e43692a5b1ac7fe41175abcd16c,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/favicon.ico,551f36f7eefda605db08300ddaf68f43d8a80035,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/jquery.jqplot.min.js,558e76111778cd67f152b084694deb82ddd03659,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.enhancedLegendRenderer.min.js,56d4d09772b52891ab658a8167d2a305b1575358,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/HessianDemo/consumer/src/main/java/org/example/CVE_2020_1948.java,584429912388237f42ea03bb5a10b22df65869ab,CVE-2020-1948
+552429290,Whoopsunix/PPPVULNS,components/Apache KafKa/CVE-2023-25194/pom.xml,5b776ef6d8c651c40922aa572838106ff20c899f,CVE-2023-25194
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/payload.yml,5cb951b70b102587195ac8826e77058a01521b07,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/src/main/java/org/example/Application.java,5def85cd0faf73a78864590a09ced5d528140f56,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/Apache Log4j2/CVE-2021-44228/src/main/java/com/example/log4shell/DemoServlet.java,5e04c0edb6ab6450ab7e6c240bd1d95cb1f060dc,CVE-2021-44228
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/scrollspy.js,5f828f679b7e0248dda9f3b17f7129946459fb66,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21347.java,60681ff4fe5e582d0473b8e280820bdaf68ed412,CVE-2021-21347
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/resources/org/example/pages/Index.properties,618228357f96a317277b8774925572dc8d491542,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2023-25194
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2022-45047
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2018-1275
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2021-44228
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2021-23463
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2022-22947
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2022-22978
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2020-1948
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2022-22980
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2022-41852
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2022-31692
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,README.md,62e04ff39805c6e6a5ffc121688737bb6564f42f,CVE-2021-30179
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21345.java,6315dde47e2705d2970423a321147c2064a8134d,CVE-2021-21345
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/css/bootstrap-datetimepicker.min.css,632545fec8108cf3e7fdc25fcd3b0d36397ce697,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/java/org/ff4j/sample/HomeController.java,66ef3aab00f4ed8c416d973efdf30327e5667fef,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_39144.java,66fe025a1d1b6c9c78711f2e564341e97ece92e0,CVE-2021-39144
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/pages/Contact.java,67a4a671a08b5b8eabdcf21d776b686efcc45cb4,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Spring Data MongoDB/CVE-2022-22980/src/main/java/com/cve202222980/Cve202222980Application.java,68ff57987b9c6b78a653c8072d4eb5eb73ee335e,CVE-2022-22980
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2013_7285.java,6a5fec9babb864f488532ee6b124238fc1c661b3,CVE-2013-7285
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21342.java,6ba4dbd69770310efad7f8c06aae1b9d57f47432,CVE-2021-21342
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/pom.xml,6be9966eab244d0fdeb8c5c58ca1b27c1f08ce7a,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Spring Cloud/CVE-2022-22947/poc/POC-CVE-2022-22947.http,6c69fa89478d334b95fbc3640e0b3396fec843eb,CVE-2022-22947
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.mobile.min.js,6d897dea951241f046dc1b1bc6a206e5eb42f3b6,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/h2database/CVE-2021-23463/src/main/resources/user.sql,6e1f5acf575054e59a1823dc5f0cf8368dbb2c48,CVE-2021-23463
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.ohlcRenderer.min.js,6e377d4a240020c09d237a11a87a7dc45ee0907a,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/h2database/CVE-2021-23463/src/main/java/org/example/H2ConnectorFactory.java,6e960a05b2be68d5f7cbc19d54c46ea31d92a93d,CVE-2021-23463
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/payload/Reflections.java,70140488d3c04d98c46559dc9c38f53409dec821,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.canvasOverlay.min.js,7168c720f4b931280c5865ad7fb621bf5643e1f1,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/css/jquery.dataTables.min.css,71c05f53c8e5c03deeb338255cfd632f78a2e337,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/HessianDemo/consumer/src/main/java/org/example/CVE_2021_30179.java,73f64176c9b35e4f8bc686ff2e70d8991c2b8491,CVE-2021-30179
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jquery.dataTables.min.js,74b1a3713e9e0a4c4bc31966ccac4554e0e518b2,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/button.js,760d75f778442d40f4377239fd8bf558679de33f,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.mekkoRenderer.min.js,7678d89afd927d07e2a5b61e943f9710a82dcd44,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/poc/CVE-2021-27850Art.md,782b131a2832e2299129fd060b0ea2c7795991ba,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Shiro/CVE-2022-32532/poc/CVE-2022-32532Art.md,79b8fe0fa28b55d2f95da0bb8d17b90911dc57e5,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-22978/pom.xml,7acb5ab96ae36ea12b471df2b9df692760477258,CVE-2022-22978
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/modal.js,7c5ddc981562d16cb5e6f9fd8acc7ccd267d019e,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Spring Cloud/CVE-2022-22947/src/main/resources/application.yml,7c7486f3d2906bf099a058c236db67ceb242ac7c,CVE-2022-22947
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.pyramidGridRenderer.min.js,7d84955a22c508b120be3719a2ad8cc2b2c9408f,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/h2database/CVE-2021-23463/src/main/java/org/example/POC.java,7df7fc291e14eb6c4d0038e46bd8d73867e379a6,CVE-2021-23463
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.barRenderer.min.js,808cb5cc7876b7a91dc314fa37b34494db4232c3,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Spring Data MongoDB/CVE-2022-22980/src/main/resources/application.yml,80f9c75689f5a4aad06ef6fd89243c9c21ce7058,CVE-2022-22980
+552429290,Whoopsunix/PPPVULNS,components/Apache Shiro/CVE-2022-32532/pom.xml,8103b81e1d79a69da7d5e31c0c887d29b83ae57c,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/test/java/ClassFiles.java,812fff6c7cd734d67a7bdbe050c4ff3015ddcca2,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/font/FontAwesome.otf,82a7ff73f96e2f6ef419d2d9fd520b4c93bdae7c,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/WEB-INF/app.properties,8316d6c3d5f82f3408b6cd0bf2aa810528139673,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/font/fontawesome-webfont.svg,8419c95027e27da84c7d7aa4df7f61d1dd04af81,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-22978/src/main/java/com/cve202222978/config/MySpringSecurityConfig.java,84a64c359acd868e334c36630444184600ccce82,CVE-2022-22978
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21346.java,88c8910de7775210cfcf250e3287e4bf3deebeef,CVE-2021-21346
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-22978/src/main/resources/templates/user.html,899315a48267268e35a506b3435625516d80ea7b,CVE-2022-22978
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/logback.xml,8a25e57bfcced294b50700207aeca59f9d6ae9a1,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21351.java,8af91fd95eb0e16fc8a8cbf5868b913f8ef47fdd,CVE-2021-21351
+552429290,Whoopsunix/PPPVULNS,components/Spring Cloud/CVE-2022-22947/src/main/java/com/example/cve_2022_22947/SpringRequestMappingMemshell.java,8b4026f1ceb5d153b2dde9677867c357a91f2358,CVE-2022-22947
+552429290,Whoopsunix/PPPVULNS,components/Apache Commons JXPath/CVE-2022-41852/src/main/java/com/example/jxpathdemo/payload.xml,8bc7deda42f2d80c58ab6528b8b28a22c082e0d4,CVE-2022-41852
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.trendline.min.js,8c878d6d21578ed08b28f7440a6765ba064d62d8,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/jacksonDemo/src/main/java/org/example/CVE_2017_7525.java,8e73a0721e8ca70e0eb6f7456cf4758b8f878dc3,CVE-2017-7525
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/bootstrap-datetimepicker.min.js,8e82739ec86c7ff675da76b961b6619406a0a8cf,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/java/org/ff4j/sample/config/FF4jConfig.java,9084dc13b2764d88efbfa5b5076a0ee4c4ade814,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/resources/org/example/pages/About.tml,91725be821df37dd782731582fd9c65764ef9323,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Shiro/CVE-2022-32532/poc/POC-CVE-2022-32532.http,9240e53f8aee0356f33e48ef7630665e64b0a511,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/resources/org/example/pages/Error404.tml,924f6b01a3a89426d659a96bc9209c6322a712c5,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/affix.js,93fe889d6bf7d12bfad27458fe0ff2503f100f55,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/pom.xml,947d54a5fb1d1fd106dac48931d3dc2d2e9e7882,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.pointLabels.min.js,94eec33b39670d2412c4ac88f2e799ef99fe7e52,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.logAxisRenderer.min.js,9512ed8c0f9c43711b94217b0332f63edd44b325,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/case-configuration.yml,970ba57bd27f996fac3aa9f33ab58db54766ef6e,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/collapse.js,988565bc2cb402d63ed5c5fd7ff47c4278efc2c5,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/java/org/ff4j/sample/config/FF4jServletConfig.java,9aaefb8aa4b5449f5b01b26335017cfb40fd6d1e,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/banner.txt,9bd2610166ba9549c168c7ddba360c8d64f307cb,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/poc/jackson.bin,9c9b3db14bfa671cf96c88c6dcf148962ecb2155,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-31692/src/main/java/com/example/cve202231692/Cve202231692Application.java,9ddbb17aaa7dd7f5f0d427fa96961271c5901f78,CVE-2022-31692
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.canvasAxisTickRenderer.min.js,9ecd5c7d69d08f96b3349086f51cc7d9526d8dee,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/tab.js,9edacfd7e9dc8246f2afc87badc2725c959e6b27,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/test/resources/PLACEHOLDER,9efca9d7ab05c789db4edf9dd15673404ab2086e,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-22978/src/main/resources/application.yml,a0c60c9c16efadcce512dd3ef9e85fcbfe5d48d9,CVE-2022-22978
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.cursor.min.js,a29eb1e9546b06ce8126058a2e734f5c72e15d36,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/src/main/java/org/example/Greeting.java,a5b7fa00aefc8445c1a390be9053504fdec2bb76,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/test/java/Reflections.java,a768d9e45a4618d0ae8ae7d42223e198598e5a71,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/src/main/java/org/example/HelloMessage.java,a7aded1d3508459f92968663d71811175b3da835,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/Spring Cloud/CVE-2022-22947/src/main/java/com/example/cve_2022_22947/MemNeoregeorg.java,a9f4a2034809798532edeb04505f87e71cadc851,CVE-2022-22947
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/src/main/resources/log4j.properties,ab61509e598e61aa68185034c26946590bf78d77,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/src/main/java/org/apache/dubbo/samples/http/api/DemoService.java,ac137257268d2430ce8ab3920b702eec2a42488c,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/Apache Commons JXPath/CVE-2022-41852/poc/CVE-2022-41852Art.md,ac4d49ea9b57c92ae74325b6b68dbf22895996cc,CVE-2022-41852
+552429290,Whoopsunix/PPPVULNS,components/Apache Commons JXPath/CVE-2022-41852/src/main/resources/application.properties,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2022-41852
+552429290,Whoopsunix/PPPVULNS,components/h2database/CVE-2021-23463/pom.xml,ae8d40c4f78d04dfb7a874a6d44f6ea11930f211,CVE-2021-23463
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/base.js,b0012d7a2e13d01680244e4e1dca5077ecee8a50,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Spring Cloud/CVE-2022-22947/pom.xml,b0a78cf9ec66c5bffc6dc831e46d355ddc30d4a6,CVE-2022-22947
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/test/java/PayloadMake.java,b100bd386df208c5fa7b3fdfd32331f1c99e0414,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Shiro/CVE-2022-32532/src/main/java/com/example/cve_2022_32532/Cve202232532Application.java,b187837535c9e97a7a5917f7307979505affee38,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/pages/Index.java,b2b460b0f99bb6a8a67fa9a30823b7e0b596b65f,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/src/main/resources/spring/http-consumer.xml,b32bcc42855fbaccd52deda918a0461f8249ad17,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/Apache Shiro/CVE-2022-32532/src/main/java/com/example/cve_2022_32532/DemoController.java,b47019d4055435a3631cb58da2ba110453d52ad3,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21343.java,b73497492ecb8e56bff7e563fc92c73885efae46,CVE-2021-21343
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-31692/src/main/resources/application.properties,b7802f72dd7e99532e3ee56c379bc9bda84efbd0,CVE-2022-31692
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.blockRenderer.min.js,b92ec8a2c49e4eb7c6ddf408ecf20c9402debf59,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Spring Data MongoDB/CVE-2022-22980/pom.xml,bacca2a95d9e59fb71b239f408c4eebeb2d20257,CVE-2022-22980
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.highlighter.min.js,bb7c304a79cb3fc5b2ed14287c02c459e6b7e8f2,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2020_26217.java,bc6c81dbf287f4c09b31666d2f47f5455f87df97,CVE-2020-26217
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.eot,be3f4faf4f497e90670cab961d2b36da3053814d,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/resources/org/example/pages/Index.tml,be4a4e8a400268d96f423dcebbfdf7170fecac47,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.BezierCurveRenderer.min.js,bf5eec8e6d5e9177666c29bcc45665bd0c026719,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/font/fontawesome-webfont.ttf,c019e0e02b24f99ca8eef73cfe3d134e904f323a,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Shiro/CVE-2022-32532/src/main/java/com/example/cve_2022_32532/MyShiroFilterFactoryBean.java,c01f0ee57b5b8b8908cb911639425a62589b53ea,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/css/dashboard.css,c0df22fe8a808357832bae1a3dd7678aecea277d,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Log4j2/CVE-2021-44228/pom.xml,c107f685a84803825a8346f119eba60fb3187e9b,CVE-2021-44228
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/ff4j-client.js,c25b84c6ed2fa464be552918c43374a92cf158c7,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/pom.xml,c53cf67898bf901c89cbecbd834598f29d6547ee,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/java/org/ff4j/sample/Application.java,c6565e0594c50382a3ce42098c137366337567b4,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/WEB-INF/web.xml,c6c5bbaf6d02706090a572622a23166ac79d8d93,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Commons JXPath/CVE-2022-41852/pom.xml,c6c70cf1e13f93a0dccb7b9243455d988793a533,CVE-2022-41852
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/ff4j.js,c6f64678b19925104b7d099a2e8e94c01fc0cd27,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache KafKa/CVE-2023-25194/src/main/java/org/example/CVE_2023_25194.java,c74f70d030210dc1ff7c8182de50ed29974d0194,CVE-2023-25194
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/src/main/java/org/example/WebSocketConfig.java,c80d4d9a44ac53cd303c481832e6226b423a8014,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jquery/jquery-3.5.1.min.js,c8e1c8b386dc5b7a9184c763c88d19a346eb3342,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/pages/About.java,cb08919b208a27622ce91424bb401f7f5da22fa8,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Spring Data MongoDB/CVE-2022-22980/poc/CVE-2022-22980Art.md,cb306d091e76a3d29388bb59a44e1a723ca6ace8,CVE-2022-22980
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/css/bootstrap-responsive.min.css,cc500e1daf1ed075e84a4d21a459d3cec8c3e3e1,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Spring Data MongoDB/CVE-2022-22980/src/main/java/com/cve202222980/repository/UserRepository.java,ce592780dabc4ba30f7662cf0f223cc57ee7ad31,CVE-2022-22980
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/src/main/resources/spring/http-provider.xml,cee5935cc599877375fd68f6161953215349b4bb,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/pages/Error404.java,cf232c68aa15918fc261e045ec513b95d79e6e94,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/site/site.xml,cf4307f0eac58ccca632d983a94f60a042b3fd13,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/tooltip.js,d3870c5c4a389658dca294ae3ab97f60eaee20af,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21341.java,d47f36fe3948eb9219bbda00a6b25c4a443b55f2,CVE-2021-21341
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-31692/src/main/java/com/example/cve202231692/controller/UserController.java,d4c57dfcddaf8573586ffd3ccea801a10dbfec0f,CVE-2022-31692
+552429290,Whoopsunix/PPPVULNS,components/Apache Commons JXPath/CVE-2022-41852/src/main/java/com/example/jxpathdemo/RceDemo.java,d5e6f2fb0605e5fc9f2f3385a58f55bdc3b23c25,CVE-2022-41852
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21350.java,d62b856046febd1f7b911770180aba3a4d3d2e2f,CVE-2021-21350
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/case-versions.conf,d644d1992e3954b0424a89eeb1877a14794df1bc,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-31692/poc/CVE-2022-31692Art.md,d65a7e7c31ce970e8d3bcebff6fad7b97342d6e8,CVE-2021-31692
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-31692/poc/CVE-2022-31692Art.md,d65a7e7c31ce970e8d3bcebff6fad7b97342d6e8,CVE-2022-31692
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/font/fontawesome-webfont.eot,d7e77928069bdd227f291b9a2c9bdd918793e529,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/pom.xml,d8406840cc940ff78329a0a3135068e924d2fbfb,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-31692/src/main/java/com/example/cve202231692/config/SpringSecurityConfig.java,de0f04d19e9b3d3860d348fc51c99906de32055c,CVE-2022-31692
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/poc/CVE-2022-44262Art.md,de2acd8ee89f22ef3560bb18022e4f5cb06d7f60,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.svg,de51a8494180a6db074af2dee2383f0a363c5b08,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/src/main/java/org/apache/dubbo/samples/http/impl/DemoServiceImpl.java,df5f874b30df491ca046b06b217e25b94108618e,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.bubbleRenderer.min.js,e096ea2b00cb6b11d0e394cac4110bfb65be653b,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.woff2,e4367ab473bbd82f8a4762fa69409fa79bdce034,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/alert.js,e60afea5b73b34c3fd4e3e00b3ccbe90db85c3a0,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Apache Log4j2/CVE-2021-44228/src/main/java/com/example/log4shell/App.java,e6d6a1faeee26755b540ac6f14c8360197273a1a,CVE-2021-44228
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/plugins/jqplot.json2.min.js,e7b69ea30d5f2647938613c549c71594e59f7986,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/src/main/resources/static/app.js,ea5897dcbdfbaea43bc77014b97ebad03aaa7e69,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/webapp/mybootstrap/js/carousel.js,eab3f75f8f738dad793c6a1a296fc637c0093f6f,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/css/bootstrap.min.css,eb25251d1bc89fd93d4a02a933f53460c68bf105,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/src/main/resources/static/index.html,eba1dd6210d3219b99d27c5262e6a6240c88d7e7,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/Apache Shiro/CVE-2022-32532/src/main/java/com/example/cve_2022_32532/ShiroConfig.java,edcb851de99dc5288a17f7abed55e46d2a5b8060,CVE-2022-32532
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_29505.java,edd1338b2c812ef1b02d58ce14e1b9a85a6d37d4,CVE-2021-29505
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-22978/src/main/java/com/cve202222978/controller/UserController.java,ef1ace77766e3ea5d2c6b33474798e36f34a4f10,CVE-2022-22978
+552429290,Whoopsunix/PPPVULNS,components/Spring Data MongoDB/CVE-2022-22980/src/main/java/com/cve202222980/controller/PageController.java,ef3ba74a438ae15cad85ab035e09039376dbfd43,CVE-2022-22980
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/main/java/org/example/pages/Login.java,f2c042c411c2ffb90415042215f127ba19cf4e96,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_21348.java,f381ef7a0e9f99ca78f32fcad8e3ce0894d65bd0,CVE-2021-21348
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/README.md,f47759f85764eb6d4b3a927351d9c14f6c8f8502,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/XStreamDemo/src/main/java/org/example/CVE_2021_39140.java,f50b45ee876498d44ed705974d450067d35408e1,CVE-2021-39140
+552429290,Whoopsunix/PPPVULNS,components/Apache Tapestry/CVE-2021-27850/src/site/apt/index.apt,f969eaef8b3ae0b21ddbe913dff3bf8beb234f88,CVE-2021-27850
+552429290,Whoopsunix/PPPVULNS,components/Spring Security/CVE-2022-31692/pom.xml,fcf4f33dfb0aa08cb82191c66c7033835f1b0c20,CVE-2022-31692
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/static/js/jqplot/jquery.jqplot.min.css,fd1920d72cc236fa1128b5bbd4f9e527bb4d87c6,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/Apache Dubbo/CVE-2019-17564/src/main/java/org/apache/dubbo/samples/http/HttpProvider.java,fd8653df096be361bfae14d0d2df063ea1119526,CVE-2019-17564
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/poc/CVE-2018-1270Art.md,fdb8058d33b8a6d51e2a2082110aa272c101e8ff,CVE-2018-1270
+552429290,Whoopsunix/PPPVULNS,components/spring-messaging/CVE-2018-1270/poc/CVE-2018-1270Art.md,fdb8058d33b8a6d51e2a2082110aa272c101e8ff,CVE-2018-1275
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/java/org/ff4j/sample/config/SpringWebConfig.java,ff17a6c8346c65a84ef140a65fb8a4425ee5eb44,CVE-2022-44262
+552429290,Whoopsunix/PPPVULNS,components/ff4j/CVE-2022-44262/src/main/resources/ff4j-init-dataset.yml,ffe641e96bae10afabb3bbe1a7de576d09674b42,CVE-2022-44262

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+480528421,Vulnmachines/VMWare_CVE-2022-22954,README.md,a3a8881ad35cfca064905e497d2d3bbaaa59c13d,CVE-2022-22954
+480528421,Vulnmachines/VMWare_CVE-2022-22954,_GITHUB_REPO_METADATA_,,CVE-2022-22954

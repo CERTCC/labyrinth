@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+516837211,AkbarTrilaksana/CVE-2022-32832,README.md,819a30c33b2db9b686b9bfd06cbc4ce90866f3b3,CVE-2022-32832
+516837211,AkbarTrilaksana/CVE-2022-32832,Kernel-2022-06-03-142235.panic,abe676ffd4a1c3af7dca107312588ff6ee4d9a6d,VU#29
+516837211,AkbarTrilaksana/CVE-2022-32832,_GITHUB_REPO_METADATA_,,CVE-2022-32832

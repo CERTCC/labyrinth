@@ -2,3 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS08-520,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS08-520,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS08-520,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
+MS08-520,0.00001598,https://github.com/leesinz/crush,leesinz/crush,751271973

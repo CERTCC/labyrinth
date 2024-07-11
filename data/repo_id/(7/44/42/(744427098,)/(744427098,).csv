@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+744427098,febinrev/atril_cbt-inject-exploit,README.md,d04281bbbdbbb2703c9ae55595b63ce1c4f22c02,CVE-2023-44452
+744427098,febinrev/atril_cbt-inject-exploit,README.md,d04281bbbdbbb2703c9ae55595b63ce1c4f22c02,CVE-2023-51698
+744427098,febinrev/atril_cbt-inject-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-44452
+744427098,febinrev/atril_cbt-inject-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-51698

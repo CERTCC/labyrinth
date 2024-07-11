@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+780700554,devjanger/CVE-2024-3094-XZ-Backdoor-Detector,cve-2024-3094-detector.sh,08b0cab68f8a0283d9e03be77c04a5a0baefc50e,CVE-2021-35042
+780700554,devjanger/CVE-2024-3094-XZ-Backdoor-Detector,cve-2024-3094-detector.sh,08b0cab68f8a0283d9e03be77c04a5a0baefc50e,CVE-2024-3094
+780700554,devjanger/CVE-2024-3094-XZ-Backdoor-Detector,README.md,1f4ff0b3a8a9bc4bc55b1820129a643842e6e20c,CVE-2024-3094
+780700554,devjanger/CVE-2024-3094-XZ-Backdoor-Detector,_GITHUB_REPO_METADATA_,,CVE-2024-3094

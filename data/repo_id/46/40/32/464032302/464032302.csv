@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+464032302,x-j-j/vulnable,src/main/java/base/learnTemplatesImpl.java,35aa4457e1f74b6c76fd344a43c043e333e954db,VU#29
+464032302,x-j-j/vulnable,target/classes/base/learntemplatesimpl.class,971a3c7a00a88f4a7c9fcdbc8e22c5feda6c62a4,VU#29

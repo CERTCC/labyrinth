@@ -1,0 +1,104 @@
+repo_id,repo_full_name,file,file_sha1,match
+579420996,raydium-io/dec_16_exploit,Overview Calculations.csv,00ee655372b2cce02bfba11c73b19e275bc999fd,VU#67
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#47
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#44
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#87
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#29
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#88
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#89
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#85
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#22
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#62
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#946
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#45
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#71
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#98
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#317
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_autovault_depositors_non_leveraged_slot_167198889.csv,11da23c5df6198bdce2f09859ad398e47e76af0f,VU#83
+579420996,raydium-io/dec_16_exploit,Pre-exploit need_take_PNL (Dec 16).csv,4672e3ca53dee2feed7878f4f6d1a3b6cd790fd2,VU#77
+579420996,raydium-io/dec_16_exploit,Pre-exploit need_take_PNL (Dec 16).csv,4672e3ca53dee2feed7878f4f6d1a3b6cd790fd2,VU#33
+579420996,raydium-io/dec_16_exploit,Pre-exploit need_take_PNL (Dec 16).csv,4672e3ca53dee2feed7878f4f6d1a3b6cd790fd2,VU#71
+579420996,raydium-io/dec_16_exploit,Pre-exploit need_take_PNL (Dec 16).csv,4672e3ca53dee2feed7878f4f6d1a3b6cd790fd2,VU#67
+579420996,raydium-io/dec_16_exploit,Pre-exploit need_take_PNL (Dec 16).csv,4672e3ca53dee2feed7878f4f6d1a3b6cd790fd2,VU#95
+579420996,raydium-io/dec_16_exploit,Pre-exploit need_take_PNL (Dec 16).csv,4672e3ca53dee2feed7878f4f6d1a3b6cd790fd2,VU#138
+579420996,raydium-io/dec_16_exploit,Post-exploit need_take_PNL (Dec 20).csv,4cf6ec99a9d3c9494642cb5d45d48cb994bdf5d8,VU#77
+579420996,raydium-io/dec_16_exploit,Post-exploit need_take_PNL (Dec 20).csv,4cf6ec99a9d3c9494642cb5d45d48cb994bdf5d8,VU#67
+579420996,raydium-io/dec_16_exploit,Post-exploit need_take_PNL (Dec 20).csv,4cf6ec99a9d3c9494642cb5d45d48cb994bdf5d8,VU#95
+579420996,raydium-io/dec_16_exploit,Post-exploit need_take_PNL (Dec 20).csv,4cf6ec99a9d3c9494642cb5d45d48cb994bdf5d8,VU#33
+579420996,raydium-io/dec_16_exploit,Post-exploit need_take_PNL (Dec 20).csv,4cf6ec99a9d3c9494642cb5d45d48cb994bdf5d8,VU#138
+579420996,raydium-io/dec_16_exploit,Post-exploit need_take_PNL (Dec 20).csv,4cf6ec99a9d3c9494642cb5d45d48cb994bdf5d8,VU#71
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#65
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#647
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#64
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#66
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#12
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#76
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#69
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#74
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#612
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#82
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#87
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#88
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#91
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#92
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#93
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#944
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#95
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#67
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#59
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#99
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#56
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#170
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#21
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#230
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#25
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#2561
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#27
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#30
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#3235
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#348
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#35
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#43
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#46
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#31
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#53
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#47
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#516
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#55
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#49
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#4839
+579420996,raydium-io/dec_16_exploit,Total Position Exposure.csv,62bb840ca271e42e2a192f93d652453073d65f1b,VU#54
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#71
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#87
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#93
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#22
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#56
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#681
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#394
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#17
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#33
+579420996,raydium-io/dec_16_exploit,Francium_Position_Exposure.csv,709d31a1564c08bffc09d3ed3666e34853bd40a1,VU#14
+579420996,raydium-io/dec_16_exploit,Complete List of Raydium AMM V4 Transactions to Exploiter.csv,824fc65dc2bcef5ef0248e4861c95646bb828a20,VU#31
+579420996,raydium-io/dec_16_exploit,Complete List of Raydium AMM V4 Transactions to Exploiter.csv,824fc65dc2bcef5ef0248e4861c95646bb828a20,VU#67
+579420996,raydium-io/dec_16_exploit,Complete List of Raydium AMM V4 Transactions to Exploiter.csv,824fc65dc2bcef5ef0248e4861c95646bb828a20,VU#23
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_auto_vault_depositors_leveraged_non_liquidated_slot_167198889.csv,d271b99c5f4b448d394b0deaf8ecc898df7297a1,VU#23
+579420996,raydium-io/dec_16_exploit,tulip_raydium_exploit_auto_vault_depositors_leveraged_non_liquidated_slot_167198889.csv,d271b99c5f4b448d394b0deaf8ecc898df7297a1,VU#314
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#21
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#61
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#96
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#23
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#67
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#63
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#87
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#8526
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#84
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#279
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#83
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#78
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#57
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#76
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#73
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#69
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#43
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#24
+579420996,raydium-io/dec_16_exploit,Delta One Vault Compensation.csv,d70431ec421cfbd5f3e1d19b73cf58eaaeefb6bd,VU#62

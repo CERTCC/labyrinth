@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+809679765,birdlex/cve-2024-24919-checker,patch/Check_Point_R81_20_JHF_T26_BLOCK_PORTAL_MAIN_Bundle_T2_FULL.tar,367f53b9a85f3c126b4d7411f0b3e0bcea068d2a,VU#120
+809679765,birdlex/cve-2024-24919-checker,patch/Check_Point_R81_10_JHF_T130_BLOCK_PORTAL_MAIN_Bundle_T2_FULL.tar,529df641515f170f2d9c067d4fecb5a81befeae5,VU#49
+809679765,birdlex/cve-2024-24919-checker,checker.sh,58dd6fe2efc08130e7f7aa8337d4c1dc348a941a,CVE-2024-24919
+809679765,birdlex/cve-2024-24919-checker,README.md,9323665d28b8948fbefb85f096d4593e06504743,CVE-2024-24919
+809679765,birdlex/cve-2024-24919-checker,patch/Check_Point_R81_JHF_T92_BLOCK_PORTAL_MAIN_Bundle_T2_FULL.tar,fe61fc93ae97e90b67d29a6e19c02f050484b658,VU#20
+809679765,birdlex/cve-2024-24919-checker,_GITHUB_REPO_METADATA_,,CVE-2024-24919

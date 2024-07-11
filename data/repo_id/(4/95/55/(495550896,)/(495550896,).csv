@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+495550896,itm4n/Pentest-Windows,CVE-2022-41099/CVE-2022-41099.ps1,63afac4caee75342e477b3a87e7c53dddacb08ba,CVE-2022-41099
+495550896,itm4n/Pentest-Windows,CVE-2022-41099/README.md,84544a091e66299111c54db44eac658692446240,CVE-2022-41099

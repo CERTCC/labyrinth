@@ -1,4 +1,15 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#947,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
+VU#947,0.05882353,https://github.com/rangenanirakshithrao/Exploitary-Data-Analysis,rangenanirakshithrao/Exploitary-Data-Analysis,355821460
+VU#947,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#947,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
-VU#947,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#947,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
+VU#947,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
+VU#947,0.00271739,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
+VU#947,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
+VU#947,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#947,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
+VU#947,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
+VU#947,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#947,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+VU#947,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

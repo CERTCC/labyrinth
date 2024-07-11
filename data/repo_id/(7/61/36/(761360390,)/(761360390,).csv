@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+761360390,T4YR4N/cvs-backend,src/modules/scan/tests/computeGrypeResultDiffHash.test.ts,49ea9d8d8140c9c954345541e5432600874bf323,CVE-2023-42365
+761360390,T4YR4N/cvs-backend,src/modules/scan/tests/computeGrypeResultDiffHash.test.ts,49ea9d8d8140c9c954345541e5432600874bf323,CVE-2023-42366
+761360390,T4YR4N/cvs-backend,src/modules/scan/tests/computeGrypeResultDiffHash.test.ts,49ea9d8d8140c9c954345541e5432600874bf323,CVE-2023-42367

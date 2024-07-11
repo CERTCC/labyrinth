@@ -1,3 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2021-95914,1.00000000,https://github.com/luoqianlin/CNVD-2021-95914,luoqianlin/CNVD-2021-95914,437209844
 CNVD-2021-95914,0.50000000,https://github.com/H4ckTh3W0r1d/Apache_Log4j2_RCE,H4ckTh3W0r1d/Apache_Log4j2_RCE,438140876
+CNVD-2021-95914,0.00003960,https://github.com/adminlove520/cnvd,adminlove520/cnvd,531908311
+CNVD-2021-95914,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2021-95914,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

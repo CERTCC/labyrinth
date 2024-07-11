@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+808264498,Cappricio-Securities/CVE-2024-1208,cve20241208/includes/scan.py,0748851875f652f8c44b395888b6fe0731b8ae58,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,cve20241208/utils/configure.py,18d3726fa8a67163f034c75d04aba2973d909b3d,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,cve20241208/includes/bot.py,31b72434d3e97d6fc4e90580e1adc52b56cc5ee4,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,README.md,3afeef23f26b3ac149c1ec2cc766ad6325fb90a3,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,cve20241208/main.py,3fab9ed10dbb0f9f7007cf95388c63e6f7c9efed,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,cve20241208/includes/filereader.py,77b59c0674335f8bbedf9ce988c935994c985d50,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,cve20241208/utils/helpers.py,7aa13937325ab243c86e1226221b66324d16f1f1,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,setup.py,b4dad2e1c5a7b53f5f173ecfcfda25a90c8e3038,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,cve20241208/utils/const.py,edb34f90facdeaa3d02f7396c15ec70c0d43fe5b,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,cve20241208/includes/writefile.py,eea947c36f86ba5d13dbc30edcc936a0490e5f96,CVE-2024-1208
+808264498,Cappricio-Securities/CVE-2024-1208,_GITHUB_REPO_METADATA_,,CVE-2024-1208

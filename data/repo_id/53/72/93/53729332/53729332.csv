@@ -1,5 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 53729332,Xyntax/POC-T,script/activemq-upload.py,3c24e8e93d749d44c1190304a9e0e35f1fb39e39,CVE-2015-1830
+53729332,Xyntax/POC-T,thirdparty/httplib2/cacerts.txt,433e5589520cd2f1f29dea3e077cfbc2b74fb78c,VU#37
+53729332,Xyntax/POC-T,thirdparty/httplib2/cacerts.txt,433e5589520cd2f1f29dea3e077cfbc2b74fb78c,VU#65
 53729332,Xyntax/POC-T,script/phpmyadmin-auth-rce.py,8f2ddc2c49233182f3fae815e667f7c8d2e63c96,CVE-2016-5734
 53729332,Xyntax/POC-T,script/jetspeed-rest-unauth.py,98bf5a99d123d17cfb092633e27ce25ba71c4f34,CVE-2016-0710
 53729332,Xyntax/POC-T,script/confluence-traversal.py,aa304656c067879c053abbc6cc153fee24c48613,CVE-2015-8399

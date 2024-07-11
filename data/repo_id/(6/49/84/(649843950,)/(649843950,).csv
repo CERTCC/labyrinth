@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+649843950,castilho101/CVE_Exploits,Kanboard/kanboard_leak_tp.py,66762d29566666f6c747dc6f437b18839d0dbcfb,CVE-2023-33970
+649843950,castilho101/CVE_Exploits,Kanboard/kanboard_leak_tp.py,66762d29566666f6c747dc6f437b18839d0dbcfb,GHSA-WFCH-8RHV-V286
+649843950,castilho101/CVE_Exploits,Kanboard/kanspray.py,e20d342872ad74b57b0f92bfdf6f881d743c0e7e,CVE-2023-33968
+649843950,castilho101/CVE_Exploits,Kanboard/kanspray.py,e20d342872ad74b57b0f92bfdf6f881d743c0e7e,CVE-2023-33969
+649843950,castilho101/CVE_Exploits,Kanboard/kanspray.py,e20d342872ad74b57b0f92bfdf6f881d743c0e7e,GHSA-8QVF-9847-GPC9
+649843950,castilho101/CVE_Exploits,Kanboard/kanspray.py,e20d342872ad74b57b0f92bfdf6f881d743c0e7e,GHSA-GF8R-4P6M-V8VR

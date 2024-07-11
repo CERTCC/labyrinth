@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+509350252,iveresk/voip-caller,Dockerfile,7365efdca3904016eb3b9435daeeb31d4d64d9df,CVE-2022-21907

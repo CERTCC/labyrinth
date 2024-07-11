@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+749490677,hackeremmen/gitlab-exploit,README.md,654aeba41f30ca0c6a83a11e63d3cc0a8379761c,CVE-2023-7028
+749490677,hackeremmen/gitlab-exploit,attack.py,faa9e07d2f3cc7c3de08d07f1d983b48e1f48693,CVE-2023-7028
+749490677,hackeremmen/gitlab-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-7028

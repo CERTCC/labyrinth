@@ -1,4 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#849224,0.50000000,https://github.com/gremwell/cve-2020-0601_poc,gremwell/cve-2020-0601_poc,241412565
 VU#849224,0.50000000,https://github.com/BleepSec/CVE-2020-0601,BleepSec/CVE-2020-0601,234317211
+VU#849224,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
 VU#849224,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
+VU#849224,0.01086957,https://github.com/danlapko/darkweb_classification,danlapko/darkweb_classification,488567745
+VU#849224,0.00719424,https://github.com/2lambda123/Windows10Exploits,2lambda123/Windows10Exploits,746360690
+VU#849224,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

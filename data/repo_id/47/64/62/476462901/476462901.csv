@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+476462901,queencitycyber/Spring4Shell-cURL,stupidRumor_war.war,6a589e23fbf7eeb32719e4b17559f8a30b49c638,VU#21
+476462901,queencitycyber/Spring4Shell-cURL,stupidRumor_war.war,6a589e23fbf7eeb32719e4b17559f8a30b49c638,VU#22
+476462901,queencitycyber/Spring4Shell-cURL,stupidRumor_war.war,6a589e23fbf7eeb32719e4b17559f8a30b49c638,VU#36
+476462901,queencitycyber/Spring4Shell-cURL,stupidRumor_war.war,6a589e23fbf7eeb32719e4b17559f8a30b49c638,VU#55
+476462901,queencitycyber/Spring4Shell-cURL,stupidRumor_war.war,6a589e23fbf7eeb32719e4b17559f8a30b49c638,VU#63
+476462901,queencitycyber/Spring4Shell-cURL,README.md,dfe5918506c0fef9437a08dd0f83362419f072b1,CVE-2022-22965

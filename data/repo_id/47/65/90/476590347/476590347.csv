@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+476590347,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,Debugging_Dirty_Pipe_CVE-2022-0847.md,353bbcccb1cdbe91089d60844b53ad012b65d5c2,CVE-2016-5195
+476590347,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,Debugging_Dirty_Pipe_CVE-2022-0847.md,353bbcccb1cdbe91089d60844b53ad012b65d5c2,CVE-2022-0847
+476590347,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,Debugging_Dirty_Pipe_CVE-2022-0847.pdf,5528aee609771eee9475e43a724850f626f05154,CVE-2022-0847
+476590347,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,Debugging_Dirty_Pipe_CVE-2022-0847.pdf,5528aee609771eee9475e43a724850f626f05154,VU#53
+476590347,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,recordings/2_debugging.script,6fca2f4d9f741db9d84c9b2a568a4b594df0b155,CVE-2022-0847
+476590347,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,recordings/1_compile.script,a2bdeda520c3aacc316608a28fc087ed99e095cf,VU#300
+476590347,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,Makefile,e03c4c471a5f3769614518bc7bff84ee0962bf35,CVE-2022-0847
+476590347,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,_GITHUB_REPO_METADATA_,,CVE-2022-0847

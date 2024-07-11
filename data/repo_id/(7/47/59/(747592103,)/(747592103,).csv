@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+747592103,CharonDefalt/F5-BIG-IP-TMUI-RCE-,http-vuln-cve2020-5902.nse,5ca7f948dc9a3dce16cc0606057c7dcac82e0a92,CVE-2020-5902
+747592103,CharonDefalt/F5-BIG-IP-TMUI-RCE-,CVE-2023-46747-RCE.py,84c3db208fdb8b84c564017a4df230b29bc87aa7,CVE-2023-46747
+747592103,CharonDefalt/F5-BIG-IP-TMUI-RCE-,Full-Manual-Dorks.txt,ad791e6eb1965466925b7e6f6abd833217c5959f,CVE-2020-5902
+747592103,CharonDefalt/F5-BIG-IP-TMUI-RCE-,Exploit-Automation.py,f2dc7df6280d5e1bcc77ad9c018b7c15e169cf06,CVE-2020-5902

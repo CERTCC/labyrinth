@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+775885856,Symbolexe/DrayTek-Exploit,README.md,6a0151040b4aec2fb0f7907054f4fa484d59d92b,CVE-2022-23093
+775885856,Symbolexe/DrayTek-Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-23093

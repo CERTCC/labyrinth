@@ -1,0 +1,15 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-29827,Live-Hack-CVE/CVE-2022-29827,582856483
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-29833,Live-Hack-CVE/CVE-2022-29833,582856425
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-29832,Live-Hack-CVE/CVE-2022-29832,582856414
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-29831,Live-Hack-CVE/CVE-2022-29831,582856391
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-29829,Live-Hack-CVE/CVE-2022-29829,582856383
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-29828,Live-Hack-CVE/CVE-2022-29828,582856376
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-29830,Live-Hack-CVE/CVE-2022-29830,582856371
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-29826,Live-Hack-CVE/CVE-2022-29826,582856365
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-29825,Live-Hack-CVE/CVE-2022-29825,582856351
+VU#97244961,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-25164,Live-Hack-CVE/CVE-2022-25164,582856293
+VU#97244961,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+VU#97244961,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#97244961,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#97244961,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

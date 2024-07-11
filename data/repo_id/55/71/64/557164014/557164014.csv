@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+557164014,p1n93r/redshift-jdbc-RCE,redshift-jdbc-RCE.war,aa58ce34f6f2215b2b30286a976681e9956d9f13,VU#55
+557164014,p1n93r/redshift-jdbc-RCE,redshift-jdbc-RCE.war,aa58ce34f6f2215b2b30286a976681e9956d9f13,VU#60
+557164014,p1n93r/redshift-jdbc-RCE,src/main/webapp/WEB-INF/lib/redshift-jdbc42-2.1.0.9.jar,ddf73218f3eecfe5ac19ae5bb46da2123ab1224b,VU#56

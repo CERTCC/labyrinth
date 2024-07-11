@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Intel Gathering/ldapsearch/ldapsearch_root_domain_search-all-entries.txt,59474bc2ed15c178085c62f1e697a632c7e01c7a,VU#63
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/PingCastle/vulnAD.lab_report.html,a520d9dcbdc42d8891bb325025b4087f70019bc2,CVE-2021-40469
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/PingCastle/vulnAD.lab_report.html,a520d9dcbdc42d8891bb325025b4087f70019bc2,CVE-2021-42291
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/PingCastle/vulnAD.lab_report.html,a520d9dcbdc42d8891bb325025b4087f70019bc2,MS15-011
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/PingCastle/vulnAD.lab_report.html,a520d9dcbdc42d8891bb325025b4087f70019bc2,MS15-014
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/PingCastle/vulnAD.lab_report.html,a520d9dcbdc42d8891bb325025b4087f70019bc2,VU#3183
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,CVE-2013-3900
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,CVE-2020-1350
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,CVE-2022-30190
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,CVE-2022-43552
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,VU#02
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,VU#10
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,VU#36
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,VU#53
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,VU#780
+786261173,WasiG-619/Vulnerable-AD-Assessment-Exploitation,Vulnerability Analysis/Nessus/vulnAD_lab - Initial Scan.html,bcc82c427bb00a82f337aa37da6f58b59abefa49,VU#96

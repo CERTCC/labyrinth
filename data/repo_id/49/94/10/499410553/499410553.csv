@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+499410553,hilt86/cve-2022-30190-mitigate,cve-2022-30190-mitigate.ps1,53ab614538c4708a3bb36396bc9cf9b3a35148d6,CVE-2022-30190
+499410553,hilt86/cve-2022-30190-mitigate,_GITHUB_REPO_METADATA_,,CVE-2022-30190

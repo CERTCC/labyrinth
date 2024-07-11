@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+303731702,manununu/exploits,windows/iis6_buffer_overflow_CVE-2017-7269/README.md,04dc84e431e4d2280ca2d0e289068f93283aeb13,CVE-2017-7269
+303731702,manununu/exploits,windows/token_kidnapping_privesc_win2003/README.md,600e61df8538643af8812978fe4b96fa6139c9c4,MS09-012
+303731702,manununu/exploits,windows/EternalBlue/exploit.py,7a34eb43b5d48ca8b02f919e49c4265b79b58ecd,MS17-010
+303731702,manununu/exploits,windows/EternalBlue/mysmb.py,9986a6fb9217a1477294e3052ea6d1fda6f7f96b,MS17-010
+303731702,manununu/exploits,windows/iis6_buffer_overflow_CVE-2017-7269/iis6_ScStoragePath_bufferoverflow.py,f4dda4092e82cfbe8c3d84ae38876c85d5485f30,CVE-2017-7269

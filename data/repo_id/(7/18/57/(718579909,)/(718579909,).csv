@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+718579909,pentesttoolscom/roundcube-cve-2021-44026,README.md,4bd31250005c8a7cf4e4c3d226c8ff17496c8d22,CVE-2020-35730
+718579909,pentesttoolscom/roundcube-cve-2021-44026,README.md,4bd31250005c8a7cf4e4c3d226c8ff17496c8d22,CVE-2021-44026
+718579909,pentesttoolscom/roundcube-cve-2021-44026,exploit.py,bbf9832efedc424d365b0be52e74a17b04c98eb3,CVE-2020-35730
+718579909,pentesttoolscom/roundcube-cve-2021-44026,exploit.py,bbf9832efedc424d365b0be52e74a17b04c98eb3,CVE-2021-44026
+718579909,pentesttoolscom/roundcube-cve-2021-44026,_GITHUB_REPO_METADATA_,,CVE-2021-44026

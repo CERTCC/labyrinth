@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+515059719,mchoudhary15/CVE-2022-22029-NFS-Server-,readme.md,2a3613706ae37d5f883efc46b478d22d117d6d46,CVE-2022-22039
+515059719,mchoudhary15/CVE-2022-22029-NFS-Server-,CVE-2022-22029 (Windows Network File System Remote Code Execution Vulnerability).ps1,32db5189e2166fbf590b28f17f1514cc4619ee43,CVE-2022-22029
+515059719,mchoudhary15/CVE-2022-22029-NFS-Server-,_GITHUB_REPO_METADATA_,,CVE-2022-22029

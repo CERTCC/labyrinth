@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+706668777,charonlight/NacosExploitGUI,漏洞复现环境/Nacos_Jraft_Hessian_RCE_CNVD-2023-45001.zip,5e00b4738aded8751c939e56789c14a3a2af111d,CNVD-2023-45001
+706668777,charonlight/NacosExploitGUI,漏洞复现环境/Nacos_Jraft_Hessian_RCE_CNVD-2023-45001.zip,5e00b4738aded8751c939e56789c14a3a2af111d,VU#350
+706668777,charonlight/NacosExploitGUI,漏洞复现环境/nacos-2.0.0.zip,9a937b528acd7c8aa32d2f8fd8146a578961a023,VU#74

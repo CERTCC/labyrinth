@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+606615026,yosef0x01/CVE-2023-0669-Analysis,README.md,3d5ba7e85f70a2b20a23132b8b26a7a8c10bc9f5,CVE-2023-0669
+606615026,yosef0x01/CVE-2023-0669-Analysis,libraries/ga_classes.jar,45c4ed13435e7ba5dbc31c4760222ab02fcb93e9,VU#2967
+606615026,yosef0x01/CVE-2023-0669-Analysis,libraries/ga_classes.jar,45c4ed13435e7ba5dbc31c4760222ab02fcb93e9,VU#55
+606615026,yosef0x01/CVE-2023-0669-Analysis,libraries/ga_classes.jar,45c4ed13435e7ba5dbc31c4760222ab02fcb93e9,VU#72
+606615026,yosef0x01/CVE-2023-0669-Analysis,_GITHUB_REPO_METADATA_,,CVE-2023-0669

@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+493942636,superzerosec/poc-exploit-index,README.md,9136259f7d0fd2082fe843dbe66add68d5edba30,CVE-2020-5902
+493942636,superzerosec/poc-exploit-index,README.md,9136259f7d0fd2082fe843dbe66add68d5edba30,CVE-2020-7247
+493942636,superzerosec/poc-exploit-index,README.md,9136259f7d0fd2082fe843dbe66add68d5edba30,CVE-2021-34473
+493942636,superzerosec/poc-exploit-index,README.md,9136259f7d0fd2082fe843dbe66add68d5edba30,CVE-2021-41773
+493942636,superzerosec/poc-exploit-index,README.md,9136259f7d0fd2082fe843dbe66add68d5edba30,CVE-2022-1388
+493942636,superzerosec/poc-exploit-index,README.md,9136259f7d0fd2082fe843dbe66add68d5edba30,CVE-2022-29464
+493942636,superzerosec/poc-exploit-index,README.md,9136259f7d0fd2082fe843dbe66add68d5edba30,CVE-2022-30525
+493942636,superzerosec/poc-exploit-index,README.md,9136259f7d0fd2082fe843dbe66add68d5edba30,CVE-2023-28343

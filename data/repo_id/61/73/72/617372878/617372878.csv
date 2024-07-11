@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+617372878,crypticq/WP-killer,scripts/__pycache__/upload_smart.cpython-310.pyc,4aa72b035fd6a1f3c9d5f3c827cd6434aa9b2778,CVE-2021-39312
+617372878,crypticq/WP-killer,scripts/zomsound_lfi.py,58bc89dd75f2925464c680e8b7200a3c981aebd2,CVE-2021-39316
+617372878,crypticq/WP-killer,scripts/__pycache__/seo.cpython-310.pyc,6938badf3beb989f3bcd8a65c98d982b58f626a0,CVE-2021-39312
+617372878,crypticq/WP-killer,scripts/upload_smart.py,7f242bb9316205b562c0a5a86b9d7c9db718881a,CVE-2021-39312
+617372878,crypticq/WP-killer,scripts/seo.py,9d9c755bdbc15067e1e556510b3ee20c3a486126,CVE-2021-39312
+617372878,crypticq/WP-killer,scripts/__pycache__/zomsound_lfi.cpython-310.pyc,a8deb4074944adf95cc110e8f627a094db94800f,CVE-2021-39316

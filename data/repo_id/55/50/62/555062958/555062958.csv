@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+555062958,trhacknon/CVE-2022-41040-metasploit-ProxyNotShell,microsoft_exchange_server_proxynotshell_ssrf.py,087d668e7d1b8eef5f4ce733afeb953289a31b07,CVE-2022-41040
+555062958,trhacknon/CVE-2022-41040-metasploit-ProxyNotShell,README.md,f267bbcbcc159d052e95d2c25c12056c6f7be54e,CVE-2022-41040
+555062958,trhacknon/CVE-2022-41040-metasploit-ProxyNotShell,README.md,f267bbcbcc159d052e95d2c25c12056c6f7be54e,VU#915563
+555062958,trhacknon/CVE-2022-41040-metasploit-ProxyNotShell,_GITHUB_REPO_METADATA_,,CVE-2022-41040

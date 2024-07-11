@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+733384203,merlin-ke/OwnCloud-CVE-2023-49103,payload/ownCloud_files/underscore.js.download,0cc095f866383de0ee45bac6ddec16236c588649,CVE-2021-23358
+733384203,merlin-ke/OwnCloud-CVE-2023-49103,payload/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php,7dd2268dabf5865bd7d9d61e69d5a8c3666e5c4a,VU#38
+733384203,merlin-ke/OwnCloud-CVE-2023-49103,payload/ownCloud_files/js.js.download,a1baa3ef300171e83b744da40eb2a9a56e30d06a,GHSA-GXR4-XJJ5-5PX2
+733384203,merlin-ke/OwnCloud-CVE-2023-49103,README.md,cfe7054a0316efe2a34a5b3beb71fbc306dbf365,CVE-2023-49103
+733384203,merlin-ke/OwnCloud-CVE-2023-49103,_GITHUB_REPO_METADATA_,,CVE-2023-49103

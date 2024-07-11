@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+733945796,KyleFardy/RCE-Admin,RCE Admin/packages/System.Runtime.CompilerServices.Unsafe.6.0.0/System.Runtime.CompilerServices.Unsafe.6.0.0.nupkg,0eabb7759a4124139faec3d8ee75c5bb4e6440ba,VU#603
+733945796,KyleFardy/RCE-Admin,RCE Admin/packages/BouncyCastle.Cryptography.2.2.1/BouncyCastle.Cryptography.2.2.1.nupkg,14b1a1a55d842862d35a7ab49fd14b7b3c153b57,VU#72
+733945796,KyleFardy/RCE-Admin,RCE Admin/packages/EntityFramework.6.4.4/tools/EntityFramework6.psd1,bb8b37187e46e4bac330becd6411e39d6e95abff,VU#02
+733945796,KyleFardy/RCE-Admin,RCE Admin/packages/EntityFramework.6.4.4/tools/EntityFramework6.psd1,bb8b37187e46e4bac330becd6411e39d6e95abff,VU#17
+733945796,KyleFardy/RCE-Admin,RCE Admin/packages/K4os.Compression.LZ4.1.3.5/K4os.Compression.LZ4.1.3.5.nupkg,dfc5a60e72c2f089cde308bf28d39319a6b9a134,VU#5657
+733945796,KyleFardy/RCE-Admin,RCE Admin/packages/Newtonsoft.Json.13.0.3/Newtonsoft.Json.13.0.3.nupkg,f418efd4238eb069cf38d1c86f4edc34444777dd,VU#11

@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 271919156,7248510/Research,Vulnerability research/Windows/CVE-2012-5106/CVE.md,379fa459bd6b2012798262ec912adfaf14479805,CVE-2012-5106
+271919156,7248510/Research,Vulnerability research/Windows/CVE-2012-5106/exploit.py,8783dcfe30625ac3eb7a86a8f24cbf7bd1582c9f,CVE-2012-5106
+271919156,7248510/Research,WalkThroughs/Legacy.md,cb64206d0473604db85847f2ff49a11af3439bb9,MS08-067

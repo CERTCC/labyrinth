@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+512770237,Crunchy0/Win_exploits,CVE-2019-1184/malcalc.exe,1c156713260d93f43ddb0d231d623046ecfb143f,CVE-2019-1184
+512770237,Crunchy0/Win_exploits,CVE-2013-0008/main.c,205fe196c401835bfbb7a2a44ebc8edcd0d99d79,CVE-2013-0008
+512770237,Crunchy0/Win_exploits,CVE-2019-1184/main.cpp,4563322e9cc39b3d917de2af28868d879bfaab0a,CVE-2019-1184
+512770237,Crunchy0/Win_exploits,CVE-2013-0008/desktop.exe,c2af7995ac095736d1836b474464d07602afaa87,CVE-2013-0008
+512770237,Crunchy0/Win_exploits,README.md,feea8541f3b83bc3ef733df4e76e59c597b3e87f,CVE-2013-0008
+512770237,Crunchy0/Win_exploits,README.md,feea8541f3b83bc3ef733df4e76e59c597b3e87f,CVE-2019-1184

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+761713470,Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress,README.md,0c22287774d08eded52ec4e542d3e5f6bc436cc1,CVE-2024-25600
+761713470,Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress,exploit.py,2bc3cf9077562c838d4a807b8ea55381d55bc16e,CVE-2024-25600
+761713470,Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress,_GITHUB_REPO_METADATA_,,CVE-2024-25600

@@ -1,0 +1,21 @@
+repo_id,repo_full_name,file,file_sha1,match
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,锐捷/RJ_LYQ_RCE_CVE-2023-3450.py,0149a8ddc7bca159fd9fefb000b79d24392374a2,CVE-2023-3450
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,D-Link 网络存储 (NAS)路由器/D-LinkNAS_nassharing_RCE.py,02432613b8c858f21ce2ad0e70a8343d481ca864,CVE-2024-3273
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Splunk Enterprise/SplunkEnterprise_Arbitrary-file-reading_CVE-2024-36991.py,04c3d4a5927cce5a78439e95a60f4f1ae8eb0c71,CVE-2024-36991
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,CRMEB开源电商系统/CREMEB_sql_CVE-2024-36837.py,184b61ff299eaeee4f8611ca965dc46503b6b9b4,CVE-2024-36837
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Exrick XMall 开源商城/EX_sql_CVE-2024-24112.py,1d06a79edd75d6cf58e701e276bf8a4b938a4f2b,CVE-2024-24112
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Zyxel NAS/ZyNa_RCE_CVE-2024-29973.py,29461d326b40486d60b6539ff8965f142198dd49,CVE-2024-29973
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,海洋CMS/HYCMS_anp_RCE-CVE-2024-30565.py,782f9495195b671f3a239a73c9d2cf2fe69cc617,CVE-2024-30565
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,蓝凌/landray_oa_custom_fileread_rce.py,7fc9ed214b7b582323f868bb878503a57801c5df,CNVD-2021-28277
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,宏景HCM/HCM_CNVD-2023-08743_sqlpoc.py,86f831591c7c15328b41b8a2364c2e30d2239774,CNVD-2023-08743
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,海洋CMS/HYCMS_js_sleep_sql-CVE-2024-29275.py,934b179ddd0e69e9bce85a5d59ae60cca988e05d,CVE-2024-29275
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Apache OFBiz/Apache_OFBiz_poc.py,978320d003ddfc544dd0a4e890b70b3f8e772274,CVE-2024-36104
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,泛微E-Office/FWEO_Fup-CVE-2023-2523.py,bf7177ee676153dabe334eca29a8b6ed87f458d0,CVE-2023-2523
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,泛微E-Office/FWEO_Fup-CVE-2023-2648.py,c2b8ef5b1dc4e04b9b1acb5a4cc67c5ad4a1768e,CVE-2023-2648
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Geoserver/GeoServer_wfs_RCE_CVE-2024-36401.py,c71302192fa9943442918889a007589fb31dc1d3,CVE-2024-36401
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Apache OFBiz/Apache_OFBiz_exp.py,cb674eebf6b793f4df519bb8da1b7c4c9a46899b,CVE-2024-36104
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Google Analytics/GA_Open_redirect_CVE-2024-0250.py,e4b9a77a90d268c13cd68c7eeffe0d42204439df,CVE-2024-0250
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,SolarWinds/SolarWinds_Ser-U_Directory-traversal_CVE-2024-28995.py,e98b923a9428b38064ed77cbe260d5c04350a3e4,CVE-2024-28995
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Dokan Pro插件/DokanPro_adminphp.sql-CVE-2024-3922.py,ed369a215c17fc4af0cbfec135b802c8387f7070,CVE-2024-3922
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,WyreStorm Apollo VX20/WAV_infoleak_CVE-2024-25735.py,ed857416c5c526f308d516ff0f52f76d7a02131e,CVE-2024-25735
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,WordPress Quiz Maker插件/WPQuizMaker_sql-CVE-2024-6028.py,f05a2076d5e91d41cf792e30db268c30ff5b2c7e,CVE-2024-6028

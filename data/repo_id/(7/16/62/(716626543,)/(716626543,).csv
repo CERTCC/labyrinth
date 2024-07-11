@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+716626543,Aneesh-Satla/Linux-Kernel-Exploitation-Suggester,linux-exploit-suggester-2.pl,8f93dfa662e5f99f8cd79983f4c7d9e25f5401ce,BID-45408
+716626543,Aneesh-Satla/Linux-Kernel-Exploitation-Suggester,linux-exploit-suggester-2.pl,8f93dfa662e5f99f8cd79983f4c7d9e25f5401ce,CVE-2014-0196
+716626543,Aneesh-Satla/Linux-Kernel-Exploitation-Suggester,README.md,f38250dbee8a87f6bec517b13f23e9b2109ec428,CVE-2016-5195
+716626543,Aneesh-Satla/Linux-Kernel-Exploitation-Suggester,README.md,f38250dbee8a87f6bec517b13f23e9b2109ec428,CVE-2016-8655
+716626543,Aneesh-Satla/Linux-Kernel-Exploitation-Suggester,README.md,f38250dbee8a87f6bec517b13f23e9b2109ec428,CVE-2017-16695
+716626543,Aneesh-Satla/Linux-Kernel-Exploitation-Suggester,README.md,f38250dbee8a87f6bec517b13f23e9b2109ec428,CVE-2018-14665

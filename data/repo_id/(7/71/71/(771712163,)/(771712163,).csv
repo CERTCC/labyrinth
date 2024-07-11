@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+771712163,corelight/CVE-2021-38647-noimages,testing/Baseline/CVE-2021-38647.omi-http/http.log,087f01df5afe67cc143bdcaa3cd655a241229fd4,CVE-2021-38647
+771712163,corelight/CVE-2021-38647-noimages,scripts/omigod.zeek,293ec88c218ee54a4c1874597f5f939e2ec0f447,CVE-2021-38647
+771712163,corelight/CVE-2021-38647-noimages,testing/Traces/CVE-2021-38647-exploit-craigmunsw-omigod-lab.pcap,49f088e03be68b34e5029f93aee3ef6d214dde19,CVE-2021-38647
+771712163,corelight/CVE-2021-38647-noimages,README.md,50ab04e63da3f248c2f4c55c1297bba85334d1c5,CVE-2021-38647
+771712163,corelight/CVE-2021-38647-noimages,testing/CVE-2021-38647/omi-http.zeek,5a52b893df1af50703994f954720bcab2dc811d3,CVE-2021-38647
+771712163,corelight/CVE-2021-38647-noimages,testing/Baseline/CVE-2021-38647.omi-http/files.log,780cecaa985af0349ca096611a48f4bf5e85905b,CVE-2021-38647
+771712163,corelight/CVE-2021-38647-noimages,zkg.meta,a0eff02128c948f79cff0f41e711cb730deedeae,CVE-2021-38647
+771712163,corelight/CVE-2021-38647-noimages,testing/btest.cfg,b341303072114db5e59f03d5aa66245d8e1d0cd4,CVE-2021-38647
+771712163,corelight/CVE-2021-38647-noimages,testing/Baseline/CVE-2021-38647.omi-http/notice.log,cb43cc3d7b7f01ffd1a6501717a4d542ca7062bd,CVE-2021-38647
+771712163,corelight/CVE-2021-38647-noimages,_GITHUB_REPO_METADATA_,,CVE-2021-38647

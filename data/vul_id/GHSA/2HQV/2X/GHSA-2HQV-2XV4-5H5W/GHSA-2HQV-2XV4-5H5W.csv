@@ -1,0 +1,12 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-2HQV-2XV4-5H5W,0.50000000,https://github.com/0x33c0unt/CVE-2024-21633,0x33c0unt/CVE-2024-21633,740220878
+GHSA-2HQV-2XV4-5H5W,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
+GHSA-2HQV-2XV4-5H5W,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+GHSA-2HQV-2XV4-5H5W,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
+GHSA-2HQV-2XV4-5H5W,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-2HQV-2XV4-5H5W,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
+GHSA-2HQV-2XV4-5H5W,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+GHSA-2HQV-2XV4-5H5W,0.00000929,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+GHSA-2HQV-2XV4-5H5W,0.00000928,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-2HQV-2XV4-5H5W,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-2HQV-2XV4-5H5W,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

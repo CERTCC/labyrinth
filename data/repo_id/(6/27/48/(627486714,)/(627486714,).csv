@@ -1,0 +1,69 @@
+repo_id,repo_full_name,file,file_sha1,match
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51065.md,00f925060595d6e335a8d89bda16bffcf40e3e04,CVE-2023-51065
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51068.md,06e90a2ab25837a59fd500ee5039b8dc98614086,CVE-2023-51068
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51062.md,15eda6fcd3131f9bd9597a7d6edb68575aa1feae,CVE-2023-51062
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38826/server.py,1b2f34349dc69d40e4532a2dfeff30c838215faa,CVE-2023-38826
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38827/server.py,1b2f34349dc69d40e4532a2dfeff30c838215faa,CVE-2023-38827
+627486714,Oracle-Security/CVEs,FloorsightSoftware/CVE-2023-45892.md,1e733c62be12dec52f273be44091f9f78f791800,CVE-2023-45892
+627486714,Oracle-Security/CVEs,WordPress/contests-from-rewards-fuel/CVE-2024-1785.md,1f8f5580821a93548b24786b43304a9e8a63d94b,CVE-2024-1785
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51064
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51068
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51065
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51063
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51062
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51066
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51070
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51067
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51071
+627486714,Oracle-Security/CVEs,WordPress/enable-media-replace/CVE-2023-6737.md,3838524e9479da66e70fdc61377f2d46c96e0117,CVE-2023-6737
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-49833
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-51063
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-51064
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-51065
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-51070
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-51066
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-51067
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-51062
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-51071
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-5204
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-45894
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2018-14486
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-22111
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-22112
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-2304
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2024-1787
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-46823
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2024-1785
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-38826
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2024-1709
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-45892
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-6737
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-45893
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-38827
+627486714,Oracle-Security/CVEs,readme.md,38b3ebd2dbfc7509005303f8bd985f4b02b3ae2c,CVE-2023-51068
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51071.md,3f3564e176722147742aeb05454328ba7123aaed,CVE-2023-51071
+627486714,Oracle-Security/CVEs,FloorsightSoftware/CVE-2023-45893.md,3f8826215c481d35e72b5e8a6284bbf6911f4ad5,CVE-2023-45893
+627486714,Oracle-Security/CVEs,DotNetNuke/CVE-2018-14486/xss.js,4866df5ec9770612c6dc61c20762b516e4e5d8f5,CVE-2018-14486
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51063.md,6d120ac5579441b85dcfa10d37cf02ec402bf5c0,CVE-2023-51063
+627486714,Oracle-Security/CVEs,WordPress/contests-from-rewards-fuel/CVE-2024-1787.md,7278236c03b16d19549ae8afbfbdda68ed0c29f4,CVE-2024-1787
+627486714,Oracle-Security/CVEs,DotNetNuke/CVE-2018-14486/vulnwebsite.py,7372d4eaafefb9afa5bee0af2630f43d8ab58c90,CVE-2018-14486
+627486714,Oracle-Security/CVEs,WordPress/Favorites/CVE-2023-2304.md,82dd312e6ee718e2d6e5b18b166cc51cbc26f4b6,CVE-2023-2304
+627486714,Oracle-Security/CVEs,TeamIA/CVE-2024-22112.md,84b112689b60dcef3414179904f41af640cbe172,CVE-2024-22112
+627486714,Oracle-Security/CVEs,TeamIA/CVE-2024-22112.md,84b112689b60dcef3414179904f41af640cbe172,CVE-2024-22111
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51066.md,a5d02f9f95f2c9c9e173b4f35c8794b82a1034d5,CVE-2023-51066
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51070.md,ab917a0948cd28c43d46c5891469f34d0f531feb,CVE-2023-51070
+627486714,Oracle-Security/CVEs,FloorsightSoftware/readme.md,af149094b34245f65774a71c387ca35b2fac246c,CVE-2023-45893
+627486714,Oracle-Security/CVEs,FloorsightSoftware/readme.md,af149094b34245f65774a71c387ca35b2fac246c,CVE-2023-45892
+627486714,Oracle-Security/CVEs,TeamIA/CVE-2024-22111.md,afd1a6e2e4e001528a8f69461bffe9a51175bc14,CVE-2024-22111
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51067.md,bcf5a8c397638cc9f8ca5d4ef37dd5ec082b924a,CVE-2023-51067
+627486714,Oracle-Security/CVEs,ConnectWise/CVE-2024-1709/readme.md,bfe049d6ebc6ccb9f085b01b0886ca01da8e9495,CVE-2024-1709
+627486714,Oracle-Security/CVEs,Parallels Remote Server/readme.md,c3268970433e572f55ed1ebe6118e359cbb4fdfc,CVE-2023-45894
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51064.md,d42330a036e1e7bb161b3d7ce8ce0f46585e001c,CVE-2023-51064
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38827/README.md,d5c405468ee013a139a12ba11daee1534be467df,CVE-2023-38827
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38827/xss.js,e29926959be3df19b4f8d446acba3a9bedacf86a,CVE-2023-38827
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38826/xss.js,e29926959be3df19b4f8d446acba3a9bedacf86a,CVE-2023-38826
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38826/README.md,e3fa0cf0ec5c6351d96657bc5ee4b333ad878da4,CVE-2023-38826
+627486714,Oracle-Security/CVEs,WordPress/spectra/CVE-2023-49833.md,e8f63eb865128684c2efe56c312943a85098af72,CVE-2023-49833
+627486714,Oracle-Security/CVEs,WordPress/chatbot/CVE-2023-5204.md,eb34e780d3b85cdb9cbf9882b66bae5b4cbe056e,CVE-2023-5204
+627486714,Oracle-Security/CVEs,DotNetNuke/CVE-2018-14486/README.md,ef3035d10e4327e8bb7b93bde73c15fde8131dde,CVE-2018-14486
+627486714,Oracle-Security/CVEs,WordPress/imagelinks-interactive-image-builder-lite/CVE-2023-46823.md,f4fb5403811e10fc98950c897b73a7ef26054004,CVE-2023-46823

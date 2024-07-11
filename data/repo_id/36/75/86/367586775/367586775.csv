@@ -1,1 +1,7 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+367586775,0neday/Exploit-HS8545M-ONT,persist-root-shell/config,080a2175167b748ae68dcd18aff4b654e48d45f7,VU#300
+367586775,0neday/Exploit-HS8545M-ONT,mnt/jffs2/hw/etc/dnsmasq.d/gfwlist.conf,1c850ab684f30bf047350b78dd6afda83efd6081,VU#127
+367586775,0neday/Exploit-HS8545M-ONT,mnt/jffs2/app/etc/dnsmasq.d/ad.conf,5c5e8d8b80a7a6cbb266cd239fec722d5f5f0fb2,VU#2240
+367586775,0neday/Exploit-HS8545M-ONT,mnt/jffs2/app/etc/dnsmasq.d/ad.conf,5c5e8d8b80a7a6cbb266cd239fec722d5f5f0fb2,VU#24
+367586775,0neday/Exploit-HS8545M-ONT,mnt/jffs2/app/etc/dnsmasq.d/ad.conf,5c5e8d8b80a7a6cbb266cd239fec722d5f5f0fb2,VU#897
+367586775,0neday/Exploit-HS8545M-ONT,mnt/jffs2/app/etc/dnsmasq.d/ad.conf,5c5e8d8b80a7a6cbb266cd239fec722d5f5f0fb2,VU#95

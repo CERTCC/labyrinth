@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+490768227,iveresk/cve-2022-21907-http.sys,README.md,4f0db8a1d1ca47b011a545a6a7baebaa842877ac,CVE-2022-21907
+490768227,iveresk/cve-2022-21907-http.sys,cve-2022-21907-1veresk.sh,6312fb2a3e8bbabcacd307e689072deb71c9aa63,CVE-2022-21907
+490768227,iveresk/cve-2022-21907-http.sys,_GITHUB_REPO_METADATA_,,CVE-2022-21907

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+514918653,WizardsOfTheInternet/CVE-2021-27239,README.md,4f3eda2b376eea49a065a7bcf330abdfc585067b,CVE-2021-27239
+514918653,WizardsOfTheInternet/CVE-2021-27239,README.md,4f3eda2b376eea49a065a7bcf330abdfc585067b,ZDI-21-206
+514918653,WizardsOfTheInternet/CVE-2021-27239,_GITHUB_REPO_METADATA_,,CVE-2021-27239

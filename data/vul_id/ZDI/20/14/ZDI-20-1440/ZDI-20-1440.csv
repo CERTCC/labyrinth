@@ -1,3 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-20-1440,0.20000000,https://github.com/smallkirby/kernelpwn,smallkirby/kernelpwn,281656185
 ZDI-20-1440,0.05000000,https://github.com/0x0021h/pwnlinux,0x0021h/pwnlinux,455173320
-ZDI-20-1440,0.00694444,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740
+ZDI-20-1440,0.00534759,https://github.com/khanhdz191/linux-kernel-exploitation,khanhdz191/linux-kernel-exploitation,606387984
+ZDI-20-1440,0.00423729,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740

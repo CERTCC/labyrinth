@@ -1,4 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-98295,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 BID-98295,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
+BID-98295,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550639048
+BID-98295,0.00163666,https://github.com/winterwolf32/CVE_Exploits-,winterwolf32/CVE_Exploits-,504265084
 BID-98295,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
+BID-98295,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-98295,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-98295,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,9 +1,15 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-31126,0.00598802,https://github.com/pwnwiki/q,pwnwiki/q,5940002
 BID-31126,0.00075988,https://github.com/pasanchamikara/metasploitable2_var,pasanchamikara/metasploitable2_var,91070442
-BID-31126,0.00026420,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+BID-31126,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
+BID-31126,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
+BID-31126,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
+BID-31126,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-31126,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 BID-31126,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 BID-31126,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 BID-31126,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 BID-31126,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+BID-31126,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-31126,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-31126,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

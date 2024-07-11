@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+729367387,ShyamSunder149/flask-exploit-db--model,frontend/src/pages/Exploit.js,65c9d794cc85d1a6c1ce6fd426339f2cef11472b,CVE-2023-12897

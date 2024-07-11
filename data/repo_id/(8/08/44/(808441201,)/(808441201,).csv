@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+808441201,truonghuuphuc/CVE-2024-5522-Poc,CVE-2024-5522.py,1e45d47f33ed9eecb45878eba314affb8d2952f8,CVE-2024-5522
+808441201,truonghuuphuc/CVE-2024-5522-Poc,README.md,c1aacf12f6c67b84af09978547b929b3f5cd09ed,CVE-2024-5522
+808441201,truonghuuphuc/CVE-2024-5522-Poc,_GITHUB_REPO_METADATA_,,CVE-2024-5522

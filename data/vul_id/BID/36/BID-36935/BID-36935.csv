@@ -1,3 +1,11 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-36935,0.00434783,https://github.com/DCFBGFSDTHFSD/Exploit,DCFBGFSDTHFSD/Exploit,692458402
+BID-36935,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 BID-36935,0.00075988,https://github.com/pasanchamikara/metasploitable2_var,pasanchamikara/metasploitable2_var,91070442
+BID-36935,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 BID-36935,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+BID-36935,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+BID-36935,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-36935,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+BID-36935,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-36935,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

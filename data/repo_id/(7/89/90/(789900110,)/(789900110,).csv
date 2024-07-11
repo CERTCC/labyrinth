@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+789900110,jaytiwari05/TryHackMe-Exploit,HitAndRun/HitAndRun.py,40afe006f965e8795d030b42cf8fe400caeb7fde,CVE-2024-0001

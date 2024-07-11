@@ -1,3 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2020-121325,0.01587302,https://github.com/r0eXpeR/CVE-2020,r0eXpeR/CVE-2020,326408855
-CNVD-2020-121325,0.00645161,https://github.com/PeiQi0/PeiQi-WIKI-POC,PeiQi0/PeiQi-WIKI-POC,359760991
+CNVD-2020-121325,0.01265823,https://github.com/hq-zhonger/GoExploits,hq-zhonger/GoExploits,660238964
+CNVD-2020-121325,0.00952381,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
+CNVD-2020-121325,0.00314465,https://github.com/KayCHENvip/vulnerability-poc,KayCHENvip/vulnerability-poc,658037002
+CNVD-2020-121325,0.00306748,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
+CNVD-2020-121325,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+CNVD-2020-121325,0.00184843,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+CNVD-2020-121325,0.00003960,https://github.com/adminlove520/cnvd,adminlove520/cnvd,531908311

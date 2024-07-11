@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+533280790,bolt3x/tesi,Django/SQL_Injection/backend/README.md,3354b03b4adb5f3a12494520c3e51ee6dc21ccb2,CVE-2020-7471
+533280790,bolt3x/tesi,Django/SQL_Injection/backend/README.md,3354b03b4adb5f3a12494520c3e51ee6dc21ccb2,CVE-2022-34265
+533280790,bolt3x/tesi,Spring4Shell/backend/src/main/java/com/reznok/helloworld/Default/Cache/Cache_Data/dfa95375291da02c_0,3c82498ace7a2b87e1523b397606c1be9e4465ff,VU#35
+533280790,bolt3x/tesi,Spring4Shell/backend/src/main/java/com/reznok/helloworld/DesktopSharingHub/20220505/desktop_sharing_hub.pb,41f6b0ec91a2897b62d3d11136f4a995ab703a5b,VU#08
+533280790,bolt3x/tesi,Spring4Shell/backend/src/main/java/com/reznok/helloworld/DesktopSharingHub/20220505/desktop_sharing_hub.pb,41f6b0ec91a2897b62d3d11136f4a995ab703a5b,VU#739
+533280790,bolt3x/tesi,Spring4Shell/backend/src/main/java/com/reznok/helloworld/DesktopSharingHub/20220505/desktop_sharing_hub.pb,41f6b0ec91a2897b62d3d11136f4a995ab703a5b,VU#879
+533280790,bolt3x/tesi,Django/SQL_Injection/backend/docker-compose.yml,582bd1f40c957e4cbf220ca9a972647499bd2dd5,CVE-2022-34265
+533280790,bolt3x/tesi,Spring4Shell/backend/README.md,5f46c8d6c070811e37c0a3cbf13cca22a1257607,CVE-2022-22965
+533280790,bolt3x/tesi,Spring4Shell/backend/src/main/java/com/reznok/helloworld/Safe Browsing/UrlSoceng.store,7057175a56a33d1e4a74c7e253771d2e0c9b765b,VU#08
+533280790,bolt3x/tesi,Spring4Shell/backend/src/main/java/com/reznok/helloworld/Safe Browsing/UrlSoceng.store,7057175a56a33d1e4a74c7e253771d2e0c9b765b,VU#59
+533280790,bolt3x/tesi,Spring4Shell/backend/src/main/java/com/reznok/helloworld/Safe Browsing/UrlSoceng.store,7057175a56a33d1e4a74c7e253771d2e0c9b765b,VU#71
+533280790,bolt3x/tesi,Spring4Shell/backend/src/main/java/com/reznok/helloworld/WidevineCdm/4.10.2391.0/_platform_specific/linux_x64/libwidevinecdm.so,f4297c37eb04abb0154d3ca4f49ee8993b031360,VU#43

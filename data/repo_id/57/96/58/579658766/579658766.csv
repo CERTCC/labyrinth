@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2002-1614
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2011-1485
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2011-1496
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2016-1580
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2017-3622
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2018-14665
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2019-0211
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2019-12181
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2019-13139
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2019-13272
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2019-19726
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2019-3010
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2019-5021
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2019-5736
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2019-7304
+579658766,nvicloud/ctf_lin_exploits,enumeration/linpeas.sh,06f9bd58952a23e7ddac5ad0b703ba2112693553,CVE-2020-2696

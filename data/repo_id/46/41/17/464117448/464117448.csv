@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+464117448,Fa1c0n35/zabbix-cve-2022-23131,README.md,01e24381b3a63db1a2ebe2233a2ed8725e6db6b7,CVE-2022-23131
+464117448,Fa1c0n35/zabbix-cve-2022-23131,zabbix_session_exp.py,c7da3de9b7846c0d94dba9534a767b2c43308790,CVE-2022-23131
+464117448,Fa1c0n35/zabbix-cve-2022-23131,_GITHUB_REPO_METADATA_,,CVE-2022-23131

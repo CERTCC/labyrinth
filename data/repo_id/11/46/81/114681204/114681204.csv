@@ -1,6 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 114681204,thapr0digy/exploits,eternalblue-universal.py,5983f8d9371b761fc2d8c87a05142d55104db069,MS17-010
 114681204,thapr0digy/exploits,srvos2-ms17-010.py,6046f0eaa102d86bee5117820b4223e6373e4b5e,MS17-010
+114681204,thapr0digy/exploits,srvos2-ms17-010.py,6046f0eaa102d86bee5117820b4223e6373e4b5e,VU#98
 114681204,thapr0digy/exploits,ms08-067-server2000.py,83fb6b43afb3b371c34114eb3b39f7f39638097d,MS08-067
 114681204,thapr0digy/exploits,srv2.sys.py,95596a924d6ca563c573ee6c64e01a2662271077,MS09-050
 114681204,thapr0digy/exploits,smb_relay.rb,b061f7218adf8cedd649edb58f5f6c6b7a2a336d,CVE-2008-4037

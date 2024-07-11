@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2016-0638
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2016-3510
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2017-10271
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2017-3248
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2018-2628
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2018-2893
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2018-3181
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2018-3245
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2020-14882
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2020-2551
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2020-2555
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2020-2883
+483592215,sp4zcmd/WeblogicExploit-GUI,README.md,89a2b889df3a9febfe6bb4f6a8cac2ee54b128e9,CVE-2021-2109

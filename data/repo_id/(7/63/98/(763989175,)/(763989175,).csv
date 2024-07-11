@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+763989175,p3nOnion/POC-vulnerability,POC bug in REDAXO(cms) product_.pdf,0ab871b5f8dda6dbb6886e7075a70ea2ca6b0a47,VU#75
+763989175,p3nOnion/POC-vulnerability,POC bug in REDAXO(cms) product_.pdf,0ab871b5f8dda6dbb6886e7075a70ea2ca6b0a47,VU#88
+763989175,p3nOnion/POC-vulnerability,POC bug in REDAXO(cms) product_.pdf,0ab871b5f8dda6dbb6886e7075a70ea2ca6b0a47,VU#96

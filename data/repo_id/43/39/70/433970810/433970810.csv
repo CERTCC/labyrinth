@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+433970810,TAPESH-TEAM/CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated,README.md,f712dcfbf82123d9580c55828a0b7698da4a75dd,CVE-2021-42230
+433970810,TAPESH-TEAM/CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated,_GITHUB_REPO_METADATA_,,CVE-2021-42230

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+790326936,nigmaz/Exploit-Vulnerabilities,Exploit-Technique/README.md,181c33ce0bf17d201f4250a56402bceb92b4eab5,CVE-2023-38831
+790326936,nigmaz/Exploit-Vulnerabilities,Kernel-Exploit/Linux-Kernel/README.md,3bd287c5c33b8e83c531208c871eae709be273c3,CVE-2022-0185
+790326936,nigmaz/Exploit-Vulnerabilities,Kernel-Exploit/Linux-Kernel/README.md,3bd287c5c33b8e83c531208c871eae709be273c3,CVE-2023-35001
+790326936,nigmaz/Exploit-Vulnerabilities,Application-Exploit/README.md,a07ffee9e7af17acd0b98d8df568af7d774160f8,CVE-2011-2856
+790326936,nigmaz/Exploit-Vulnerabilities,Application-Exploit/Embedded-System/README.md,e47a8e88d6c20a13d0f5e45a8e65a09c80b8575f,CVE-2021-36260

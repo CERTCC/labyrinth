@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,CVE-2020-2555
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,CVE-2020-2883
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#03
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#10
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#11
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#29
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#364
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#46
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#47
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#574
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#77
+465217373,SysdigDan/log4j-exploit-demo,exploit/JNDIExploit-1.2-SNAPSHOT.jar,932975107f4006dea13658230c8fae0407cb4b53,VU#83

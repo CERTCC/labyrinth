@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+719228373,gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite,README.md,05be58f1e9800de2a35158ec74618f2209a1aeb4,CVE-2023-32422
+719228373,gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite,_GITHUB_REPO_METADATA_,,CVE-2023-32422

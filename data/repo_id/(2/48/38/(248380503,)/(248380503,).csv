@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+248380503,acecilia/OpenWRTInvasion,firmwares/stock/miwifi_r4a_all_03233_3.0.24_INT.bin,1a2a795e7ae8c8fe646c0dfe60c542ad20263017,VU#58
+248380503,acecilia/OpenWRTInvasion,firmwares/stock/miwifi_r4a_firmware_72d65_2.28.62.bin,b866a28081a59abf215a564b029f52c9b50eb66c,VU#53
+248380503,acecilia/OpenWRTInvasion,firmwares/stock/miwifi_r4a_firmware_72d65_2.28.62.bin,b866a28081a59abf215a564b029f52c9b50eb66c,VU#64
+248380503,acecilia/OpenWRTInvasion,extras/various/miwifi_r4a_firmware_72d65_2.28.62.bin.extracted.zip,c18ec0004ad8338dd080942ea980baf6b66f2c19,VU#53
+248380503,acecilia/OpenWRTInvasion,extras/various/miwifi_r4a_firmware_72d65_2.28.62.bin.extracted.zip,c18ec0004ad8338dd080942ea980baf6b66f2c19,VU#64

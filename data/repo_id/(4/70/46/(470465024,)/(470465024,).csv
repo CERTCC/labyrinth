@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+470465024,nigmaz/Pwnable,pwnable.tw/CVE-2018-1160/src/libc.so,18292bd12d37bfaf58e8dded9db7f1f5da1192cb,CVE-2018-1160
+470465024,nigmaz/Pwnable,pwnable.tw/CVE-2018-1160/src/netatalk.tgz,229c66be029ddb97be79bc9fde2197f5a1ee20f6,CVE-2018-1160
+470465024,nigmaz/Pwnable,pwnable.tw/CVE-2018-1160/bruteforce.py,37cdd43f0da4eefc36966d16a921821490d56691,CVE-2018-1160
+470465024,nigmaz/Pwnable,pwnable.tw/README.md,ac9d04850189105f99b418f4a9b285e0287ef1e1,CVE-2018-10387
+470465024,nigmaz/Pwnable,pwnable.tw/README.md,ac9d04850189105f99b418f4a9b285e0287ef1e1,CVE-2018-1160
+470465024,nigmaz/Pwnable,pwnable.tw/CVE-2018-1160/exp.py,cc7091544177aac70c0307a1d140583d23050cbf,CVE-2018-1160
+470465024,nigmaz/Pwnable,pwnable.tw/CVE-2018-1160/PoC.py,db630bb6c73c6622e67272c60fb1a08e8bedbf33,CVE-2018-1160
+470465024,nigmaz/Pwnable,pwnable.tw/CVE-2018-1160/README.md,eebe0d39f7c7b669d67027e1c4fdbae7c3b9d060,CVE-2018-1160
+470465024,nigmaz/Pwnable,pwnable.tw/CVE-2018-1160/source-netatalk-3.1.11.tar.gz,f31f0cbb2c25b8e99b50150a91ac3a538ad51d72,CVE-2018-1160
+470465024,nigmaz/Pwnable,pwnable.tw/CVE-2018-1160/source-netatalk-3.1.11.tar.gz,f31f0cbb2c25b8e99b50150a91ac3a538ad51d72,VU#305

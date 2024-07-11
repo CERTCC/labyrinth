@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+604626744,divinepwner/TerraMaster-TOS-CVE-2020-15568,README.md,2db2da2c140553ac3c76974c6428c78a35230bb9,CVE-2020-15568
+604626744,divinepwner/TerraMaster-TOS-CVE-2020-15568,CVE-2020-15568-TerraMaster.rb,a672b1c2aca42746798d53c364fba48eee9d98ee,CVE-2020-15568
+604626744,divinepwner/TerraMaster-TOS-CVE-2020-15568,_GITHUB_REPO_METADATA_,,CVE-2020-15568

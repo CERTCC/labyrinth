@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+225452554,rosvik/cve.248.no,src/pages/index.tsx,6ec17594276f89bf960b9f979b71a00a142087a0,CVE-0000-0000
+225452554,rosvik/cve.248.no,yarn.lock,dda4827868723516184d6ec6169d516225cb45d5,VU#05
+225452554,rosvik/cve.248.no,yarn.lock,dda4827868723516184d6ec6169d516225cb45d5,VU#18

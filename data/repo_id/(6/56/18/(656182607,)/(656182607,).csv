@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,file/function/install/install.sql,066d279155bc7459395781bec54db21643b0f397,VU#14
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,file/function/api/alipay_wappay/cacert.pem,378ac83c68d9ebd4bf64a450480db1d1257f1dac,VU#29
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,file/function/api/alipay_wappay/cacert.pem,378ac83c68d9ebd4bf64a450480db1d1257f1dac,VU#32
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,file/function/api/alipay_wappay/cacert.pem,378ac83c68d9ebd4bf64a450480db1d1257f1dac,VU#37
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,file/function/api/alipay_wappay/cacert.pem,378ac83c68d9ebd4bf64a450480db1d1257f1dac,VU#65
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,file/client/manage/templates/images/ourphp_admin.css,f1157bd8c2ec9a84950eacdae466d27ccd3c7789,VU#99
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,README.md,f4a408d5fc6d89b3943ae7e4e85d576df7579797,CVE-2023-30212
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,file/client/manage/templates/images/ourphp_login.css,fa2a668c24dc2aa3bcd3004259b03ab5efb716f5,VU#67
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,file/client/manage/templates/images/ourphp_login.css,fa2a668c24dc2aa3bcd3004259b03ab5efb716f5,VU#87
+656182607,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,_GITHUB_REPO_METADATA_,,CVE-2023-30212

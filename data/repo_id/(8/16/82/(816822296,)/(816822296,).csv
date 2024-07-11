@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+816822296,jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE,README.md,3c73b0774b07a2b01fb9698ad87ca415135df23d,CVE-2024-4577
+816822296,jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE,_GITHUB_REPO_METADATA_,,CVE-2024-4577

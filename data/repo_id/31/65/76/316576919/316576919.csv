@@ -1,1 +1,7 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+316576919,robhughes72/Exploits,dirtypipez.c,373d6b84023a8bc2f90c67c6d1e1f27fdb349307,CVE-2022-0847
+316576919,robhughes72/Exploits,37292.c,5eb779e448fe5ce4c0ac31993b8dbda93106769d,CVE-2015-1328
+316576919,robhughes72/Exploits,ofs.c,6ebee4da098b1339639d0219cc0ee3f94e7a12e7,CVE-2015-1328
+316576919,robhughes72/Exploits,34421.c,703202dbf918a6b6c2d248de56f8720a489db479,CVE-2014-5119
+316576919,robhughes72/Exploits,dirtypipe.c,8f37ef477a383ffbaa0443cb21bc599780e312ec,CVE-2022-0847
+316576919,robhughes72/Exploits,6337.sh,c92c6ecb2b4f1412c9694a3501265d48021452df,CVE-2008-2936

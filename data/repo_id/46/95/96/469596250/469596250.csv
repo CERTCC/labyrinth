@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+469596250,darkphoenix2601/BruteSploit,tools/dirsearch/thirdparty/requests/cacert.pem,e626b115e2bac921ae73161c0f93489325d76d71,VU#29
+469596250,darkphoenix2601/BruteSploit,tools/dirsearch/thirdparty/requests/cacert.pem,e626b115e2bac921ae73161c0f93489325d76d71,VU#32
+469596250,darkphoenix2601/BruteSploit,tools/dirsearch/thirdparty/requests/cacert.pem,e626b115e2bac921ae73161c0f93489325d76d71,VU#37
+469596250,darkphoenix2601/BruteSploit,tools/dirsearch/thirdparty/requests/cacert.pem,e626b115e2bac921ae73161c0f93489325d76d71,VU#65

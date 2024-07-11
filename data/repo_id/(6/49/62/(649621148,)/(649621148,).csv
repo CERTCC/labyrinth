@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+649621148,cr1me0/rocketMq_RCE,README.md,29f7e638df1a4351655e1c40fff74245fe1efcb7,CVE-2023-33246
+649621148,cr1me0/rocketMq_RCE,rocketMq/src/main/java/me/gv7/woodpecker/vuldb/CVE_2023_33246_PayloadGenerator.java,3e3dad408b5badf35fe238268a1613e4bbb6d8e4,CVE-2023-33246
+649621148,cr1me0/rocketMq_RCE,rocketMq/src/main/java/me/gv7/woodpecker/vuldb/CVE_2023_33246_Utils.java,4d11bbcec667a4b7df60fbd9b9ed762406a35268,CVE-2023-33246
+649621148,cr1me0/rocketMq_RCE,rocketMq/src/main/java/me/gv7/woodpecker/vuldb/RocketMqInfo.java,8e7feb8901d8222c6b41f29534e30e3282854150,CVE-2023-33246
+649621148,cr1me0/rocketMq_RCE,_GITHUB_REPO_METADATA_,,CVE-2023-33246

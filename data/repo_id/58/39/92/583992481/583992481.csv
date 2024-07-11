@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+583992481,0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution,exploit.c,3ccf62e17b251c9ca5512878400f997a681686bc,CVE-2007-4560
+583992481,0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution,README.md,f4552e381b339df80c4edf61575b8e689eb98315,CVE-2007-4560
+583992481,0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution,_GITHUB_REPO_METADATA_,,CVE-2007-4560

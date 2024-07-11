@@ -1,2 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS44-000,0.08333333,https://github.com/zerosum0x0/defcon-25-workshop,zerosum0x0/defcon-25-workshop,97747585
+MS44-000,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
+MS44-000,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
+MS44-000,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+667627206,r3t4k3r/hikvision_brute,README.md,d157540b4a40527c9e8937c5c77761b3c942530c,CVE-2021-36260
+667627206,r3t4k3r/hikvision_brute,_GITHUB_REPO_METADATA_,,CVE-2021-36260

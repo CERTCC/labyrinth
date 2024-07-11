@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+279087424,srikanthprathi/modified-exploits,jenkins-preauth-rce-exploit-for-python3.8.3.py,944bcec943b963cee02a896d72c2b69bde10f162,CVE-2019-1003000

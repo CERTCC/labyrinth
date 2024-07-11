@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+555778524,galoget/CVE-2022-42889-Text4Shell-Docker,README.md,a8c6d868db4d5ceb73e2ef6c8411ef69084fc4ac,CVE-2022-42889
+555778524,galoget/CVE-2022-42889-Text4Shell-Docker,_GITHUB_REPO_METADATA_,,CVE-2022-42889

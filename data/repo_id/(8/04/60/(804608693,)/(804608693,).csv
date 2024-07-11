@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+804608693,clarkio/pdfjs-vuln-demo,README.md,2d0e77249043bbe30c8db2338e3dc8fb62b61bf4,CVE-2024-4367
+804608693,clarkio/pdfjs-vuln-demo,example-pdfs/CVE-2024-4367-v2.pdf,cc6e4d6500d41485cc3ced890722d56dff2f4264,CVE-2024-4367
+804608693,clarkio/pdfjs-vuln-demo,example-pdfs/CVE-2024-4367-v1.pdf,e4d76bd79588bc2ce6397df4d39006554f1d686d,CVE-2024-4367
+804608693,clarkio/pdfjs-vuln-demo,_GITHUB_REPO_METADATA_,,CVE-2024-4367

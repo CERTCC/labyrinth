@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2009-2055
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2010-3035
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2014-0160
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2017-11357
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2020-3118
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2020-3566
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2020-3569
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2022-20821
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2022-21587
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2022-41080
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2022-44877
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2022-47966
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2023-21674
+599694335,santosomar/kev_checker,README.md,1550d632f4ff36bdb42c8aac306bc07b6d723bd9,CVE-2023-22952

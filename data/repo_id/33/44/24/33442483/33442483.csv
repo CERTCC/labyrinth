@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 33442483,shipcod3/IRC-Bot-Hunters,w3tw0rk_exec.rb,13d25207877d492fab2f094534501c7789e61403,OSVDB-120384
 33442483,shipcod3/IRC-Bot-Hunters,legend_bot_exec.rb,2ea0096e371956f1ca5e0fd8762b788f58ac3c65,OSVDB-121681
+33442483,shipcod3/IRC-Bot-Hunters,malicious_samples/pbot.php,c957478498b8ad6a53ddc91735817e0dfc875139,VU#25
 33442483,shipcod3/IRC-Bot-Hunters,pbot_exec.rb,fc17a3b67497e515e6224304fd49d8b52bb27af1,OSVDB-84913

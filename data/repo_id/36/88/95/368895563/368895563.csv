@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-368895563,NickSanzotta/scanman,configs/config.ini,6a3a2c90a7e3dbfaf6ec8bd95f75537a1976a0a1,CVE-2017-7494
-368895563,NickSanzotta/scanman,configs/config.ini,6a3a2c90a7e3dbfaf6ec8bd95f75537a1976a0a1,CVE-2019-0708
-368895563,NickSanzotta/scanman,configs/config.ini,6a3a2c90a7e3dbfaf6ec8bd95f75537a1976a0a1,CVE-2021-21985
-368895563,NickSanzotta/scanman,configs/config.ini,6a3a2c90a7e3dbfaf6ec8bd95f75537a1976a0a1,MS08-067
-368895563,NickSanzotta/scanman,configs/config.ini,6a3a2c90a7e3dbfaf6ec8bd95f75537a1976a0a1,MS17-010
-368895563,NickSanzotta/scanman,utils/xmlparser.py,e7f6fbad4aa062a95a056ad6e585f641fcda27f2,MS08-067
-368895563,NickSanzotta/scanman,utils/xmlparser.py,e7f6fbad4aa062a95a056ad6e585f641fcda27f2,MS17-010
+368895563,NickSanzotta/scanman,configs/config.ini,11fb5c8ccc8c836f1cd890c099c97ed89f960ae1,CVE-2017-7494
+368895563,NickSanzotta/scanman,configs/config.ini,11fb5c8ccc8c836f1cd890c099c97ed89f960ae1,CVE-2019-0708
+368895563,NickSanzotta/scanman,configs/config.ini,11fb5c8ccc8c836f1cd890c099c97ed89f960ae1,CVE-2021-21985
+368895563,NickSanzotta/scanman,configs/config.ini,11fb5c8ccc8c836f1cd890c099c97ed89f960ae1,MS08-067
+368895563,NickSanzotta/scanman,configs/config.ini,11fb5c8ccc8c836f1cd890c099c97ed89f960ae1,MS17-010
+368895563,NickSanzotta/scanman,utils/xmlparser.py,14c1c48cc0961d67d340926537d0a7d0a04e72e9,MS08-067
+368895563,NickSanzotta/scanman,utils/xmlparser.py,14c1c48cc0961d67d340926537d0a7d0a04e72e9,MS17-010

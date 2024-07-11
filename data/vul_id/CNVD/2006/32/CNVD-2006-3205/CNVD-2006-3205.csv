@@ -1,3 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-CNVD-2006-3205,0.00561798,https://github.com/chaitin/xray,chaitin/xray,191117123
+CNVD-2006-3205,0.00552486,https://github.com/chaitin/xray,chaitin/xray,191117123
 CNVD-2006-3205,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
+CNVD-2006-3205,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
+CNVD-2006-3205,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
+CNVD-2006-3205,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
+CNVD-2006-3205,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+CNVD-2006-3205,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNVD-2006-3205,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

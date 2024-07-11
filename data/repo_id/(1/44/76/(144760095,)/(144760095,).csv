@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+144760095,kozmic/laravel-poc-CVE-2018-15133,README.md,489d3b314bf1bd842cc1a97ffbc6c6dd615c61a6,CVE-2018-15133
+144760095,kozmic/laravel-poc-CVE-2018-15133,composer.phar,640d934f603ce0767ceb424b023f1cd4a5ee2fb3,CVE-2013-6420
+144760095,kozmic/laravel-poc-CVE-2018-15133,composer.phar,640d934f603ce0767ceb424b023f1cd4a5ee2fb3,VU#33
+144760095,kozmic/laravel-poc-CVE-2018-15133,composer.phar,640d934f603ce0767ceb424b023f1cd4a5ee2fb3,VU#37
+144760095,kozmic/laravel-poc-CVE-2018-15133,composer.phar,640d934f603ce0767ceb424b023f1cd4a5ee2fb3,VU#396
+144760095,kozmic/laravel-poc-CVE-2018-15133,composer.phar,640d934f603ce0767ceb424b023f1cd4a5ee2fb3,VU#65
+144760095,kozmic/laravel-poc-CVE-2018-15133,composer.phar,640d934f603ce0767ceb424b023f1cd4a5ee2fb3,VU#82
+144760095,kozmic/laravel-poc-CVE-2018-15133,composer.phar,640d934f603ce0767ceb424b023f1cd4a5ee2fb3,VU#84
+144760095,kozmic/laravel-poc-CVE-2018-15133,composer.phar,640d934f603ce0767ceb424b023f1cd4a5ee2fb3,VU#85
+144760095,kozmic/laravel-poc-CVE-2018-15133,cve-2018-15133.php,a34667f4f4a42d2601ce6a16724a435978d23814,CVE-2018-15133
+144760095,kozmic/laravel-poc-CVE-2018-15133,_GITHUB_REPO_METADATA_,,CVE-2018-15133

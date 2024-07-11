@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+618203723,TecR0c/exploits,CVE-2023-28760/CVE-2023-28760.py,2a18d8cb6450d9be77b5709dfa7fc0a124262a9d,CVE-2023-28760
+618203723,TecR0c/exploits,CVE-2023-28760/README.md,3eaea96b81b42751f8ac35fe97cfe0af31d1dbba,CVE-2023-28760

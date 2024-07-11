@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+524887947,Sunqiz/CVE-2013-2028-reproduction,nginxpwn-master.zip,0c13c030613bb4fb270a4c8b382868f5782bc6ac,VU#10
+524887947,Sunqiz/CVE-2013-2028-reproduction,nginxpwn-master.zip,0c13c030613bb4fb270a4c8b382868f5782bc6ac,VU#15
+524887947,Sunqiz/CVE-2013-2028-reproduction,nginxpwn-master.zip,0c13c030613bb4fb270a4c8b382868f5782bc6ac,VU#82
+524887947,Sunqiz/CVE-2013-2028-reproduction,nginx-1.4.0/nginx-release-1.4.0/src/event/ngx_event_openssl.c,3a23a236be8d1305d1c7534b4f0273da76e3bc42,CVE-2009-3555
+524887947,Sunqiz/CVE-2013-2028-reproduction,CVE-2013-2028.md,3e1bd895bb3cf94ae1da71c15764d08f8a9fa5cf,CVE-2013-2028
+524887947,Sunqiz/CVE-2013-2028-reproduction,nginx-1.4.0/nginx-release-1.4.0/docs/xml/nginx/changes.xml,54f50dc4fa808651927a10f8128fed60a0c9b861,CVE-2010-4180
+524887947,Sunqiz/CVE-2013-2028-reproduction,nginx-1.4.0/nginx-release-1.4.0/docs/xml/nginx/changes.xml,54f50dc4fa808651927a10f8128fed60a0c9b861,CVE-2012-2089
+524887947,Sunqiz/CVE-2013-2028-reproduction,CVE-2013-2028-Exploit-master.zip,cb9519aef5a3f8a950ca0dc6dc5e1009717c0f1f,CVE-2013-2028
+524887947,Sunqiz/CVE-2013-2028-reproduction,_GITHUB_REPO_METADATA_,,CVE-2013-2028

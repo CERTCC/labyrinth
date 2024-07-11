@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+469163024,Kiosec/Windows-Exploitation,Windows-privesc.md,3e5462b46865c7149159da9f02208d55d36fb5c6,MS17-010
+469163024,Kiosec/Windows-Exploitation,README.md,a8157296a90028e3fdae869f8c6d1ebeebdd2709,CVE-2012-1182
+469163024,Kiosec/Windows-Exploitation,README.md,a8157296a90028e3fdae869f8c6d1ebeebdd2709,CVE-2017-0143
+469163024,Kiosec/Windows-Exploitation,README.md,a8157296a90028e3fdae869f8c6d1ebeebdd2709,CVE-2019-1388
+469163024,Kiosec/Windows-Exploitation,README.md,a8157296a90028e3fdae869f8c6d1ebeebdd2709,MS10-054
+469163024,Kiosec/Windows-Exploitation,README.md,a8157296a90028e3fdae869f8c6d1ebeebdd2709,MS10-061
+469163024,Kiosec/Windows-Exploitation,README.md,a8157296a90028e3fdae869f8c6d1ebeebdd2709,MS16-032
+469163024,Kiosec/Windows-Exploitation,README.md,a8157296a90028e3fdae869f8c6d1ebeebdd2709,MS17-010

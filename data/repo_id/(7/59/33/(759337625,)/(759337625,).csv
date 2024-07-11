@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+759337625,cammclain/CVE-2023-42115,README.md,cb70afe150b1fd7b514b8a7b4089dcd8aaf4ed20,CVE-2023-42115
+759337625,cammclain/CVE-2023-42115,exploit.py,ff73d6194c7893b6d0ad7e74de8eb5e19e21cfa1,CVE-2023-42115
+759337625,cammclain/CVE-2023-42115,_GITHUB_REPO_METADATA_,,CVE-2023-42115

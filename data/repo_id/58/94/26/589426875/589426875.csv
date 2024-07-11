@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+589426875,pmihsan/Sudo-HeapBased-Buffer-Overflow,exploit.c,6ce2a16aade9e258a49d8c99e61accb8c47b43e5,CVE-2021-3156
+589426875,pmihsan/Sudo-HeapBased-Buffer-Overflow,README.md,816202c62a16da8819d8912845ce617a7d0c3c8a,CVE-2021-3156

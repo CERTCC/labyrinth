@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+530596542,Deepak983/CVE-2020-19586,Stored XSS in MIAdminStyles.i4 through privileges escalation.pdf,5a885f60c989100ad3524d1810e1800b060e2972,VU#45
+530596542,Deepak983/CVE-2020-19586,Stored XSS in MIAdminStyles.i4 through privileges escalation.pdf,5a885f60c989100ad3524d1810e1800b060e2972,VU#72
+530596542,Deepak983/CVE-2020-19586,_GITHUB_REPO_METADATA_,,CVE-2020-19586

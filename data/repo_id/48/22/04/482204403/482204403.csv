@@ -1,0 +1,18 @@
+repo_id,repo_full_name,file,file_sha1,match
+482204403,Toffy-dev/ICT-exploits,books/Gray Hat Python.pdf,0d3ce6218650b32a4fc9ecf2f1541d866ee297b2,VU#07
+482204403,Toffy-dev/ICT-exploits,books/Gray Hat Python.pdf,0d3ce6218650b32a4fc9ecf2f1541d866ee297b2,VU#38
+482204403,Toffy-dev/ICT-exploits,books/Gray Hat Python.pdf,0d3ce6218650b32a4fc9ecf2f1541d866ee297b2,VU#781
+482204403,Toffy-dev/ICT-exploits,"books/The Hacker Playbook 2, Practical Guide To Penetration Testing By Peter Kim.pdf",168c6daa003a19fe4d92d990078fc176016d0346,CVE-2015-1427
+482204403,Toffy-dev/ICT-exploits,"books/The Hacker Playbook 2, Practical Guide To Penetration Testing By Peter Kim.pdf",168c6daa003a19fe4d92d990078fc176016d0346,MS14-068
+482204403,Toffy-dev/ICT-exploits,"books/The Hacker Playbook 2, Practical Guide To Penetration Testing By Peter Kim.pdf",168c6daa003a19fe4d92d990078fc176016d0346,VU#723755
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#84
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#82
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#80
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#58
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#88
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#48
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#35
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#10
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#00
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#722
+482204403,Toffy-dev/ICT-exploits,books/hacking_artofexploitation_2ndedition.pdf,7693b02a3819cefc0260a4245041c3cf0061aa9f,VU#98

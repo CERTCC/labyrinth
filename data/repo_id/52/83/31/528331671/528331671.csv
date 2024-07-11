@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+528331671,Checkmarx/capital,frontend/yarn.lock,318cda591fbd292f4944d1d404e3c664d4d1e769,VU#05
+528331671,Checkmarx/capital,frontend/yarn.lock,318cda591fbd292f4944d1d404e3c664d4d1e769,VU#18
+528331671,Checkmarx/capital,frontend/yarn.lock,318cda591fbd292f4944d1d404e3c664d4d1e769,VU#43
+528331671,Checkmarx/capital,frontend/yarn.lock,318cda591fbd292f4944d1d404e3c664d4d1e769,VU#62
+528331671,Checkmarx/capital,frontend/yarn.lock,318cda591fbd292f4944d1d404e3c664d4d1e769,VU#85

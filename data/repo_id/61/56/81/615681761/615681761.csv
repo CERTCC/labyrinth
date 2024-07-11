@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+615681761,aliestercrowleymv/TypeHub-Exploiter,the.py,313aac2ad1d4ea50e64663483f77a6446e6e5eba,CVE-2021-25094
+615681761,aliestercrowleymv/TypeHub-Exploiter,README.md,31d50e2aa8893414c14dde1c97f044f5dbca60b3,CVE-2021-25094
+615681761,aliestercrowleymv/TypeHub-Exploiter,_GITHUB_REPO_METADATA_,,CVE-2021-25094

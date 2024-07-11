@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+613034339,seifallahhomrani1/CVE-2023-0861-POC,Analyzing and Reproducing the Command Injection Vulnerability (CVE-2023-0861) in NetModule Routers.pdf,00819891082225f1343b09b8c426378a648ad69a,CVE-2023-0861
+613034339,seifallahhomrani1/CVE-2023-0861-POC,README.md,063976dbbbdb65b643a3d73b83ecf89fac134273,CVE-2023-0861
+613034339,seifallahhomrani1/CVE-2023-0861-POC,PoC-CVE-2023-0861.py,988bfe05e145a232fa0cfb7694e4afee4571cd1e,CVE-2023-0861
+613034339,seifallahhomrani1/CVE-2023-0861-POC,_GITHUB_REPO_METADATA_,,CVE-2023-0861

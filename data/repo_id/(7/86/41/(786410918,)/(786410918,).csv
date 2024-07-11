@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+786410918,lirantal/CVE-2024-27983-nodejs-http2,exploit/http2-node-exploit,8711445b4adcaf37970b3a055d8345e190622875,CVE-2024-27983
+786410918,lirantal/CVE-2024-27983-nodejs-http2,README.md,f787edbf3cdd150814d1cd98c57ed9ea8401b522,CVE-2024-27983
+786410918,lirantal/CVE-2024-27983-nodejs-http2,_GITHUB_REPO_METADATA_,,CVE-2024-27983

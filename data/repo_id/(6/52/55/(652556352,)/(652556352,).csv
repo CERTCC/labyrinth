@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+652556352,karlemilnikka/CVE-2023-1430,README.md,210414c8a0476ba4c47a2c4ee70cdf7256e0800c,CVE-2023-1430
+652556352,karlemilnikka/CVE-2023-1430,cve_2023_1430.pot,61f384bdf8b331a0963e1e5b4b7ca9b415fdfd6e,CVE-2023-1430
+652556352,karlemilnikka/CVE-2023-1430,cve_2023_1430_mitigation.php,af0dbacb0efed52233dd0a343f3b674243afca9d,CVE-2023-1430
+652556352,karlemilnikka/CVE-2023-1430,_GITHUB_REPO_METADATA_,,CVE-2023-1430

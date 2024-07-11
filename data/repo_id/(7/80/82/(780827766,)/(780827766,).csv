@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+780827766,robertdebock/ansible-role-cve_2024_3094,vars/main.yml,198cf278336d6bff90d3371224d453e3c1ec3fb1,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,SECURITY.md,33514273e942e176ee3359acde22c0762e41bc24,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,meta/main.yml,4078d75f6ae3b5789f81523bc126b8e8cdfd950b,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,.github/settings.yml,460f2612a62c64bd604e548cbb786c5decb88518,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,handlers/main.yml,5b0cf66376ba1c70dfdb42e0621aa63f1920628c,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,meta/argument_specs.yml,71fbea045698dd5516ce66e5be2fb84290d220dc,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,README.md,8007b3da7aedb23315954be876fd93825cdf44c3,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,tasks/main.yml,a0825f0bd596bf5a451de173539260d0bc48863e,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,CONTRIBUTING.md,a8c654e29f157bc20386bd016a44c46c1e2cd0a1,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,defaults/main.yml,b0989241547638cfe2ec127731946d66596fe313,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,tasks/assert.yml,d3e5a7fe72a940d6e25c6dafdeca23d5dba579d1,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,molecule/default/converge.yml,ff692ce6a65c1394d24f01f3a8a19dd788b7037c,CVE-2024-3094
+780827766,robertdebock/ansible-role-cve_2024_3094,_GITHUB_REPO_METADATA_,,CVE-2024-3094

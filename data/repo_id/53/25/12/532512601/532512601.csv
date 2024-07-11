@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/ysoserial/src/main/java/ysoserial/exploit/JRMPClassLoadingListener.java,0d547f412b053c3b2e99601414578e0ccd0084da,CVE-2013-1537
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/ysoserial/src/main/java/ysoserial/payloads/Wicket1.java,162875232c3489cc85b8d69fd8b97c1d0e5f5919,CVE-2013-2186
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/ysoserial/src/main/java/ysoserial/exploit/JenkinsListener.java,9354c60df2b8944f8331bf30ecaaa36f1b2af485,CVE-2016-0788
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/marshalsec/src/main/java/marshalsec/Jackson.java,b9d2b24850ff2af4777f5c04b8941057bdf20afc,CVE-2017-7525
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/ysoserial/src/main/java/ysoserial/exploit/JenkinsReverse.java,bb6efad45ba6e485181d51cdcc95e0d6fa840ba5,CVE-2016-0788
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,CVE-2020-2555
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,CVE-2020-2883
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,VU#03
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,VU#10
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,VU#11
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,VU#364
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,VU#46
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,VU#47
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,VU#574
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,VU#77
+532512601,colind0pe/Java-Vulnerability-Demo,Tools/JNDIExploit-1.3/JNDIExploit-1.3-SNAPSHOT.jar,c4d452e269617b506164b48be4264fde05256d6e,VU#83

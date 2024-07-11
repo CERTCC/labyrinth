@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+717010281,ditekshen/ansible-cve-2023-22518,README.md,0880da68a74644cc082aec9d201cd725ea756273,CVE-2023-22518
+717010281,ditekshen/ansible-cve-2023-22518,cve-2023-22518.yml,2558ad638df78f1e3beb2d47e2bbd768bf62b6fe,CVE-2023-22518
+717010281,ditekshen/ansible-cve-2023-22518,_GITHUB_REPO_METADATA_,,CVE-2023-22518

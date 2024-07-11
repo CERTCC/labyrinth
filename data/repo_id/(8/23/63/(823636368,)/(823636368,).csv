@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+823636368,sgxgsx/blueborne-CVE-2017-1000251,blueborne.txt,19363d47781c5757868f258840396446fc3ce298,CVE-2017-1000251
+823636368,sgxgsx/blueborne-CVE-2017-1000251,blueborne.c,319ed3dc4c71f70af99e48eb48bcdf7d5fd117df,CVE-2017-1000251
+823636368,sgxgsx/blueborne-CVE-2017-1000251,_GITHUB_REPO_METADATA_,,CVE-2017-1000251

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+707535778,X1r0z/spring-amqp-deserialization,README.md,175bf038a1c583088ec89a923d64dcd201b4861a,CVE-2023-34050
+707535778,X1r0z/spring-amqp-deserialization,_GITHUB_REPO_METADATA_,,CVE-2023-34050

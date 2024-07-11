@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+554185839,kljunowsky/CVE-2022-42889-text4shell,README.md,866fea22dddfb3004af3c92319e091a48fd1fac3,CVE-2022-42889
+554185839,kljunowsky/CVE-2022-42889-text4shell,CVE-2022-42889.py,e79ee674e6b4a8fb5c85cc5bf95ddfd63f9585ea,CVE-2022-42889
+554185839,kljunowsky/CVE-2022-42889-text4shell,_GITHUB_REPO_METADATA_,,CVE-2022-42889

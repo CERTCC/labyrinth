@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+767335790,Karpagarajanvikkii/v8-exploitation,Fourchain - Hole/writeup.md,05a659815f02e9d994afd165f82e142faefd012b,CVE-2021-38003
+767335790,Karpagarajanvikkii/v8-exploitation,CVE-2023-2033/Hole.mp4,40e202aeb394015ddb1fe377139f96d008a6b007,CVE-2023-2033
+767335790,Karpagarajanvikkii/v8-exploitation,CVE-2023-2033/sandbox-escape.mp4,4d644e5d38f86994b27cbf833790dfca2551004d,CVE-2023-2033
+767335790,Karpagarajanvikkii/v8-exploitation,CVE-2023-2033/CVE-2023-2033-writeup.md,71d14df07870a0cb11acdef01aa3321503ce26dc,CVE-2023-2033
+767335790,Karpagarajanvikkii/v8-exploitation,CVE-2023-2033/exploit.js,dbaf3e398c36543070e5cba2474e0f9d08345f71,CVE-2023-2033
+767335790,Karpagarajanvikkii/v8-exploitation,CVE-2023-2033/Sandbox-Escape.md,e5431681ebfa410a2896a7ae43f1053a7f287ea1,CVE-2023-2033

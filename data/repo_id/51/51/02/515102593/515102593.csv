@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+515102593,KhanTooba/androidAppSecurity,sample/node_modules/underscore/underscore.js,0cc095f866383de0ee45bac6ddec16236c588649,CVE-2021-23358
+515102593,KhanTooba/androidAppSecurity,sample/node_modules/underscore/modules/template.js,122240365141967be209d7b00d86066bfec44b87,CVE-2021-23358
+515102593,KhanTooba/androidAppSecurity,sample/node_modules/cordova-android/RELEASENOTES.md,7980f5a2006be64b0da0c88c8c3698823fd86a6a,CVE-2014-3500
+515102593,KhanTooba/androidAppSecurity,sample/node_modules/cordova-android/RELEASENOTES.md,7980f5a2006be64b0da0c88c8c3698823fd86a6a,CVE-2014-3501
+515102593,KhanTooba/androidAppSecurity,sample/node_modules/cordova-android/RELEASENOTES.md,7980f5a2006be64b0da0c88c8c3698823fd86a6a,CVE-2014-3502
+515102593,KhanTooba/androidAppSecurity,sample/node_modules/underscore/underscore-esm.js,9d9e8cb202dcb6592e9cc8a2f950bc8ebf3d830a,CVE-2021-23358
+515102593,KhanTooba/androidAppSecurity,sample/node_modules/underscore/cjs/template.js,b1e279163296972087a73789834d904bfbf86c53,CVE-2021-23358
+515102593,KhanTooba/androidAppSecurity,sample/node_modules/underscore/amd/template.js,bd784cc36921f116c94005390834b984bca807b1,CVE-2021-23358
+515102593,KhanTooba/androidAppSecurity,sample/node_modules/underscore/underscore-node-f.cjs,f1e48a3fc01123b691448c7784a8ddceadd3cfed,CVE-2021-23358

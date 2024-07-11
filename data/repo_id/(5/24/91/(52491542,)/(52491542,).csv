@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+52491542,CBIIT/rcellminerData,data/molData.RData,042e647d0934d5565b60e6e5f213ec986812c6d6,VU#30
+52491542,CBIIT/rcellminerData,data/molData.RData,042e647d0934d5565b60e6e5f213ec986812c6d6,VU#39
+52491542,CBIIT/rcellminerData,data/molData.RData,042e647d0934d5565b60e6e5f213ec986812c6d6,VU#74
+52491542,CBIIT/rcellminerData,data/molData.RData,042e647d0934d5565b60e6e5f213ec986812c6d6,VU#92
+52491542,CBIIT/rcellminerData,data/molData.RData,042e647d0934d5565b60e6e5f213ec986812c6d6,VU#93
+52491542,CBIIT/rcellminerData,inst/extdata/RNAseq.geneMay14.Rdata,6f193b6a01711ed6eee04b174f4ab1685507940f,VU#61
+52491542,CBIIT/rcellminerData,inst/extdata/cellminer_2_0/CELLMINER_CELL_LINE_METADATA.xls,725318b689b1dec6baa21a82b665cf5f311a41a0,BID-24
+52491542,CBIIT/rcellminerData,inst/extdata/cellminer_1_6/GI50.public.int1_6.Rdata,aec639c2adafe39b4cb60d851499bd3a04cbe054,VU#18
+52491542,CBIIT/rcellminerData,data/drugData.RData,d6617ddc5cf2895f7ab648b08ad6492b91e381d5,VU#08
+52491542,CBIIT/rcellminerData,data/drugData.RData,d6617ddc5cf2895f7ab648b08ad6492b91e381d5,VU#20
+52491542,CBIIT/rcellminerData,inst/extdata/cellminer_2_0/DTP_NCI60_RAW.xlsx,e3450d5e5f509a6a2f3364b09aa9866f6828b285,VU#02
+52491542,CBIIT/rcellminerData,inst/extdata/cellminer_2_0/DTP_NCI60_RAW.xlsx,e3450d5e5f509a6a2f3364b09aa9866f6828b285,VU#27
+52491542,CBIIT/rcellminerData,inst/extdata/cellminer_2_0/DTP_NCI60_RAW.xlsx,e3450d5e5f509a6a2f3364b09aa9866f6828b285,VU#63
+52491542,CBIIT/rcellminerData,inst/extdata/cellminer_2_0/DTP_NCI60_RAW.xlsx,e3450d5e5f509a6a2f3364b09aa9866f6828b285,VU#70
+52491542,CBIIT/rcellminerData,inst/extdata/cellminer_2_0/DTP_NCI60_RAW.xlsx,e3450d5e5f509a6a2f3364b09aa9866f6828b285,VU#72
+52491542,CBIIT/rcellminerData,inst/extdata/cellminer_2_0/DTP_NCI60_RAW.xlsx,e3450d5e5f509a6a2f3364b09aa9866f6828b285,VU#97

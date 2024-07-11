@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+493786526,xct/windows-kernel-exploits,windows-exploits/GigabyteDriverLI.cpp,18cb4db70d852e7c8270f8ff3854b722c7355876,CVE-2018-19320
+493786526,xct/windows-kernel-exploits,windows-exploits/GigabyteDriverLI.cpp,18cb4db70d852e7c8270f8ff3854b722c7355876,CVE-2018-19323
+493786526,xct/windows-kernel-exploits,windows-exploits/HevdPoolOverflowWin7x64.cpp,1e463b3213edf70493164f57e1a956aa790dbf18,CVE-2020-17087
+493786526,xct/windows-kernel-exploits,windows-exploits/HevdNullPointerMIWin7x64.cpp,7406dd61520e0382311020072a962c79c2e748ed,CVE-2019-1169
+493786526,xct/windows-kernel-exploits,README.md,920d1aebe3bf3cbbd492935cd02d1a6e750cc63d,CVE-2018-19320
+493786526,xct/windows-kernel-exploits,README.md,920d1aebe3bf3cbbd492935cd02d1a6e750cc63d,CVE-2018-19323
+493786526,xct/windows-kernel-exploits,README.md,920d1aebe3bf3cbbd492935cd02d1a6e750cc63d,CVE-2021-21551
+493786526,xct/windows-kernel-exploits,windows-exploits/HevdStackOverflowRopMI.cpp,98fe55dadd74a2e23ed81ae8fb36906f1dba7489,CVE-2021-31956
+493786526,xct/windows-kernel-exploits,windows-exploits/GigabyteDriverMI.cpp,bb762b59f98eacddff03f022c0976978c097a297,CVE-2018-19320

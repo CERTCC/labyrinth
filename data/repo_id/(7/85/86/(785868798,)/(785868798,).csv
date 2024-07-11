@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+785868798,seleniumpdf/pdf-exploit,README.md,850b58186390e61eb25418dc62945fb0d42dcc26,CVE-2022-28672

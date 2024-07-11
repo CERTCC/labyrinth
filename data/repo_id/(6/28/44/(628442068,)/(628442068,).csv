@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+628442068,daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin,README.md,8297412284800cdd53b328243c5381aaafdc1e9d,CVE-2023-2123
+628442068,daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin,_GITHUB_REPO_METADATA_,,CVE-2023-2123

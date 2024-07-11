@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+472271080,spiarh/webhook-cve-2022-0811,kustomize/secret/crt.sh,1015e9e5e00e54d4858450b5b39195edcb63a921,CVE-2022-0811
+472271080,spiarh/webhook-cve-2022-0811,kustomize/validatingwebhookconfiguration.yaml,150a0273d6bc69794e3dcb6eba0d920528650f21,CVE-2022-0811
+472271080,spiarh/webhook-cve-2022-0811,README.md,16885b26ee8ba76b4caee4768c8da9dffee6393b,CVE-2022-0811
+472271080,spiarh/webhook-cve-2022-0811,kustomize/deployment.yaml,2af4ac1e92ff80cc1ba2e4bbeaf01e8c509ebf05,CVE-2022-0811
+472271080,spiarh/webhook-cve-2022-0811,go.mod,5fc82a0a1bf0ac5bd129ce737abb9b2a2d559ba0,CVE-2022-0811
+472271080,spiarh/webhook-cve-2022-0811,Containerfile,65a3046dd649dfda0cd5298cb233377a01932069,CVE-2022-0811
+472271080,spiarh/webhook-cve-2022-0811,kustomize/kustomization.yaml,b54dbd520cfe4da2fb5ffea6bf01b2f87e24bca2,CVE-2022-0811
+472271080,spiarh/webhook-cve-2022-0811,kustomize/namespace.yaml,cad026aa8a06eecd505a9a93c19da7d65a1bc744,CVE-2022-0811
+472271080,spiarh/webhook-cve-2022-0811,kustomize/secret/openssl.conf,e4ccf02393480c9d61c9bb931a1f27417d4cb055,CVE-2022-0811
+472271080,spiarh/webhook-cve-2022-0811,_GITHUB_REPO_METADATA_,,CVE-2022-0811

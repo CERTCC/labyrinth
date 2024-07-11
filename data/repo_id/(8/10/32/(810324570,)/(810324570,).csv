@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+810324570,muhammad1596/CVE-2022-0847-dirty-pipe-checker,README.md,9ee5123ba0e0e66149ba29a754e801430e23db60,CVE-2016-5195
+810324570,muhammad1596/CVE-2022-0847-dirty-pipe-checker,README.md,9ee5123ba0e0e66149ba29a754e801430e23db60,CVE-2022-0847
+810324570,muhammad1596/CVE-2022-0847-dirty-pipe-checker,_GITHUB_REPO_METADATA_,,CVE-2022-0847

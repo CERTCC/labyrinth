@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+575684558,l4tt/ugoscan,modules/exploits/apache/CVE9805.go,5789fa191b5c2f0906d2774bbc80fa9e950e39f7,CVE-2017-9805
+575684558,l4tt/ugoscan,modules/exploits/apache/CVE42013.go,7db4db435e46f69a7d2f898249b37426a6e4d203,CVE-2021-42013
+575684558,l4tt/ugoscan,modules/exploits/apache/CVE5638.go,c4829547eb1dac42a77cb55463c849871047353e,CVE-2017-5638
+575684558,l4tt/ugoscan,modules/exploits/apache/CVE41773.go,ebbed84ee836367cea4959f68c0bd643dca12eae,CVE-2021-41773

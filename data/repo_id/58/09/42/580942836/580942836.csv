@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+580942836,mfdev-solution/Exploit-CVE-2017-5638,cybersecurity-struts2-master/README.md,0dced7dc9d605fffbab9f03a9de194468d868c48,CVE-2017-5638
+580942836,mfdev-solution/Exploit-CVE-2017-5638,cybersecurity-struts2-master/target/ms-cybersecurity-1.jar,59089d4c7f32e4d68e84479c6185feaec7d591d0,VU#09
+580942836,mfdev-solution/Exploit-CVE-2017-5638,cybersecurity-struts2-master/target/ms-cybersecurity-1.jar,59089d4c7f32e4d68e84479c6185feaec7d591d0,VU#46
+580942836,mfdev-solution/Exploit-CVE-2017-5638,cybersecurity-struts2-master/target/ms-cybersecurity-1.jar,59089d4c7f32e4d68e84479c6185feaec7d591d0,VU#59
+580942836,mfdev-solution/Exploit-CVE-2017-5638,cybersecurity-struts2-master/target/ms-cybersecurity-1.jar,59089d4c7f32e4d68e84479c6185feaec7d591d0,VU#60
+580942836,mfdev-solution/Exploit-CVE-2017-5638,cybersecurity-struts2-master/target/ms-cybersecurity-1.jar,59089d4c7f32e4d68e84479c6185feaec7d591d0,VU#65
+580942836,mfdev-solution/Exploit-CVE-2017-5638,cybersecurity-struts2-master/src/main/resources/META-INF/resources/jsp/index.jsp,68c7378e934d053214be4b4db2f700461caa5cc9,CVE-2017-5638
+580942836,mfdev-solution/Exploit-CVE-2017-5638,_GITHUB_REPO_METADATA_,,CVE-2017-5638

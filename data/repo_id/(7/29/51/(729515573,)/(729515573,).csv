@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+729515573,linzc21/bug-reports,reports/mp3gain/1.6.2/stack-buffer-overflow/CVE-2023-49356.md,4fa2fb1e1ff19d5f9b78b4e383eb3118c46adc9d,CVE-2023-49356
+729515573,linzc21/bug-reports,reports/jq/1.7-37-g88f01a7/heap-buffer-overflow/CVE-2023-49355.md,d7dbcf464a7f42e7a8863a8838c0df57ad0b0b11,CVE-2023-49355

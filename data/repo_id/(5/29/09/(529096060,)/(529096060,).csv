@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+529096060,luksecurity/securitystuff,Linux/Kernel/exploits_quickwin.md,37f022a04c9dae01c18a395489b7b5fbf977f93b,CVE-2023-2640
+529096060,luksecurity/securitystuff,Linux/Kernel/exploits_quickwin.md,37f022a04c9dae01c18a395489b7b5fbf977f93b,CVE-2023-32629
+529096060,luksecurity/securitystuff,Linux/Kernel/exploits_quickwin.md,37f022a04c9dae01c18a395489b7b5fbf977f93b,CVE-2023-32649

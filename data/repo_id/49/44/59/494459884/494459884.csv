@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+494459884,prok3z/Nuclei-Template-Primefaces-RCE,README.md,01c5f73efc6e03fd049623495a725d33b69fc420,CVE-2017-1000486
+494459884,prok3z/Nuclei-Template-Primefaces-RCE,primefaces.yaml,9798d3c44dde129d44b8be1c1d1f470cbf6174be,CVE-2017-1000486
+494459884,prok3z/Nuclei-Template-Primefaces-RCE,_GITHUB_REPO_METADATA_,,CVE-2017-1000486

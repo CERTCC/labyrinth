@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+529749601,TakenoSite/RemoteUploader-CVE-2021-36260,src/RemoteUploader.py,2aa1fae0974830b27b2849360ce84668d9204749,CVE-2021-36260
+529749601,TakenoSite/RemoteUploader-CVE-2021-36260,src/__pycache__/server.cpython-39.pyc,4c61ce0d6c2ad3c0a455b324a798ffe7755c4f1e,CVE-2021-36260
+529749601,TakenoSite/RemoteUploader-CVE-2021-36260,README.md,5200f0d8debb2481f4823fac983a72caeeb8ead4,CVE-2021-36260
+529749601,TakenoSite/RemoteUploader-CVE-2021-36260,src/__pycache__/RemoteUploader.cpython-39.pyc,71b1fe662550108990e331515b9118af36a8707e,CVE-2021-36260
+529749601,TakenoSite/RemoteUploader-CVE-2021-36260,main.py,7e736cab01ca51d1cf454f5dad5c6c0807fe69ab,CVE-2021-36260
+529749601,TakenoSite/RemoteUploader-CVE-2021-36260,src/__pycache__/Server.cpython-39.pyc,f3a8d92ace5a99b9ecde519959532e6ba53631ad,CVE-2021-36260
+529749601,TakenoSite/RemoteUploader-CVE-2021-36260,_GITHUB_REPO_METADATA_,,CVE-2021-36260

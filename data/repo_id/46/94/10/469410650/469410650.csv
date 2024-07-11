@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+469410650,micha3lcve/LOG4J-mass-rce-CVE-2021-44228,README.md,cfa46fcbd6323042b88a685f78592c2b60a57e3a,CVE-2021-44228
+469410650,micha3lcve/LOG4J-mass-rce-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228

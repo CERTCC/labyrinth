@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+824185491,4lxprime/regreSSHive,regreSSHive.c,2c9e1143f4bd0326138f5934cba33a61c057b83a,CVE-2024-6387
+824185491,4lxprime/regreSSHive,README.md,7f80ce6a4d06ad92847fc97229dd72b18e2688f7,CVE-2024-6387
+824185491,4lxprime/regreSSHive,_GITHUB_REPO_METADATA_,,CVE-2024-6387

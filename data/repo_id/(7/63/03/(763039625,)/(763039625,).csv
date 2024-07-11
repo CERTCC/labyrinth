@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+763039625,h0ny/NacosExploit,README.md,a9ff884765967e2d749cdcbb6fb583af9ebec13b,CNVD-2020-67618
+763039625,h0ny/NacosExploit,README.md,a9ff884765967e2d749cdcbb6fb583af9ebec13b,CVE-2021-29441

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+609301433,p3pinill0/JiraExploits,CVE-2021-41304/payload.csv,1c34e294dbdd3cd525f28c4f5da48230bdfba8a4,CVE-2021-41304
+609301433,p3pinill0/JiraExploits,CVE-2021-41304/CVE-2021-41304.md,cdd1285d0aef02111c84415ca79ac4d057debf0f,CVE-2021-41304
+609301433,p3pinill0/JiraExploits,README.md,f7e676bbd0dc7e282e7274a0025c47267eddd32b,CVE-2021-41304

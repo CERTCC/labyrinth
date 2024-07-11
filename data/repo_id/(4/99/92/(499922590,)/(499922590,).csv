@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+499922590,DerZiad/CVE-2022-30190,Anunnaki/src/main/resources/static/vendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+499922590,DerZiad/CVE-2022-30190,Anunnaki/src/main/resources/static/vendor/font-awesome-4.7/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+499922590,DerZiad/CVE-2022-30190,README.md,44763396277bc6ee0f624b332fe33133b3030fbc,CVE-2022-30190
+499922590,DerZiad/CVE-2022-30190,Anunnaki/pom.xml,8d8a99e8b559d08d9b4d7b8b522acce7e70e98c4,CVE-2022-30190
+499922590,DerZiad/CVE-2022-30190,Anunnaki/src/main/resources/static/vendor/font-awesome-4.7/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
+499922590,DerZiad/CVE-2022-30190,_GITHUB_REPO_METADATA_,,CVE-2022-30190

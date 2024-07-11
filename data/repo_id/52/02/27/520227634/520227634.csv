@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+520227634,ehtec/nex-forms-exploit,exploit.txt,45398128445b21e7e06da61e921c149891cd3114,CVE-2022-3142
+520227634,ehtec/nex-forms-exploit,README.md,80ddb348cc89607849dc1677c984805ceec46c1c,CVE-2022-3142

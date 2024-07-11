@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+499886197,ducluongtran9121/CVE-2022-22978-PoC,src/main/java/com/janlele91/pocCVE202222978/MainController.java,66e0ac3ca2535b13253215a0afa12a6f695db074,CVE-2022-22978
+499886197,ducluongtran9121/CVE-2022-22978-PoC,README.md,e841345df786c8dbd9766efb217a977a60e1cad6,CVE-2022-22978
+499886197,ducluongtran9121/CVE-2022-22978-PoC,_GITHUB_REPO_METADATA_,,CVE-2022-22978

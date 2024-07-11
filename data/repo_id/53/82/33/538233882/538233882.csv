@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+538233882,ArminToric28/EternalBlue-Exploit,README.md,f25952f6d14ec11158fec035706f1009c7bbd6af,CVE-2017-0143
+538233882,ArminToric28/EternalBlue-Exploit,README.md,f25952f6d14ec11158fec035706f1009c7bbd6af,MS17-010

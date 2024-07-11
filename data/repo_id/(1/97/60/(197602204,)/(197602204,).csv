@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,CVE-2015-1701
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,CVE-2017-0143
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,CVE-2020-1472
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,CVE-2020-14882
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,CVE-2020-5902
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,CVE-2021-42278
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,CVE-2021-42287
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,MS08-067
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,MS13-053
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,MS15-051
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,MS16-032
+197602204,ihebski/A-Red-Teamer-diaries,README.md,a30fef3b1e9317121e20fa1fac7f1ffa7c4ac13d,MS17-010

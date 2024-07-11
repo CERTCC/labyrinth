@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+598136964,efchatz/Bl0ck,Bl0ck.py,11b9c70f88c59812af245c12661e1f87e2547351,CVE-2022-32666
+598136964,efchatz/Bl0ck,README.md,de4779da92318df8851e1f821b61adbff25584cb,CVE-2022-32666

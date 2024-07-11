@@ -1,2 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+456161456,jkroepke/CVE-2022-24348-2,.github/workflows/release.yaml,1671bd2d9d816b62bab74a6d75d26ef3f6c6dbc7,CVE-2022-24348
+456161456,jkroepke/CVE-2022-24348-2,charts/helm-file-get-wrapper/Chart.lock,71c42eb1167ef98d103ed7036e3f0d9b8aff2c9e,CVE-2022-24348
+456161456,jkroepke/CVE-2022-24348-2,applications.yaml,7d43d351613161913bd166a0b2bfd793ea6aeadf,CVE-2022-24348
+456161456,jkroepke/CVE-2022-24348-2,charts/helm-file-get-wrapper/Chart.yaml,d86208772d1a956078b98b0b4ba28b2570f98493,CVE-2022-24348
 456161456,jkroepke/CVE-2022-24348-2,_GITHUB_REPO_METADATA_,,CVE-2022-24348

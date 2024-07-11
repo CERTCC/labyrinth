@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+481674832,h0cksr/Fastjson--CVE-2017-18349-,README.md,752c97ef85088de75f47ff62d5c0dec7d3a835f5,CVE-2017-18349
+481674832,h0cksr/Fastjson--CVE-2017-18349-,src/main/java/fastjsondemo.jar,c499dcab1f9645aadd92ec16362bff84d2a89673,VU#043
+481674832,h0cksr/Fastjson--CVE-2017-18349-,src/main/java/fastjsondemo.jar,c499dcab1f9645aadd92ec16362bff84d2a89673,VU#364
+481674832,h0cksr/Fastjson--CVE-2017-18349-,_GITHUB_REPO_METADATA_,,CVE-2017-18349

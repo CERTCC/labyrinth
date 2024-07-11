@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+708227992,johniwasz/rce-serialization-dotnet,src/02-Framework-JsonVulnerabilties/requests.http,05f99e1fab2d6a6e35d71ce79354a11a9ce83aab,VU#29
+708227992,johniwasz/rce-serialization-dotnet,docs/JuiceShop/OSINT/nikto.md,c009a852f6a2764de5443b978a48f85f9a77064c,OSVDB-3092

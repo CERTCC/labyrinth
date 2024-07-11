@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+705845788,RUB-NDS/Terrapin-Artifacts,scan/scan_util.py,2810046b8b94f42270ba2196cacfb2e31a060ae4,CVE-2023-48795
+705845788,RUB-NDS/Terrapin-Artifacts,impl/openssh/source/openssh-9.5p1.tar.gz,35c16dcc6e7d0a9465faa241476ef24f76b196cc,VU#51
+705845788,RUB-NDS/Terrapin-Artifacts,impl/asyncssh/source/asyncssh-2.13.2-py3-none-any.whl,3a481b512e6a1d31b109f2991fef05ae0738e60c,VU#42
+705845788,RUB-NDS/Terrapin-Artifacts,README.md,b29530f656e501b1009d691210a5a7d5b5e15a9d,CVE-2023-46445
+705845788,RUB-NDS/Terrapin-Artifacts,README.md,b29530f656e501b1009d691210a5a7d5b5e15a9d,CVE-2023-46446
+705845788,RUB-NDS/Terrapin-Artifacts,README.md,b29530f656e501b1009d691210a5a7d5b5e15a9d,CVE-2023-48795
+705845788,RUB-NDS/Terrapin-Artifacts,impl/openssh/files/ssh_host_rsa_key,d32ad45b166c4a2c31629fe7eb577df65a8df94b,VU#17

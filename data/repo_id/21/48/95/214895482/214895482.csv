@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-214895482,rafaelh/exploits,webexploits/44976.py,c6a56a246ac82a2f680e1e77e39c93a42cf6e1eb,CVE-2018-1000094
+214895482,rafaelh/exploits,webshells/44976.py,c6a56a246ac82a2f680e1e77e39c93a42cf6e1eb,CVE-2018-1000094

@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+651002237,datackmy/FallingSkies-CVE-2023-35885,vendor/endroid/qr-code/assets/open_sans.ttf,3564ed0b5363df5cf277c16e0c6bedc5a682217f,VU#62
+651002237,datackmy/FallingSkies-CVE-2023-35885,README.md,46af646fbed0bfbfa55eb2feb5ac9d5825e731a0,CVE-2023-35885
+651002237,datackmy/FallingSkies-CVE-2023-35885,vendor/symfony/http-client/CurlHttpClient.php,5b56c4bc88cfcd7c0052d004b1e0ecad1f17febc,CVE-2018-1000007
+651002237,datackmy/FallingSkies-CVE-2023-35885,vendor/guzzlehttp/guzzle/CHANGELOG.md,aab6f06c430a25bf8acb466ac7b92c7d55ba7bf8,CVE-2016-5385
+651002237,datackmy/FallingSkies-CVE-2023-35885,vendor/jeremykendall/php-domain-parser/test_data/tlds-alpha-by-domain.txt,b94fca57033da7d267636e8f20263b402149c9bc,VU#861
+651002237,datackmy/FallingSkies-CVE-2023-35885,vendor/jeremykendall/php-domain-parser/test_data/tlds-alpha-by-domain.txt,b94fca57033da7d267636e8f20263b402149c9bc,VU#88
+651002237,datackmy/FallingSkies-CVE-2023-35885,vendor/jeremykendall/php-domain-parser/test_data/public_suffix_list.dat,c2935ab7c2b49cbd1dae83fb408eaff4129bb6a1,VU#861
+651002237,datackmy/FallingSkies-CVE-2023-35885,vendor/jeremykendall/php-domain-parser/test_data/public_suffix_list.dat,c2935ab7c2b49cbd1dae83fb408eaff4129bb6a1,VU#88
+651002237,datackmy/FallingSkies-CVE-2023-35885,_GITHUB_REPO_METADATA_,,CVE-2023-35885

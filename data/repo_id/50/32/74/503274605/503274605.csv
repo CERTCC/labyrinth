@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+503274605,ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-,README.md,39651f3ee708ad108936d05c6709b1f8e3d493c4,CVE-2022-24706
+503274605,ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-,AhmetSabri_MERT_Assignment 4.pdf,5c7910c4f8651e67006780766d1c818773c50db8,CVE-2022-24706
+503274605,ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-,_GITHUB_REPO_METADATA_,,CVE-2022-24706

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+780435431,K3rnel-Dev/ShellcodeBuilder-And-Loader,sources/ShellcodeBuilder/ShellcodeBuilder/Resources/Stub.zip,27908c90d8e163a4dd0fcd2e46113fa2a93158bc,VU#94

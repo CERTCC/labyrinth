@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+811466494,blackh00d/zerologon-poc,zerologon-poc.py,bcadb52dabfadb5afcc74a0881e3b8c748bd6b6b,CVE-2020-1472
+811466494,blackh00d/zerologon-poc,README.md,ccd880654313c2941e8b44c830a5b92c069145f9,CVE-2020-1472
+811466494,blackh00d/zerologon-poc,_GITHUB_REPO_METADATA_,,CVE-2020-1472

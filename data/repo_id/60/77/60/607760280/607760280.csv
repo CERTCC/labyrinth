@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+607760280,sn0wm4ker/log4j_poc,README.md,e5c5ff0228969b724fe5b1f6e77827eb72785d94,CVE-2021-44228
+607760280,sn0wm4ker/log4j_poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228

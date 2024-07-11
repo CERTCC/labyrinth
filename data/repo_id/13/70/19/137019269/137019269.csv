@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+137019269,GeoSn0w/Osiris-Jailbreak,README.md,20f8b4a2538ee46dee91910afeab9a4ec384c438,CVE-2018-4241
+137019269,GeoSn0w/Osiris-Jailbreak,README.md,20f8b4a2538ee46dee91910afeab9a4ec384c438,GPZ-1558
+137019269,GeoSn0w/Osiris-Jailbreak,multi_path/README,5041fcec5ffc636eb52762a6846da9d17d3897d5,CVE-2018-4241

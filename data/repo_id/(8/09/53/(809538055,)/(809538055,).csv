@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+809538055,kwburns/CVE,Mitel/5.0.0.1018/code/exploit-firmware.py,c8f6e3e3a2e8d2ea30ecdec75e14065e2766ada1,VU#02
+809538055,kwburns/CVE,Mitel/5.0.0.1018/code/exploit-provis.py,eb8f222109a44b4e901252b81d7660580bc96b3d,VU#02

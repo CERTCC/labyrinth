@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+494501837,grav3m1nd-byte/Training-Exploits,OSCP-Lab_Exploits/shellshock_smtp.py,e56a9ce42fbf8cac63f1bd8f050288414bd1d72a,CVE-2014-6271

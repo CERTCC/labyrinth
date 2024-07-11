@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+517931760,drkbcn/lblfixer_cve_2022_31181,lblfixer_cve_2022_36408.php,4a660a3413acbbed30f86dcedf1b106b9bfbc7a7,CVE-2022-36408
+517931760,drkbcn/lblfixer_cve_2022_31181,README.md,ad63c6cf9a5fd3db3e2ce596752d86f0ba6b7f89,CVE-2022-31181
+517931760,drkbcn/lblfixer_cve_2022_31181,README.md,ad63c6cf9a5fd3db3e2ce596752d86f0ba6b7f89,CVE-2022-36408
+517931760,drkbcn/lblfixer_cve_2022_31181,README.md,ad63c6cf9a5fd3db3e2ce596752d86f0ba6b7f89,GHSA-HRGX-P36P-89Q4
+517931760,drkbcn/lblfixer_cve_2022_31181,_GITHUB_REPO_METADATA_,,CVE-2022-31181

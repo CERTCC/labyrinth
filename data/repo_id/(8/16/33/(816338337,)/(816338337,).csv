@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+816338337,0xgrah4m/RDOS-vsFTPd-Exploit,README.md,b9eb9d517eff5d9ee63221534d97af546abb3fbf,CVE-2022-30047
+816338337,0xgrah4m/RDOS-vsFTPd-Exploit,exploit.py,d8d5e4f7f27e51f9b04e4cd7297139b372d8ebcf,CVE-2022-30047

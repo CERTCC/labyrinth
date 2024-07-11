@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+551073912,Filiplain/Fortinet-PoC-Auth-Bypass,README.md,59726253b4f696ab4ca3c8bfefd555a3c153467c,CVE-2022-40684
+551073912,Filiplain/Fortinet-PoC-Auth-Bypass,poc.sh,f067a635d562b797313a4aca215ff9634206028b,CVE-2022-40684
+551073912,Filiplain/Fortinet-PoC-Auth-Bypass,_GITHUB_REPO_METADATA_,,CVE-2022-40684

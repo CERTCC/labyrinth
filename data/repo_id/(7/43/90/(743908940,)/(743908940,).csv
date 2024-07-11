@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+743908940,s3mPr1linux/SPLOITSCAN,sploitscan.py,098f326747986151fb37d5afd304081fc065f97d,CVE-2023-23397
+743908940,s3mPr1linux/SPLOITSCAN,sploitscan.py,098f326747986151fb37d5afd304081fc065f97d,CVE-2024-12345

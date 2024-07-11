@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+794376820,xsxtw/SpringFramework_CVE-2022-22965_RCE,README.md,7b6ff01c5d30a691e27dc0cd725f84312e0a1cc2,CVE-2022-22965
+794376820,xsxtw/SpringFramework_CVE-2022-22965_RCE,SpringFramework_CVE-2022-22965_RCE.py,e61a174e24362405c47dfc63a1aeefc3de74c3df,CVE-2022-22965
+794376820,xsxtw/SpringFramework_CVE-2022-22965_RCE,_GITHUB_REPO_METADATA_,,CVE-2022-22965

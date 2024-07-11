@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+717998055,sadiqsonalkar/Internship,Report.pdf,13d8bc1e9386b7953f6e21cebf59d88445d5730c,VU#47
+717998055,sadiqsonalkar/Internship,OWASP 10.docx,4ef98a81b49aaeeb7c2f78bd995ad1f79467dd38,VU#36
+717998055,sadiqsonalkar/Internship,Tools.pdf,57309618deded2c0b0fa179be594e17f7d7eed13,VU#899
+717998055,sadiqsonalkar/Internship,SQL Injection.pdf,af59c4af64248ff7ad612886dab7621ba9c5e9f9,VU#23
+717998055,sadiqsonalkar/Internship,NMAP Network Exploration.pdf,b5fb8e8bd5f97d46f5309b26ee6161f5f308e7e0,VU#67
+717998055,sadiqsonalkar/Internship,Web Pentesting Report.pdf,d6c404ecf1696274c04a8807cae0a57831075acd,VU#59
+717998055,sadiqsonalkar/Internship,Attack Strategies.pdf,e7374f9b7b0dd1d194cd0191aa522f4a47f50610,CVE-2021-45046
+717998055,sadiqsonalkar/Internship,Attack Strategies.pdf,e7374f9b7b0dd1d194cd0191aa522f4a47f50610,CVE-2021-45105

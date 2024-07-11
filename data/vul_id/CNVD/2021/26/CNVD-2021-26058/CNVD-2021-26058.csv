@@ -1,0 +1,11 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2021-26058,0.50000000,https://github.com/fengwenhua/CNVD-2021-26058,fengwenhua/CNVD-2021-26058,340866618
+CNVD-2021-26058,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
+CNVD-2021-26058,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
+CNVD-2021-26058,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
+CNVD-2021-26058,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
+CNVD-2021-26058,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+CNVD-2021-26058,0.00000929,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+CNVD-2021-26058,0.00000928,https://github.com/trickest/cve,trickest/cve,454015416
+CNVD-2021-26058,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2021-26058,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

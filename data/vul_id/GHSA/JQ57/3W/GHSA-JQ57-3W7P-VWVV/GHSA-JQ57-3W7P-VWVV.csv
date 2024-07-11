@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-JQ57-3W7P-VWVV,0.50000000,https://github.com/tequilasunsh1ne/CVE_2024_27292,tequilasunsh1ne/CVE_2024_27292,825540956
+GHSA-JQ57-3W7P-VWVV,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

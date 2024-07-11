@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+671551353,Rajneeshkarya/CVE-2023-3460,exploit.py,35f6046e112829b7230c63625fb5404ee22040ca,CVE-2023-2460
+671551353,Rajneeshkarya/CVE-2023-3460,_GITHUB_REPO_METADATA_,,CVE-2023-3460

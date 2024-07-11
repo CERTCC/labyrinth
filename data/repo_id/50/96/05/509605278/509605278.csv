@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+509605278,rbowes-r7/manageengine-auditad-cve-2022-28219,manageengine-poc.rb,6e148c6355c2764edc7fe4749fc8bdabdf56fed9,VU#29
+509605278,rbowes-r7/manageengine-auditad-cve-2022-28219,README.md,d78da24dcf9fa72134dd4fee7209ea86762134ce,CVE-2022-28219
+509605278,rbowes-r7/manageengine-auditad-cve-2022-28219,_GITHUB_REPO_METADATA_,,CVE-2022-28219

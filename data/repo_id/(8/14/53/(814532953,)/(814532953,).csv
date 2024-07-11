@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+814532953,GMFR444X/exploit,plugin-install.txt,23da2baf88a74a325bb019cf1f3c6e21f5d28f43,VU#60
+814532953,GMFR444X/exploit,ok.txt,6633c43969e4f023178d4b4cc1fd07b6e3dee3f7,VU#60

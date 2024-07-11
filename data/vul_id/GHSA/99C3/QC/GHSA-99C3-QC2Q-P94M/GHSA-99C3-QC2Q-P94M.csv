@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-99C3-QC2Q-P94M,0.25000000,https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158,murataydemir/CVE-2023-25157-and-CVE-2023-25158,652314324
+GHSA-99C3-QC2Q-P94M,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-99C3-QC2Q-P94M,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

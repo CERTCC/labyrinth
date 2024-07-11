@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+783624479,yinsel/ShellcodeCryptor,cryptopp/elgamal.h,1b013fc074e87278acedcccb05893a95dbba46e9,CVE-2021-40530
+783624479,yinsel/ShellcodeCryptor,cryptopp/zinflate.cpp,4c0e1691df1ffac22b2ba0d4800343170a482e13,VU#368819
+783624479,yinsel/ShellcodeCryptor,cryptopp/secblock.h,5021e439749bd29172fca130698b11d9c6b8187b,CVE-2016-9939
+783624479,yinsel/ShellcodeCryptor,cryptopp/config_misc.h,797b35d769ff011019ae71255116958fd41bc92f,CVE-2016-7420
+783624479,yinsel/ShellcodeCryptor,include/trap.h,82d3d53b140f9691306aaa102983e22bc25230a1,CVE-2016-7420
+783624479,yinsel/ShellcodeCryptor,cryptopp/cryptest.nmake,9c21a297a3b3c712cf2535390796d2e285c134dd,CVE-2016-7420
+783624479,yinsel/ShellcodeCryptor,include/gfpcrypt.h,bcb7d3776a2680ef4513933e4ebd83197ba30c08,CVE-2021-40530
+783624479,yinsel/ShellcodeCryptor,cryptopp/rw.cpp,c8ab5596d0a2aa85b890828f7d4060f230af1b69,CVE-2015-2141
+783624479,yinsel/ShellcodeCryptor,cryptopp/Readme.txt,d2d10743a96b2e3ee6567633d4af7390928a5247,CVE-2019-14318
+783624479,yinsel/ShellcodeCryptor,cryptopp/History.txt,f3b97cef57cb8e33859f9a759f4585c013f8b312,CVE-2015-2141
+783624479,yinsel/ShellcodeCryptor,cryptopp/History.txt,f3b97cef57cb8e33859f9a759f4585c013f8b312,CVE-2016-3995
+783624479,yinsel/ShellcodeCryptor,cryptopp/History.txt,f3b97cef57cb8e33859f9a759f4585c013f8b312,CVE-2016-7420
+783624479,yinsel/ShellcodeCryptor,cryptopp/History.txt,f3b97cef57cb8e33859f9a759f4585c013f8b312,CVE-2016-7544
+783624479,yinsel/ShellcodeCryptor,cryptopp/History.txt,f3b97cef57cb8e33859f9a759f4585c013f8b312,CVE-2016-9939
+783624479,yinsel/ShellcodeCryptor,cryptopp/History.txt,f3b97cef57cb8e33859f9a759f4585c013f8b312,CVE-2017-9434
+783624479,yinsel/ShellcodeCryptor,cryptopp/History.txt,f3b97cef57cb8e33859f9a759f4585c013f8b312,CVE-2019-14318

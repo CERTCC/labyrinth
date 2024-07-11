@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+476384052,GuayoyoCyber/CVE-2022-22965,vulnerable-app/target/example.war,3b531d4df5a6445443806becefcc54d06ee389a7,VU#26
+476384052,GuayoyoCyber/CVE-2022-22965,vulnerable-app/target/example.war,3b531d4df5a6445443806becefcc54d06ee389a7,VU#33
+476384052,GuayoyoCyber/CVE-2022-22965,vulnerable-app/target/example.war,3b531d4df5a6445443806becefcc54d06ee389a7,VU#51
+476384052,GuayoyoCyber/CVE-2022-22965,vulnerable-app/target/example.war,3b531d4df5a6445443806becefcc54d06ee389a7,VU#63
+476384052,GuayoyoCyber/CVE-2022-22965,detection/README.md,a8504d688a3d5e7a3cff87134f0d5d2f92310eed,CVE-2022-22965
+476384052,GuayoyoCyber/CVE-2022-22965,README.md,deec65af04201c5e6ba44952814fb73bdf3aaec1,CVE-2010-1622
+476384052,GuayoyoCyber/CVE-2022-22965,README.md,deec65af04201c5e6ba44952814fb73bdf3aaec1,CVE-2022-22963
+476384052,GuayoyoCyber/CVE-2022-22965,README.md,deec65af04201c5e6ba44952814fb73bdf3aaec1,CVE-2022-22965
+476384052,GuayoyoCyber/CVE-2022-22965,vulnerable-app/src/main/java/net/javaguides/springmvc/helloworld/controller/HelloWorldController.java,df92b6acfcf46d920590eee266b3d66025e9b9cd,CVE-2022-22965
+476384052,GuayoyoCyber/CVE-2022-22965,_GITHUB_REPO_METADATA_,,CVE-2022-22965

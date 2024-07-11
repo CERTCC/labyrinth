@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+469400735,shikari00007/Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC,README.md,51cda7cc03897700fead2415248782e2bda604c1,CVE-2022-26965
+469400735,shikari00007/Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC,exploit.py,625498c0867495706726486431fa1bb1ea84bb5f,CVE-2022-26965

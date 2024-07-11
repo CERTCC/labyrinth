@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+614760486,amr9k8/jwt-spoof-tool,README.md,f3226a5a628ad52dc5f92d8e5ec4761f56072582,CVE-2018-0114
+614760486,amr9k8/jwt-spoof-tool,_GITHUB_REPO_METADATA_,,CVE-2018-0114

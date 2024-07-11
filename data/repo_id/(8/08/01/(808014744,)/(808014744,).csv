@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+808014744,Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager,exploitPython.py,3650a70bd42cae3b116c10d8713850d6b1d3fb1a,CVE-2024-4040
+808014744,Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager,README.md,39c6a01e8e013d400e0eefdecd76090ec8b745ea,CVE-2024-4956
+808014744,Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager,_GITHUB_REPO_METADATA_,,CVE-2024-4956

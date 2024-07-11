@@ -1,3 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#667933,0.01428571,https://github.com/CERTCC/PoC-Exploits,CERTCC/PoC-Exploits,248796766
-VU#667933,0.00518135,https://github.com/Spacial/awesome-csirt,Spacial/awesome-csirt,59441906
+VU#667933,0.01408451,https://github.com/marklindsey11/exploitpoc,marklindsey11/exploitpoc,506881465
+VU#667933,0.01408451,https://github.com/CERTCC/PoC-Exploits,CERTCC/PoC-Exploits,248796766
+VU#667933,0.00558659,https://github.com/TheMirkin/CVE-List-Public-Exploits,TheMirkin/CVE-List-Public-Exploits,441476203
+VU#667933,0.00485437,https://github.com/Spacial/awesome-csirt,Spacial/awesome-csirt,59441906
+VU#667933,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386

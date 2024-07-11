@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+469529614,Gabriel712/0day-hibrido,lib/web/jquery/patches/jquery-ui.js,0aedf43211079f026e686874a973a14c760263c3,CVE-2016-7103
+469529614,Gabriel712/0day-hibrido,lib/internal/LinLibertineFont/LinLibertineC_Re-2.8.0.ttf,0ccb0666a924e7c5167256e1b0751a0427ab2098,VU#999
+469529614,Gabriel712/0day-hibrido,lib/internal/LinLibertineFont/LinLibertineC_Re-2.8.0.ttf,0ccb0666a924e7c5167256e1b0751a0427ab2098,VU#99901
+469529614,Gabriel712/0day-hibrido,lib/internal/GnuFreeFont/FreeSerif.ttf,6023b0abf77647ad1489d059678f5b7a63c78147,VU#99
+469529614,Gabriel712/0day-hibrido,lib/internal/GnuFreeFont/FreeSerif.ttf,6023b0abf77647ad1489d059678f5b7a63c78147,VU#999
+469529614,Gabriel712/0day-hibrido,lib/web/jquery/patches/jquery.js,d8a030d30ab8b2c986502de3d7b4ce0d887c5dfe,CVE-2015-9251

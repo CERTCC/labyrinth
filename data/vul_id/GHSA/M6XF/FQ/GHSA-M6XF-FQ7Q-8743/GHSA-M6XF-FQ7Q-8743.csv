@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-M6XF-FQ7Q-8743,0.01470588,https://github.com/Gnza10/TPMvulnerabilities,Gnza10/TPMvulnerabilities,822570043
+GHSA-M6XF-FQ7Q-8743,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
+GHSA-M6XF-FQ7Q-8743,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
+GHSA-M6XF-FQ7Q-8743,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-M6XF-FQ7Q-8743,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-M6XF-FQ7Q-8743,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

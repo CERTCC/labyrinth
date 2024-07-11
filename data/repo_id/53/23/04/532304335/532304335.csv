@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+532304335,oscar-rk/exploits,README.md,a14f2cf8fabe35993b630ffb7341f8334455afd7,CVE-2007-2447
+532304335,oscar-rk/exploits,CVE-2007-2447/CVE-2007-2447.sh,df0c3617db26556fa3bae33c9c703a1a495b3c03,CVE-2007-2447

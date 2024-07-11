@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-C5GX-789Q-5PCR,0.50000000,https://github.com/allendemoura/CVE-2022-35914,allendemoura/CVE-2022-35914,791130439
+GHSA-C5GX-789Q-5PCR,0.50000000,https://github.com/cosad3s/CVE-2022-35914-poc,cosad3s/CVE-2022-35914-poc,543696649

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+565951989,mega8bit/exploit_cve-2021-29447,Makefile,46437994e10f1dd6337cedc42f1e3a70c87dabe6,CVE-2021-29447
+565951989,mega8bit/exploit_cve-2021-29447,README.md,5e10925e7d8e3ad3f06003875d219e70b5dc6d18,CVE-2021-29447
+565951989,mega8bit/exploit_cve-2021-29447,go.mod,6d599dd9e10cda20f299e334dbb67ea296f40830,CVE-2021-29447
+565951989,mega8bit/exploit_cve-2021-29447,_GITHUB_REPO_METADATA_,,CVE-2021-29447

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+774063688,meganukebmp/PegaScale,assets/exploit/minmain_5.0.0-6.0.1.js,b72ab84bd4b5df93c53affcc553179f2ed33d4bd,CVE-2016-4622

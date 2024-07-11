@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+793705171,xcodepyx/Firefox-PDF.js-Privileged-Javascript-Injection-Exploit,script,60051171b223dbf66d069e3fe6c9616682755144,CVE-2015-0802
+793705171,xcodepyx/Firefox-PDF.js-Privileged-Javascript-Injection-Exploit,script,60051171b223dbf66d069e3fe6c9616682755144,CVE-2015-0816

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+462124410,mtthwstffrd/dirkjanm-CVE-2020-1472,README.md,4cc4388a453d2a6b601563ac6f2d452550a364dc,CVE-2020-1472
+462124410,mtthwstffrd/dirkjanm-CVE-2020-1472,cve-2020-1472-exploit.py,6bdac6ffbbd4a1192248085c78638b35f572d14b,CVE-2020-1472
+462124410,mtthwstffrd/dirkjanm-CVE-2020-1472,_GITHUB_REPO_METADATA_,,CVE-2020-1472

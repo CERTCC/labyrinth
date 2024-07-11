@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+802848040,iwallarm/cve-2024-3400,CNAME,5faf5a5852fb1b4ae0d701c66e2a35e503777090,CVE-2024-3400
+802848040,iwallarm/cve-2024-3400,_GITHUB_REPO_METADATA_,,CVE-2024-3400

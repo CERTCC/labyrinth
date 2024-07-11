@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+803762828,Roronoawjd/CVEs,activemq/CVE-2016-3088/POC.py,0fe08b4aeda7a4dcda929bb452bb1290e4dc104c,CVE-2016-3088
+803762828,Roronoawjd/CVEs,git/CVE-2024-32002/README.md,1de3c2d0ac687b82c230d6688ee546bbc2105a14,CVE-2024-32002
+803762828,Roronoawjd/CVEs,git/CVE-2024-32002/poc.sh,58901f3aa5f7a6142ae7ec71ac44f52b305fbdf9,CVE-2024-32002
+803762828,Roronoawjd/CVEs,activemq/CVE-2016-3088/README.md,61607b5b9ca38a36ede251b11fd34d397820496b,CVE-2016-3088
+803762828,Roronoawjd/CVEs,activemq/CVE-2016-3088/docker-compose.yml,b1e7556470b3134598a2fe172fdfa4f2597d2bdb,CVE-2016-3088
+803762828,Roronoawjd/CVEs,activemq/CVE-2016-3088/webshell.jsp,cb023eb13ccb76ab2130ccf58960b8a41ea1019c,CVE-2016-3088
+803762828,Roronoawjd/CVEs,activemq/CVE-2016-3088/docker.sh,ef7afa5e97a47e83812c55aed3dcef842baad007,CVE-2016-3088

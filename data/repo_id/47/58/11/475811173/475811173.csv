@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+475811173,pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,media/libstagefright/exports.lds,cb4a2424acb0d666340d1257714f0c59e70a2447,VU#601
+475811173,pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,media/libstagefright/exports.lds,cb4a2424acb0d666340d1257714f0c59e70a2447,VU#709
+475811173,pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,cmds/stagefright/recordvideo.cpp,cd39e53b60f44943829a35d5c4eb0d6b43f4ed4e,VU#420
+475811173,pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,media/libstagefright/colorconversion/ColorConverter.cpp,f527652dce7aab2598a5b6700afc5813288ba7dd,VU#420
+475811173,pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,_GITHUB_REPO_METADATA_,,CVE-2020-0242
+475811173,pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,_GITHUB_REPO_METADATA_,,CVE-2020-0243

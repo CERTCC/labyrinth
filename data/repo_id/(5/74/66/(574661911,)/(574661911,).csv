@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+574661911,Azad-02/Privilege-Escalation-for-LINUX-and-WINDOWS-Binaries,Linux PrivEsc/SUID or SGID Executables - Known Exploits,59e5e8493d1402523acd569fca717aa87a299aec,CVE-2016-1531

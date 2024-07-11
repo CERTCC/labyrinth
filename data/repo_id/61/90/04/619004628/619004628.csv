@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+619004628,mandsala/Exploiting-Old-Wordpress,writeup.md,d7642d33da0380f0b4fe791460a2a2a50774438c,CVE-2015-3440
+619004628,mandsala/Exploiting-Old-Wordpress,writeup.md,d7642d33da0380f0b4fe791460a2a2a50774438c,CVE-2015-5622
+619004628,mandsala/Exploiting-Old-Wordpress,writeup.md,d7642d33da0380f0b4fe791460a2a2a50774438c,CVE-2016-4566

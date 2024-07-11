@@ -1,0 +1,9 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-6R43-Q2FW-5WRG,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+GHSA-6R43-Q2FW-5WRG,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-6R43-Q2FW-5WRG,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
+GHSA-6R43-Q2FW-5WRG,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+GHSA-6R43-Q2FW-5WRG,0.00000929,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+GHSA-6R43-Q2FW-5WRG,0.00000928,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-6R43-Q2FW-5WRG,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-6R43-Q2FW-5WRG,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

@@ -1,3 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-24456,0.00833333,https://github.com/ZielinskiNorbert/Metasploitable,ZielinskiNorbert/Metasploitable,818732446
 BID-24456,0.00427350,https://github.com/bdvazquez17/P2_SSI_metasploit,bdvazquez17/P2_SSI_metasploit,329994289
 BID-24456,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+BID-24456,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-24456,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-24456,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

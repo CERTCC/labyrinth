@@ -1,2 +1,15 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#1710,0.00004655,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+VU#1710,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
+VU#1710,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
+VU#1710,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
+VU#1710,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+VU#1710,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
+VU#1710,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
+VU#1710,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
+VU#1710,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
+VU#1710,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,757653051
+VU#1710,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
+VU#1710,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
+VU#1710,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+VU#1710,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+VU#1710,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580

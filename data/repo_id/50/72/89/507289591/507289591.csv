@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+507289591,tijme/kernel-mii,KernelMii.c,04daa2d519bd2f434962b34ddad5949b27b3b43d,CVE-2021-21551
+507289591,tijme/kernel-mii,README.md,242c1fd0ca59b63e140a886e0de7012253564ffd,CVE-2021-21551
+507289591,tijme/kernel-mii,_GITHUB_REPO_METADATA_,,CVE-2021-21551

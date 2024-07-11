@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-276162062,whitehauler/HackingExploits,Polkit-exploit.c,71f134f21ed01071ff90c18155f8d28e736e09ac,CVE-2021-4034
+276162062,whitehauler/HackingExploits,Polkit-exploit.c,0333fac93f9296331f6eaacd605e0cc107ac787a,CVE-2021-4034

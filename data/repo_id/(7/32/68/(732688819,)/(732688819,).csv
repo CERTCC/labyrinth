@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+732688819,dwisiswant0/cve-2023-50164-poc,internal/pkg/payload/build.go,516d817f966a470ab17d968304dff42662ea0aa6,CVE-2023-50164
+732688819,dwisiswant0/cve-2023-50164-poc,main.go,66e0fe47669eff690fb56a4974762356da80c332,CVE-2023-50164
+732688819,dwisiswant0/cve-2023-50164-poc,README.txt,8cacc38e21812d57a836599d2ef4693d4eefab3a,CVE-2023-50164
+732688819,dwisiswant0/cve-2023-50164-poc,internal/pkg/war/war.go,b5472ce320627f4f8df2536a78b0a0a5ba5c9d84,CVE-2023-50164
+732688819,dwisiswant0/cve-2023-50164-poc,utils.go,c45a06e2e636643d18891613aeec3ff49422f855,CVE-2023-50164
+732688819,dwisiswant0/cve-2023-50164-poc,vars.go,c8950207fde010bece94376239c1f8b88a9ed16a,CVE-2023-50164
+732688819,dwisiswant0/cve-2023-50164-poc,go.mod,f79aca4339bead9e58c6eedf6f4d0f2efef6d454,CVE-2023-50164
+732688819,dwisiswant0/cve-2023-50164-poc,_GITHUB_REPO_METADATA_,,CVE-2023-50164

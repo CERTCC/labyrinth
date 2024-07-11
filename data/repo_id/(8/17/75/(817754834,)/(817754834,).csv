@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+817754834,junnythemarksman/CVE-2024-24590,exploit.py,95e7f38f7782f1bddacb11a302ac34e499d768ac,CVE-2024-24590
+817754834,junnythemarksman/CVE-2024-24590,README.md,f80c1e061415dc3649f261678ddefa267e34942f,CVE-2024-24590
+817754834,junnythemarksman/CVE-2024-24590,_GITHUB_REPO_METADATA_,,CVE-2024-24590

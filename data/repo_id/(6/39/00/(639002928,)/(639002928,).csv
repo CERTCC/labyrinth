@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+639002928,pnasis/exploits,README.md,067e2172a0f25de5f8bb79c6233d572de78fd5fc,CVE-2015-1328
+639002928,pnasis/exploits,37292.c,428a7235e008286beacd7e6799e99ac1dafe6590,CVE-2015-1328

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+683915301,Mehdi0x90/Red-Team,FTP > Path Traversal > CVE.md,b3aabfc1c63491021f2100281ef80d8ee0d5f4f5,CVE-2019-2085

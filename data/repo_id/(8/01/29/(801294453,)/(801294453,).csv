@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+801294453,absholi7ly/Apache-OFBiz-Directory-Traversal-exploit,README.md,c2cdac4ab7ea336273ddd80fa3bd990ae35c3c5b,CVE-2024-32113

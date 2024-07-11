@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+583450449,aethercot/TrollMods,TrollMods/vm_unaligned_copy_switch_race.h,c2a7bf0528af6d3aadfb19f4d3d4d4be25102e30,CVE-2022-46689

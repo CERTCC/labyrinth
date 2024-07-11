@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+661394666,mxdelta/MetaSploit,README.md,05f256d933b79bee873bcc7a9b7da75a0e76e91c,MS16-014
+661394666,mxdelta/MetaSploit,README.md,05f256d933b79bee873bcc7a9b7da75a0e76e91c,MS17-010

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+559996806,Ramixter/metasploit1,metasploit1/yarn.lock,dcfe7ffc4304d0da858a47290c4607db5244f341,VU#18
+559996806,Ramixter/metasploit1,metasploit1/yarn.lock,dcfe7ffc4304d0da858a47290c4607db5244f341,VU#62
+559996806,Ramixter/metasploit1,metasploit1/yarn.lock,dcfe7ffc4304d0da858a47290c4607db5244f341,VU#67
+559996806,Ramixter/metasploit1,metasploit1/yarn.lock,dcfe7ffc4304d0da858a47290c4607db5244f341,VU#85

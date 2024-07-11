@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-WXFH-8HRR-VFJW,0.50000000,https://github.com/0x9567b/CVE-2024-0844,0x9567b/CVE-2024-0844,737576469

@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-69H9-669W-88XV,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-44758,Live-Hack-CVE/CVE-2021-44758,582570820
+GHSA-69H9-669W-88XV,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-69H9-669W-88XV,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

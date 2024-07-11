@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+483733541,hariomenkel/CobaltSploit,README.md,97a4ab299b630d343d430b297e198d1842b59402,CVE-2021-36798
+483733541,hariomenkel/CobaltSploit,_GITHUB_REPO_METADATA_,,CVE-2021-36798

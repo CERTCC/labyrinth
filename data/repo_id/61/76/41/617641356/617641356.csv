@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+617641356,notareaperbutDR34P3r/vuln-CVE-2022-41082,README.md,29ce58c047fed9100524092119f6b3aa874a989f,CVE-2022-41082
+617641356,notareaperbutDR34P3r/vuln-CVE-2022-41082,exchange-vuln-check.nse,4e2eb94589073ac9f0fc01e58eb687c2c14a9640,CVE-2022-41040
+617641356,notareaperbutDR34P3r/vuln-CVE-2022-41082,exchange-vuln-check.nse,4e2eb94589073ac9f0fc01e58eb687c2c14a9640,CVE-2022-41082
+617641356,notareaperbutDR34P3r/vuln-CVE-2022-41082,_GITHUB_REPO_METADATA_,,CVE-2022-41082

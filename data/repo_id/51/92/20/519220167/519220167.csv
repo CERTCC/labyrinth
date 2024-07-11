@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+519220167,fazaroot/cve-2021-pwnkit,cve-2021-4034.c,dd1674bb5ef8fb2114be093f11c2a8674fc66fe5,CVE-2021-4034
+519220167,fazaroot/cve-2021-pwnkit,cve-2021-4034.sh,e5dd21cf5cc0022b947aeb9110b17dd793aa383f,CVE-2021-4034
+519220167,fazaroot/cve-2021-pwnkit,README.md,ec3ec3bcb17a12c39870b61a2348c2c5c49d4113,CVE-2021-4034

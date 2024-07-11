@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+467257098,carlosevieira/Dirty-Pipe,README.md,852da4f4c6d4d0cd3e2ebf1df744df9bd29487ec,CVE-2022-0847
+467257098,carlosevieira/Dirty-Pipe,_GITHUB_REPO_METADATA_,,CVE-2022-0847

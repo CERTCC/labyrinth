@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+500690189,Legoclones/pentesting-osTicket,cves/CVE-2020-24881/README.md,013fd8659d9a846367d7997219c40e5f05829729,CVE-2020-24881
+500690189,Legoclones/pentesting-osTicket,README.md,0bd4f0b89dd28c9a779e29e986d70fd7140a70b4,CVE-2019-14748
+500690189,Legoclones/pentesting-osTicket,README.md,0bd4f0b89dd28c9a779e29e986d70fd7140a70b4,CVE-2019-14749
+500690189,Legoclones/pentesting-osTicket,README.md,0bd4f0b89dd28c9a779e29e986d70fd7140a70b4,CVE-2019-14750
+500690189,Legoclones/pentesting-osTicket,README.md,0bd4f0b89dd28c9a779e29e986d70fd7140a70b4,CVE-2020-16193
+500690189,Legoclones/pentesting-osTicket,README.md,0bd4f0b89dd28c9a779e29e986d70fd7140a70b4,CVE-2020-24881
+500690189,Legoclones/pentesting-osTicket,README.md,0bd4f0b89dd28c9a779e29e986d70fd7140a70b4,CVE-2020-24917
+500690189,Legoclones/pentesting-osTicket,cves/CVE-2019-14749/README.md,3ffb92b85ce6be1c52e1605d0394261a1d4ee1bb,CVE-2019-14749
+500690189,Legoclones/pentesting-osTicket,cves/CVE-2019-14748/sample_payload.html,62e2bd123b8717bda55826d645e76b4a9ec78d27,CVE-2019-14748
+500690189,Legoclones/pentesting-osTicket,cves/CVE-2019-14748/README.md,e9b09c9664506986afd26c5199e6d3032b935267,CVE-2019-14748
+500690189,Legoclones/pentesting-osTicket,cves/CVE-2020-24881/osticketRF.py,f19fcff4e90efbc88567f41fb60072b6fa1ceef3,CVE-2020-24881
+500690189,Legoclones/pentesting-osTicket,cves/CVE-2020-16193/README.md,f26a44ee61240c23d9c39ab64f2f61e52458524b,CVE-2020-16193
+500690189,Legoclones/pentesting-osTicket,cves/CVE-2019-14750/README.md,ffd1b9ee8dc9562bd09ad41624a1cf1ba8c2cf0d,CVE-2019-14750

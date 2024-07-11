@@ -1,3 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-200902943,AmitNiz/exploits,README.md,6381ab7444d54d461fcbcd756570b510f02f71c4,CVE-2020-0601
-200902943,AmitNiz/exploits,windows/CVE-2020-0601.md,f7b9eaa879feba585b2be7590df96f7eadec9315,CVE-2020-0601
+200902943,AmitNiz/exploits,README.md,ef5e774d4c558e6f3d7430b10b03e55b04fd1b1e,CVE-2022-30190

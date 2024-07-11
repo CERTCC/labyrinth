@@ -1,2 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#2332,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
+VU#2332,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
+VU#2332,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
+VU#2332,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
+VU#2332,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304

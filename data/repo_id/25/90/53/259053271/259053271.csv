@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+259053271,hktalent/CreateOneMinJar,README.md,2c9ea13cf558933b55a4d4e09ce233b4b2b3f813,CVE-2020-2551
+259053271,hktalent/CreateOneMinJar,src/com/_51pwn/hktalent/CreatJar.java,54522716f73a63900b1e54ad1d1b64b12c689c43,CVE-2020-2551

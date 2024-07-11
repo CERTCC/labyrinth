@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-GMPJ-5XCM-XXX6,0.50000000,https://github.com/killerbees19/CVE-2024-24760,killerbees19/CVE-2024-24760,766707015
+GHSA-GMPJ-5XCM-XXX6,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

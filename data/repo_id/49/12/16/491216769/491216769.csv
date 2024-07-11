@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+491216769,thenurhabib/s4sScanner,plugins/banner.py,8024d052e75286876d78cc97e1e71718bf9a2be0,CVE-2022-22965
+491216769,thenurhabib/s4sScanner,plugins/__pycache__/banner.cpython-310.pyc,a12c66aab0f9f514afee2f31b8ffab97cee0e253,CVE-2022-22965
+491216769,thenurhabib/s4sScanner,s4sscanner.py,c5c14b7a44e715b0444f287fb797bbe8d2932de4,CVE-2022-22963
+491216769,thenurhabib/s4sScanner,s4sscanner.py,c5c14b7a44e715b0444f287fb797bbe8d2932de4,CVE-2022-22965
+491216769,thenurhabib/s4sScanner,README.md,d2a742f214be3e71d9f598d392f78b998c6967f2,CVE-2022-22963
+491216769,thenurhabib/s4sScanner,README.md,d2a742f214be3e71d9f598d392f78b998c6967f2,CVE-2022-22965
+491216769,thenurhabib/s4sScanner,plugins/__pycache__/banner.cpython-39.pyc,fe3a53204c88473209392377016064b3ed2f7abd,CVE-2022-22965

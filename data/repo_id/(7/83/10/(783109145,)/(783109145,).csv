@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+783109145,paulogmota/phpmailer-5.2.20-RCE,README.md,295202b1ca390c0ee2749e3989187a6762eff1dd,CVE-2016-10033
+783109145,paulogmota/phpmailer-5.2.20-RCE,phpmailer-exploit.py,e44bb567eb7bec438582a5b8e47de59716fdf71e,CVE-2016-10033
+783109145,paulogmota/phpmailer-5.2.20-RCE,phpmailer-exploit.py,e44bb567eb7bec438582a5b8e47de59716fdf71e,CVE-2016-10045

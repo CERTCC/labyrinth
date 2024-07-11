@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+417624508,whokilleddb/Konga-Privilege-Escalation-Exploit,README.md,3a1b48d833fa42e83698e6c1692eadec35478be8,CVE-2021-42192

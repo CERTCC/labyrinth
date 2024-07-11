@@ -1,1 +1,6 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+415181811,mrojz/rconfig-exploit,README.md,02083e2c571c5891013ca8ae85c319902745d59c,CVE-2021-29004
+415181811,mrojz/rconfig-exploit,CVE-2021-29006-POC.py,6574424f9deb16ddf02cc9b5b65470cd180249db,CVE-2021-29006
+415181811,mrojz/rconfig-exploit,CVE-2021-29005-POC.sh,75f5c0887ca384823b28b94e1b7e78c743b37d2e,CVE-2021-29005
+415181811,mrojz/rconfig-exploit,CVE-2023-24366.md,8f4b3115139e07ec8724cfce79500c0c3993f0fe,CVE-2023-24366
+415181811,mrojz/rconfig-exploit,CVE-2021-29004-POC-req.txt,de1a777a83a19abbdf6dae595da8b8aaec4651a8,CVE-2021-29004

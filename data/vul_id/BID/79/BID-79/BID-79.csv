@@ -1,7 +1,12 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-79,0.25000000,https://github.com/wj158/snowwolf-script,wj158/snowwolf-script,166152754
 BID-79,0.05555556,https://github.com/Henrique-Miranda/thg-framework,Henrique-Miranda/thg-framework,163638862
+BID-79,0.02500000,https://github.com/0x0d3ad/Kn0ck,0x0d3ad/Kn0ck,200534665
+BID-79,0.01666667,https://github.com/Wonstck/Wonstck-Vun,Wonstck/Wonstck-Vun,723727758
 BID-79,0.01666667,https://github.com/3xploit-db/Pentest-Tools-Framework,3xploit-db/Pentest-Tools-Framework,238840128
 BID-79,0.01666667,https://github.com/pikpikcu/Pentest-Tools-Framework,pikpikcu/Pentest-Tools-Framework,235234345
 BID-79,0.00588235,https://github.com/s0wr0b1ndef/Active-Directory-Exploitation-,s0wr0b1ndef/Active-Directory-Exploitation-,293183436
 BID-79,0.00588235,https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet,Integration-IT/Active-Directory-Exploitation-Cheat-Sheet,267698986
+BID-79,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
+BID-79,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
+BID-79,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248

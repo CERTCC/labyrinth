@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+803083933,synfosec/pk,conf_files/sploiter/vendor/report.html,aa0408d99516a28f8fdd5e589412f6ad9a0e5f60,CVE-2012-1036

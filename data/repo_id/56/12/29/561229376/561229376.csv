@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+561229376,SpindleSec/cve-2022-31692,src/main/resources/templates/index.html,0e39d7ab0c4d10e0620861de3d1a0fc64cc2aec3,CVE-2022-31692
+561229376,SpindleSec/cve-2022-31692,README.md,d019d5e7279be1f42fcedc5f77f1464a93d153a2,CVE-2022-31692
+561229376,SpindleSec/cve-2022-31692,pom.xml,db70df9c893956393056884a64d2ebc74bb4701d,CVE-2022-31692
+561229376,SpindleSec/cve-2022-31692,_GITHUB_REPO_METADATA_,,CVE-2022-31692

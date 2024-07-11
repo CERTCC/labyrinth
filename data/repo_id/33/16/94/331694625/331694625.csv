@@ -1,3 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-331694625,nola-milkin/poc_exploits,CVE-2021-3199/poc_uploadImageFile.py,d2d1c4039229389ee869b6edbf0817422fa5e6b4,CVE-2021-3199
-331694625,nola-milkin/poc_exploits,CVE-2021-3199/readme.txt,fa43b1a384afa32ceb37042a41c81d7376c223b6,CVE-2021-3199
+331694625,moehw/poc_exploits,CVE-2022-29777/readme.md,1f7306c6de2f55a1c35836b86c6bda750b9762e6,CVE-2022-29777
+331694625,moehw/poc_exploits,CVE-2022-29776/readme.md,673462fe694f66bbb2034a0608bbe3e955a8a762,CVE-2022-29776
+331694625,moehw/poc_exploits,CVE-2021-3199/poc_uploadImageFile.py,d2d1c4039229389ee869b6edbf0817422fa5e6b4,CVE-2021-3199
+331694625,moehw/poc_exploits,README.md,ece291968583dd0400a642a7d7e53bc8eeb6cc4b,CVE-2021-3199
+331694625,moehw/poc_exploits,README.md,ece291968583dd0400a642a7d7e53bc8eeb6cc4b,CVE-2022-29776
+331694625,moehw/poc_exploits,README.md,ece291968583dd0400a642a7d7e53bc8eeb6cc4b,CVE-2022-29777
+331694625,moehw/poc_exploits,CVE-2021-3199/readme.txt,fa43b1a384afa32ceb37042a41c81d7376c223b6,CVE-2021-3199

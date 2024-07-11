@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+476094464,reznok/Spring4Shell-POC,README.md,ebe2e8e2addb141170dbdb82b0a7564a5b87e594,CVE-2022-22965
+476094464,reznok/Spring4Shell-POC,_GITHUB_REPO_METADATA_,,CVE-2022-22965

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+484575423,gpiechnik2/nmap-CVE-2022-29464,nmap-CVE-2022-29464.nse,35cd937fa74dcc8e589e5dfd3964fb9afdbc595c,CVE-2022-29464
+484575423,gpiechnik2/nmap-CVE-2022-29464,README.md,c0b1a96a987f79fae618b0719bc6cbddbf5fa0ac,CVE-2022-29464
+484575423,gpiechnik2/nmap-CVE-2022-29464,_GITHUB_REPO_METADATA_,,CVE-2022-29464

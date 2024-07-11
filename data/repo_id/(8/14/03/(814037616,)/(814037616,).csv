@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+814037616,jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE,detect.py,1e75389aa4aec54302c214aeff347818bdfade2d,CVE-2024-27348
+814037616,jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE,README.md,9b8498e87421cad1c82148a3a6ffafa985bf5536,CVE-2024-27348
+814037616,jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE,exploit.py,f1b37eb469f8acf89a566884b026450a91822eba,CVE-2024-27348
+814037616,jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE,_GITHUB_REPO_METADATA_,,CVE-2024-27348

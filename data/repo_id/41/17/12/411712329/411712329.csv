@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+411712329,scy-phy/OPC-UA-attacks-POC,Framework/rogueclient/key.pem,258dcfcb38365df026962b1d01dace9db5895427,VU#49
+411712329,scy-phy/OPC-UA-attacks-POC,Framework/rogueclient/certificate.pem,b5aac03cbe9148e74326040f239ed5c86a9244f6,VU#99

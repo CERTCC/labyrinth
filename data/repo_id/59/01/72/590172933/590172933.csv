@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+590172933,bryanster/ioc-cve-2022-42475,README.md,0aa1d1dba4e00b13eb8967230ef4b778be0a47b0,CVE-2022-42475
+590172933,bryanster/ioc-cve-2022-42475,Cargo.toml,25a6b47d9e0c9036023489e3920320b9cf3bdada,CVE-2022-42475
+590172933,bryanster/ioc-cve-2022-42475,Cargo.lock,2999ac147bfcf08e4bfd61bfba120027a14cb793,CVE-2022-42475
+590172933,bryanster/ioc-cve-2022-42475,_GITHUB_REPO_METADATA_,,CVE-2022-42475

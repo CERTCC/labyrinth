@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+767217611,Chocapikk/CVE-2024-27198,exploit.py,a70e711073b7ca662efa7c62410e1fb11abacea3,CVE-2024-27198
+767217611,Chocapikk/CVE-2024-27198,_GITHUB_REPO_METADATA_,,CVE-2024-27198

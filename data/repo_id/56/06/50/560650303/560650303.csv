@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+560650303,susMdT/Indirect-Syscall-Shellcode-Loader,Jit Tripping/obj/x64/Release/Jit Tripping.exe,4156fdcd73e99ca542f89695dd3538ee2ad4d83a,VU#95

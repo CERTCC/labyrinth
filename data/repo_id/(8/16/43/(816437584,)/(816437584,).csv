@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+816437584,MaiWittawat/RCE,server/node_modules/mquery/History.md,467a6091e535892efeeb507f8d58eb1e55451270,CVE-2020-35149
+816437584,MaiWittawat/RCE,server/node_modules/mysql2/lib/constants/ssl_profiles.js,9ab182e2a08a96fe6d7affe2c679f842d2063cfc,VU#243
+816437584,MaiWittawat/RCE,server/node_modules/mysql2/lib/constants/ssl_profiles.js,9ab182e2a08a96fe6d7affe2c679f842d2063cfc,VU#48
+816437584,MaiWittawat/RCE,server/node_modules/mysql2/lib/constants/ssl_profiles.js,9ab182e2a08a96fe6d7affe2c679f842d2063cfc,VU#93
+816437584,MaiWittawat/RCE,server/node_modules/nodemailer/CHANGELOG.md,f0001e5603f03aa7be4ea0ba79522cdab29d5796,GHSA-9H6G-PR28-7CQP

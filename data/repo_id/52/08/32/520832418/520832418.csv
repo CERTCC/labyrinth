@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+520832418,aweiiy/CVE-2021-43617,Exploit/exploit.py,2ed3d2c7e24cf5bd008aae43bd5f104742032e5e,CVE-2021-43617
+520832418,aweiiy/CVE-2021-43617,Product/Laravel 8.70.1.zip,7804ffbef835851ec1088a9fa579b8338f99ca6e,VU#39
+520832418,aweiiy/CVE-2021-43617,Product/Laravel 8.70.1.zip,7804ffbef835851ec1088a9fa579b8338f99ca6e,VU#71
+520832418,aweiiy/CVE-2021-43617,_GITHUB_REPO_METADATA_,,CVE-2021-43617

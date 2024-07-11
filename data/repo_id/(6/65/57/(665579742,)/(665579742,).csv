@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+665579742,Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline,CVE-2023-36884-Remediate.ps1,e6328feb183880fb5c19dd01ef983e2291a68836,CVE-2023-36884
+665579742,Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline,CVE-2023-36884-Detect.ps1,f04a4de33bffa491c3fc59885dc84b9b1cbe23bd,CVE-2023-36884
+665579742,Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline,_GITHUB_REPO_METADATA_,,CVE-2023-36884

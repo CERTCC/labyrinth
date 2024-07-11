@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+579721528,MatteoCarlone/Patrol_Robot,docs/_static/css/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+579721528,MatteoCarlone/Patrol_Robot,docs/_static/css/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+579721528,MatteoCarlone/Patrol_Robot,docs/_static/underscore-1.13.1.js,7202bc60a439a2f82a483f4de237ce22803ef8e2,CVE-2021-23358
+579721528,MatteoCarlone/Patrol_Robot,docs/_static/css/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96

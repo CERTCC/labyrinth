@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+536020981,jdr2021/ApacheSolrRCE,README.md,5f7cdecdf08dfa5014cc96a6088d16d85962fa94,CVE-2019-0193
+536020981,jdr2021/ApacheSolrRCE,src/main/java/org/example/main/main.java,72a19e78dbc9d5dc51313d528994a996fff44450,CVE-2019-0193
+536020981,jdr2021/ApacheSolrRCE,src/main/java/org/example/exp/CVE_2019_0193.java,8d2ad83decf202ae2b15f33ecae3a7593c9f4c33,CVE-2019-0193
+536020981,jdr2021/ApacheSolrRCE,src/main/java/org/example/main/mainController.java,c1924d7fabc08b9ca8eb07b8b81050718bdb4624,CVE-2019-0193
+536020981,jdr2021/ApacheSolrRCE,_GITHUB_REPO_METADATA_,,CVE-2019-0193

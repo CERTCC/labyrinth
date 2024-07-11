@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+603452463,hieunguyentr92/nf_tables_lpe,ZDI-22-1118/exploit.c,212a2ec1750b480e2d8450a519cad0c45c2cda94,ZDI-22-1118
+603452463,hieunguyentr92/nf_tables_lpe,ZDI-22-1118/README.md,975704984bc97cc3ef87d7544c372d978ba851ec,CVE-2022-2078
+603452463,hieunguyentr92/nf_tables_lpe,ZDI-22-1118/README.md,975704984bc97cc3ef87d7544c372d978ba851ec,CVE-2022-2586
+603452463,hieunguyentr92/nf_tables_lpe,ZDI-22-1118/README.md,975704984bc97cc3ef87d7544c372d978ba851ec,ZDI-22-1118

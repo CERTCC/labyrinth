@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+823593765,harshinsecurity/sentinelssh,cmd/sentinelssh/main.go,6964e221abac67adcc7ccdb4385b43ba12e0ad7c,CVE-2024-6387
+823593765,harshinsecurity/sentinelssh,README.md,cdf75c0f61a6d20249c9380fc898189236d4728a,CVE-2024-6387
+823593765,harshinsecurity/sentinelssh,_GITHUB_REPO_METADATA_,,CVE-2024-6387

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+719506124,GolotaRoman91/exploit_for_THM_Simple_CTF,exploit.py,ddcb64d043da1dd3108b8134378d19c8e4e6459a,CVE-2019-9053

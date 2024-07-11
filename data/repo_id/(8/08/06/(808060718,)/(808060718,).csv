@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+808060718,Cappricio-Securities/CVE-2000-0114,cve20000114/utils/const.py,0f7177cf8db13fd28274f0eebb35a5bd6236f47a,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,README.md,247ca7afac544a55f8c00652fb3a926ed17c6a22,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,cve20000114/utils/configure.py,49c5bd550a63f60bdc152667e3abeba0c8b65c35,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,setup.py,8c71c8fe0c7c358429269124332387e438e38b2e,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,cve20000114/includes/writefile.py,91dc3b4c199de81bad56a912cd81f858da59a471,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,cve20000114/includes/bot.py,a979a92b056c78c43b7c7915bc0ee7886515048d,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,cve20000114/utils/helpers.py,b6e69fa2907fc268c4a2a669660c4228362a0600,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,cve20000114/main.py,ca4e4d11a8be457e56e3429da51e1ff477e021dc,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,cve20000114/includes/scan.py,cdea7524ad9c2f53483f5d2bb7ef1d29ceecd7fe,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,cve20000114/includes/filereader.py,ecfc8972269c77de28be0f97c8dc051936d95b1a,CVE-2000-0114
+808060718,Cappricio-Securities/CVE-2000-0114,_GITHUB_REPO_METADATA_,,CVE-2000-0114

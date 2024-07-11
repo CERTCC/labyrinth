@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+797754300,rweijnen/ivanti-automationmanager-exploit,README.md,4adf307a6b9d2df0b381611fb0b43a06d2b12a1a,CVE-2022-44569
+797754300,rweijnen/ivanti-automationmanager-exploit,CVE-2022-44569.ps1,e063e9104080e1263b15623cecaae93092b1e9fa,CVE-2022-44569
+797754300,rweijnen/ivanti-automationmanager-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-44569

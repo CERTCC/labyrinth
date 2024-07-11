@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+494353562,reigenatk/vuln-driver,README.md,e276714cea8bbc46570bc05d3f5474fee05e1019,CVE-2020-15368
+494353562,reigenatk/vuln-driver,exploit/Ntdll.h,ed7ea7d252d71fa81fa1bbf04f9604491905e7d1,CVE-2017-5715

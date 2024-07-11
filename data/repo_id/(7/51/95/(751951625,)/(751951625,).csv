@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+751951625,franciscogneto/Windows-2016-Server-Remote-Code-Execution-MS17-010,README.md,08ae08c57a97756576b0d1da8e60a680d35a7624,MS17-010
+751951625,franciscogneto/Windows-2016-Server-Remote-Code-Execution-MS17-010,mysmb.py,9986a6fb9217a1477294e3052ea6d1fda6f7f96b,MS17-010
+751951625,franciscogneto/Windows-2016-Server-Remote-Code-Execution-MS17-010,exploit.py,c797f00c8a7cb5c9c096ef7620fd1c3130fec4c8,MS17-010
+751951625,franciscogneto/Windows-2016-Server-Remote-Code-Execution-MS17-010,_GITHUB_REPO_METADATA_,,MS17-010

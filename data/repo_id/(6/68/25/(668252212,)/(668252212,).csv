@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+668252212,j-4ck/PluckCMS,readme.md,5c42798bc2f33adcfc6547eb51e9894480b1ef4c,CVE-2022-26965
+668252212,j-4ck/PluckCMS,fullPluckStager.py,becff0da1bca66ffe5edf1bcb572bdb1f9dad928,CVE-2022-26965

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+713221221,superswan/CamMander,README.md,17b3977daf51e2770a1b75a27e557462e7e845ea,CVE-2013-1599
+713221221,superswan/CamMander,cammander.py,c7eb97b81f67811095c7d81c60b35d6a87fd8a0a,CVE-2013-1599

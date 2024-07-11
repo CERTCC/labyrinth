@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-PW56-C55X-CM9M,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
+GHSA-PW56-C55X-CM9M,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

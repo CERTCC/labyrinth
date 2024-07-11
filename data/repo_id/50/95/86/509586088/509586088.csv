@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-Mimikatz.ps1,46116c458545c772f5dd312e0fc18e69bef46c80,VU#40
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-Mimikatz.ps1,46116c458545c772f5dd312e0fc18e69bef46c80,VU#50
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-Mimikatz.ps1,46116c458545c772f5dd312e0fc18e69bef46c80,VU#63
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-Mimikatz.ps1,46116c458545c772f5dd312e0fc18e69bef46c80,VU#66
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-Mimikatz.ps1,46116c458545c772f5dd312e0fc18e69bef46c80,VU#94
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-CredentialInjection.ps1,74f7581c62d97f4b474e52ffee87236ce6184340,VU#00
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-CredentialInjection.ps1,74f7581c62d97f4b474e52ffee87236ce6184340,VU#25
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-CredentialInjection.ps1,74f7581c62d97f4b474e52ffee87236ce6184340,VU#29
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-NinjaCopy.ps1,e9d0ae3b5fda9a5ff9a299c83ff7442eecd8b760,VU#25
+509586088,sukaneka/PowerSploit,Exfiltration/Invoke-NinjaCopy.ps1,e9d0ae3b5fda9a5ff9a299c83ff7442eecd8b760,VU#37

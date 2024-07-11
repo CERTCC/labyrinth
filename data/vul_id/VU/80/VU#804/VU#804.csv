@@ -1,4 +1,12 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#804,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#804,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
+VU#804,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
+VU#804,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#804,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#804,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#804,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
+VU#804,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
+VU#804,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#804,0.00164204,https://github.com/LLMCI/LLM_Command_Injection,LLMCI/LLM_Command_Injection,809102376
+VU#804,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#804,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

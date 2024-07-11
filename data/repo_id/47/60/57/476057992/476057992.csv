@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+476057992,west-wind/Spring4Shell-Detection,README.md,242a4231958503aa7e63db93d46b92cdf73995c3,CVE-2022-22963
+476057992,west-wind/Spring4Shell-Detection,README.md,242a4231958503aa7e63db93d46b92cdf73995c3,CVE-2022-22965

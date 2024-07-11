@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+621299464,amit-pathak009/Exploit-bank,laravel-ignition-rce.py,008306b88733b8ebeed3b2672b662706bb6aad11,CVE-2021-3129
+621299464,amit-pathak009/Exploit-bank,CVE-2023-22527.py,06317e6420677e044eaea6649d515563a085ee9e,CVE-2023-22527

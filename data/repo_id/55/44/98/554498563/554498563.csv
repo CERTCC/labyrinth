@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+554498563,joshuar49/EvilSmurf2,BleedingTooth/CVE-2020-12352 (BadChoice)/cfile.c,4180f35236ae8aee02e6f4bc54e112fcb27a7606,CVE-2020-12352
+554498563,joshuar49/EvilSmurf2,BleedingTooth/CVE-2020-24490 (BadVibes)/cfile.c,5cf93deca6ff614f00332010143e047b2dcb9ba4,CVE-2020-24490
+554498563,joshuar49/EvilSmurf2,DBD_Code/r_bufferoverflow/Basic Bufferoverflow.pptx,adb23774ccac1876a9e9037989319a0f211ea87f,VU#022
+554498563,joshuar49/EvilSmurf2,DBD_Code/r_bufferoverflow/Basic Bufferoverflow.pptx,adb23774ccac1876a9e9037989319a0f211ea87f,VU#09
+554498563,joshuar49/EvilSmurf2,DBD_Code/r_bufferoverflow/Basic Bufferoverflow.pptx,adb23774ccac1876a9e9037989319a0f211ea87f,VU#11
+554498563,joshuar49/EvilSmurf2,DBD_Code/r_bufferoverflow/Basic Bufferoverflow.pptx,adb23774ccac1876a9e9037989319a0f211ea87f,VU#259
+554498563,joshuar49/EvilSmurf2,CVE-2020-12321/C file,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2020-12321
+554498563,joshuar49/EvilSmurf2,BleedingTooth/CVE-2020-12351 (BadKarma)/cfile.c,c86e47d4990fa6bb1314d40cf67e01abb8d14ac6,CVE-2020-12351

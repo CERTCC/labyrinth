@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+542032078,Ameen-Alam/metasploit-framework,index.html,a411443ebc1fe29141d4d888cd4a23841a361070,BID-45402
+542032078,Ameen-Alam/metasploit-framework,index.html,a411443ebc1fe29141d4d888cd4a23841a361070,CVE-1999-0506
+542032078,Ameen-Alam/metasploit-framework,index.html,a411443ebc1fe29141d4d888cd4a23841a361070,CVE-2010-4566
+542032078,Ameen-Alam/metasploit-framework,index.html,a411443ebc1fe29141d4d888cd4a23841a361070,CVE-2019-1935
+542032078,Ameen-Alam/metasploit-framework,index.html,a411443ebc1fe29141d4d888cd4a23841a361070,MS14-060

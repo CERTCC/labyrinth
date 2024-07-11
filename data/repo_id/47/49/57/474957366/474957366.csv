@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+474957366,ValdesChe/laravel-vulnerable-app_poc,binaries/php-7.1.29.tar.gz,45a0b2a62b00b3d99ffc3e68296af21803d35daa,VU#58
+474957366,ValdesChe/laravel-vulnerable-app_poc,binaries/httpd-2.2.20.tar.bz2,c8f00a505af6ed3f89f45b640217c388f5cd32b0,VU#11
+474957366,ValdesChe/laravel-vulnerable-app_poc,binaries/httpd-2.2.20.tar.bz2,c8f00a505af6ed3f89f45b640217c388f5cd32b0,VU#83

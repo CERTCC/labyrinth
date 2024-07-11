@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+473556105,cyber-cafe-org/exploits,CVE-2017-5941/Server/app.js,472121808841bdcadc64890885af3b79c039329a,CVE-2017-5941
+473556105,cyber-cafe-org/exploits,CVE-2017-5941/README.md,69049f11eab3996665d28a1c531906374d249bab,CVE-2017-5941
+473556105,cyber-cafe-org/exploits,CVE-2017-5941/Exploit/exploit.js,7b4cafa3854ae212f968279dbb0a2edabfda301d,CVE-2017-5941

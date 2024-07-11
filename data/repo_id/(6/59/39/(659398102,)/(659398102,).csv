@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+659398102,bhavyagaur99/host-hardening-pentesting,Pentesting and Host Hardening.pdf,e469bb5237e04c5ea38dc7f356b59509a580408a,CVE-2017-0144
+659398102,bhavyagaur99/host-hardening-pentesting,Pentesting and Host Hardening.pdf,e469bb5237e04c5ea38dc7f356b59509a580408a,MS17-010
+659398102,bhavyagaur99/host-hardening-pentesting,Pentesting and Host Hardening.pdf,e469bb5237e04c5ea38dc7f356b59509a580408a,VU#97

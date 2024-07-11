@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+727692725,ambionics/owncloud-exploits,pwncloud-webdav.py,056dfd82a59012904cab5ff8ac087079eed9d81d,CVE-2023-49105
+727692725,ambionics/owncloud-exploits,README.md,5b655708930faeab768f23d36ef27e0f18d2014f,CVE-2023-49103
+727692725,ambionics/owncloud-exploits,README.md,5b655708930faeab768f23d36ef27e0f18d2014f,CVE-2023-49105
+727692725,ambionics/owncloud-exploits,_GITHUB_REPO_METADATA_,,CVE-2023-49105

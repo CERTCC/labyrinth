@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+467569839,0xIronGoat/dirty-pipe,README.md,151fc4f0a6b4b6c0a15d7bae60532677bcf03e45,CVE-2022-0847
+467569839,0xIronGoat/dirty-pipe,exploit.c,8f37ef477a383ffbaa0443cb21bc599780e312ec,CVE-2022-0847
+467569839,0xIronGoat/dirty-pipe,_GITHUB_REPO_METADATA_,,CVE-2022-0847

@@ -1,0 +1,18 @@
+repo_id,repo_full_name,file,file_sha1,match
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/src/main/java/com/levo/dockerexample/controller/HelloController.java,17dc8ac1e17e417cacadc7e66acf569840dbd456,CVE-2022-42889
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/pom.xml,1ef73b5e836222e4db64c8c3e91159eb94f0cde1,CVE-2022-42889
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/calc.xml,3c55ff7e42d822128d4c3d1d89b020a5414f819f,CVE-2022-41852
+566735755,TaiPhung217/CVE-PoC,CVE-2022-28672 Foxit Reader RCE/exploit.pdf,459fb3a45785420567dc00a0d1da24e558723b28,CVE-2022-28672
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/src/main/java/com/levo/dockerexample/DockerApp.java,48bebb71e7c6739471aaf2d2bc2e847941fae417,CVE-2022-42889
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/Dockerfile,54bc68935b80c396dd406533cdfe1c016cdf9a51,CVE-2022-42889
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/Dockerfile,7105395889300aa18e3abe916436012d23852d67,CVE-2022-41852
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/target/classes/com/warxim/jxpathrce/JXPathRCEApplication.class,7c9a10c61392d769061627d28dab12d2720aac7e,CVE-2022-41852
+566735755,TaiPhung217/CVE-PoC,CVE-2022-28672 Foxit Reader RCE/rce.js,80247c2a51f90df52dc6d7d6ed3673aba1a0415b,CVE-2022-28672
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/target/classes/application.properties,93a3ad9f5decbda8df2bb9de21d1a78315ec728b,CVE-2022-41852
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/src/main/java/com/warxim/jxpathrce/controller/ProofOfConceptController.java,a5a0af9b372af71f75430a14673fa0202bd04fa6,CVE-2022-41852
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/pom.xml,aeec3d1163af35b972e697e7e219409163f4b0a0,CVE-2022-41852
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/README.md,b44a0aad72c2ab31994618689e58106eeb02a3cd,CVE-2022-42889
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/README.md,bd6a0b7fde2d108ff9bcb57c75439febe13f18d4,CVE-2022-41852
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/target/classes/com/warxim/jxpathrce/controller/ProofOfConceptController$Person.class,c59c6f000cbb0bb0b1c071b22c355b695026b34a,CVE-2022-41852
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/src/main/java/com/warxim/jxpathrce/JXPathRCEApplication.java,d281381641d5297214c4177674da16f68f5b0090,CVE-2022-41852
+566735755,TaiPhung217/CVE-PoC,CVE-2022-41852/target/classes/com/warxim/jxpathrce/controller/ProofOfConceptController.class,f17f15dd030d585f3876cb3a7ff6616f838ca0ea,CVE-2022-41852

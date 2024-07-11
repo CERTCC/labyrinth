@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-425305515,Calvindd2f/exploits,Google Chrome XOR Typer Out-Of-Bounds Access/Remote Code Execution.txt,ce5f64e8c239d21f9c880f4dedbb668f68e00ec3,CVE-2021-21220
-425305515,Calvindd2f/exploits,Google Chrome XOR Typer Out-Of-Bounds Access/Remote Code Execution.txt,ce5f64e8c239d21f9c880f4dedbb668f68e00ec3,ZDI-21-411
+425305515,Calvindd2f/exploits,Shellcode/ace.mht,7497e8831c11b6c6bd90d16b052fdd6ebbd05d02,CVE-2020-15994
+425305515,Calvindd2f/exploits,Shellcode/ace.mht,7497e8831c11b6c6bd90d16b052fdd6ebbd05d02,CVE-2020-6465
+425305515,Calvindd2f/exploits,Shellcode/Arse.js,e6a22834e06bcf134ff9df942938e3513d3dec90,CVE-2020-6465

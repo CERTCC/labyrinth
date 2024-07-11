@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+516154036,D3Ext/DFShell,DFShell.py,8073d9dab9461296bf49b3eb16aa35857adb09dc,CVE-2021-4034
+516154036,D3Ext/DFShell,DFShell.py,8073d9dab9461296bf49b3eb16aa35857adb09dc,CVE-2022-0847
+516154036,D3Ext/DFShell,exploits/cve-2021-4034.c,a1b81a24efe20bf0d368f0bc6b6666bec0915489,CVE-2021-4034
+516154036,D3Ext/DFShell,exploits/cve-2022-0847.c,e859a4bc56e0ce3509e8a02ebe084f73ed550bca,CVE-2022-0847

@@ -1,0 +1,9 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-93HQ-5WGC-JC82,0.50000000,https://github.com/turtleshell-xyz/nomad-bridge-poc,turtleshell-xyz/nomad-bridge-poc,792831674
+GHSA-93HQ-5WGC-JC82,0.50000000,https://github.com/zero-day-nft/zeroday,zero-day-nft/zeroday,787402790
+GHSA-93HQ-5WGC-JC82,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
+GHSA-93HQ-5WGC-JC82,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
+GHSA-93HQ-5WGC-JC82,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
+GHSA-93HQ-5WGC-JC82,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
+GHSA-93HQ-5WGC-JC82,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-93HQ-5WGC-JC82,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

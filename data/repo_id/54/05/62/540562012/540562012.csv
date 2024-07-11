@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+540562012,trhacknon/CVE-2022-36804-ReverseShell,main.py,2205cd7b440a35112250b2cb5bc8fc82d0130a2c,CVE-2022-36804
+540562012,trhacknon/CVE-2022-36804-ReverseShell,README.md,eca92a24b1fe00741cc6a7d05dc02a3da083ca98,CVE-2022-36804
+540562012,trhacknon/CVE-2022-36804-ReverseShell,_GITHUB_REPO_METADATA_,,CVE-2022-36804

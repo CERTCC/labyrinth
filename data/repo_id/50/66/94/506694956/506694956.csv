@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+506694956,etan007/rcell,dependencies/asio2/3rd/openssl/ssl.h,7e3dc61b9a19d446d4e15754c590d94d8adfaf0e,CVE-2010-4180
+506694956,etan007/rcell,dependencies/asio2/3rd/cereal/cereal.hpp,96feefa4adca4e9c93fe2d18475c57d5c28bfd60,CVE-2020-11105

@@ -1,3 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-75330,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 BID-75330,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
+BID-75330,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+BID-75330,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+427951336,nu11pointer/goahead-rce-exploit,README.md,4d54ccf63bb600d0ab4642cb0e7099800127dc01,CVE-2017-17562
+427951336,nu11pointer/goahead-rce-exploit,exploit.py,890e4c4828922f31ecb1d9929934a3972c99f470,CVE-2017-17562
+427951336,nu11pointer/goahead-rce-exploit,_GITHUB_REPO_METADATA_,,CVE-2017-17562

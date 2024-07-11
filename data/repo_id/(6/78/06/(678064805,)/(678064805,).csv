@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+678064805,ayhan-dev/Drupal-RCE-Checker,File.Py,632c39165102b34e4b284aa9005a09aecc812335,CVE-2019-6340
+678064805,ayhan-dev/Drupal-RCE-Checker,README.md,6d86154458a27d6459f1350872496b03f79a564f,CVE-2019-6340

@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip-21.1.1.dist-info/RECORD,1a358693b60b9749a470e39e2f5bc917ef021c37,VU#96
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#32
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#33
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#396
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#49
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#53
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#65
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#82
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#84
+663064798,CCIEVoice2009/exploit-development,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#85

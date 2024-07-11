@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+608529592,trustcves/CVE-2023-25260,writeup.md,1ec46d4ca8feb5504bd6a2d72a4c36258a4ba1e3,CVE-2023-25260
+608529592,trustcves/CVE-2023-25260,_GITHUB_REPO_METADATA_,,CVE-2023-25260

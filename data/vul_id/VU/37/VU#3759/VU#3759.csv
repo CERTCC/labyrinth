@@ -1,2 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#3759,0.04000000,https://github.com/dlsaavedra/rcens,dlsaavedra/rcens,730905381
+VU#3759,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
+VU#3759,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
+VU#3759,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
+VU#3759,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
+VU#3759,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#3759,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
+VU#3759,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383

@@ -1,7 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
-28104677,metasploit/metasploit.github.io,feature_and_enhancement_rates.html,24ff3c03d60bc5fe837291f7500c1782a5474b91,CVE-2020-28328
-28104677,metasploit/metasploit.github.io,features_and_enhancements.html,475ac6291d656ec068c823f15f324de220b11d71,CVE-2020-28328
-28104677,metasploit/metasploit.github.io,bugs.html,562764e24eece1d3a7ccf559944a94f8ac0724ce,CVE-2020-28328
-28104677,metasploit/metasploit.github.io,pull_requests.html,93857eb6a5d8e0b90955136684bce1b930b79c86,CVE-2020-28328
-28104677,metasploit/metasploit.github.io,bug_rates.html,a17f199bd3e90f0e3ed0bddf95a0ec573dd0bba5,CVE-2020-28328
-28104677,metasploit/metasploit.github.io,pull_request_rates.html,ff44c5332ac2aa010cb6474dfebd46dd73f22cdb,CVE-2020-28328
+28104677,metasploit/metasploit.github.io,images/metasploit_community.eps,9488f4de3753f93303c9b4f67611b241775e918b,VU#020
+28104677,metasploit/metasploit.github.io,images/metasploit_community.eps,9488f4de3753f93303c9b4f67611b241775e918b,VU#40
+28104677,metasploit/metasploit.github.io,images/metasploit_framework.eps,a8828e94b03950aca27ec0686f1344f933ab04f7,VU#10
+28104677,metasploit/metasploit.github.io,images/metasploit_framework.eps,a8828e94b03950aca27ec0686f1344f933ab04f7,VU#18
+28104677,metasploit/metasploit.github.io,images/metasploit_framework.eps,a8828e94b03950aca27ec0686f1344f933ab04f7,VU#498
+28104677,metasploit/metasploit.github.io,images/metasploit_express.eps,de2b2da0f285b9db0b82e044352ce589c891aee4,VU#74
+28104677,metasploit/metasploit.github.io,images/rapid7_logo_orange-for-print.eps,e47551e9513b010b6808ea731853159473eefa88,VU#35
+28104677,metasploit/metasploit.github.io,images/rapid7_logo_orange_black_bg.eps,e7ae070ef97b4ec7efbea4fcea203e77d59b67ae,VU#82

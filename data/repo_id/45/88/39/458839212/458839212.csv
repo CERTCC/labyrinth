@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+458839212,x04000/AutoPwnkit,README.md,ee4c6c1850ffcc385df24d2e1cf64ca71e9aebec,CVE-2021-4034
+458839212,x04000/AutoPwnkit,auto-pwnkit.py,fc8428803d7fc6db79f5ceffa880c6a41f491960,CVE-2021-4034
+458839212,x04000/AutoPwnkit,_GITHUB_REPO_METADATA_,,CVE-2021-4034

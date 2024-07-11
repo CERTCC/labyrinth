@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+467818101,nanaao/Dirtypipe-exploit,README.md,ea995f57d5005bd564ebe8402187207f2d829419,CVE-2022-0847
+467818101,nanaao/Dirtypipe-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-0847

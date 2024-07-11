@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+822167634,jlcolon-22/4rce-new,vendor/laravel/pint/builds/pint,2a71d5616f62614c133ed3ca61590b8d8a0717e5,VU#20
+822167634,jlcolon-22/4rce-new,vendor/laravel/pint/builds/pint,2a71d5616f62614c133ed3ca61590b8d8a0717e5,VU#7200
+822167634,jlcolon-22/4rce-new,vendor/mockery/mockery/CHANGELOG.md,33c613deb410fc35118f329a3b0185777b87a145,CVE-2024-34064
+822167634,jlcolon-22/4rce-new,vendor/mockery/mockery/CHANGELOG.md,33c613deb410fc35118f329a3b0185777b87a145,CVE-2024-3651
+822167634,jlcolon-22/4rce-new,vendor/guzzlehttp/guzzle/CHANGELOG.md,959fe7a6cdbf106795af5700f7b52ff929866ab8,CVE-2016-5385
+822167634,jlcolon-22/4rce-new,node_modules/axios/CHANGELOG.md,b5dd4f19d4d2dee2adae4f382cdbdbe94a80ceda,CVE-2023-45857
+822167634,jlcolon-22/4rce-new,vendor/laravel/framework/CHANGELOG.md,e32c6daa6823fd58edf0ea880b7de77b1812f09f,VU#42

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+813542627,WendyZh111/DataPoisonLLM,data/databricks-dolly-15k.jsonl,34356d82b686ae9fb3b230f428ba644f17e5e652,CVE-2021-1675
+813542627,WendyZh111/DataPoisonLLM,data/databricks-dolly-15k.jsonl,34356d82b686ae9fb3b230f428ba644f17e5e652,CVE-2021-34481
+813542627,WendyZh111/DataPoisonLLM,data/databricks-dolly-15k.jsonl,34356d82b686ae9fb3b230f428ba644f17e5e652,CVE-2021-34527

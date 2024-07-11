@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+813385859,idhyt/pocs,libyaml/CVE-2024-35328.c,06650e35927bc03838b31f8cffe5a1376a9b43ba,CVE-2024-35328
+813385859,idhyt/pocs,libyaml/CVE-2024-35325.c,5f37512984c201ea07b91647d72ceb44a10d5dd7,CVE-2024-35325
+813385859,idhyt/pocs,unsafe-libyaml/src/overflow.rs,63b20ceb15c46c29f04d25a96f7f9c82b7a311d8,CVE-2024-35329
+813385859,idhyt/pocs,unsafe-libyaml/src/doublefree.rs,a988e2ce9da3f9fefd70ee4012e77292cdcca67e,CVE-2024-35325
+813385859,idhyt/pocs,libyaml/CVE-2024-35329.c,add0c43e5309272d39c0803f228279e27b50b8b9,CVE-2024-35329
+813385859,idhyt/pocs,libyaml/CVE-2024-35326.c,de2847d4777dd13fc8b30233db9a95faea3a2f9b,CVE-2024-35326

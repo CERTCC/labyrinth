@@ -1,12 +1,13 @@
 repo_id,repo_full_name,file,file_sha1,match
+409501850,DilpreetSinghBajwa/Resources-public,rpt-dll-sideloading.pdf,4d2133001fce4072a9f5cae99f93cbb8cf90bc2b,VU#77
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2013-3893
+409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,VU#45
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,VU#28
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2019-2215
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2019-1458
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2019-13720
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2018-8611
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2018-8453
-409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,VU#45
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2018-15982
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2018-8174
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2017-8759
@@ -14,8 +15,8 @@ repo_id,repo_full_name,file,file_sha1,match
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2015-2545
 409501850,DilpreetSinghBajwa/Resources-public,A THREAT ACTOR ENCYCLOPEDIA v2.0.pdf,7d56cf31ffc06f0e889011016037aae3c67f1805,CVE-2018-0798
 409501850,DilpreetSinghBajwa/Resources-public,A_Threat_Actor_Encyclopedia.pdf,bb2713205e66ebc71b31c97af9406ec6387fdb8f,CVE-2017-8759
-409501850,DilpreetSinghBajwa/Resources-public,A_Threat_Actor_Encyclopedia.pdf,bb2713205e66ebc71b31c97af9406ec6387fdb8f,CVE-2017-0199
 409501850,DilpreetSinghBajwa/Resources-public,A_Threat_Actor_Encyclopedia.pdf,bb2713205e66ebc71b31c97af9406ec6387fdb8f,CVE-2018-8453
+409501850,DilpreetSinghBajwa/Resources-public,A_Threat_Actor_Encyclopedia.pdf,bb2713205e66ebc71b31c97af9406ec6387fdb8f,CVE-2017-0199
 409501850,DilpreetSinghBajwa/Resources-public,A_Threat_Actor_Encyclopedia.pdf,bb2713205e66ebc71b31c97af9406ec6387fdb8f,CVE-2018-8611
 409501850,DilpreetSinghBajwa/Resources-public,A_Threat_Actor_Encyclopedia.pdf,bb2713205e66ebc71b31c97af9406ec6387fdb8f,CVE-2016-4171
 409501850,DilpreetSinghBajwa/Resources-public,A_Threat_Actor_Encyclopedia.pdf,bb2713205e66ebc71b31c97af9406ec6387fdb8f,CVE-2015-2545

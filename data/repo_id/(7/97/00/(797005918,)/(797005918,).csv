@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+797005918,MInggongK/SpringbootGuiExploit,out/artifacts/ceshi_jar/ceshi.jar,1940a3039026d71f462d7f5d7cf975812b4774e7,VU#21
+797005918,MInggongK/SpringbootGuiExploit,README.md,3d6bd0036867e2b465d706e0d1b143f4e0f4946f,CVE-2022-22947
+797005918,MInggongK/SpringbootGuiExploit,README.md,3d6bd0036867e2b465d706e0d1b143f4e0f4946f,CVE-2022-22963
+797005918,MInggongK/SpringbootGuiExploit,README.md,3d6bd0036867e2b465d706e0d1b143f4e0f4946f,CVE-2022-22965
+797005918,MInggongK/SpringbootGuiExploit,out/production/ceshi/out/production/main/ff.fxml,5aef15007d487e6662ece8dd4b37921e40d24436,CVE-2022-22947
+797005918,MInggongK/SpringbootGuiExploit,main/java/out/production/main/ff.fxml,5aef15007d487e6662ece8dd4b37921e40d24436,CVE-2022-22963
+797005918,MInggongK/SpringbootGuiExploit,out/production/ceshi/out/production/main/ff.fxml,5aef15007d487e6662ece8dd4b37921e40d24436,CVE-2022-22965
+797005918,MInggongK/SpringbootGuiExploit,out/production/ceshi/Ff.class,b82d960605258bb99fc892ac8bb66d6de8315d42,CVE-2022-22947
+797005918,MInggongK/SpringbootGuiExploit,out/production/ceshi/Ff.class,b82d960605258bb99fc892ac8bb66d6de8315d42,CVE-2022-22963
+797005918,MInggongK/SpringbootGuiExploit,out/production/ceshi/Ff.class,b82d960605258bb99fc892ac8bb66d6de8315d42,CVE-2022-22965
+797005918,MInggongK/SpringbootGuiExploit,out/production/ceshi/Ff.class,b82d960605258bb99fc892ac8bb66d6de8315d42,VU#29
+797005918,MInggongK/SpringbootGuiExploit,main/java/Ff.java,b9d35bfcca8ce983b693dd9d4a3501ec87425a58,CVE-2022-22947
+797005918,MInggongK/SpringbootGuiExploit,main/java/Ff.java,b9d35bfcca8ce983b693dd9d4a3501ec87425a58,CVE-2022-22963
+797005918,MInggongK/SpringbootGuiExploit,main/java/Ff.java,b9d35bfcca8ce983b693dd9d4a3501ec87425a58,CVE-2022-22965
+797005918,MInggongK/SpringbootGuiExploit,main/java/Ff.java,b9d35bfcca8ce983b693dd9d4a3501ec87425a58,VU#29

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+482635460,tauh33dkhan/Spring4Shell-POC-Verification-Lab,tomcat_8.5.78-jdk11-spb-2.6.3/README.md,103bf03c45be8221567f07b09563f8a3b9b9ccde,CVE-2022-22965
+482635460,tauh33dkhan/Spring4Shell-POC-Verification-Lab,tomcat_8.5.78-jdk8-spb-2.6.6/README.md,7685c8a7726c8c1d578d57f901213e3ab3f4091f,CVE-2022-22965
+482635460,tauh33dkhan/Spring4Shell-POC-Verification-Lab,tomcat_8.5.73-jdk11-spb.2.6.3/README.md,c1ef4dd53111cad44baf7f0e305aa7f3debac4e7,CVE-2022-22965

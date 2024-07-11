@@ -1,6 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-756,0.09090909,https://github.com/saadoxo/Vulnerability-assessment-on-Kioptrix-Level-1,saadoxo/Vulnerability-assessment-on-Kioptrix-Level-1,562528635
 OSVDB-756,0.09090909,https://github.com/joshmalek/ethack,joshmalek/ethack,261077976
+OSVDB-756,0.08333333,https://github.com/Nishant-Pall/Kioptrix-exploit,Nishant-Pall/Kioptrix-exploit,547369321
 OSVDB-756,0.07692308,https://github.com/brunocampos01/seguranca-de-redes,brunocampos01/seguranca-de-redes,179489417
-OSVDB-756,0.00653595,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 OSVDB-756,0.00645161,https://github.com/ChrisDryden/CTF-Toolkit,ChrisDryden/CTF-Toolkit,180024946
 OSVDB-756,0.00518135,https://github.com/sabri-zaki/EasY_HaCk,sabri-zaki/EasY_HaCk,148261032
+OSVDB-756,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
+OSVDB-756,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571

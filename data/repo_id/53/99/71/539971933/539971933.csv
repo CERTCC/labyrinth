@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+539971933,crankyyash/SiteCore-RCE-Detection,check-for-sitecore-rce.py,a537c89a698592fcedade4cdf16f45f96f6e13c7,CVE-2021-42237
+539971933,crankyyash/SiteCore-RCE-Detection,README.md,da2839cef9f5b9ae3969a32d1455493d76c42af6,CVE-2021-42237
+539971933,crankyyash/SiteCore-RCE-Detection,_GITHUB_REPO_METADATA_,,CVE-2021-42237

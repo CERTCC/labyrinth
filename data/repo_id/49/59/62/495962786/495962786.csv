@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/out-file,2a7b6346a833978b77b9c89780196d08fcfaca09,MS17-010
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/ms17_010_smbinfo.py,89097cd32d1af53bfd1f40e4a6746a55f2f7c31d,MS17-010
+495962786,SayedAbdo-99/Automation-Pentration-Testing,app.py,8c34e4150e00f9b77f9559c639a54ec70d7ee1b8,CVE-2019-0708
+495962786,SayedAbdo-99/Automation-Pentration-Testing,app.py,8c34e4150e00f9b77f9559c639a54ec70d7ee1b8,MS17-010
+495962786,SayedAbdo-99/Automation-Pentration-Testing,SMB10_Exploit.py,c4411fea75a405e5cf614f6b682eb38f1be037c8,MS17-010
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/in-vuln_list_csv,cc3b8d304f5dae21247da92860891fb10be6db6f,CVE-2017-7494
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/in-vuln_list_csv,cc3b8d304f5dae21247da92860891fb10be6db6f,MS06-025
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/in-vuln_list_csv,cc3b8d304f5dae21247da92860891fb10be6db6f,MS07-029
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/in-vuln_list_csv,cc3b8d304f5dae21247da92860891fb10be6db6f,MS08-067
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/in-vuln_list_csv,cc3b8d304f5dae21247da92860891fb10be6db6f,MS10-054
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/in-vuln_list_csv,cc3b8d304f5dae21247da92860891fb10be6db6f,MS10-061
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/in-vuln_list_csv,cc3b8d304f5dae21247da92860891fb10be6db6f,MS17-010
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/in-vuln_list_csv1,d437987afa2b4d0039421d9f2a7f607397edc28d,CVE-2019-0708
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/in-vuln_list_csv1,d437987afa2b4d0039421d9f2a7f607397edc28d,MS17-010
+495962786,SayedAbdo-99/Automation-Pentration-Testing,AutomationPenTest/SMB_info_scanner_zerologon.py,f89572911fc7864ccdd4ee7ef1a8878fdad849a5,CVE-2020-1472

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+529945472,Chal13W1zz/bad-binder,reverse-patches/reintroduce-CVE-2019-2215.patch,98943d1f49d24540438031e486e35d6aafa14a11,CVE-2019-2215
+529945472,Chal13W1zz/bad-binder,reverse-patches/reintroduce-CVE-2019-2215.patch,98943d1f49d24540438031e486e35d6aafa14a11,CVE-2020-0030

@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-CR28-X256-XF5M,0.50000000,https://github.com/secunnix/CVE-2024-29895,secunnix/CVE-2024-29895,801392594
+GHSA-CR28-X256-XF5M,0.00083612,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+GHSA-CR28-X256-XF5M,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+GHSA-CR28-X256-XF5M,0.00000929,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+GHSA-CR28-X256-XF5M,0.00000928,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-CR28-X256-XF5M,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+697264220,cerberauth/api-vulns-challenges,challenges/jwt-alg-none-bypass/go.sum,30a6ca65b749339ca28d95daf0f700e0dfbe45ed,VU#05
+697264220,cerberauth/api-vulns-challenges,challenges/jwt-strong-eddsa-key/jwt-strong-eddsa-key,77391c4174ee0b70379790fc981d3227c4dcd36d,VU#05
+697264220,cerberauth/api-vulns-challenges,challenges/jwt-strong-eddsa-key/jwt-strong-eddsa-key,77391c4174ee0b70379790fc981d3227c4dcd36d,VU#514
+697264220,cerberauth/api-vulns-challenges,challenges/jwt-strong-eddsa-key/jwt-strong-eddsa-key,77391c4174ee0b70379790fc981d3227c4dcd36d,VU#73
+697264220,cerberauth/api-vulns-challenges,challenges/jwt-not-verified/keys/public_key.pem,d74e3ad458235f359149882a8872c3f33c4dff2b,VU#38

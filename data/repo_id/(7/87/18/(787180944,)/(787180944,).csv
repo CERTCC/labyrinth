@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+787180944,gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated,README.md,5f5745286b915785cb1aa524e0b4aadb7ae0a469,CVE-2024-0986
+787180944,gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated,README.md,5f5745286b915785cb1aa524e0b4aadb7ae0a469,GHSA-V9PC-9FC9-4FF8
+787180944,gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated,Issabel_PBX_Authenticated_RCE.py,93348ad44a2d3d33da6daf7a387e4f2a5439bd48,CVE-2024-0986
+787180944,gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated,Issabel_PBX_Authenticated_RCE.py,93348ad44a2d3d33da6daf7a387e4f2a5439bd48,GHSA-V9PC-9FC9-4FF8
+787180944,gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated,_GITHUB_REPO_METADATA_,,CVE-2024-0986

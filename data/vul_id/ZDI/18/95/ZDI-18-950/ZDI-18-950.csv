@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-18-950,0.07142857,https://github.com/Crystalware/Compiled-Exploit-Binaries,Crystalware/Compiled-Exploit-Binaries,291288643
+ZDI-18-950,0.02631579,https://github.com/thezdi/PoC,thezdi/PoC,136392889
+ZDI-18-950,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+478264977,deval2498/damn_vulnerable_defi,yarn.lock,476099f85cc7953c611c5c0cedb2f047df43d0bf,VU#137
+478264977,deval2498/damn_vulnerable_defi,yarn.lock,476099f85cc7953c611c5c0cedb2f047df43d0bf,VU#18

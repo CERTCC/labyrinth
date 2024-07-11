@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+795596778,X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit,exp.sh,a0c2d34eb90c75a8c917d1169d22c0af0aa7b239,CVE-2024-21413
+795596778,X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit,README.md,bcc668c4a6b9e93aa83de5b1bb0655ccc2170444,CVE-2024-21413
+795596778,X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit,_GITHUB_REPO_METADATA_,,CVE-2024-21413

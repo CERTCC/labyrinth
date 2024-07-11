@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+491523422,iosifache/ApacheRCEEssay,document/project/bibliography.bib,21e139906c16acbc9abe47335b74c4f99011973b,CVE-2021-41773
+491523422,iosifache/ApacheRCEEssay,document/project/bibliography.bib,21e139906c16acbc9abe47335b74c4f99011973b,CVE-2021-42013
+491523422,iosifache/ApacheRCEEssay,README.md,39a113b677430b3ea7435711b1551c38e860605b,CVE-2021-41773
+491523422,iosifache/ApacheRCEEssay,document/project/main.tex,45278957449bcb95ff96f82d2160034657b917a4,CVE-2021-41773
+491523422,iosifache/ApacheRCEEssay,presentation/project/configuration.tex,4b01c560877153f7bd75b52547f71e28cf85ba18,CVE-2021-41773
+491523422,iosifache/ApacheRCEEssay,demo/attacker/exploit.sh,98c8b76f6409aee9acde680b4fe6c40110164906,CVE-2021-41773
+491523422,iosifache/ApacheRCEEssay,_GITHUB_REPO_METADATA_,,CVE-2021-41773

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+617844881,securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar,expl_outlook_cve_2023_23397_securiteinfo.yar,341556752b2b5e7dfd96e552bdb83e0af9f5c8c7,CVE-2023-23397
+617844881,securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar,README.md,96bea5a5f31df24407ffa35442bcf6734e964669,CVE-2023-23397
+617844881,securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar,_GITHUB_REPO_METADATA_,,CVE-2023-23397

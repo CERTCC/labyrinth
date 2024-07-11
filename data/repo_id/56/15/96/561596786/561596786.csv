@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+561596786,khylan15/Bookmarklet-exploits,node_modules/@types/node/tls.d.ts,ab91e6707d6ae07a7e64847f040da0780577b48c,CVE-2021-44531

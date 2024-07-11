@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+471863114,hktalent/go4Hacker,res/banner.svg,1f4f58787a4b57247328d879b703316ca0241199,VU#51
+471863114,hktalent/go4Hacker,vendor/github.com/miekg/dns/tsig.go,7eb001a6e2ced313d59983812b9db91a2a14f747,CVE-2017-3142
+471863114,hktalent/go4Hacker,vendor/github.com/gin-gonic/gin/CHANGELOG.md,a9b434a962e389b4f0a7c2f7f3b0e6f1764ea323,CVE-2020-28483

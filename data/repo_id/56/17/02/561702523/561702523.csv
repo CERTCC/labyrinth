@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Robot Data/Mechanical Design/Lazer Files/Body1_2.5mm.ai,06477212197050c70e4e197685fe7642af7a36c5,VU#17
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Robot Data/Mechanical Design/Parts/PCB/L298N Stepper Motor Driver (Red).SLDPRT,26ed314e5802e14e17d86e50433b87fd0b589cba,VU#66
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Robot Data/Mechanical Design/Parts/PCB/Main Board.SLDASM,5c5b7a6c69647d980fc30093616ab1b595bf2aa0,VU#66
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Robot Data/Mechanical Design/Parts/PCB/Main Board.SLDASM,5c5b7a6c69647d980fc30093616ab1b595bf2aa0,VU#88
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Robot Data/Data Sheets/Advanced-line-finder-manual.pdf,60ff3f3adc08b70988be6dcc0241967cceb6c6e4,VU#22
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Robot Data/Data Sheets/Advanced-line-finder-manual.pdf,60ff3f3adc08b70988be6dcc0241967cceb6c6e4,VU#68
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Robot Data/Data Sheets/Advanced-line-finder-manual.pdf,60ff3f3adc08b70988be6dcc0241967cceb6c6e4,VU#691
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Robot Data/Mechanical Design/Parts/Extra/18650 Battery Holder 3Cell.SLDPRT,70a2292829e4eff37840b6868ad77234363a814d,VU#29
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Docs/Rules Books/line 2020 print.pdf,9864baf46f4f277d8064fdaea5d5bd0c81a38f80,VU#533
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Robot Data/Mechanical Design/Final.SLDASM,a1bc3dd71f82507238d082b5254a0f25b4a5caa8,VU#66
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Docs/R.C final_.pdf,d11ec50256bd9a6de80b451746e0146f2f3968c1,VU#16
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Docs/R.C final_.pdf,d11ec50256bd9a6de80b451746e0146f2f3968c1,VU#33
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Docs/Rules Books/line 2021 print.pdf,ed22cb9e2b0307e1ed03baafeef313cebcc5b18a,VU#351
+561702523,omarelsobkey/RCEgypt_LineFollower_2022,Docs/Rules Books/line 2021 print.pdf,ed22cb9e2b0307e1ed03baafeef313cebcc5b18a,VU#544

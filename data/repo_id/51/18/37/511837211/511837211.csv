@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+511837211,tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE,README.md,2654eff36a477550c29b1f08345ce69fc0844918,CVE-2022-33980
+511837211,tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE,.idea/compiler.xml,a8d84ec833a13e4dcfa5556beaab497d71dfb35e,CVE-2022-33980
+511837211,tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE,pom.xml,e8b74d472de828f57c2327e84d1a4830c75a08a6,CVE-2022-33980
+511837211,tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE,_GITHUB_REPO_METADATA_,,CVE-2022-33980

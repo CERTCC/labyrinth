@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+574682128,TheKernelPanic/exploit-apache2-cve-2021-41773,exploit.rb,e3349974cda1cd0228b4ba4c61e8ad77d8bae043,CVE-2021-41773
+574682128,TheKernelPanic/exploit-apache2-cve-2021-41773,README.md,f3b4db410c7e3154ed11ed564df07fb6932eab88,CVE-2021-41773
+574682128,TheKernelPanic/exploit-apache2-cve-2021-41773,_GITHUB_REPO_METADATA_,,CVE-2021-41773

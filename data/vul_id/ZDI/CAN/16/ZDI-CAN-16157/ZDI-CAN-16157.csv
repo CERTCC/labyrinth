@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-CAN-16157,0.05263158,https://github.com/Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-,Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-,496156933
+ZDI-CAN-16157,0.05263158,https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143,nanopathi/external_expat_AOSP10_r33_CVE-2021-46143,480370483
+ZDI-CAN-16157,0.05000000,https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680,nidhi7598/expat_2.1.0-_CVE-2022-43680,574486441
+ZDI-CAN-16157,0.04000000,https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827,nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827,480403914
+ZDI-CAN-16157,0.03703704,https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236,Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236,489225532
+ZDI-CAN-16157,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

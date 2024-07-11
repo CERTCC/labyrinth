@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+651151083,jjmmmmmm/vulnerability-exploitability-predict,data-process/chang.py,307385fefc1dd67cd742c43fb13fbc30f8710cfe,CVE-2018-14342
+651151083,jjmmmmmm/vulnerability-exploitability-predict,data-process/11.py,d7295fea1ce7bc181239863673c774217c1bc42f,CVE-2015-2731

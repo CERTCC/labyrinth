@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-W24X-87MR-4R23,0.50000000,https://github.com/murataydemir/CVE-2022-22980,murataydemir/CVE-2022-22980,508463322
+GHSA-W24X-87MR-4R23,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+804506786,spaceraccoon/detect-cve-2024-4367,expl_pdfjs_cve_2024_4367.yar,644f11d0d6d86b089c0967e06b5d492aae8c0077,CVE-2024-4367
+804506786,spaceraccoon/detect-cve-2024-4367,poc_generalized_CVE-2024-4367.pdf,cc6e4d6500d41485cc3ced890722d56dff2f4264,CVE-2024-4367
+804506786,spaceraccoon/detect-cve-2024-4367,README.md,e8f96561095497bc12c872204818adadbbb34e89,CVE-2024-4367
+804506786,spaceraccoon/detect-cve-2024-4367,_GITHUB_REPO_METADATA_,,CVE-2024-4367

@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-P9PC-299P-VXGP,0.16666667,https://github.com/mysurvive/pf2e-thaum-vuln,mysurvive/pf2e-thaum-vuln,591137885
+GHSA-P9PC-299P-VXGP,0.06666667,https://github.com/yvespollah/Resouce-Exploitaion-Computer-Department-UY1,yvespollah/Resouce-Exploitaion-Computer-Department-UY1,761309168

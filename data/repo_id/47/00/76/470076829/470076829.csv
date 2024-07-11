@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+470076829,phuonguno98/CVE-2022-0847-DirtyPipe-Exploits,exploit-1.c,0b3bd6b2cb57d1d3a2c51f948c0da474175b9f57,CVE-2022-0847
+470076829,phuonguno98/CVE-2022-0847-DirtyPipe-Exploits,dirtypipez.c,373d6b84023a8bc2f90c67c6d1e1f27fdb349307,CVE-2022-0847
+470076829,phuonguno98/CVE-2022-0847-DirtyPipe-Exploits,exploit-2.c,3d5391884fc45872f1bf5cf30dda63d5681df786,CVE-2022-0847
+470076829,phuonguno98/CVE-2022-0847-DirtyPipe-Exploits,dirtypipe_exploit.c,5b7b89d51d92167447b94d6a65b57f6bce3f2b77,CVE-2022-0847
+470076829,phuonguno98/CVE-2022-0847-DirtyPipe-Exploits,README.md,9190cc3ba77b075efc2349be6a0ca410a2ccb213,CVE-2022-0847
+470076829,phuonguno98/CVE-2022-0847-DirtyPipe-Exploits,_GITHUB_REPO_METADATA_,,CVE-2022-0847

@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+513593349,xuxuzhouzhou/thinkphp5-rce,2Casdoor.py,040f1d3132bdffaa7a63cc65c291785eac5f1e5b,CVE-2022-24124
+513593349,xuxuzhouzhou/thinkphp5-rce,msf(美少妇)测试！.md,4eec04204a6dd548e6191ddc461ae55b7d7cf017,CVE-2019-0708
+513593349,xuxuzhouzhou/thinkphp5-rce,msf(美少妇)测试！.md,4eec04204a6dd548e6191ddc461ae55b7d7cf017,MS17-010
+513593349,xuxuzhouzhou/thinkphp5-rce,4Atlassian.py,a752540c7451e65a98bb321a93f95d4a92ec5090,CVE-2019-8442
+513593349,xuxuzhouzhou/thinkphp5-rce,tpexp.py,cc41976e8cd5dc2998b97c563d96c49036ec40d1,CVE-2022-4334
+513593349,xuxuzhouzhou/thinkphp5-rce,tppoc.py,d2c9bfbb7012eb7719f221cfd8f9fc72cb71f711,CVE-2022-4334
+513593349,xuxuzhouzhou/thinkphp5-rce,5gui.py,ece319b99f61e1b31ad38c53f1986a3e8c624848,CVE-2019-8442

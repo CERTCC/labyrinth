@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+490767708,cecinuga/ExploitedContracts,ExploitableContract/reentrancy/node_modules/source-map/dist/source-map.debug.js,a26c8de3235c7942b54c8bad310347d54300fd90,VU#29
+490767708,cecinuga/ExploitedContracts,ExploitableContract/reentrancy/node_modules/source-map/dist/source-map.debug.js,a26c8de3235c7942b54c8bad310347d54300fd90,VU#291
+490767708,cecinuga/ExploitedContracts,ExploitableContract/accessing_private_data/node_modules/rustbn.js/lib/index.asm.js,e1e9ed8a92c65e0f021f00137b2dc00f7c6af97d,VU#25

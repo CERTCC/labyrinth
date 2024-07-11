@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+18418533,rapid7/metasploit-payloads,c/meterpreter/source/extensions/python/Modules/_ssl.c,188e7b049ee14b5765fb18bdb0db2cc0ecc49ab4,CVE-2013-4238
+18418533,rapid7/metasploit-payloads,java/javapayload/README.md,4beb3bda412a885687c1c4f91ca271b676f0d333,CVE-2008-5353

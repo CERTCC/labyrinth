@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+467458148,ba1ma0/Spring-Cloud-GateWay-CVE-2022-22947-demon-code,spring-cloud-gateway-3.0.6/spring-cloud-gateway-server/src/test/resources/multi-cert.pem,6d005712576188d0e071ec6b8afeca6e83f5f255,VU#901
+467458148,ba1ma0/Spring-Cloud-GateWay-CVE-2022-22947-demon-code,README.md,f004c6a66747e8b8893b05aaa8bef09d967e0107,CVE-2022-22947
+467458148,ba1ma0/Spring-Cloud-GateWay-CVE-2022-22947-demon-code,_GITHUB_REPO_METADATA_,,CVE-2022-22947

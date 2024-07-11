@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+765082320,smile-e3/vehicle-kernel-exploit,traitor/traitor-arm64,06325470083e145b441da11cc5b9132952449d75,CVE-2021-3560
+765082320,smile-e3/vehicle-kernel-exploit,traitor/traitor-arm64,06325470083e145b441da11cc5b9132952449d75,CVE-2021-4034
+765082320,smile-e3/vehicle-kernel-exploit,traitor/traitor-arm64,06325470083e145b441da11cc5b9132952449d75,CVE-2022-0847
+765082320,smile-e3/vehicle-kernel-exploit,CVE-2022-23222/cve-2022-23222-arm64,1b717af28897670207daeffed1fd61b74814fb33,CVE-2022-23222
+765082320,smile-e3/vehicle-kernel-exploit,CVE-2022-23222/README.md,943871a0f3e29abadec3d88adfb36ab22c2e38f5,CVE-2022-23222
+765082320,smile-e3/vehicle-kernel-exploit,README.md,c2f6469f3c3fd16522820cf8444682c9d78592bf,CVE-2021-3560
+765082320,smile-e3/vehicle-kernel-exploit,README.md,c2f6469f3c3fd16522820cf8444682c9d78592bf,CVE-2021-4034
+765082320,smile-e3/vehicle-kernel-exploit,README.md,c2f6469f3c3fd16522820cf8444682c9d78592bf,CVE-2022-0847
+765082320,smile-e3/vehicle-kernel-exploit,README.md,c2f6469f3c3fd16522820cf8444682c9d78592bf,CVE-2022-23222

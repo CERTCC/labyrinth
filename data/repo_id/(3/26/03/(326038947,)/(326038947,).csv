@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+326038947,ihebski/DefaultCreds-cheat-sheet,ssh_keys/f5-bigip-cve-2012-1493.key,07015cc50b3d209fd9d0177f37ac2ba771107552,CVE-2012-1493
+326038947,ihebski/DefaultCreds-cheat-sheet,ssh_keys/ceragon-fibeair-cve-2015-0936.key,086889768df89667665a0379a84e0b1fdf5d4928,CVE-2015-0936
+326038947,ihebski/DefaultCreds-cheat-sheet,ssh_keys/exagrid-cve-2016-1561.key,4f1d158f1b45c75622d2f4e1baded1ad8d4375ad,CVE-2016-1561
+326038947,ihebski/DefaultCreds-cheat-sheet,ssh_keys/README.md,92365b9dd0423c787f4b66c57436ca1795ef9a02,CVE-2012-1493
+326038947,ihebski/DefaultCreds-cheat-sheet,ssh_keys/README.md,92365b9dd0423c787f4b66c57436ca1795ef9a02,CVE-2013-0137
+326038947,ihebski/DefaultCreds-cheat-sheet,ssh_keys/README.md,92365b9dd0423c787f4b66c57436ca1795ef9a02,CVE-2015-0936
+326038947,ihebski/DefaultCreds-cheat-sheet,ssh_keys/README.md,92365b9dd0423c787f4b66c57436ca1795ef9a02,CVE-2016-1561
+326038947,ihebski/DefaultCreds-cheat-sheet,ssh_keys/monroe-dasdec-cve-2013-0137.key,ff687ddcf05ce4357e62ed9676be20d33e6b2a4a,CVE-2013-0137

@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+348168041,uraninite/win32-stuxnet,README.md,03ec2081efbd241b509fac2e82571f4dc24a6177,CVE-2010-2772
+348168041,uraninite/win32-stuxnet,README.md,03ec2081efbd241b509fac2e82571f4dc24a6177,MS08-067
+348168041,uraninite/win32-stuxnet,README.md,03ec2081efbd241b509fac2e82571f4dc24a6177,MS10-046
+348168041,uraninite/win32-stuxnet,README.md,03ec2081efbd241b509fac2e82571f4dc24a6177,MS10-061
 348168041,uraninite/win32-stuxnet,Win32.Stuxnet/Exploit.Win32.CVE-2010-2568.gen/stuxnet(ops123!).bin,614713d6c847c7642f6e5b4ada49d4709d90143b,CVE-2010-2568
-348168041,uraninite/win32-stuxnet,README.md,b1d48e5a070f6f7c25383f829037193bb3659ef6,CVE-2010-2772
-348168041,uraninite/win32-stuxnet,README.md,b1d48e5a070f6f7c25383f829037193bb3659ef6,MS08-067
-348168041,uraninite/win32-stuxnet,README.md,b1d48e5a070f6f7c25383f829037193bb3659ef6,MS10-046
-348168041,uraninite/win32-stuxnet,README.md,b1d48e5a070f6f7c25383f829037193bb3659ef6,MS10-061

@@ -3,6 +3,7 @@ MS10-058,1.00000000,https://github.com/pravinsrc/Exploite-HackSysDriver,pravinsr
 MS10-058,1.00000000,https://github.com/tekwizz123/HEVD-Exploit-Solutions,tekwizz123/HEVD-Exploit-Solutions,97373348
 MS10-058,1.00000000,https://github.com/sam-b/HackSysDriverExploits,sam-b/HackSysDriverExploits,50238591
 MS10-058,0.50000000,https://github.com/JeremyFetiveau/Exploits,JeremyFetiveau/Exploits,17382648
+MS10-058,0.33333333,https://github.com/tr3sp4ss3rexe/Windows-Kernel-Exploitation,tr3sp4ss3rexe/Windows-Kernel-Exploitation,491682001
 MS10-058,0.25000000,https://github.com/rhamaa/Binary-exploit-writeups,rhamaa/Binary-exploit-writeups,107076292
 MS10-058,0.10000000,https://github.com/r3p3r/nixawk-awesome-windows-exploitation,r3p3r/nixawk-awesome-windows-exploitation,115909376
 MS10-058,0.10000000,https://github.com/ByteHackr/WindowsExploitation,ByteHackr/WindowsExploitation,98196196
@@ -14,8 +15,14 @@ MS10-058,0.00598802,https://github.com/pwnwiki/q,pwnwiki/q,5940002
 MS10-058,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
 MS10-058,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
 MS10-058,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
-MS10-058,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
+MS10-058,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
+MS10-058,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 MS10-058,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
+MS10-058,0.00028209,https://github.com/rothilion26/cve2023-data,rothilion26/cve2023-data,721764317
 MS10-058,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS10-058,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS10-058,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
+MS10-058,0.00001598,https://github.com/leesinz/crush,leesinz/crush,751271973
+MS10-058,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS10-058,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+MS10-058,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

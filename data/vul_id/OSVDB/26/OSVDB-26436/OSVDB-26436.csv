@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-OSVDB-26436,0.04545455,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
+OSVDB-26436,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
 OSVDB-26436,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 OSVDB-26436,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
 OSVDB-26436,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971

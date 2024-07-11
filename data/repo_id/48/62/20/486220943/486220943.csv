@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+486220943,potmdehex/multicast_bytecopy,multicast_bytecopy/exploit/IOSurfaceRoot.c,15c994492ab2718940f3a99218018f5764a858a1,GPZ-1986
+486220943,potmdehex/multicast_bytecopy,README.md,fa5182a96dab0b149e20f8bbc72fe088c886b503,CVE-2021-30937
+486220943,potmdehex/multicast_bytecopy,README.md,fa5182a96dab0b149e20f8bbc72fe088c886b503,GPZ-1986
+486220943,potmdehex/multicast_bytecopy,README.md,fa5182a96dab0b149e20f8bbc72fe088c886b503,GPZ-2224

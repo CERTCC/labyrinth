@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+530526812,badbadchickenK/couchDB_Exploit,script.py,ce74333e07264981e71237cb12b51c7afdfb44e5,CVE-2017-12635
+530526812,badbadchickenK/couchDB_Exploit,script.py,ce74333e07264981e71237cb12b51c7afdfb44e5,CVE-2017-12636

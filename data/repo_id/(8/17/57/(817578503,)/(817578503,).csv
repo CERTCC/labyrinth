@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+817578503,rdoix/cve-2024-21762-checker,cve-2024-21762-checker.py,7631ce85090a9672ad26a101c1e5953a6c126cec,CVE-2024-21762
+817578503,rdoix/cve-2024-21762-checker,README.md,e7aa3cfe2622b4188edb3809b90448cdd2d4cbe0,CVE-2024-21762
+817578503,rdoix/cve-2024-21762-checker,_GITHUB_REPO_METADATA_,,CVE-2024-21762

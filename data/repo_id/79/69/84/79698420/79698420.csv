@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
+79698420,fergarrui/exploits,README.md,3e7aa7f96a2728266623695c9b03733a32cfb644,CVE-2017-5929
 79698420,fergarrui/exploits,logback-CVE-2017-5929.py,c054766ea6f74a354d6d5aa2e518516b687e2213,CVE-2017-5929
-79698420,fergarrui/exploits,README.md,c3c73a81266eb8e2dce9d4560d1d592d2ec956d8,CVE-2017-5929

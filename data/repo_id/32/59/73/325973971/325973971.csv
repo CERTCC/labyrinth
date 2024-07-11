@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+325973971,witblack/G3nius-Tools-Sploit,README.md,1a6436fc0fd2fd4ea82cfb8837738ffb7138c8c1,CVE-2017-0144
+325973971,witblack/G3nius-Tools-Sploit,README.md,1a6436fc0fd2fd4ea82cfb8837738ffb7138c8c1,CVE-2021-44228
+325973971,witblack/G3nius-Tools-Sploit,README.md,1a6436fc0fd2fd4ea82cfb8837738ffb7138c8c1,MS17-010

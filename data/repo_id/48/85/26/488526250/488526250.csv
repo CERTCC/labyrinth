@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+488526250,xtafnull/CMS-made-simple-sqli-python3,README.md,f13b80821bbdafe0f7c71cc6b0111d7b9d2ef1d0,CVE-2019-9053
+488526250,xtafnull/CMS-made-simple-sqli-python3,46635.py,f5a2e21c418f01bec1511d34d0c2cdf360a55055,CVE-2019-9053
+488526250,xtafnull/CMS-made-simple-sqli-python3,_GITHUB_REPO_METADATA_,,CVE-2019-0905

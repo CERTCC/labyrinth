@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+555342427,opensrcsec/same_type_object_reuse_exploits,Makefile,84b1391be929933a21882c626f8d22b9b37e5699,CVE-2022-1043
+555342427,opensrcsec/same_type_object_reuse_exploits,Makefile,84b1391be929933a21882c626f8d22b9b37e5699,CVE-2022-22942
+555342427,opensrcsec/same_type_object_reuse_exploits,cve-2022-22942-dc.c,abe5a64e14e6b551f2a266cf9e49fe4d5608252f,CVE-2022-22942
+555342427,opensrcsec/same_type_object_reuse_exploits,cve-2022-22942.c,bd4c2daadec793282dac21a814208712d89df31b,CVE-2022-22942
+555342427,opensrcsec/same_type_object_reuse_exploits,cve-2022-1043.c,dd747b3802615fbf3448abdeb52b34f20a75eefb,CVE-2022-1043

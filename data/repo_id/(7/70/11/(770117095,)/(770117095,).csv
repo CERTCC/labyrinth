@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+770117095,skyler-ferrante/CVE-2024-28085,README.md,2cda68e08d7102e7cb96b5b2928a4cbde2bf4830,CVE-2024-28085
+770117095,skyler-ferrante/CVE-2024-28085,report/README.txt,42f18dfb2fd1717101a5089ef6bb1d1029c1fa04,CVE-2024-28085
+770117095,skyler-ferrante/CVE-2024-28085,_GITHUB_REPO_METADATA_,,CVE-2024-28085

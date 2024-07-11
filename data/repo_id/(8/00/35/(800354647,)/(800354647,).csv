@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+800354647,krnidhi/frameworks_base_AOSP10_r33_CVE-2023-21285,tests/servicestests/src/com/android/server/locksettings/recoverablekeystore/TestData.java,01b90e6733c50c7bcee866d86d54b057cfa017c7,VU#058
+800354647,krnidhi/frameworks_base_AOSP10_r33_CVE-2023-21285,art-profile,4c2bf7aa73a5e8b1fdeb66c9996d1aa1936b9d64,VU#43
+800354647,krnidhi/frameworks_base_AOSP10_r33_CVE-2023-21285,art-profile,4c2bf7aa73a5e8b1fdeb66c9996d1aa1936b9d64,VU#98
+800354647,krnidhi/frameworks_base_AOSP10_r33_CVE-2023-21285,_GITHUB_REPO_METADATA_,,CVE-2023-21285

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+592699115,fgrims/gzip_exploit,webapp_exploit/main_http_gz.go,ada45a05b4d2edee61ee291303e8c1f67396959b,CVE-2022-30631
+592699115,fgrims/gzip_exploit,manual_exploit/main.go,e22c7ca27e6b410b6b351be9d6a7d2710b297724,CVE-2022-30631
+592699115,fgrims/gzip_exploit,local_exploit/main_gzip.go,ef397c5702e9fd2fd33ec4f33fe68d711db5019b,CVE-2022-30631

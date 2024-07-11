@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+716903745,hatjwe/CVE-2023-24706,go.mod,de7fac9ac60ab93c9d3ab1d18944286783da4fed,CVE-2023-24706
+716903745,hatjwe/CVE-2023-24706,_GITHUB_REPO_METADATA_,,CVE-2023-24706

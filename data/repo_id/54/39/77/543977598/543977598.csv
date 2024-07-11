@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+543977598,0daylabin/ProxyNotShell,README.md,19ea4996ba17e14dea54d14213a7e44dc89a6b75,CVE-2022-40140
+543977598,0daylabin/ProxyNotShell,README.md,19ea4996ba17e14dea54d14213a7e44dc89a6b75,CVE-2022-41082
+543977598,0daylabin/ProxyNotShell,_GITHUB_REPO_METADATA_,,CVE-2022-40140
+543977598,0daylabin/ProxyNotShell,_GITHUB_REPO_METADATA_,,CVE-2022-41082

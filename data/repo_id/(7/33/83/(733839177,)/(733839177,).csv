@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+733839177,Trackflaw/CVE-2023-50164-ApacheStruts2-Docker,struts-app/pom.xml,0249544d8dd48ead06d070c7ae808c4c0affdb2b,CVE-2023-50164
+733839177,Trackflaw/CVE-2023-50164-ApacheStruts2-Docker,README.md,3e5302a87b6b7355cd5bffb6d7bb838a673b8bf1,CVE-2023-50164
+733839177,Trackflaw/CVE-2023-50164-ApacheStruts2-Docker,struts-app/src/main/webapp/WEB-INF/upload.jsp,65b941ba563203e393488e8ebead283eb246410e,CVE-2023-50164
+733839177,Trackflaw/CVE-2023-50164-ApacheStruts2-Docker,struts-app/src/main/webapp/index.html,97eba46f167304db14b518e2aed7efb874de7fe1,CVE-2023-50164
+733839177,Trackflaw/CVE-2023-50164-ApacheStruts2-Docker,struts-app/src/main/webapp/WEB-INF/web.xml,c3bcc5f6186162dbbb9fe16c257df4a0af6057f0,CVE-2023-50164
+733839177,Trackflaw/CVE-2023-50164-ApacheStruts2-Docker,_GITHUB_REPO_METADATA_,,CVE-2023-50164

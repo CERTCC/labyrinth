@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/PTT.SF,021019bb1a9d13939577456355d26d713043735d,VU#33
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/PTT.SF,021019bb1a9d13939577456355d26d713043735d,VU#52
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/PTT.SF,021019bb1a9d13939577456355d26d713043735d,VU#64
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/PTT.SF,021019bb1a9d13939577456355d26d713043735d,VU#90
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/PTT.SF,021019bb1a9d13939577456355d26d713043735d,VU#91
+781439495,darkjan1234/rceu12-push-2-talk,smali_classes4/org/apache/commons/validator/routines/DomainValidator.smali,c885867bb4475fa360c0be9badd5c526c3304ce9,VU#861
+781439495,darkjan1234/rceu12-push-2-talk,smali_classes4/org/apache/commons/validator/routines/DomainValidator.smali,c885867bb4475fa360c0be9badd5c526c3304ce9,VU#88
+781439495,darkjan1234/rceu12-push-2-talk,smali_classes2/androidx/core/util/PatternsCompat.smali,f0f49769e8a488f312e1f312779bcea10f8b5946,VU#861
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/MANIFEST.MF,fd5c34a35f8376c2c0924cfbd3cea2179ddeb0d1,VU#076
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/MANIFEST.MF,fd5c34a35f8376c2c0924cfbd3cea2179ddeb0d1,VU#13
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/MANIFEST.MF,fd5c34a35f8376c2c0924cfbd3cea2179ddeb0d1,VU#15090
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/MANIFEST.MF,fd5c34a35f8376c2c0924cfbd3cea2179ddeb0d1,VU#79
+781439495,darkjan1234/rceu12-push-2-talk,original/META-INF/MANIFEST.MF,fd5c34a35f8376c2c0924cfbd3cea2179ddeb0d1,VU#893

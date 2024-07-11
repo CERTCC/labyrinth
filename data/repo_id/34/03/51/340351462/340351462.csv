@@ -1,3 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 340351462,meowmeowxw/kernel-exploits,ctf/dice-2021-hashbrown/exploit-task.c,3a2dc6593303a1b05a0fe93ad56203736ccfc7cf,CVE-2017-11176
+340351462,meowmeowxw/kernel-exploits,ctf/hxp-2020-kernel-rop/vmlinuz,6b0d90579fa0362feba0c1e414828c6de51f3e32,VU#87
+340351462,meowmeowxw/kernel-exploits,ctf/dice-2021-hashbrown/bzImage,7e0774f765ff2376425d7be5e36f0b0c5feee071,VU#42
 340351462,meowmeowxw/kernel-exploits,ctf/dice-2021-hashbrown/exploit.c,b3014562b518a43435d79abda3a1d65d90def69b,CVE-2017-11176
+340351462,meowmeowxw/kernel-exploits,ctf/line-2021-pprofile/bzImage,caad16a4c5b915140f834a52e3f91a21bdaddc1a,VU#43
+340351462,meowmeowxw/kernel-exploits,ctf/hitcon-2020-atoms/bzImage,f128b9bda500d420c06f29a2272e9a72dd945474,VU#747

@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+360327405,saferwall/malware-souk,corpus/Magniber/README.md,0a7849f46f56657912d9475732e970fd071d4eb9,CVE-2022-44698
+360327405,saferwall/malware-souk,corpus/Magniber/README.md,0a7849f46f56657912d9475732e970fd071d4eb9,CVE-2023-24880
+360327405,saferwall/malware-souk,corpus/Royal/samples/b57e5f0c857e807a03770feb4d3aa254d2c4c8c8d9e08687796be30e2093286c.zip,32275ec1a96f715893cd668af41a0b0227c9b01f,VU#35
+360327405,saferwall/malware-souk,corpus/Maze/README.md,3bc36e510e56a855dbdddada35cb14fad5a665c8,CVE-2016-7255
+360327405,saferwall/malware-souk,corpus/Maze/README.md,3bc36e510e56a855dbdddada35cb14fad5a665c8,CVE-2018-8453
+360327405,saferwall/malware-souk,corpus/NotPetya/samples/027cc450ef5f8c5f653329641ec1fed91f694e0d229928963b30f6b0d7d3a745.zip,4936c53312188b4eee22e9f021104ca7e0f1f4c6,VU#69
+360327405,saferwall/malware-souk,yaml/maze.yaml,588d5dae33d450bcc8e926e3ddcf417b779cf195,CVE-2016-7255
+360327405,saferwall/malware-souk,yaml/maze.yaml,588d5dae33d450bcc8e926e3ddcf417b779cf195,CVE-2018-8453
+360327405,saferwall/malware-souk,corpus/Hive/samples/88f7544a29a2ceb175a135d9fa221cbfd3e8c71f32dd6b09399717f85ea9afd1.zip,753b81f9617b9b6479559aefe153f7f027fded9f,VU#87
+360327405,saferwall/malware-souk,yaml/magniber.yaml,88a7c3313a1293cf873bb5154d55586f50091d9b,CVE-2022-44698
+360327405,saferwall/malware-souk,yaml/magniber.yaml,88a7c3313a1293cf873bb5154d55586f50091d9b,CVE-2023-24880
+360327405,saferwall/malware-souk,corpus/Hive/samples/bdf3d5f4f1b7c90dfc526340e917da9e188f04238e772049b2a97b4f88f711e3.zip,ab57767d721d90b211fa100426fdc976b5c2202f,VU#98
+360327405,saferwall/malware-souk,corpus/NotPetya/README.md,f08ed9e4f88282e40e4b4557abeb2974efd836cf,CVE-2017-0147

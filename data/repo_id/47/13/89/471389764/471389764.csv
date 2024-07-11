@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+471389764,febinrev/CVE-2021-45010-TinyFileManager-Exploit,tiny_file_manager_exploit.py,8849d51b04abc032da1c501d5c87951e33b8091b,CVE-2021-45010
+471389764,febinrev/CVE-2021-45010-TinyFileManager-Exploit,tiny_file_manager_exploit.sh,9a3efc0fd7a395f31f11712d2f58029803197bf3,CVE-2021-45010
+471389764,febinrev/CVE-2021-45010-TinyFileManager-Exploit,README.md,c39bfa09927730b0f48c5b1125f1df322361d5c5,CVE-2021-45010
+471389764,febinrev/CVE-2021-45010-TinyFileManager-Exploit,_GITHUB_REPO_METADATA_,,CVE-2021-45010

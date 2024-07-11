@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+567190247,trhacknon/dompdf-rce,application/dompdf/lib/php-css-parser/CHANGELOG.md,326814a6c8c8dc189013cb9c32672f72f3e4f742,CVE-2020-13756
+567190247,trhacknon/dompdf-rce,application/dompdf/lib/fonts/DejaVuSansMono-Oblique.ttf,798caacbcd2d5e19a9d6d99c32c91321f3b63c1a,VU#65
+567190247,trhacknon/dompdf-rce,application/dompdf/lib/fonts/DejaVuSansMono-Bold.ttf,886b45d72d19c4d6f206acf5e73149f5f0051d81,VU#99
+567190247,trhacknon/dompdf-rce,application/dompdf/lib/fonts/DejaVuSansMono-BoldOblique.ttf,aafeb47d71db3887852a97d883635c14f43816c6,VU#99
+567190247,trhacknon/dompdf-rce,application/dompdf/lib/fonts/exploitfont_normal_3f83639933428d70e74a061f39009622.php,c518954ecc4dcb067c5709b58223003ba8d6c67a,VU#38

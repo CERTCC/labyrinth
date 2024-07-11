@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+468296562,retr0-13/MsWordRCE,README.md,930a85211c1d23c23d25534e6a73ba780a682734,CVE-2021-40444
+468296562,retr0-13/MsWordRCE,Microsoft-Office-Word-MSHTML_Exploit.rb,eff2f61f094486b271d9d55f5bdc3c6937835161,CVE-2021-40444

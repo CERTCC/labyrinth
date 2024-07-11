@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+668501539,overgrowncarrot1/MailTrail_RCE_Unathenticated,MailTrail.sh,a315d317ae82845038bc466bdf298283212e2bbd,CVE-2023-27163

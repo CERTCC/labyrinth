@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+812934871,emtee40/medfusion-4000-research,doc/README.md,19fea6273c506aa4be1f9397a9a2c951d121bbaf,CVE-2017-12718
+812934871,emtee40/medfusion-4000-research,doc/README.md,19fea6273c506aa4be1f9397a9a2c951d121bbaf,VU#590639

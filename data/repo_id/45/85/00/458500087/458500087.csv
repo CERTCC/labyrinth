@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+458500087,hotpotcookie/log4shell-white-box,doc/old/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Librr.odt,3e31b32131a447fcb1e5945b54aebac70b363f34,VU#172
+458500087,hotpotcookie/log4shell-white-box,doc/old/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Librr.odt,3e31b32131a447fcb1e5945b54aebac70b363f34,VU#80
+458500087,hotpotcookie/log4shell-white-box,doc/logbook-bimbingan.txt,5896912bcb780538cfc1c8a00fa47dcbdd3130f9,CVE-2021-44228
+458500087,hotpotcookie/log4shell-white-box,doc/old/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Librr_NoAppTest.odt,8216ac7237d3c7db4f2d40c6d7a122e73683da5c,VU#172
+458500087,hotpotcookie/log4shell-white-box,doc/old/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Librr_NoAppTest.odt,8216ac7237d3c7db4f2d40c6d7a122e73683da5c,VU#80
+458500087,hotpotcookie/log4shell-white-box,doc/old/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Librr_Ldap.odt,ddd9105c0a99833b577b7bda291e3dfd8ff7d791,VU#760
+458500087,hotpotcookie/log4shell-white-box,README.md,fb5aa976de15d9cd6b6d4427a494c888ba2fbb4c,CVE-2021-44228
+458500087,hotpotcookie/log4shell-white-box,_GITHUB_REPO_METADATA_,,CVE-2021-44228

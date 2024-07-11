@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+517681444,G00Dway/BlestSploit,src/core/config/core/lab/ms_08_067.py,1b28944e77526bcfc275140363b8026e7a0dbe6c,MS08-067
+517681444,G00Dway/BlestSploit,modules/exploit/web/rce/pan_os_rce.py,bbd9e3df3af59696d0691a11a073ad5ae0acc751,CVE-2020-2038
+517681444,G00Dway/BlestSploit,modules/exploit/execution/auth/zenario_cms_9054156_en.py,eda2ad7368bf95946f4b8e56900035fa2de5d3ac,VU#32

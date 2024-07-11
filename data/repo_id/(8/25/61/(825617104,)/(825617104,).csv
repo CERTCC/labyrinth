@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+825617104,insomnia-jacob/CVE-2023-4220-,README.md,1d9d03e8aa7a73c9f02d2e5d60011d592068ae4d,CVE-2023-4220
+825617104,insomnia-jacob/CVE-2023-4220-,exploit.py,df154a99ae48e6fa0789eef72cbfa77360e1a2d2,CVE-2023-4220
+825617104,insomnia-jacob/CVE-2023-4220-,_GITHUB_REPO_METADATA_,,CVE-2023-4220

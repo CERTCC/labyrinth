@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+697141945,CharonDefalt/linux-exploit,pkg/exploits/cve20214034/exploit.go,1116a4fc39bb89ee5286d4211050b24cb72d4caf,CVE-2021-4034
+697141945,CharonDefalt/linux-exploit,pkg/exploits/cve20213560/exploit.go,58f6bd12905b34375c2a31f9c906e7bcc1bf474b,CVE-2021-3560
+697141945,CharonDefalt/linux-exploit,README.md,640be724b423127f3aadb9b9cd1c389ef2b88a70,CVE-2021-3560
+697141945,CharonDefalt/linux-exploit,README.md,640be724b423127f3aadb9b9cd1c389ef2b88a70,CVE-2021-4034
+697141945,CharonDefalt/linux-exploit,README.md,640be724b423127f3aadb9b9cd1c389ef2b88a70,CVE-2022-0847
+697141945,CharonDefalt/linux-exploit,pkg/exploits/all.go,9883eb7198bc43feca61b99ede537b8117dd3f6f,CVE-2021-3560
+697141945,CharonDefalt/linux-exploit,pkg/exploits/all.go,9883eb7198bc43feca61b99ede537b8117dd3f6f,CVE-2021-4034
+697141945,CharonDefalt/linux-exploit,pkg/exploits/all.go,9883eb7198bc43feca61b99ede537b8117dd3f6f,CVE-2022-0847

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+312935245,simeononsecurity/Shodan_PS,Get-ShodanHostIP/README.md,10110034e39709f82ebb6a4ff185fcad8f7f88f0,CVE-2014-0117
+312935245,simeononsecurity/Shodan_PS,Get-ShodanExploitSearch/README.md,83201cc7ddda9a8a04b7f111e331cb92b749419f,CVE-1999-0533
+312935245,simeononsecurity/Shodan_PS,Get-ShodanExploitSearch/README.md,83201cc7ddda9a8a04b7f111e331cb92b749419f,CVE-2017-16100
+312935245,simeononsecurity/Shodan_PS,Get-ShodanExploitSearch/README.md,83201cc7ddda9a8a04b7f111e331cb92b749419f,CVE-2019-0811

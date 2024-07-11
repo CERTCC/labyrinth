@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+470266334,SenSecurity/exploit,README.md,1ed544ddf12bc9500fec9b0a418f22f66adaeab8,CVE-2018-11235
+470266334,SenSecurity/exploit,_GITHUB_REPO_METADATA_,,CVE-2018-11235

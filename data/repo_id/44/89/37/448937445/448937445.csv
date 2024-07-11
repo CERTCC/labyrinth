@@ -1,1 +1,28 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/FINANCIAL_RATIOS.xlsx,49d2831bf1ec06a72dd30e5f5ec0b12de09a05c6,VU#01
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/FINANCIAL_RATIOS.xlsx,49d2831bf1ec06a72dd30e5f5ec0b12de09a05c6,VU#65
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/TECHNICALS_NEW.xlsx,78333265da4044d51338a9db8be93351e43fb490,VU#35
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Financial Analysis/tensors_in_finance.ipynb,7bab2ec03c3b936618422ad62d839d881e39471c,VU#28
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Financial Analysis/tensors_in_finance.ipynb,7bab2ec03c3b936618422ad62d839d881e39471c,VU#30
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Financial Analysis/tensors_in_finance.ipynb,7bab2ec03c3b936618422ad62d839d881e39471c,VU#54
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#00
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#93
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#91
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#79
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#58
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#57
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#55
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#50
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#45
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#94
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#38
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#36
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#33
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#29
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#24
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#233
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#20
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#15
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#47
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/plots_for_fyp.ipynb,d0b1a911bd47b0dd0430702beea5af80eaf125c9,VU#98
+448937445,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,Finance_V2/PRICE_DATA.xlsx,e0e8c31082005a11d271dffbc67940ce88e8839a,VU#63

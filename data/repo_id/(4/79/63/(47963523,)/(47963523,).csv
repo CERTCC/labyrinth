@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+47963523,dradis/dradis-metasploit,spec/fixtures/files/msf5.xml,7a05a0f1db302e9f67e4bd7d8b5d45702e30af2d,MS08-067
+47963523,dradis/dradis-metasploit,spec/fixtures/files/msf5.xml,7a05a0f1db302e9f67e4bd7d8b5d45702e30af2d,MS10-061

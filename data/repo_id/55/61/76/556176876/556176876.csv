@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+556176876,0xmaximus/Apache-Commons-Text-CVE-2022-42889,README.md,e549ccf02c83adf067532686630469d018041656,CVE-2022-42889
+556176876,0xmaximus/Apache-Commons-Text-CVE-2022-42889,Text4Shell (CVE-2022-42889).bb,fb8218750ccf6b8431cf352bf673d02d62a57fdc,CVE-2022-42889
+556176876,0xmaximus/Apache-Commons-Text-CVE-2022-42889,_GITHUB_REPO_METADATA_,,CVE-2022-42889

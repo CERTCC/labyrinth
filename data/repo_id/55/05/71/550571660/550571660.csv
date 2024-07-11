@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+550571660,FluxXe1/msf-exploit,msfscan.sh,9952f2f6c8fe1d50103aa21d0fcfa7da27db8752,MS09-020
+550571660,FluxXe1/msf-exploit,msfscan.sh,9952f2f6c8fe1d50103aa21d0fcfa7da27db8752,MS17-010

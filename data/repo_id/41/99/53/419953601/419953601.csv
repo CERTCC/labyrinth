@@ -2,9 +2,9 @@ repo_id,repo_full_name,file,file_sha1,match
 419953601,0x727/JNDIExploit,src/main/java/com/feihong/ldap/utils/Config.java,1258e5568f4a636c4d3b2e2361001df893300aa7,CVE-2020-2555
 419953601,0x727/JNDIExploit,src/main/java/com/feihong/ldap/utils/Config.java,1258e5568f4a636c4d3b2e2361001df893300aa7,CVE-2020-2883
 419953601,0x727/JNDIExploit,src/main/java/com/feihong/ldap/template/JBossMemshellTemplate.java,152ac7b661978dc61e0cbafbb256517397e281d3,VU#21
-419953601,0x727/JNDIExploit,README.md,171a12daf9a401d291cc56b5823f50a3bd4808ee,CVE-2020-2551
-419953601,0x727/JNDIExploit,README.md,171a12daf9a401d291cc56b5823f50a3bd4808ee,CVE-2020-2555
-419953601,0x727/JNDIExploit,README.md,171a12daf9a401d291cc56b5823f50a3bd4808ee,CVE-2020-2883
+419953601,0x727/JNDIExploit,README.md,212f11f3a72f9bcbd749bd883aeacda349ef19d7,CVE-2020-2551
+419953601,0x727/JNDIExploit,README.md,212f11f3a72f9bcbd749bd883aeacda349ef19d7,CVE-2020-2555
+419953601,0x727/JNDIExploit,README.md,212f11f3a72f9bcbd749bd883aeacda349ef19d7,CVE-2020-2883
 419953601,0x727/JNDIExploit,src/test/java/Test.java,26d8d0122ac2aeb4234e47c1b5106e7a1a1460c3,VU#21
 419953601,0x727/JNDIExploit,src/main/java/com/feihong/ldap/controllers/SerializedDataController.java,2a659a02143a8af7de748922921d0bcb8dac02d2,CVE-2020-2555
 419953601,0x727/JNDIExploit,src/main/java/com/feihong/ldap/controllers/SerializedDataController.java,2a659a02143a8af7de748922921d0bcb8dac02d2,CVE-2020-2883

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+499151925,suegdu/CVE-2022-30190-Follina-Patch,Fwp.py,1bf7728a66af6ed19b99f48c297bc879471e521f,CVE-2022-30190
+499151925,suegdu/CVE-2022-30190-Follina-Patch,readme.md,412fcb736fb11b53834582c4e7d77f0f2547989e,CVE-2022-30190
+499151925,suegdu/CVE-2022-30190-Follina-Patch,_GITHUB_REPO_METADATA_,,CVE-2022-30190

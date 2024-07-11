@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+609523432,uicres/draytek-RCE,README.md,4b7572f7585312a8221f25c228a5360da88fb41a,CVE-2022-32548
+609523432,uicres/draytek-RCE,_GITHUB_REPO_METADATA_,,CVE-2022-32548

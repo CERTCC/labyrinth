@@ -2,4 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-2096,0.50000000,https://github.com/jas502n/CVE-2020-17008,jas502n/CVE-2020-17008,324061019
 GPZ-2096,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 GPZ-2096,0.01010101,https://github.com/SleepTheGod/0days,SleepTheGod/0days,417917134
-GPZ-2096,0.00934579,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
+GPZ-2096,0.00581395,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
+GPZ-2096,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GPZ-2096,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+723939879,huc0day/phpsploit-framework,phpsploit-framework/v1.0/Interface_Base_Security_Rsa.php,0ef573b9de953f3aecbdec0dbc4e59b0715d4540,VU#578
+723939879,huc0day/phpsploit-framework,demo/build_lite_170107148042851873.phpsploit.php,a7e0a5f44c16a2a1c6ef2280435e4314d090a3ce,VU#578
+723939879,huc0day/phpsploit-framework,demo/build_full_170107148859105045.phpsploit.php,b0c03518484493b737b978e0ffd78db2441ee4f1,CVE-2021-35465
+723939879,huc0day/phpsploit-framework,demo/build_full_170107148859105045.phpsploit.php,b0c03518484493b737b978e0ffd78db2441ee4f1,VU#578
+723939879,huc0day/phpsploit-framework,phpsploit-framework/v1.0/Class_Controller_PenetrationTestCommands.php,bca64e7a9f7673eab5ab7bc8c4e4ae3d03558287,CVE-2021-35465

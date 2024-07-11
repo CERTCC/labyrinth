@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+824447243,truonghuuphuc/CVE-2024-39943-Poc,hfs-linux.zip,8b0c7acbd33b53eb4cb866a190597533867bfb38,VU#28
+824447243,truonghuuphuc/CVE-2024-39943-Poc,hfs-linux.zip,8b0c7acbd33b53eb4cb866a190597533867bfb38,VU#79
+824447243,truonghuuphuc/CVE-2024-39943-Poc,README.md,cf8da3a4496dcd72a9bb522221351aea0119131c,CVE-2024-39943
+824447243,truonghuuphuc/CVE-2024-39943-Poc,_GITHUB_REPO_METADATA_,,CVE-2024-39943

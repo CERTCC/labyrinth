@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+770352587,c0d3b3af/CVE-2024-21762-RCE-exploit,README.md,2c9fb9eea0dfe2eeaa7e1f65a60957b00dcd8e9e,CVE-2024-21762
+770352587,c0d3b3af/CVE-2024-21762-RCE-exploit,_GITHUB_REPO_METADATA_,,CVE-2024-21762

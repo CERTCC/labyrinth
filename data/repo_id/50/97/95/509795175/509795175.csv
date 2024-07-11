@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+509795175,laffray/ruby-RCE-CVE-2019-5420-,readme.md,978bbdbfe94520c813dcd43bc73033c57567873e,CVE-2019-5420
+509795175,laffray/ruby-RCE-CVE-2019-5420-,_GITHUB_REPO_METADATA_,,CVE-2019-5420

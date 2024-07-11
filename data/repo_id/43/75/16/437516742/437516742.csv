@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+437516742,sschakraborty/SecurityPOC,JNDI_LDAP_RCE/exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,0c78bdd6f0abd8d55653aa7721506e764b9c6aca,VU#03
+437516742,sschakraborty/SecurityPOC,JNDI_LDAP_RCE/exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,0c78bdd6f0abd8d55653aa7721506e764b9c6aca,VU#23
+437516742,sschakraborty/SecurityPOC,JNDI_LDAP_RCE/exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,0c78bdd6f0abd8d55653aa7721506e764b9c6aca,VU#68
+437516742,sschakraborty/SecurityPOC,JNDI_LDAP_RCE/exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,0c78bdd6f0abd8d55653aa7721506e764b9c6aca,VU#80
+437516742,sschakraborty/SecurityPOC,JNDI_LDAP_RCE/exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,0c78bdd6f0abd8d55653aa7721506e764b9c6aca,VU#83
+437516742,sschakraborty/SecurityPOC,log4shell_2/CVE_2021_45105.tar.gz,270b6b027d64f179e826ac26f839dbf3151259c7,CVE-2021-45105
+437516742,sschakraborty/SecurityPOC,log4shell_2/README.md,43b8b68e3325d5c3d43d8d757a1ef7fee860554e,CVE-2021-44228
+437516742,sschakraborty/SecurityPOC,log4shell_2/README.md,43b8b68e3325d5c3d43d8d757a1ef7fee860554e,CVE-2021-45046
+437516742,sschakraborty/SecurityPOC,log4shell_2/README.md,43b8b68e3325d5c3d43d8d757a1ef7fee860554e,CVE-2021-45105
+437516742,sschakraborty/SecurityPOC,log4shell/README.md,486d2ff93ea625578331b9051355a921d4f5e1ba,CVE-2021-44228
+437516742,sschakraborty/SecurityPOC,README.md,6c5322b6107a285bf195e23db584772002c036ba,CVE-2021-44228
+437516742,sschakraborty/SecurityPOC,README.md,6c5322b6107a285bf195e23db584772002c036ba,CVE-2021-45046
+437516742,sschakraborty/SecurityPOC,README.md,6c5322b6107a285bf195e23db584772002c036ba,CVE-2021-45105
+437516742,sschakraborty/SecurityPOC,PrototypePollution/README.md,a20968406ebf1bdb86849f6dc852adb9d2f9d9c8,CVE-2019-7609

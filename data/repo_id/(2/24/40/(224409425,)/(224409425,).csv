@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+224409425,thegingerninja/ProFTPd_1_3_5_mod_copy_exploit,exploit_proftd_1_3_5.py,9e8074a826377b3b286e94dc22f18befb5e1e1f2,CVE-2015-3306

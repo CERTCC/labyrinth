@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+471632445,Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera,env.html,1e8aaee9e1598a33a1ee2ec718575c29560c8c94,CVE-2022-0337
+471632445,Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera,README.md,2e8777a7d462082dcda46bf2cf0eb0c3d9db637b,CVE-2022-0337
+471632445,Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera,_GITHUB_REPO_METADATA_,,CVE-2022-0337

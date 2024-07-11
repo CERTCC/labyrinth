@@ -2,4 +2,5 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1500,0.00097371,https://github.com/fengjixuchui/Windows10ExploitsArchiv30thers,fengjixuchui/Windows10ExploitsArchiv30thers,257192688
 GPZ-1500,0.00095602,https://github.com/xbl3/awesome-cve-poc_qazbnm456,xbl3/awesome-cve-poc_qazbnm456,266717542
 GPZ-1500,0.00094251,https://github.com/qazbnm456/awesome-cve-poc,qazbnm456/awesome-cve-poc,80700387
-GPZ-1500,0.00007216,https://github.com/vulsio/go-exploitdb,vulsio/go-exploitdb,151353348
+GPZ-1500,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+GPZ-1500,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

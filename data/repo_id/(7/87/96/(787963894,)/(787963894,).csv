@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+787963894,teammhc/Apache-Exploit,apache.py,50e2a4a28df7815f500ec213fbd22ca26de960e1,CVE-2021-41773
+787963894,teammhc/Apache-Exploit,apache.py,50e2a4a28df7815f500ec213fbd22ca26de960e1,CVE-2021-42013
+787963894,teammhc/Apache-Exploit,README.md,9033c81d19b30c93ce29c8887a2a04ee3ea05ff0,CVE-2021-41773
+787963894,teammhc/Apache-Exploit,README.md,9033c81d19b30c93ce29c8887a2a04ee3ea05ff0,CVE-2021-4201

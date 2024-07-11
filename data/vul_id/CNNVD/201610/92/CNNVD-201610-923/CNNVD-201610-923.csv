@@ -1,3 +1,12 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-CNNVD-201610-923,0.01562500,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
-CNNVD-201610-923,0.00645161,https://github.com/PeiQi0/PeiQi-WIKI-POC,PeiQi0/PeiQi-WIKI-POC,359760991
+CNNVD-201610-923,1.00000000,https://github.com/zhaoyumi/yoyoExploit,zhaoyumi/yoyoExploit,674539609
+CNNVD-201610-923,0.00990099,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
+CNNVD-201610-923,0.00934579,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
+CNNVD-201610-923,0.00314465,https://github.com/KayCHENvip/vulnerability-poc,KayCHENvip/vulnerability-poc,658037002
+CNNVD-201610-923,0.00306748,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
+CNNVD-201610-923,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNNVD-201610-923,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+CNNVD-201610-923,0.00184843,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+CNNVD-201610-923,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNNVD-201610-923,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+CNNVD-201610-923,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

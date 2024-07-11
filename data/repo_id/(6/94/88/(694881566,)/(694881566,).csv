@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+694881566,oddsolutions/sabrina-unlock,repair/recovery.img,108f350854b818767ed27fbcaa99b4a93b80909c,VU#05
+694881566,oddsolutions/sabrina-unlock,custom-images/lineage_recovery.img,247f608b76598f6041a67eac03b1e069d3697b51,VU#05
+694881566,oddsolutions/sabrina-unlock,custom-images/lineage_recovery.img,247f608b76598f6041a67eac03b1e069d3697b51,VU#38
+694881566,oddsolutions/sabrina-unlock,custom-images/magisk_boot.img,6620e4dcd428fe56447832c14c001662de635d34,VU#80

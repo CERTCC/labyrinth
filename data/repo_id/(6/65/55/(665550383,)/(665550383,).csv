@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+665550383,adhikara13/CVE-2023-24489-ShareFile,cve.py,d1e62ffec129bef0d321d2947526cbe6ecc8b5db,CVE-2023-24489
+665550383,adhikara13/CVE-2023-24489-ShareFile,README.md,efcefcfffea99c4ccc479f3f218969b58d1971be,CVE-2023-24489
+665550383,adhikara13/CVE-2023-24489-ShareFile,_GITHUB_REPO_METADATA_,,CVE-2023-24489

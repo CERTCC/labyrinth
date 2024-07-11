@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+558606263,bhupendra-sharma/Simulation-of-Log4j-Vulnerability,src/ldap/README.md,07a57780428a0cd398abf7fe3505db9ccf130d01,CVE-2021-44228
+558606263,bhupendra-sharma/Simulation-of-Log4j-Vulnerability,src/ldap/src/main/java/marshalsec/Jackson.java,b9d2b24850ff2af4777f5c04b8941057bdf20afc,CVE-2017-7525
+558606263,bhupendra-sharma/Simulation-of-Log4j-Vulnerability,README.md,d72a503793259a741c2fb6328c3b2a487e1c21c3,CVE-2021-44228

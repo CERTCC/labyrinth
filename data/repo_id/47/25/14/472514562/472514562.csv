@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+472514562,ghillert/boot-jackson-cve,README.md,6deaa10e018eb21b0ee967ace88714d8d36bed5d,CVE-2020-36518
+472514562,ghillert/boot-jackson-cve,_GITHUB_REPO_METADATA_,,CVE-2020-36518

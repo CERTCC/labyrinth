@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+580514889,lukejenkins/CVE-2021-34767,README.md,78dd337ad5949ef75e51174e28e2c795aa78caf7,CVE-2021-34767
+580514889,lukejenkins/CVE-2021-34767,_GITHUB_REPO_METADATA_,,CVE-2021-34767

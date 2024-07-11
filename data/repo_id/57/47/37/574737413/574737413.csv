@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,xwiki-platform-CVE-2021-21380.zip,0615321f2c6c07e8cc511696d589218f33418170,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,xwiki-platform-CVE-2021-21380.zip,0615321f2c6c07e8cc511696d589218f33418170,VU#51
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,tests/exercises/exercise8/test.sh,30320ad07c4f51c92e34c8df1b706ad335de7861,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,solutions/exercise8.ql,69c3b87ef3bc856e560f3d8a26448ca7bf70025e,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,tests/solutions/qlpack.yml,6e827d96ade18408d6251794dfb3c9ee132f1b4d,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,solutions/qlpack.yml,74eda9c3471852df28967c0ec2669d05af8f04a6,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,exercises/qlpack.yml,98d4b6fd3fd799e2cd731810f537284d97cfe547,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,tests/exercises/qlpack.yml,bdacf50b85d558ff9ed0bb5a8eb42ee11cc7a740,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,tests/solutions/exercise8/test.sh,d9eb12059a5f021eef6085063b3d0565b2b0ce41,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,exercises/exercise8.ql,ff9e35a5d46b4779441c2fd8e15ba71dc25269e8,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,README.md,ffef1cd3722c1f1d21f1c6302450a748de641313,CVE-2021-21380
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,README.md,ffef1cd3722c1f1d21f1c6302450a748de641313,GHSA-79RG-7MV3-JRR5
+574737413,rvermeulen/codeql-workshop-cve-2021-21380,_GITHUB_REPO_METADATA_,,CVE-2021-21380

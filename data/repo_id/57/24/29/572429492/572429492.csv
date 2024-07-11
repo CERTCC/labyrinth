@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+572429492,purplededa/CVE-2022-44721-CsFalconUninstaller,Falcon-6.44.15806-uninstall.cpp,672fb3d7881cec9fc9cd80ed8bf099659a97863a,CVE-2022-2841
+572429492,purplededa/CVE-2022-44721-CsFalconUninstaller,Falcon-6.44.15806-uninstall.cpp,672fb3d7881cec9fc9cd80ed8bf099659a97863a,CVE-2022-44721
+572429492,purplededa/CVE-2022-44721-CsFalconUninstaller,README.md,a16b398eedfdecc04523acbabaa8233d0ced1e2c,CVE-2022-2841
+572429492,purplededa/CVE-2022-44721-CsFalconUninstaller,README.md,a16b398eedfdecc04523acbabaa8233d0ced1e2c,CVE-2022-44721
+572429492,purplededa/CVE-2022-44721-CsFalconUninstaller,Falcon-6.44.15806-uninstall.ps1,afe4cc144849f122e6ba9427be77cd2037379f6d,CVE-2022-2841
+572429492,purplededa/CVE-2022-44721-CsFalconUninstaller,Falcon-6.44.15806-uninstall.ps1,afe4cc144849f122e6ba9427be77cd2037379f6d,CVE-2022-44721
+572429492,purplededa/CVE-2022-44721-CsFalconUninstaller,_GITHUB_REPO_METADATA_,,CVE-2022-44721

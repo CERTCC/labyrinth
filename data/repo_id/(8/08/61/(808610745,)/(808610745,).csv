@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+808610745,smackerdodi/CVE-2024-24919-nuclei-templater,README.md,5697afd6a2ec5e4bf92966cda6cf0cb67810a5fc,CVE-2024-24919
+808610745,smackerdodi/CVE-2024-24919-nuclei-templater,CVE-2024-24919.yaml,9920a7689d37f9006223fc56fbbc782d8fd37d2d,CVE-2024-24919
+808610745,smackerdodi/CVE-2024-24919-nuclei-templater,_GITHUB_REPO_METADATA_,,CVE-2024-24919

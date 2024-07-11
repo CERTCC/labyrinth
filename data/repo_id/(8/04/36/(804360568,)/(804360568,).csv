@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+804360568,chaithanyam123/metasploitable2.0-,metasploitable2.ctb,d5e8818dc302596ca1aca3ea889927a121ad0bb7,CVE-1999-0678
+804360568,chaithanyam123/metasploitable2.0-,metasploitable2.ctb,d5e8818dc302596ca1aca3ea889927a121ad0bb7,CVE-2003-1418
+804360568,chaithanyam123/metasploitable2.0-,metasploitable2.ctb,d5e8818dc302596ca1aca3ea889927a121ad0bb7,OSVDB-12184
+804360568,chaithanyam123/metasploitable2.0-,metasploitable2.ctb,d5e8818dc302596ca1aca3ea889927a121ad0bb7,VU#111
+804360568,chaithanyam123/metasploitable2.0-,metasploitable2.ctb,d5e8818dc302596ca1aca3ea889927a121ad0bb7,VU#54

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+472038804,twseptian/cve-2022-24112,poc/poc2.py,070680fe90e8b7621912f821555fdb8371525367,CVE-2022-24112
+472038804,twseptian/cve-2022-24112,README.md,0a1843c95836bd392b4e4be50f76bc5ac14e5f80,CVE-2022-24112
+472038804,twseptian/cve-2022-24112,apisix-docker/example/mkcert/lvh.me+1.pem,c0871d7014fc11b641ad8b052b07906e1569cf8c,VU#50
+472038804,twseptian/cve-2022-24112,poc/poc.py,df96fb3cf994811bd2ea705946d9e4ff8d13d8a6,CVE-2022-24112
+472038804,twseptian/cve-2022-24112,_GITHUB_REPO_METADATA_,,CVE-2022-24112

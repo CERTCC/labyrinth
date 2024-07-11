@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+612022024,iamlazyaf/SmartRG-Router-SR510n---RCE,SmartRG (RCE).py,9c5772494bcc7fd32f413955e415048454594f9a,CVE-2022-37661

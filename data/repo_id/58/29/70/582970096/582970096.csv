@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+582970096,rverseengineer/win32_subsytem_CVEs,CVE_2021_1732/CVE-2021-1732.exe,568d2f6d2eb9576566e8b5efdc57790472b93105,CVE-2021-1732
+582970096,rverseengineer/win32_subsytem_CVEs,CVE_2021_1732/CVE-2021-1732.pdb,6df789f8f24699f203850f1d3ada6d589f81a7f2,CVE-2021-1732
+582970096,rverseengineer/win32_subsytem_CVEs,CVE_2021_1732/Readme.txt,a2160797afd57ac3a7a0b4fe26c24cece695a67a,CVE-2021-1732

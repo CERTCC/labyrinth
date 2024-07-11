@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+802464979,JakobTheDev/cve-2024-32002-submodule-rce,README.md,c9db92fb318d6536728555d82a02e147acb7f6b2,CVE-2024-32002
+802464979,JakobTheDev/cve-2024-32002-submodule-rce,_GITHUB_REPO_METADATA_,,CVE-2024-32002

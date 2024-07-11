@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+736683121,karthi-the-hacker/CVE-2006-2842,README.md,05f45e73416b262b42fe8205ee2c14987f63ea9b,CVE-2006-2842
+736683121,karthi-the-hacker/CVE-2006-2842,includes/scan.js,2317b744e121b8dad1b90e431fdee1cceb34be53,CVE-2006-2842
+736683121,karthi-the-hacker/CVE-2006-2842,utils/help.js,73cb1e4c1d86318b452e243229b2283932aea77e,CVE-2006-2842
+736683121,karthi-the-hacker/CVE-2006-2842,utils/filereader.js,9283651513b10fbe83eda6b99bd920872143712c,CVE-2006-2842
+736683121,karthi-the-hacker/CVE-2006-2842,index.js,a3803120a39df2f426fb4c33101c1f74855ce30a,CVE-2006-2842
+736683121,karthi-the-hacker/CVE-2006-2842,_GITHUB_REPO_METADATA_,,CVE-2006-2842

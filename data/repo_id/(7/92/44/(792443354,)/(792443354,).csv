@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+792443354,dumbbutt0/evilMP4,usage.md,18b5e95e48a7d919b8ad6da850004bcab9d3b51a,CVE-2022-41741
+792443354,dumbbutt0/evilMP4,README.md,6bba04656c5ae98ba2252e3f6c52a3d09500c5fa,CVE-2022-41741
+792443354,dumbbutt0/evilMP4,_GITHUB_REPO_METADATA_,,CVE-2022-41741

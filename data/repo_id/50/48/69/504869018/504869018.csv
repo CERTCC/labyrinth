@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+504869018,PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,Exploit.txt,590ba2858913b3b45b0e1ca465939493f1d4b2d9,CVE-2022-21661
+504869018,PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,Exploit.txt,590ba2858913b3b45b0e1ca465939493f1d4b2d9,ZDI-22-020
+504869018,PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,README.md,c1f6fcb61a73f1ebd6ef24d3f7a38b5f2bdad01d,CVE-2022-21661
+504869018,PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,README.md,c1f6fcb61a73f1ebd6ef24d3f7a38b5f2bdad01d,GHSA-6676-CQFM-GW84
+504869018,PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,README.md,c1f6fcb61a73f1ebd6ef24d3f7a38b5f2bdad01d,ZDI-22-020
+504869018,PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,_GITHUB_REPO_METADATA_,,CVE-2022-21661

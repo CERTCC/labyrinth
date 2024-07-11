@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+780499356,solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC,exploit.py,27ce9463a35d9fb4c3d11a1b56c7d4bbcda37e83,CVE-2023-38831
+780499356,solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC,README.md,fa482e7b82be6e6aca224a7d9539b211e0bb4fdc,CVE-2023-38831
+780499356,solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC,_GITHUB_REPO_METADATA_,,CVE-2023-38831

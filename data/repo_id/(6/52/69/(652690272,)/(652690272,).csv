@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/chrome/interesting_chrome.txt,28bc0a77a338db06928a629d48279aaec490abb7,CVE-2020-0041
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/chrome/interesting_chrome.txt,28bc0a77a338db06928a629d48279aaec490abb7,CVE-2020-6449
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/chrome/interesting_chrome.txt,28bc0a77a338db06928a629d48279aaec490abb7,CVE-2021-37975
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/mojo/Chromium-exploits-pdfs/us-19-Feng-The-Most-Secure-Browser-Pwning-Chrome-From-2016-To-2019.pdf,2bf38332720e45ad1c0e84c73fbf46ce69d8ee53,VU#09
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/mojo/Chromium-exploits-pdfs/us-19-Feng-The-Most-Secure-Browser-Pwning-Chrome-From-2016-To-2019.pdf,2bf38332720e45ad1c0e84c73fbf46ce69d8ee53,VU#24
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/mojo/Chromium-exploits-pdfs/us-19-Feng-The-Most-Secure-Browser-Pwning-Chrome-From-2016-To-2019.pdf,2bf38332720e45ad1c0e84c73fbf46ce69d8ee53,VU#38
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/mojo/Mojo-IPC/Mojo Archive Format.pdf,310d1e5b1f1377db6b3ec396f6dd235608324b0a,VU#17
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/more txt/chrome_expoits.txt,52276e2b71d8615db07db31122be20ffe91671dd,CVE-2020-1604
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/more txt/chrome_expoits.txt,52276e2b71d8615db07db31122be20ffe91671dd,CVE-2021-30633
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/git/git.pdf,d1e927ea6beafc43dae0c617ac7fe7e71e84c2ec,VU#00
+652690272,IdanBanani/Browser-exploitation-Chromium,chrome-resources/more txt/mojo_sbx.txt,d868ba7bb87fc138de207cd592962d3f98f6c22d,CVE-2020-16040

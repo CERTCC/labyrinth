@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-276226715,patois/winmagic_sd,Readme.md,1e5661dab6beee1229732e061f8aff9a32db3c0c,CVE-2014-4113
-276226715,patois/winmagic_sd,Readme.md,1e5661dab6beee1229732e061f8aff9a32db3c0c,CVE-2020-11519
-276226715,patois/winmagic_sd,Readme.md,1e5661dab6beee1229732e061f8aff9a32db3c0c,CVE-2020-11520
 276226715,patois/winmagic_sd,sd_poc.py,4acd52a875a43961522e7f81a53cf4c5b23f97c4,CVE-2014-4113
+276226715,patois/winmagic_sd,Readme.md,610cb9ae00fecdb3af1ffc5196fb972810092b72,CVE-2014-4113
+276226715,patois/winmagic_sd,Readme.md,610cb9ae00fecdb3af1ffc5196fb972810092b72,CVE-2020-11519
+276226715,patois/winmagic_sd,Readme.md,610cb9ae00fecdb3af1ffc5196fb972810092b72,CVE-2020-11520
 276226715,patois/winmagic_sd,_GITHUB_REPO_METADATA_,,CVE-2020-11519
 276226715,patois/winmagic_sd,_GITHUB_REPO_METADATA_,,CVE-2020-11520

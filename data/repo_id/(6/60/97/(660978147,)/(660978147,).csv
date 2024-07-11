@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+660978147,madret/vuln_checker,vuln_checker.ps1,6e911e8a662a291d10a191401b5cfbdb9c790e8d,CVE-2022-41040
+660978147,madret/vuln_checker,vuln_checker.ps1,6e911e8a662a291d10a191401b5cfbdb9c790e8d,CVE-2023-27997

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+567508058,p1tsi/misc,README.md,a9370072902d943a6bdb00ff3c9e52b21a74478d,CVE-2024-32002
+567508058,p1tsi/misc,Xcode_15.4_RCE/README.md,bc990f8d5a8e990843ad8114b52eddff42513e43,CVE-2024-32002

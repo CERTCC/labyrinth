@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+582538830,wjlin0/docker-daemon-api-rce,build.sh,0d2ff930f53e93cb91546c7c533a80f712538cb4,CVE-2022-26134

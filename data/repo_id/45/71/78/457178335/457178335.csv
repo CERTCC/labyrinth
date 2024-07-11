@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+457178335,modubyk/CVE_2020_0601,cve_2020_0601_basePoint_equal_publicKey.yara,9b417c19498a8c13c2cbadd5c03ea428961b94dd,CVE-2020-0601
+457178335,modubyk/CVE_2020_0601,cve_2020_0601_ECC_non_standard_basePoint.yara,f940935e7af930be666e14a546fb528abcf34fc8,CVE-2020-0601
+457178335,modubyk/CVE_2020_0601,_GITHUB_REPO_METADATA_,,CVE-2020-0601

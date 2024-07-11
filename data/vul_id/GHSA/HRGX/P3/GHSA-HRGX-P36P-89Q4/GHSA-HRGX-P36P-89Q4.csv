@@ -1,0 +1,9 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-HRGX-P36P-89Q4,0.33333333,https://github.com/drkbcn/lblfixer_cve_2022_31181,drkbcn/lblfixer_cve_2022_31181,517931760
+GHSA-HRGX-P36P-89Q4,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-HRGX-P36P-89Q4,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+GHSA-HRGX-P36P-89Q4,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+GHSA-HRGX-P36P-89Q4,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-HRGX-P36P-89Q4,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-HRGX-P36P-89Q4,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-HRGX-P36P-89Q4,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

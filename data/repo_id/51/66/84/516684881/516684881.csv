@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+516684881,EkamSinghWalia/Mitigation-Apache-CVE-2021-41773-,README.md,21e45dc597593f5752a03fa1272e415913cd3ca9,CVE-2021-41773
+516684881,EkamSinghWalia/Mitigation-Apache-CVE-2021-41773-,apachefix.sh,56a85ffa09e5b0bf0ac94b5636ef034fc43170a7,CVE-2021-41773
+516684881,EkamSinghWalia/Mitigation-Apache-CVE-2021-41773-,method2.sh,5cff53e459a67dd619feee6b8431499e35193de5,CVE-2021-41773
+516684881,EkamSinghWalia/Mitigation-Apache-CVE-2021-41773-,_GITHUB_REPO_METADATA_,,CVE-2021-41773

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+641923077,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,JNDI-Injection-Exploit-1.0.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#23
+641923077,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,JNDI-Injection-Exploit-1.0.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#74
+641923077,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,JNDI-Injection-Exploit-1.0.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#83

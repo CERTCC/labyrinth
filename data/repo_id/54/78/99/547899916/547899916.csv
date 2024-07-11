@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+547899916,zmiddle/Simple_CMS_SQLi,exploit.py,c3a90a666c0657f474ffdb535c50dea7fa418421,CVE-2019-9053
+547899916,zmiddle/Simple_CMS_SQLi,_GITHUB_REPO_METADATA_,,CVE-2019-9053

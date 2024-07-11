@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+393679755,cheezcharmer/chinese-dictatorship,README.adoc,6601e8184c16edf08764283de4bd50a49ac12263,VU#58
+393679755,cheezcharmer/chinese-dictatorship,evil-man/README.md,9e29dcc7972c4e1c48746d478af72f698b545979,VU#0863110
+393679755,cheezcharmer/chinese-dictatorship,evil-man/README.md,9e29dcc7972c4e1c48746d478af72f698b545979,VU#0984820

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+798750115,plutonlib/Secure-Software-Development-Project,node_modules/axios/CHANGELOG.md,4030af49eeebc8a60076491b451866c67cb49fb4,CVE-2023-45857
+798750115,plutonlib/Secure-Software-Development-Project,node_modules/@types/node/crypto.d.ts,a8a8fad67fd18172e7783119bd8cb7a94ec89e03,CVE-2021-44532
+798750115,plutonlib/Secure-Software-Development-Project,node_modules/@types/node/tls.d.ts,e8a9312dcb6d66b1ca7b3524e23d3f6751981f9a,CVE-2021-44531

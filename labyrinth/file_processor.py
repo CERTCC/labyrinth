@@ -4,6 +4,15 @@ file: file_processor
 author: adh
 created_at: 8/24/21 11:15 AM
 """
+#  Copyright (c) 2023 Carnegie Mellon University.
+#  Labyrinth Repository Search
+#  Licensed under a MIT (SEI)-style license, please see license.txt or contact permission@sei.cmu.edu for full terms.
+#  [DISTRIBUTION STATEMENT A] This material has been approved for public release and unlimited distribution.  Please see Copyright notice for non-US Government use and distribution.
+#  Carnegie Mellon®, CERT® and CERT Coordination Center® are registered in the U.S. Patent and Trademark Office by Carnegie Mellon University.
+#  This Software includes and/or makes use of Third-Party Software subject to its own license, see license.txt file for more information.
+#  DM23-0717
+#
+
 import hashlib
 import os
 import pandas as pd
@@ -93,7 +102,7 @@ def process_dir(path, workdir="/"):
             fpath = os.path.join(dirpath, f)
             _df = process_file(fpath, workdir)
             if len(_df):
-                df = df.append(_df)
+                df = pd.concat([df,_df])
             count += 1
             if count % 1000 == 0:
                 logger.info(f"Processed {count} files so far")

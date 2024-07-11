@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+514401546,sourceincite/DashOverride,README.md,3fffe444edab0573d66ca38e8a5e95fefc372481,CVE-2022-31672
+514401546,sourceincite/DashOverride,README.md,3fffe444edab0573d66ca38e8a5e95fefc372481,CVE-2022-31674
+514401546,sourceincite/DashOverride,README.md,3fffe444edab0573d66ca38e8a5e95fefc372481,CVE-2022-31675

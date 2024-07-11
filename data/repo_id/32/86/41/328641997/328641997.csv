@@ -1,1 +1,9 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+328641997,SurpriseMTFK/Mass-Exploit3r,Uploaders-Collection/index.php,3cde8a5e49576d4c602dc69f0a2a4c015ec2c7cb,VU#01
+328641997,SurpriseMTFK/Mass-Exploit3r,Uploaders-Collection/index.php,3cde8a5e49576d4c602dc69f0a2a4c015ec2c7cb,VU#05
+328641997,SurpriseMTFK/Mass-Exploit3r,Uploaders-Collection/index.php,3cde8a5e49576d4c602dc69f0a2a4c015ec2c7cb,VU#09
+328641997,SurpriseMTFK/Mass-Exploit3r,Uploaders-Collection/index.php,3cde8a5e49576d4c602dc69f0a2a4c015ec2c7cb,VU#16
+328641997,SurpriseMTFK/Mass-Exploit3r,Uploaders-Collection/index.php,3cde8a5e49576d4c602dc69f0a2a4c015ec2c7cb,VU#21
+328641997,SurpriseMTFK/Mass-Exploit3r,Uploaders-Collection/index.php,3cde8a5e49576d4c602dc69f0a2a4c015ec2c7cb,VU#29
+328641997,SurpriseMTFK/Mass-Exploit3r,Uploaders-Collection/index.php,3cde8a5e49576d4c602dc69f0a2a4c015ec2c7cb,VU#40
+328641997,SurpriseMTFK/Mass-Exploit3r,Config-Bypass/vhosts.php,854214c17db47c56cdf9109ae8fc8b2bdd6a2ce7,VU#21

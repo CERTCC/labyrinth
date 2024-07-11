@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+14167785,electron/node-rcedit,test/fixtures/electron.exe,6065056d6a9d856fa5afd4c44daa1c0dc7b9ac03,VU#1020
+14167785,electron/node-rcedit,yarn.lock,fa060c1b91b7446cea55d0eed969aeae93441032,VU#13
+14167785,electron/node-rcedit,yarn.lock,fa060c1b91b7446cea55d0eed969aeae93441032,VU#18
+14167785,electron/node-rcedit,yarn.lock,fa060c1b91b7446cea55d0eed969aeae93441032,VU#20

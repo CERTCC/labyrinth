@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+477210316,gpiechnik2/nmap-spring4shell,spring4shell.nse,ae4ec7578d60623b075ac59dcd50c05bca5f57fe,CVE-2022-22965
+477210316,gpiechnik2/nmap-spring4shell,README.md,f50fc679a01daf0423135e625471eaa914b63de9,CVE-2022-22965
+477210316,gpiechnik2/nmap-spring4shell,_GITHUB_REPO_METADATA_,,CVE-2022-22965

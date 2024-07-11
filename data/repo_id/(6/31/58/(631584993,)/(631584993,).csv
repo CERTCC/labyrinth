@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,4. Domain Privilege Escalation/20. PrintNightmare.md,39b7c3dd76cd7a7055df844796a10c80409ab410,CVE-2021-1675
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,4. Domain Privilege Escalation/20. PrintNightmare.md,39b7c3dd76cd7a7055df844796a10c80409ab410,CVE-2021-34527
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,4. Domain Privilege Escalation/18. Exploiting SharePoint.md,4602424b5083f40c1229c533a284d3d6d6a2e855,CVE-2019-0604
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,4. Domain Privilege Escalation/18. Exploiting SharePoint.md,4602424b5083f40c1229c533a284d3d6d6a2e855,CVE-2019-1257
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,4. Domain Privilege Escalation/18. Exploiting SharePoint.md,4602424b5083f40c1229c533a284d3d6d6a2e855,CVE-2020-0932
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,2. Local Privilege Escalation/1. Windows Privilege Escalation.md,5f82a8e45234b91018b885c441df9803efb1a622,CVE-2020-0796
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,2. Local Privilege Escalation/1. Windows Privilege Escalation.md,5f82a8e45234b91018b885c441df9803efb1a622,CVE-2021-36934
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,4. Domain Privilege Escalation/13. Abusing Exchange.md,64ee32090a195d517a5118489d93b7ffab947c08,CVE-2020-0688
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,4. Domain Privilege Escalation/0. Examples/21. Abusing AD Certificate Services.md,7fd9481437fc653f7785888673fc061b29c6ae8f,CVE-2022-26923
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,4. Domain Privilege Escalation/22. No PAC.md,b3d3c5537d01e745900c98d314c45d5d28d1141f,CVE-2021-42278
+631584993,ismaildawoodjee/ADExploitation-Obsidian-CheatSheet,4. Domain Privilege Escalation/22. No PAC.md,b3d3c5537d01e745900c98d314c45d5d28d1141f,CVE-2021-42287

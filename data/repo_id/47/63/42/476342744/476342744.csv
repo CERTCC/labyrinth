@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+476342744,exploitbin/CVE-2022-22963-Spring-Core-RCE,README.md,16bfbdadf8ff6aaeb5a3370a4043fa9ebb7274b0,CVE-2022-22963
+476342744,exploitbin/CVE-2022-22963-Spring-Core-RCE,_GITHUB_REPO_METADATA_,,CVE-2022-22963

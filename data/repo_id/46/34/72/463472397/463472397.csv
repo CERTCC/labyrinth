@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+463472397,Jroo1053/GrafanaDirInclusion,src/exploit.py,866332810a82a56228b16028f0c38c7e4596cd4c,CVE-2021-43798
+463472397,Jroo1053/GrafanaDirInclusion,README.md,96cec43b00b232435f217fb819ed1f5fee9fc62f,CVE-2021-43798
+463472397,Jroo1053/GrafanaDirInclusion,_GITHUB_REPO_METADATA_,,CVE-2021-43798

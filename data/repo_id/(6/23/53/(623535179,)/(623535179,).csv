@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+623535179,doyensec/Session-Hijacking-Visual-Exploitation,client/assets/icons/Edge-logo.svg,96770638af6ad96c752d38c095f3a29ec971ddc9,VU#094
+623535179,doyensec/Session-Hijacking-Visual-Exploitation,client/assets/icons/Edge-logo.svg,96770638af6ad96c752d38c095f3a29ec971ddc9,VU#22
+623535179,doyensec/Session-Hijacking-Visual-Exploitation,client/assets/icons/Edge-logo.svg,96770638af6ad96c752d38c095f3a29ec971ddc9,VU#69

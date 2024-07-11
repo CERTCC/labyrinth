@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-X9G4-J85W-CMFF,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22724,Live-Hack-CVE/CVE-2023-22724,596288334
+GHSA-X9G4-J85W-CMFF,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

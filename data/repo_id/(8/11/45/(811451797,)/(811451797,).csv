@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+811451797,conan-sudo/CVE-2019-14974-bypass,CVE-2019-14974-bypass.yaml,1aa32250735350a517c2b360899f31c27ffd9258,CVE-2019-14974
+811451797,conan-sudo/CVE-2019-14974-bypass,_GITHUB_REPO_METADATA_,,CVE-2019-14974

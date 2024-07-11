@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+490139743,kh-elbrus/learn-exploit-cve,cve-2018-10933/README.md,1a17a700021bee7e311daaadede26da5f38b5dd7,CVE-2018-10933
+490139743,kh-elbrus/learn-exploit-cve,cve-2018-10933/README.md,1a17a700021bee7e311daaadede26da5f38b5dd7,CVE-2018-7750
+490139743,kh-elbrus/learn-exploit-cve,cve-2018-10933/requirements.txt,42512932da7204aff32d7eb136ee280940bf3004,CVE-2018-10933
+490139743,kh-elbrus/learn-exploit-cve,cve-2018-10933/cve-2018-10933.py,a2fbdf172993e6034b20b13e8db8f5de6c5638ea,CVE-2018-10933

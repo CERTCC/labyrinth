@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+525921405,francozappa/blur,README.md,fba407044591791c75eeeba9401b9f8dbb0f9e11,CVE-2020-15802
+525921405,francozappa/blur,README.md,fba407044591791c75eeeba9401b9f8dbb0f9e11,CVE-2022-20361
+525921405,francozappa/blur,_GITHUB_REPO_METADATA_,,CVE-2020-15802
+525921405,francozappa/blur,_GITHUB_REPO_METADATA_,,CVE-2022-20361

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+779430633,FabioBaroni/CVE-2024-3094-checker,CVE-2024-3094-checker.sh,53390ff8b0b60eff691884f83e3343c6a30b1b99,CVE-2024-3094
+779430633,FabioBaroni/CVE-2024-3094-checker,README.md,56e75bdfa8c70fe504cb06aa659a43cacb23dbc3,CVE-2024-3094
+779430633,FabioBaroni/CVE-2024-3094-checker,_GITHUB_REPO_METADATA_,,CVE-2024-3094

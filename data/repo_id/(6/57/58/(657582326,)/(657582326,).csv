@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/bzImage,109eb52afdd8d8982d822f5b1a5543f7e0b46a5e,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/initramfs.cpio.gz,19c7b0c8506299309399a3ec84cf007eb4224bcd,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/decompress.sh,1dff4b371f79116ddf09551e3393bd5326c1b924,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CTF/shmeeky-TAMUctf2022/initramfs.cpio.gz,2cb18909e88afdf10e5e300516b08b77e3ff8ce1,VU#16
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/start.sh,3757f2bbee00867da90b600281d9c49fa45e63ca,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/exploit.c,410cf395359bbabe65ee0c451cf5721b393aaae8,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CTF/shmeeky-TAMUctf2022/bzImage,8caf6274e4913a9ac3281304c00851210a710553,VU#06
+657582326,neverm0r/Kernel_exploit,CTF/shmeeky-TAMUctf2022/bzImage,8caf6274e4913a9ac3281304c00851210a710553,VU#66
+657582326,neverm0r/Kernel_exploit,CTF/shmeeky-TAMUctf2022/vmlinux,eb9c22c3895665930de2ed488c64615a2eed9792,VU#24
+657582326,neverm0r/Kernel_exploit,CTF/shmeeky-TAMUctf2022/vmlinux,eb9c22c3895665930de2ed488c64615a2eed9792,VU#30
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/compress.sh,fea649866c3bd637c209b7e4e10532b4da272e25,CVE-2022-0995

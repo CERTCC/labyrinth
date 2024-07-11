@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+667578350,exoForce01/grupo-de-noticias,Poc-falsa-injeta-malware-persistente.md,5e07fdb1dd18072d9c759d406c19abb6bcf76559,CVE-2023-35829
+667578350,exoForce01/grupo-de-noticias,README.md,8b2c98da84607d995c5c85aff1de659a19b6b270,CVE-2023-37450
+667578350,exoForce01/grupo-de-noticias,apple-corrige-zeroday.md,cefdc94353f42376ffdc3b112691f96c082b5c09,CVE-2023-37450

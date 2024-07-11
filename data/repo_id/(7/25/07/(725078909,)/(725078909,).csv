@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+725078909,Hack-BitGod/exploit,exploit.py,3a29c27f496c9e1ae9396c32b9ad1493924f96bb,MS07-029
+725078909,Hack-BitGod/exploit,exploit.py,3a29c27f496c9e1ae9396c32b9ad1493924f96bb,MS08-067
+725078909,Hack-BitGod/exploit,exploit.py,3a29c27f496c9e1ae9396c32b9ad1493924f96bb,MS12-020
+725078909,Hack-BitGod/exploit,exploit.py,3a29c27f496c9e1ae9396c32b9ad1493924f96bb,MS17-010
+725078909,Hack-BitGod/exploit,run.cpp,44af0549adeed6ba002c743674938006aaf5ccd6,MS15-061
+725078909,Hack-BitGod/exploit,src/026.c,9332ef7cd8fd37d4f1059f61a18bd4e3d2a2486a,MS03-026
+725078909,Hack-BitGod/exploit,src/026.c,9332ef7cd8fd37d4f1059f61a18bd4e3d2a2486a,MS03-039
+725078909,Hack-BitGod/exploit,src/CVE_2016_6195.pl,9c3ffbdc94836da31094a2856a443e0557274482,CVE-2016-6195
+725078909,Hack-BitGod/exploit,src/nk_rce.rb,a5a74b8f7a91e3cb402cd721a11da33c8f00c738,CVE-2015-0096
+725078909,Hack-BitGod/exploit,src/nk_rce.rb,a5a74b8f7a91e3cb402cd721a11da33c8f00c738,CVE-2017-8464
+725078909,Hack-BitGod/exploit,src/nk_rce.rb,a5a74b8f7a91e3cb402cd721a11da33c8f00c738,MS15-020

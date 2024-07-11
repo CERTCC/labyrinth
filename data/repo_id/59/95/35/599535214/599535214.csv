@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+599535214,ohnonoyesyes/CVE-2023-25194,libs/mysql-connector-j-8.0.31.jar,3fd5850719d7e82d50705d34cc6a0037fab5731f,VU#64
+599535214,ohnonoyesyes/CVE-2023-25194,README.md,9feb2560d2ad846ca00cdf2c4aa9a7315bd1f725,CVE-2023-25194
+599535214,ohnonoyesyes/CVE-2023-25194,_GITHUB_REPO_METADATA_,,CVE-2023-25194

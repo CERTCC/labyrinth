@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+468521643,rebel-bit/Log4j-RCE,log4j.php,aa18d111234e8baddc0ce72ec11c1659e6999bb7,CVE-2021-44228

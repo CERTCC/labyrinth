@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+476604234,n11dc0la/PocSuite_POC,pocs/springcloud_cve_2022_22947_spelrce.py,7926727bc4999e6a5ae63c7db3773bd33672d05d,CVE-2022-22947
+476604234,n11dc0la/PocSuite_POC,pocs/spring_cve_2022_22965_spring4shell.py,7d04052a7dc00cb8ec88ff976192d11ebe8a0f29,CVE-2022-22965
+476604234,n11dc0la/PocSuite_POC,README.md,b787e81fd6ab02c975f0df0eb5466a6d2d9b0a10,CVE-2022-22947
+476604234,n11dc0la/PocSuite_POC,README.md,b787e81fd6ab02c975f0df0eb5466a6d2d9b0a10,CVE-2022-22965

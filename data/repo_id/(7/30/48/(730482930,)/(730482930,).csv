@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+730482930,scumdestroy/ArsonAssistant,README.md,5a7b3ff49afff6126cd3fc159ad3054e6210220f,CVE-2020-25262
+730482930,scumdestroy/ArsonAssistant,README.md,5a7b3ff49afff6126cd3fc159ad3054e6210220f,CVE-2020-25263
+730482930,scumdestroy/ArsonAssistant,README.md,5a7b3ff49afff6126cd3fc159ad3054e6210220f,CVE-2023-29689
+730482930,scumdestroy/ArsonAssistant,arsonassistant.sh,66d51ed399758458273b8802c956db1bee91088b,CVE-2020-25262
+730482930,scumdestroy/ArsonAssistant,arsonassistant.sh,66d51ed399758458273b8802c956db1bee91088b,CVE-2020-25263
+730482930,scumdestroy/ArsonAssistant,arsonassistant.sh,66d51ed399758458273b8802c956db1bee91088b,CVE-2023-29689

@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-379108906,satoki/csv-plus_vulnerability,README.md,060dde75c4e6e9c8779b4ee7c340448bc607c0da,CVE-2022-21241
+379108906,satoki/csv-plus_vulnerability,README.md,b5c7be6dd4122b245d7c038646478d625db8ba74,CVE-2022-21241
 379108906,satoki/csv-plus_vulnerability,_GITHUB_REPO_METADATA_,,CVE-2022-21241

@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#03
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#23
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#26
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#35
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#37
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#39
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#45
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#46
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#56
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#59
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#74
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#83
+723105174,2lambda123/JNDI-Exploit-Kit,target/JNDI-Exploit-Kit-1.0-SNAPSHOT-all.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#95

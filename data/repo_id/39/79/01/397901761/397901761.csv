@@ -2,3 +2,4 @@ repo_id,repo_full_name,file,file_sha1,match
 397901761,bernardofsr/CVEs-With-PoC,PoCs/Form Tools/README.md,976d863eb36635fc7b8d80635e2070b755df1536,CVE-2021-38143
 397901761,bernardofsr/CVEs-With-PoC,PoCs/Form Tools/README.md,976d863eb36635fc7b8d80635e2070b755df1536,CVE-2021-38144
 397901761,bernardofsr/CVEs-With-PoC,PoCs/Form Tools/README.md,976d863eb36635fc7b8d80635e2070b755df1536,CVE-2021-38145
+397901761,bernardofsr/CVEs-With-PoC,PoCs/Simple File List/README.md,c0b079f4dcb9157be6aec0e0cd1b9801dc4a62bd,CVE-2022-1119

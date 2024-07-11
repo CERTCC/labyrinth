@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+483044333,master-info/masteRcensus,data/sezioni.rda,02255f58844b3f3770f3b7a47cbd85330703db23,VU#35
+483044333,master-info/masteRcensus,data/sezioni.rda,02255f58844b3f3770f3b7a47cbd85330703db23,VU#55
+483044333,master-info/masteRcensus,data/sezioni.rda,02255f58844b3f3770f3b7a47cbd85330703db23,VU#57
+483044333,master-info/masteRcensus,data/sezioni.rda,02255f58844b3f3770f3b7a47cbd85330703db23,VU#96
+483044333,master-info/masteRcensus,data/sezioni.rda,02255f58844b3f3770f3b7a47cbd85330703db23,VU#99
+483044333,master-info/masteRcensus,data-raw/csv/stranieri_paesi.csv,191d670570b04dd511036376e37d938ddda94699,VU#2020
+483044333,master-info/masteRcensus,data-raw/csv/stranieri_paesi.csv,191d670570b04dd511036376e37d938ddda94699,VU#2021
+483044333,master-info/masteRcensus,data-raw/csv/eta01.csv.zip,8605fc6223a0edd54b0ccc4ce1044b981d469215,VU#40
+483044333,master-info/masteRcensus,data-raw/csv/eta01.csv.zip,8605fc6223a0edd54b0ccc4ce1044b981d469215,VU#43
+483044333,master-info/masteRcensus,data-raw/csv/eta01.csv.zip,8605fc6223a0edd54b0ccc4ce1044b981d469215,VU#46
+483044333,master-info/masteRcensus,data-raw/csv/eta01.csv.zip,8605fc6223a0edd54b0ccc4ce1044b981d469215,VU#66
+483044333,master-info/masteRcensus,data-raw/csv/eta01.csv.zip,8605fc6223a0edd54b0ccc4ce1044b981d469215,VU#84
+483044333,master-info/masteRcensus,data-raw/csv/eta01.csv.zip,8605fc6223a0edd54b0ccc4ce1044b981d469215,VU#90
+483044333,master-info/masteRcensus,data/stranieri_continenti.rda,d87a45bb32281962abc2a67f2ec2fa4115dd63c9,VU#72
+483044333,master-info/masteRcensus,data/professione_eta.rda,ef3869f20e1722167ccdeb975f7be8e63ca7331e,VU#37
+483044333,master-info/masteRcensus,data/professione.rda,f2646ff262f19021fccfba75ee05542c7a7bfbdb,VU#70

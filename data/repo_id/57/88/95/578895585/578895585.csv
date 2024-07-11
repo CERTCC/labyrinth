@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+578895585,Zephiles/fb-exploit,source/fb-hack/exploit/fb.c,3b747fe1f63be8df205ac0036a58ca17cd7042c4,VU#16
+578895585,Zephiles/fb-exploit,source/fb-hack/exploit/fb.c,3b747fe1f63be8df205ac0036a58ca17cd7042c4,VU#32

@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#4977,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
+VU#4977,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
+VU#4977,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
+VU#4977,0.00222222,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090

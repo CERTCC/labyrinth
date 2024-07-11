@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+535111523,hackthebox-writeups/Sekhmet-HackTheBox-Writeup,CVE-2022-3506.py,15429a842c2ec6cf3d4ffca256ab465840d9a0fd,CVE-2021-42278
+535111523,hackthebox-writeups/Sekhmet-HackTheBox-Writeup,CVE-2022-3506.py,15429a842c2ec6cf3d4ffca256ab465840d9a0fd,CVE-2022-3506
+535111523,hackthebox-writeups/Sekhmet-HackTheBox-Writeup,README.md,3ec3623845d3e9670bad0f95fc947959d6c11621,CVE-2022-3506
+535111523,hackthebox-writeups/Sekhmet-HackTheBox-Writeup,_GITHUB_REPO_METADATA_,,CVE-2022-3506

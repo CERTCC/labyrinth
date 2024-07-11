@@ -1,0 +1,65 @@
+repo_id,repo_full_name,file,file_sha1,match
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#97
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#26
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#22
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#51
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#280
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#52
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#10
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#28
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#06
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#02
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#91
+410428285,1337r0j4n/php-backdoors,SHELLs/AlfaHun73r Shell/AlfaHun73r.php,0327cc1746d1dbb3d404efc59887589ce51aa13e,VU#95
+410428285,1337r0j4n/php-backdoors,SHELLs/Evil Twin Shell/eviltwin.php,231daad38c4a644731c0bb0e4e996a87f01b09a8,VU#34
+410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,2789d37a1c7c74b0fcec4dcd09d1d9fdb2607937,VU#39
+410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,2789d37a1c7c74b0fcec4dcd09d1d9fdb2607937,VU#48
+410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,2789d37a1c7c74b0fcec4dcd09d1d9fdb2607937,VU#93
+410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,2789d37a1c7c74b0fcec4dcd09d1d9fdb2607937,VU#567
+410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,2789d37a1c7c74b0fcec4dcd09d1d9fdb2607937,VU#64
+410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,2789d37a1c7c74b0fcec4dcd09d1d9fdb2607937,VU#51
+410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,2789d37a1c7c74b0fcec4dcd09d1d9fdb2607937,VU#510
+410428285,1337r0j4n/php-backdoors,SHELLs/IndoXploit Shell/indoxploit.php,2acb7cacd68fdf4446f6ba6976b58235ceb9599a,VU#29
+410428285,1337r0j4n/php-backdoors,SHELLs/2018 WSO Shell/2018wso.php,2e32610188a1fc682f2dcef3b831f32944cd6629,VU#05
+410428285,1337r0j4n/php-backdoors,SHELLs/2018 WSO Shell/2018wso.php,2e32610188a1fc682f2dcef3b831f32944cd6629,VU#21
+410428285,1337r0j4n/php-backdoors,SHELLs/2018 WSO Shell/2018wso.php,2e32610188a1fc682f2dcef3b831f32944cd6629,VU#01
+410428285,1337r0j4n/php-backdoors,SHELLs/404 Not Found Shell/404.php,2f901b762ee2cacf97b29b727785331ec588aedd,VU#49
+410428285,1337r0j4n/php-backdoors,SHELLs/404 Not Found Shell/404.php,2f901b762ee2cacf97b29b727785331ec588aedd,VU#002
+410428285,1337r0j4n/php-backdoors,SHELLs/Priv8 Shell/priv8.php,4226c054e0f7743339e18000f9e11c47bfd6d4fc,VU#962
+410428285,1337r0j4n/php-backdoors,SHELLs/green WSO Shell/greenwso.php,4c558fcdc97b37a28f6afe5bbcd59d00f5926133,VU#5659
+410428285,1337r0j4n/php-backdoors,SHELLs/green WSO Shell/greenwso.php,4c558fcdc97b37a28f6afe5bbcd59d00f5926133,VU#25
+410428285,1337r0j4n/php-backdoors,SHELLs/Sadrazam Shell/sadrazam.php,706bb9c95e061e78db01eece98e37c7d4d45b379,VU#81
+410428285,1337r0j4n/php-backdoors,SHELLs/Sadrazam Shell/sadrazam.php,706bb9c95e061e78db01eece98e37c7d4d45b379,VU#13
+410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa.php,89d0f5355c17265b289d94178f9e49d7f5b37b84,VU#92
+410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa.php,89d0f5355c17265b289d94178f9e49d7f5b37b84,VU#12
+410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa.php,89d0f5355c17265b289d94178f9e49d7f5b37b84,VU#13
+410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa.php,89d0f5355c17265b289d94178f9e49d7f5b37b84,VU#41
+410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa.php,89d0f5355c17265b289d94178f9e49d7f5b37b84,VU#28
+410428285,1337r0j4n/php-backdoors,SHELLs/Anonim Us Shell/anonim-us.php,8cdf8d62dc9d1891d9a5bd012ee833e9d90ae4fe,VU#29
+410428285,1337r0j4n/php-backdoors,.img/64.jpeg,8d69928a6515d97c29e25fefe1a88f34e6f06c28,VU#13
+410428285,1337r0j4n/php-backdoors,SHELLs/Black Eagle Team Shell/eagle.php,926c685391acfb42c9849814b6e7095692160429,VU#29
+410428285,1337r0j4n/php-backdoors,SHELLs/Black Eagle Team Shell/eagle.php,926c685391acfb42c9849814b6e7095692160429,VU#6798
+410428285,1337r0j4n/php-backdoors,SHELLs/U7TiM4T3_H4x0R Bypass Shell/h4x0r.php,94b0b0387fc98bfa145d3f72070291df70543e05,VU#70
+410428285,1337r0j4n/php-backdoors,SHELLs/U7TiM4T3_H4x0R Bypass Shell/h4x0r.php,94b0b0387fc98bfa145d3f72070291df70543e05,VU#02
+410428285,1337r0j4n/php-backdoors,SHELLs/U7TiM4T3_H4x0R Bypass Shell/h4x0r.php,94b0b0387fc98bfa145d3f72070291df70543e05,VU#87
+410428285,1337r0j4n/php-backdoors,SHELLs/U7TiM4T3_H4x0R Bypass Shell/h4x0r.php,94b0b0387fc98bfa145d3f72070291df70543e05,VU#12
+410428285,1337r0j4n/php-backdoors,SHELLs/U7TiM4T3_H4x0R Bypass Shell/h4x0r.php,94b0b0387fc98bfa145d3f72070291df70543e05,VU#85
+410428285,1337r0j4n/php-backdoors,SHELLs/U7TiM4T3_H4x0R Bypass Shell/h4x0r.php,94b0b0387fc98bfa145d3f72070291df70543e05,VU#7292
+410428285,1337r0j4n/php-backdoors,SHELLs/X0MB13 Shell/x0mb13.php,965602d698eca2b1248f53fe17affcd7584e578c,VU#92
+410428285,1337r0j4n/php-backdoors,SHELLs/Anonymous Shell/anon.php,b8e8d2b05fc7e275133b5daf012ff231ff7c3be3,VU#33
+410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa403.php,bf7a482b98ac6532fb26cc37d54409d68773b6c7,VU#73
+410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa403.php,bf7a482b98ac6532fb26cc37d54409d68773b6c7,VU#38
+410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa403.php,bf7a482b98ac6532fb26cc37d54409d68773b6c7,VU#62
+410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa403.php,bf7a482b98ac6532fb26cc37d54409d68773b6c7,VU#153
+410428285,1337r0j4n/php-backdoors,SHELLs/0x Shell/0x.php,d3ae76ec3cb1d0e54aa4e69c32d190aad4198f67,VU#29
+410428285,1337r0j4n/php-backdoors,SHELLs/0x Shell/0x.php,d3ae76ec3cb1d0e54aa4e69c32d190aad4198f67,VU#25
+410428285,1337r0j4n/php-backdoors,SHELLs/RC Shell/rc.php,d5dd3d6d21d5327c282c40a2c441d0034b87e576,VU#52
+410428285,1337r0j4n/php-backdoors,SHELLs/RC Shell/rc.php,d5dd3d6d21d5327c282c40a2c441d0034b87e576,VU#25
+410428285,1337r0j4n/php-backdoors,SHELLs/RC Shell/rc.php,d5dd3d6d21d5327c282c40a2c441d0034b87e576,VU#09
+410428285,1337r0j4n/php-backdoors,SHELLs/RC Shell/rc.php,d5dd3d6d21d5327c282c40a2c441d0034b87e576,VU#05
+410428285,1337r0j4n/php-backdoors,SHELLs/RC Shell/rc.php,d5dd3d6d21d5327c282c40a2c441d0034b87e576,VU#19
+410428285,1337r0j4n/php-backdoors,SHELLs/RC Shell/rc.php,d5dd3d6d21d5327c282c40a2c441d0034b87e576,VU#29
+410428285,1337r0j4n/php-backdoors,SHELLs/b374k V 2.8 Shell/b374k.php,d8737bbaa266e499dc8338702215ab6696c1cf6d,VU#77
+410428285,1337r0j4n/php-backdoors,SHELLs/b374k V 2.8 Shell/b374k.php,d8737bbaa266e499dc8338702215ab6696c1cf6d,VU#28
+410428285,1337r0j4n/php-backdoors,SHELLs/Mad Tools Shell/mad.php,e8f7c766fdb67e856e9b68671ee264984e949372,VU#12
+410428285,1337r0j4n/php-backdoors,SHELLs/Rebirth Haxor Shell/haxor.php,f5a3a2e2cb4a3afd1aa461fee0d3f0b8ec392f57,VU#83

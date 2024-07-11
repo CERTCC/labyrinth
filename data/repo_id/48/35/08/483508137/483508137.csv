@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+483508137,kagancapar/7-zip-malicious-code-vulnerability,README.md,78060767cf2f171a17c08d9ed77f467c47695a3e,CVE-2022-29072

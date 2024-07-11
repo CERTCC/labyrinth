@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+519942092,keven1z/redTeamGadget,plugins/plg_confluence_ognl.py,3d1669e34ab050ee17d9f52d4bffaba230b37239,CVE-2022-26134
+519942092,keven1z/redTeamGadget,plugins/plg_kibana_unauthorized.py,4b8b4602ba5f839e5f98a3bd7371c4234874cc7c,CVE-2019-7609
+519942092,keven1z/redTeamGadget,README.md,592f3e2a94c82e60f83c90b9b9d21864ae629ffa,CVE-2022-26134

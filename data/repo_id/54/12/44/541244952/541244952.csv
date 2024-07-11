@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+541244952,Marsh61/System-Mechanic-Exploit,System-Mechanic-Arbitrary-Read-Write/Source.cpp,152c9f958d82cc90d117ece68fce1f942954afb0,CVE-2018-5701
+541244952,Marsh61/System-Mechanic-Exploit,System-Mechanic-Fuzzer/souce.cpp,6de77b17700a1da02fbf9dbb9f708e68482b1ae5,CVE-2018-5701
+541244952,Marsh61/System-Mechanic-Exploit,System-Mechanic-Exploit/Source.cpp,719651057b695b72b483406392a94fbd5e20d9a7,CVE-2018-5701

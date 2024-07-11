@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+603411504,Serendipity-Lucky/CVE-2018-2628,CVE-2018-2628漏洞检测工具/使用方法.txt,2ab1568e490ad4fc95953b09642383dadba2b64f,CVE-2018-2628
+603411504,Serendipity-Lucky/CVE-2018-2628,README.md,584e455dabcdbdd157d2216588d85da088eaf338,CVE-2018-2628
+603411504,Serendipity-Lucky/CVE-2018-2628,CVE-2018-2628漏洞检测工具/url.txt,75c76eb9d4c577294c5a1c0ef860d98ea994ed18,CVE-2018-2628
+603411504,Serendipity-Lucky/CVE-2018-2628,ysoserial-0.1-cve-2018-2628-all.jar,8bf7789ab4a373567c6c4207eb9d1f12bc52ceef,CVE-2018-2628
+603411504,Serendipity-Lucky/CVE-2018-2628,ysoserial-0.1-cve-2018-2628-all.jar,8bf7789ab4a373567c6c4207eb9d1f12bc52ceef,VU#42
+603411504,Serendipity-Lucky/CVE-2018-2628,ysoserial-0.1-cve-2018-2628-all.jar,8bf7789ab4a373567c6c4207eb9d1f12bc52ceef,VU#83
+603411504,Serendipity-Lucky/CVE-2018-2628,weblogic_poc.py,abafbdde28d0d40b11e6e376facd68f6d3404412,CVE-2018-2628
+603411504,Serendipity-Lucky/CVE-2018-2628,CVE-2018-2628漏洞检测工具/CVE-2018-2628-MultiThreading.py,f3e6aa72c8e0f8d72e9446b64aa2e2b265bdd9bc,CVE-2018-2628
+603411504,Serendipity-Lucky/CVE-2018-2628,_GITHUB_REPO_METADATA_,,CVE-2018-2628

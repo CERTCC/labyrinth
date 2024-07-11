@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+615967703,ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook,CVE-2023-23397.cs,4772c69e4162ee63fd3423fa48bcf43d51ffbc27,CVE-2023-23397
+615967703,ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook,README.md,69eae969a5e93d68b2b4c99dd87582ad94134961,CVE-2023-23397
+615967703,ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook,_GITHUB_REPO_METADATA_,,CVE-2023-23397

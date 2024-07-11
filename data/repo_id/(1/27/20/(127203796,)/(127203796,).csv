@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+127203796,tmenochet/PowerUtils,New-RogueAccount.ps1,b9b8b4a18037ebda90f80e9be8d8f0c127959c89,CVE-2021-34470

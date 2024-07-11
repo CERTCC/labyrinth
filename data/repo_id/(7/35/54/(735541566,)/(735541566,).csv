@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+735541566,DedSec-47/Metasploit-Exploits-CVE-2023-6710,README.md,129d1b2d9d387b241da82c15c76d005484cfc74c,CVE-2023-6710
+735541566,DedSec-47/Metasploit-Exploits-CVE-2023-6710,mod_cluster_xss.rb,976a81fdb4b5147bba4aa61be9070e0b3975633b,CVE-2023-6710
+735541566,DedSec-47/Metasploit-Exploits-CVE-2023-6710,_GITHUB_REPO_METADATA_,,CVE-2023-6710

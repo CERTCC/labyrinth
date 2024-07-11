@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+468115159,Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,files/httpd-2.4.49.tar.gz,525378680b3474ff319b83af76565891f8b98331,VU#35
+468115159,Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,README,e0c8ee7c3f694f3b1e99aa2a7d643f2d962bea76,CVE-2021-41773

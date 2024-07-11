@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+742705000,Jake123otte1/BadBizness,README.md,de8a196e2db515ad8485f9bb044b16b9a32e732a,CVE-2023-49070
+742705000,Jake123otte1/BadBizness,README.md,de8a196e2db515ad8485f9bb044b16b9a32e732a,CVE-2023-51467
+742705000,Jake123otte1/BadBizness,_GITHUB_REPO_METADATA_,,CVE-2023-51467

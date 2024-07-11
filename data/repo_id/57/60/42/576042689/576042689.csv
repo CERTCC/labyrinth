@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+576042689,SuprajaBaskaran/exploits-npm,node_modules/underscore/modules/template.js,122240365141967be209d7b00d86066bfec44b87,CVE-2021-23358
+576042689,SuprajaBaskaran/exploits-npm,node_modules/@node-red/editor-client/public/vendor/font-awesome/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+576042689,SuprajaBaskaran/exploits-npm,node_modules/xmldom/CHANGELOG.md,17cb49f273f16973de11ecda32e802841f7a9e5d,CVE-2021-21366
+576042689,SuprajaBaskaran/exploits-npm,node_modules/xmldom/CHANGELOG.md,17cb49f273f16973de11ecda32e802841f7a9e5d,GHSA-H6Q6-9HQW-RWFV
+576042689,SuprajaBaskaran/exploits-npm,node_modules/@node-red/editor-client/public/vendor/font-awesome/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+576042689,SuprajaBaskaran/exploits-npm,node_modules/underscore/underscore-umd.js,56c4915178a5c7c12d9c09130b4a5607ed081222,CVE-2021-23358
+576042689,SuprajaBaskaran/exploits-npm,node_modules/underscore/underscore-node-f.cjs,627f1446d815c989761a51d0a1a338bab50f1218,CVE-2021-23358
+576042689,SuprajaBaskaran/exploits-npm,node_modules/underscore/underscore-esm.js,78cc1b9ea769eb86035de3a3ad19fef48bcbaa05,CVE-2021-23358
+576042689,SuprajaBaskaran/exploits-npm,node_modules/underscore/cjs/template.js,b1e279163296972087a73789834d904bfbf86c53,CVE-2021-23358
+576042689,SuprajaBaskaran/exploits-npm,node_modules/underscore/amd/template.js,bd784cc36921f116c94005390834b984bca807b1,CVE-2021-23358
+576042689,SuprajaBaskaran/exploits-npm,node_modules/@node-red/editor-client/public/vendor/font-awesome/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
+576042689,SuprajaBaskaran/exploits-npm,node_modules/moment/CHANGELOG.md,dcf3118de718dc88e47d8820ee558eb1bcf77e1f,GHSA-8HFJ-J24R-96C4

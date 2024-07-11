@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+476247545,webraybtl/CVE-2022-24934,README.md,bb144e2e4883f7a46b27fedeeacac834a1551f86,CVE-2022-24934
+476247545,webraybtl/CVE-2022-24934,client/wpsupdate.exe,efaa9660b8b63c6314729254e1b477d55c626b9a,VU#7641
+476247545,webraybtl/CVE-2022-24934,_GITHUB_REPO_METADATA_,,CVE-2022-24934

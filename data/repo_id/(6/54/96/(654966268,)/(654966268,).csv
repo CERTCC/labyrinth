@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+654966268,topscoder/nuclei-zero-day,nuclei-templates/CVE-2024-34470.yaml,06f2df48a969bf96e6ecc33ebda188af5e702341,CVE-2024-34470
+654966268,topscoder/nuclei-zero-day,nuclei-templates/CVE-2023-34096.yaml,5ee4b5a51d8419b83d17842ce09cbfa2db184ab8,CVE-2023-34096
+654966268,topscoder/nuclei-zero-day,nuclei-templates/CVE-2023-34096.yaml,5ee4b5a51d8419b83d17842ce09cbfa2db184ab8,GHSA-VHQC-649H-994H
+654966268,topscoder/nuclei-zero-day,example-template.yaml,67436106cf107faa2b877b025afc66a73f4c02e4,CVE-2023-35047
+654966268,topscoder/nuclei-zero-day,nuclei-templates/log4j-fuzz-head-poc.yaml,d8deb55171ef1bfffdecb4476c4e8d28be858357,CVE-2021-44228
+654966268,topscoder/nuclei-zero-day,nuclei-templates/log4j-fuzz-head-poc.yaml,d8deb55171ef1bfffdecb4476c4e8d28be858357,VU#57
+654966268,topscoder/nuclei-zero-day,nuclei-templates/log4j-fuzz-head-poc.yaml,d8deb55171ef1bfffdecb4476c4e8d28be858357,VU#930724

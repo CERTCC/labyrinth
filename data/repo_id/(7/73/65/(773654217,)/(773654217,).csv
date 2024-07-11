@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+773654217,Miraitowa700/exploits,Kubernetes/Base Testing.md,4167d255fbbbbf93a55ea8688717a93fd52f37c7,CVE-2014-6271
+773654217,Miraitowa700/exploits,QNAP/CVE-2024-21899 exploit.md,5df7758974aafa5e6e61c9f1f5afeae409584a83,CVE-2024-21899
+773654217,Miraitowa700/exploits,Aiohttp/Aiohttp-CVE-2024-23334.md,e30a202e5b52e049e8e2e9a2166b22f2ce23b1eb,CVE-2024-23334

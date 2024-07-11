@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+479014774,mr-r3bot/ManageEngine-CVE-2020-28653,exploit.py,36526f04df9f450f785bbb06669d49d81c927f19,CVE-2020-28653
+479014774,mr-r3bot/ManageEngine-CVE-2020-28653,exploit.py,36526f04df9f450f785bbb06669d49d81c927f19,CVE-2021-3287
+479014774,mr-r3bot/ManageEngine-CVE-2020-28653,_GITHUB_REPO_METADATA_,,CVE-2020-28653

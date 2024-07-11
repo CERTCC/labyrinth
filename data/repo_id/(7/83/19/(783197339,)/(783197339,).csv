@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+783197339,pierretallotte/cve-poc,cve-2016-20012/Dockerfile,8b4c2bf5f024b0e5e40b8a37e5c20733c846f003,CVE-2016-20012
+783197339,pierretallotte/cve-poc,cve-2016-20012/README.md,afc39ee0d21d2ca736b347616637050908a69596,CVE-2016-20012
+783197339,pierretallotte/cve-poc,cve-2016-20012/README.md,afc39ee0d21d2ca736b347616637050908a69596,CVE-2021-41617
+783197339,pierretallotte/cve-poc,cve-2016-20012/poc.c,e24773e246dec1f91c4dcdc21277d39384856161,CVE-2016-20012

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+753315194,l33t1/Mirai-1337,Cosmic-Mirai.zip,202ab2942f6bc3d76b7a135bb5b910f724a11744,VU#98
+753315194,l33t1/Mirai-1337,customer_botnet1.zip,69dc15ed1d6aa9ea4e5e202be4e746254ea0086c,VU#98
+753315194,l33t1/Mirai-1337,aqua.zip,accca13e4e938d329c1d248235969e238a02ca46,VU#98

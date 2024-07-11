@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+520122417,unCodeBoss/Core-BIGIP-RCE-Unauthenticated,exploit.py,6096308765209f6ff89f7511f4da841496e4a2f8,CVE-2022-0139

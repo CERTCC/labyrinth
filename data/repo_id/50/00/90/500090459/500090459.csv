@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+500090459,Vulnmachines/Confluence-CVE-2022-26134,README.md,b57a4381cb09286c80a00fa6f57592b81f71b734,CVE-2022-26134
+500090459,Vulnmachines/Confluence-CVE-2022-26134,_GITHUB_REPO_METADATA_,,CVE-2022-26134

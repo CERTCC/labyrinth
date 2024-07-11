@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+492113577,NEED-Programming/Exploit-Development,toolkit/PSTools.zip,324722f37ed3826364dc180cf99e2796d67beb2f,VU#49
+492113577,NEED-Programming/Exploit-Development,toolkit/PSTools.zip,324722f37ed3826364dc180cf99e2796d67beb2f,VU#50
+492113577,NEED-Programming/Exploit-Development,ChatGPT_OffSec.txt,574058f85715bed9cd4a91360133de4c3d40bf52,CVE-2017-0144
+492113577,NEED-Programming/Exploit-Development,ChatGPT_OffSec.txt,574058f85715bed9cd4a91360133de4c3d40bf52,MS17-010

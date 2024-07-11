@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-14-372,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 ZDI-14-372,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 ZDI-14-372,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 ZDI-14-372,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
@@ -7,3 +8,6 @@ ZDI-14-372,0.00023798,https://github.com/snskiff/metasploit-framework,snskiff/me
 ZDI-14-372,0.00023669,https://github.com/snskiff/metasploit-framework__1,snskiff/metasploit-framework__1,133930484
 ZDI-14-372,0.00023646,https://github.com/mdand2000/rapid7-metasploit-framework,mdand2000/rapid7-metasploit-framework,134903460
 ZDI-14-372,0.00023646,https://github.com/RuZGaRBeY/metasploit-framework,RuZGaRBeY/metasploit-framework,134635059
+ZDI-14-372,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-14-372,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+ZDI-14-372,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

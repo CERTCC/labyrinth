@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+816718038,H4ck3rKing/Vulnerability-Assessment-and-Pentesting-VAPT-on-Windows-7,Documentation/03-Exploitation/README.md,629340c74f18fbfdd667a47d8354537d445dd047,CVE-2019-0708
+816718038,H4ck3rKing/Vulnerability-Assessment-and-Pentesting-VAPT-on-Windows-7,Documentation/03-Exploitation/README.md,629340c74f18fbfdd667a47d8354537d445dd047,MS17-010
+816718038,H4ck3rKing/Vulnerability-Assessment-and-Pentesting-VAPT-on-Windows-7,README.md,7f043b7fdd17596b59ceb432a929d228d7340032,CVE-2015-2426
+816718038,H4ck3rKing/Vulnerability-Assessment-and-Pentesting-VAPT-on-Windows-7,README.md,7f043b7fdd17596b59ceb432a929d228d7340032,CVE-2016-0099
+816718038,H4ck3rKing/Vulnerability-Assessment-and-Pentesting-VAPT-on-Windows-7,README.md,7f043b7fdd17596b59ceb432a929d228d7340032,CVE-2019-0708
+816718038,H4ck3rKing/Vulnerability-Assessment-and-Pentesting-VAPT-on-Windows-7,README.md,7f043b7fdd17596b59ceb432a929d228d7340032,MS17-010

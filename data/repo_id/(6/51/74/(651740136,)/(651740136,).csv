@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+651740136,drfabiocastro/geoserver,README.md,a08add4d542554627c8211b6841d7f2435eab6f9,CVE-2023-25157
+651740136,drfabiocastro/geoserver,_GITHUB_REPO_METADATA_,,CVE-2023-25157

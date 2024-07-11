@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+544761745,RICSecLab/exploit-poc-public,CVE-2021-30633/README.md,3872c2d469d2bfa3429a0a4b430e238960cf373a,CVE-2021-30633
+544761745,RICSecLab/exploit-poc-public,CVE-2021-30633/poc.html,8838052dddb07dfd5e47fc0989dbfe5ae53fa51f,CVE-2021-30633
+544761745,RICSecLab/exploit-poc-public,CVE-2021-30633/poc.js,a8c651c485ea2a48399fd0fda64c324280214088,CVE-2021-30633

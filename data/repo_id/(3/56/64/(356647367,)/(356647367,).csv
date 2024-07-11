@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+356647367,IdanBanani/Binary-exploitation-Pwn,Hebrew-HeapExp/DW134-1-glibc-heap-exploitation.pdf,0e7cc0008617377116082a4bd752f9cc6c61f3f0,CVE-2021-3156
+356647367,IdanBanani/Binary-exploitation-Pwn,Hebrew-HeapExp/DW134-1-glibc-heap-exploitation.pdf,0e7cc0008617377116082a4bd752f9cc6c61f3f0,VU#95
+356647367,IdanBanani/Binary-exploitation-Pwn,Hebrew-HeapExp/RHME3 Exploit Challange.pdf,11214ae713fd00b4b8d50a386b952486e3a4ad94,VU#15
+356647367,IdanBanani/Binary-exploitation-Pwn,Tools/EDGE OF THE ART IN VULNERABILITY RESEARCH-Jan2021.pdf,625915326901a4d06e7531d38e841317c2486da1,VU#988
+356647367,IdanBanani/Binary-exploitation-Pwn,Hebrew-HeapExp/DW134-1-glibc-heap-exploitation.docx,95c8c9d88d78cb54516e7a9bfceec5ade23f4f6d,VU#54
+356647367,IdanBanani/Binary-exploitation-Pwn,Tools/EDGE OF THE ART IN VULNERABILITY RESEARCH-april2023.pdf,ef8bc81648257361648364f21861360497730968,VU#100
+356647367,IdanBanani/Binary-exploitation-Pwn,Tools/EDGE OF THE ART IN VULNERABILITY RESEARCH-april2023.pdf,ef8bc81648257361648364f21861360497730968,VU#14
+356647367,IdanBanani/Binary-exploitation-Pwn,Tools/EDGE OF THE ART IN VULNERABILITY RESEARCH-april2023.pdf,ef8bc81648257361648364f21861360497730968,VU#577

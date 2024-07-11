@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-356529127,Closerset/WordPress-RCE-EXP,README.md,81e8b120ef87d1678b50b93107ec26d0d1b323ae,CVE-2016-10033
+356529127,Closerset/WordPress-RCE-EXP,README.md,0e26c84c7a8b4c8a7fa86d0e79dc329e4f796b37,CVE-2016-10033

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+628304528,cfreal/ten,docs/site/css/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+628304528,cfreal/ten,docs/site/css/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+628304528,cfreal/ten,README.md,bff3f7767744958c847b435c3522abdadb390d6c,CVE-2018-7600
+628304528,cfreal/ten,docs/site/css/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96

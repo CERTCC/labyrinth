@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+807309759,TypicalModMaker/list-of-vulnerable-sonatype-servers,README.md,a4ddcadad2b883b5e71c640880f9bc8f23c0dd7c,CVE-2024-4956

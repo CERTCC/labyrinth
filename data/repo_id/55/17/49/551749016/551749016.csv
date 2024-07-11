@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+551749016,prodrigmd/rce,public/vendor/fontawesome-free/webfonts/fa-brands-400.woff2,0613c7ebba55ee47ef302c0f7766324692f899a7,VU#89
+551749016,prodrigmd/rce,public/assets/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+551749016,prodrigmd/rce,public/assets/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+551749016,prodrigmd/rce,public/assets/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96

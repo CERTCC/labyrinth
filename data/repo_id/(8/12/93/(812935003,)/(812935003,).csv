@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+812935003,it-t4mpan/check_cve_2024_4577.sh,README.md,48c9e82ac706f28525e047c4a585c715199e72f0,CVE-2024-4577
+812935003,it-t4mpan/check_cve_2024_4577.sh,cve_2024_4577.sh,993724b7135b0c071ef507fdd5106fd27bf9002d,CVE-2024-4577
+812935003,it-t4mpan/check_cve_2024_4577.sh,_GITHUB_REPO_METADATA_,,CVE-2024-4577

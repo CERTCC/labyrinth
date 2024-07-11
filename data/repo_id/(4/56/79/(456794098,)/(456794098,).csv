@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+456794098,shyeun/exploit,node_modules/diff/lib/patch/parse.js,6c174dc63006189b717bcf558ac5319be6e8357d,VU#25
+456794098,shyeun/exploit,node_modules/diff/lib/patch/create.js,aa626b2d4439c41ffd06b1ae1d725c20554017c0,VU#29
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/reify-cases/tap-react15-collision-legacy-sw.js,b304f2dc5cf96311f210ca56683fc8a2b51e8982,VU#43
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/reify-cases/audit-fix-old-tap.js,bac2a4317cda5269dbdbfadc49139d7568717b9e,CVE-2019-10744
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/reify-cases/audit-fix-old-tap.js,bac2a4317cda5269dbdbfadc49139d7568717b9e,CVE-2019-10746
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/reify-cases/audit-fix-old-tap.js,bac2a4317cda5269dbdbfadc49139d7568717b9e,CVE-2019-10747
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/reify-cases/audit-fix-old-tap.js,bac2a4317cda5269dbdbfadc49139d7568717b9e,CVE-2019-19919
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/reify-cases/dep-missing-resolved.js,c2bf8989c12120fb581e542d0ce24eaefd143116,VU#49
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/audit-nyc-mkdirp/audit-response.json.bak,cf86bb3becce5a9e42265843929d8bd682eda43f,CVE-2018-16487
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/audit-nyc-mkdirp/audit-response.json.bak,cf86bb3becce5a9e42265843929d8bd682eda43f,CVE-2019-10744
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/audit-nyc-mkdirp/audit-response.json.bak,cf86bb3becce5a9e42265843929d8bd682eda43f,CVE-2019-10746
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/audit-nyc-mkdirp/audit-response.json.bak,cf86bb3becce5a9e42265843929d8bd682eda43f,CVE-2019-10747
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/audit-nyc-mkdirp/audit-response.json.bak,cf86bb3becce5a9e42265843929d8bd682eda43f,CVE-2019-19919
+456794098,shyeun/exploit,workspaces/arborist/test/fixtures/reify-cases/tap-and-flow.js,d1f7442f306e74075a97e8725b3bf7a027ebf7ca,VU#43

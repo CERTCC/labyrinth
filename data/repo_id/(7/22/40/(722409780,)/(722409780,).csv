@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+722409780,nidhi7598/linux-4.19.72_net_CVE-2023-4207,core/devlink.c,2b63f3ff8b635c2d1ef967a9fa654c56b320efbc,VU#16
+722409780,nidhi7598/linux-4.19.72_net_CVE-2023-4207,core/devlink.c,2b63f3ff8b635c2d1ef967a9fa654c56b320efbc,VU#32
+722409780,nidhi7598/linux-4.19.72_net_CVE-2023-4207,ipv6/route.c,99cb37795bcf1f9e55b3aee6dc534e7b37e5a352,BID-0
+722409780,nidhi7598/linux-4.19.72_net_CVE-2023-4207,_GITHUB_REPO_METADATA_,,CVE-2023-4207

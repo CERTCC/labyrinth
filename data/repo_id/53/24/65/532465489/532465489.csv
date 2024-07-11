@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+532465489,xbfding/XiaoBai_exploit,CVE_2016_3088/CVE_2016_3088.py,192b8a79c29e7a2446cd61603711b32e098bed4c,CVE-2016-3088
+532465489,xbfding/XiaoBai_exploit,CVE_2016_3088/cmd.jsp,3aadb317e5147e700aa74a967853bba8a21f4822,CVE-2016-3088
+532465489,xbfding/XiaoBai_exploit,CVE_2016_3088/ant.jsp,4c8495d5a20b569cb9487ab25a13529552d1d963,CVE-2016-3088
+532465489,xbfding/XiaoBai_exploit,README.md,7a4e9ae87e4c47199a979e56d511f925be8254c8,CVE-2016-3088

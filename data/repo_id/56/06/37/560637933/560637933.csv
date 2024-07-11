@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+560637933,micr0sh0ft/certscare-openssl3-exploit,README.md,c767da1191530eb557413622df405c91040cc2dd,CVE-2022-3602
+560637933,micr0sh0ft/certscare-openssl3-exploit,README.md,c767da1191530eb557413622df405c91040cc2dd,CVE-2022-3786

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+242901849,hackarada/cve-2015-3306,README.md,425cc865f24c609e268d8e0409a35ba0925a6df5,CVE-2015-3306
+242901849,hackarada/cve-2015-3306,_GITHUB_REPO_METADATA_,,CVE-2015-3306

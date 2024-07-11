@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+599263645,Oracle-Security/Weaponized-CVEs,CVE-2022-47986.py,3936e33fafda0c9cfa0056211062d9c9af0a1ac3,CVE-2022-47986
+599263645,Oracle-Security/Weaponized-CVEs,CVE-2020-1938.py,3f6215e4512ebcd595ec0980c908fb11b58cf4b2,CVE-2020-1938

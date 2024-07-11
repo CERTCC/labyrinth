@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+539590915,KTH-LangSec/server-side-prototype-pollution,nodejs/child_process/execSync.env.lnx.PoC.js,0354aa88ffbaeab170415403429464d9477f47b8,CVE-2019-7609
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2019-7609
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2022-24760
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2022-39396
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2022-41878
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2022-41879
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2023-23917
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2023-31414
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2023-31415
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2023-36475
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,CVE-2024-27931
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,GHSA-462X-C3JW-7VR6
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,GHSA-93VW-8FM5-P2JF
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,GHSA-PRM5-8G2M-24GG
+539590915,KTH-LangSec/server-side-prototype-pollution,README.md,da9a2df47c95929c23ac743197488c53d9840442,GHSA-XPRV-WVH7-QQQX
+539590915,KTH-LangSec/server-side-prototype-pollution,nodejs/child_process/spawnSync.env.lnx.PoC.js,f36d062cab133b90c309c686ecb45c26a74aa6fe,CVE-2019-7609

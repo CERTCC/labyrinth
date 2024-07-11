@@ -1,7 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-3092,1.00000000,https://github.com/terncgod/cpanel_entropysearch_enum_users,terncgod/cpanel_entropysearch_enum_users,120061444
+OSVDB-3092,0.50000000,https://github.com/johniwasz/rce-serialization-dotnet,johniwasz/rce-serialization-dotnet,708227992
 OSVDB-3092,0.33333333,https://github.com/s-leonhardt/THM-RootMe,s-leonhardt/THM-RootMe,446085084
 OSVDB-3092,0.33333333,https://github.com/Kloox/exploit_challenges_42,Kloox/exploit_challenges_42,347638379
+OSVDB-3092,0.20000000,https://github.com/hotpotcookie/CVE-2022-44877-white-box,hotpotcookie/CVE-2022-44877-white-box,602139288
 OSVDB-3092,0.16666667,https://github.com/rrmomaya2900/0dayWriteup-THM,rrmomaya2900/0dayWriteup-THM,446943711
 OSVDB-3092,0.16666667,https://github.com/elc4br4/0day-WriteUp-TryHackme-CTF-Medium,elc4br4/0day-WriteUp-TryHackme-CTF-Medium,440698452
 OSVDB-3092,0.16666667,https://github.com/ddmoitra/Cybersecurity_Infrastructure_Sample_Attack_Step_Details_Walkthrough-Dmitry_Nikto_Metasploit,ddmoitra/Cybersecurity_Infrastructure_Sample_Attack_Step_Details_Walkthrough-Dmitry_Nikto_Metasploit,361279773
@@ -10,13 +12,16 @@ OSVDB-3092,0.14285714,https://github.com/TBernard97/Pwning-Metasploitable,TBerna
 OSVDB-3092,0.12500000,https://github.com/g78/kevgir1,g78/kevgir1,100262124
 OSVDB-3092,0.10000000,https://github.com/Nadim120/metasploitHackinginfoFromKali,Nadim120/metasploitHackinginfoFromKali,363375904
 OSVDB-3092,0.10000000,https://github.com/abatchy17/abatchy17.github.io,abatchy17/abatchy17.github.io,102047844
+OSVDB-3092,0.09090909,https://github.com/saadoxo/Vulnerability-assessment-on-Kioptrix-Level-1,saadoxo/Vulnerability-assessment-on-Kioptrix-Level-1,562528635
 OSVDB-3092,0.09090909,https://github.com/joshmalek/ethack,joshmalek/ethack,261077976
+OSVDB-3092,0.08333333,https://github.com/Nishant-Pall/Kioptrix-exploit,Nishant-Pall/Kioptrix-exploit,547369321
 OSVDB-3092,0.07692308,https://github.com/brunocampos01/seguranca-de-redes,brunocampos01/seguranca-de-redes,179489417
 OSVDB-3092,0.05882353,https://github.com/rc-work/HackTheBox,rc-work/HackTheBox,211715402
 OSVDB-3092,0.01818182,https://github.com/crake7/CTF,crake7/CTF,330795559
 OSVDB-3092,0.01219512,https://github.com/Sma-Das/TryHackMe,Sma-Das/TryHackMe,382572363
-OSVDB-3092,0.00653595,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
+OSVDB-3092,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 OSVDB-3092,0.00645161,https://github.com/ChrisDryden/CTF-Toolkit,ChrisDryden/CTF-Toolkit,180024946
 OSVDB-3092,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
 OSVDB-3092,0.00518135,https://github.com/sabri-zaki/EasY_HaCk,sabri-zaki/EasY_HaCk,148261032
+OSVDB-3092,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 OSVDB-3092,0.00380228,https://github.com/alichtman/writeups,alichtman/writeups,196810793

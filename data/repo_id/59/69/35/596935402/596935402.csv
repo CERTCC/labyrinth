@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+596935402,galoget/ResponsiveFileManager-CVE-2022-46604,CVE-2022-46604-exploit.py,3566a3f4ae75eff8bbd258decc7afb396749cdac,CVE-2022-46604
+596935402,galoget/ResponsiveFileManager-CVE-2022-46604,README.md,5caa7c600cc94431dc251940087e2abd70a6bdd2,CVE-2022-46604
+596935402,galoget/ResponsiveFileManager-CVE-2022-46604,_GITHUB_REPO_METADATA_,,CVE-2022-46604

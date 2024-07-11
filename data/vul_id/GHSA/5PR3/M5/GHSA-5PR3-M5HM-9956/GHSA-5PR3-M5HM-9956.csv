@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-5PR3-M5HM-9956,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+GHSA-5PR3-M5HM-9956,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
+GHSA-5PR3-M5HM-9956,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-5PR3-M5HM-9956,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

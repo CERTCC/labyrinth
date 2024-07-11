@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-Q7XC-35G4-G566,0.33333333,https://github.com/1SeaMy/CVE-2022-22954,1SeaMy/CVE-2022-22954,502734227
+GHSA-Q7XC-35G4-G566,0.08333333,https://github.com/west-wind/Threat-Hunting-With-Splunk,west-wind/Threat-Hunting-With-Splunk,480727617
+GHSA-Q7XC-35G4-G566,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-Q7XC-35G4-G566,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+732816678,0xrobiul/CVE-2023-49070,README.md,22ed73f57101f3b6a168342693ca865607409c4b,CVE-2023-49070
+732816678,0xrobiul/CVE-2023-49070,CVE-2023-49070.py,60ae553e0c18f2ee87e7a2c5085318db77df04fd,CVE-2023-49070
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#03
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#26
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#35
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#37
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#38
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#39
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#45
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#56
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#76
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#83
+732816678,0xrobiul/CVE-2023-49070,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#95
+732816678,0xrobiul/CVE-2023-49070,_GITHUB_REPO_METADATA_,,CVE-2023-49070

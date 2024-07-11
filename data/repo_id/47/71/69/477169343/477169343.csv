@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+477169343,lem0nSec/eCXD,Windows/CVE-2010-5301/Kolibrì_v2.0_Egghunter+Basic.py,0811e3158c84ef793428d1852bd235b9efa5a3ab,CVE-2010-5301
+477169343,lem0nSec/eCXD,Windows/CVE-2017-15221/ASX to MP3 Converter (DEP + ASLR bypass).py,0c240da8c9d9894295ec83a9dce624dcc724be4c,CVE-2017-15221
+477169343,lem0nSec/eCXD,Windows/CVE-2009-1330/Easy RM to MP3 Converter (DEP + ASLR Bypass).py,1c510b03282ea597dd251bb2a079091dc6078ff7,CVE-2009-1330
+477169343,lem0nSec/eCXD,Windows/CVE-2009-0182/VUPlayer 2.49 (DEP + ASLR Bypass).py,57f66a9feca29d78cf761cc3e8858c6d5f0ba985,CVE-2009-0182
+477169343,lem0nSec/eCXD,Windows/CVE-2017-9544/EasyChat v3.1.0 (SEH Overflow).py,5a5f90b3c80475d46b19ad369e6db6ca90c4831b,CVE-2017-9544
+477169343,lem0nSec/eCXD,Windows/CVE-2006-2212/Sami FTP Server v2.0.2 (SEH overflow).py,6fc8ed55cab4b76a5399e7824d35ef6262d305a7,CVE-2006-2212
+477169343,lem0nSec/eCXD,Windows/CVE-2012-5106/FreeFloatFTP v1.0 (Stack-based overflow).py,a55da045a712e44e66a2c48a182a5c99a73a3bbc,CVE-2012-5106
+477169343,lem0nSec/eCXD,Windows/CVE-2009-4660/BigAntServer v2.52 USV command (SEH overflow).py,e2c47e7278eec731dc9edbbb1c2f05851748b555,CVE-2009-4660

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+779797660,NotReallyJustin/Email-Spoof,node_modules/nodemailer/CHANGELOG.md,eb9e0260dd0ccbe8c0908f389b0fd551e5851f9f,GHSA-9H6G-PR28-7CQP

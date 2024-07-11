@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+741375645,BHNamSSD/Exploits-vulnerability-MS17-010,README.md,413b16d17847262f6e569d26b4a0a4b81e7eef3a,MS17-010
+741375645,BHNamSSD/Exploits-vulnerability-MS17-010,lab.txt,d804ddcc5b6bdf235821c102270afffc446b6753,CVE-2017-0143
+741375645,BHNamSSD/Exploits-vulnerability-MS17-010,lab.txt,d804ddcc5b6bdf235821c102270afffc446b6753,MS17-010
+741375645,BHNamSSD/Exploits-vulnerability-MS17-010,_GITHUB_REPO_METADATA_,,MS17-010

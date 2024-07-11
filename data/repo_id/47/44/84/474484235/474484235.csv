@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+474484235,sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability,README.md,e60ac9e44b91e3ad13a280da4655db43b8bfd26b,CVE-2022-21668
+474484235,sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability,README.md,e60ac9e44b91e3ad13a280da4655db43b8bfd26b,GHSA-QC9X-GJCV-465W
+474484235,sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability,_GITHUB_REPO_METADATA_,,CVE-2022-21668

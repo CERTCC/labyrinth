@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+601962205,daynis-olman/drupalgeddon-shell-exploit,README.md,d9ec58e643ca9945ba80ce9ba1fbed4f45b0c292,CVE-2018-7600

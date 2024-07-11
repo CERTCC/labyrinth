@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+770388155,c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit,README.md,ab450e44e30466bf46bd7facac399dbe90cddc9b,CVE-2024-28222
+770388155,c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit,_GITHUB_REPO_METADATA_,,CVE-2024-28222

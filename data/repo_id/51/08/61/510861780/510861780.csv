@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+510861780,ehtec/rpcpy-exploit,rpcpy-exploit.py,512405e5c4bf63fffe8992e336ffcf965784aa7e,CVE-2022-35411
+510861780,ehtec/rpcpy-exploit,README.md,58cdbcf5e3a75316bd384c63d0920afe57ca7948,CVE-2022-35411

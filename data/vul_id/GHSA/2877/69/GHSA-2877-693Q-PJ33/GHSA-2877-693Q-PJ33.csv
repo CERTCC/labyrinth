@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-2877-693Q-PJ33,0.50000000,https://github.com/Erenlancaster/CVE-2021-46704,Erenlancaster/CVE-2021-46704,656996292
+GHSA-2877-693Q-PJ33,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+GHSA-2877-693Q-PJ33,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-2877-693Q-PJ33,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

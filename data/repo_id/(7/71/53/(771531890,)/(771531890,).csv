@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+771531890,CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj,README.md,222b916d06799c7c9cec50fc7cdab30f5afbcbf5,CVE-2023-48788
+771531890,CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj,_GITHUB_REPO_METADATA_,,CVE-2023-48788

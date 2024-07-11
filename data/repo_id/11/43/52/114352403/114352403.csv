@@ -1,1 +1,10 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+114352403,mammuth/bitcoin-arbitrage-trading-bot,bitcoin_arbitrage/static/vendors/Flot/examples/axes-time-zones/tz/northamerica,04d8517f68fd4eb18ab796c4ccc197261529c2db,VU#001130
+114352403,mammuth/bitcoin-arbitrage-trading-bot,bitcoin_arbitrage/static/vendors/Flot/examples/axes-time-zones/tz/northamerica,04d8517f68fd4eb18ab796c4ccc197261529c2db,VU#991130
+114352403,mammuth/bitcoin-arbitrage-trading-bot,bitcoin_arbitrage/static/vendors/echarts/test/ut/lib/jasmine-2.3.4/jasmine.css,45396ff2b01cb582636a515cac5c912e21f95c58,VU#37
+114352403,mammuth/bitcoin-arbitrage-trading-bot,bitcoin_arbitrage/static/vendors/font-awesome/fonts/fontawesome-webfont.ttf,61d8d967807ef12598d81582fa95b9f600c3ee01,VU#96
+114352403,mammuth/bitcoin-arbitrage-trading-bot,bitcoin_arbitrage/static/vendors/select2/docs/vendor/fonts/fontawesome-webfont.ttf,6484f1af6b485d5096b71b344e67f4164c33dd1f,VU#96
+114352403,mammuth/bitcoin-arbitrage-trading-bot,bitcoin_arbitrage/static/vendors/pdfmake/build/vfs_fonts.js,8f39aceb13a7cb882f13e9610c2bf4a23a499135,VU#26
+114352403,mammuth/bitcoin-arbitrage-trading-bot,bitcoin_arbitrage/static/vendors/pdfmake/build/vfs_fonts.js,8f39aceb13a7cb882f13e9610c2bf4a23a499135,VU#29
+114352403,mammuth/bitcoin-arbitrage-trading-bot,bitcoin_arbitrage/static/vendors/pdfmake/build/vfs_fonts.js,8f39aceb13a7cb882f13e9610c2bf4a23a499135,VU#78
+114352403,mammuth/bitcoin-arbitrage-trading-bot,bitcoin_arbitrage/static/vendors/pdfmake/build/vfs_fonts.js,8f39aceb13a7cb882f13e9610c2bf4a23a499135,VU#90

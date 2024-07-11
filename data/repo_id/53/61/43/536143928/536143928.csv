@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+536143928,fkie-cad/cve-attribution-s2,cve-attribution-s2/README.md,61c068e659f2973830ea3629c142f8a1200e76ac,CVE-2021-29650
+536143928,fkie-cad/cve-attribution-s2,nvd-database/README.md,7b734843cc9025da4cd730a38b4461e6746b8bb9,CVE-2021-22494

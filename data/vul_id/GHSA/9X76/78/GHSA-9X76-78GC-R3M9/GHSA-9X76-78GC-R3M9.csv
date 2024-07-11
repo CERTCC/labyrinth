@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-9X76-78GC-R3M9,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
+GHSA-9X76-78GC-R3M9,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+GHSA-9X76-78GC-R3M9,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+GHSA-9X76-78GC-R3M9,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

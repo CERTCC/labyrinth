@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/exploits/richfaces/RichFacesExploit.java,0246fa6058f76a9f309a52ab5bfa95877f53807c,CVE-2013-2165
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/bullets/weblogic/xml/WeblogicXMLRCEBullet.java,2069cd5c6487c32da3b22c72eb435d909aa557d6,CVE-2017-10271
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML2.java,2b86c8785a3806d3398f00ea504ce23ac7036e69,CVE-2017-10271
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML2.java,2b86c8785a3806d3398f00ea504ce23ac7036e69,CVE-2019-2725
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML1.java,36b6436304c057fac614cafc62fbc6d92065f98d,CVE-2017-10271
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML1.java,36b6436304c057fac614cafc62fbc6d92065f98d,CVE-2019-2725
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xstream/XMLMessagePacket.java,7f7e1cf8b4855d7846dec376c72d55d3e4c23528,CVE-2021-29505
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/bullets/weblogic/xml/WeblogicXMLJndiBullet.java,fdfd5436f0b13ca50959ea0171cf0101f0b05373,CVE-2019-2725

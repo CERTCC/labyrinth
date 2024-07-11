@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+466553344,T3slaa/pwnkit-pwn,README.md,4c633dac9f285652e451e648827104a49389a264,CVE-2021-4034
+466553344,T3slaa/pwnkit-pwn,requirements,c051c79123de3b6a23c7c6465a031100286bd1cc,CVE-2012-4034
+466553344,T3slaa/pwnkit-pwn,requirements,c051c79123de3b6a23c7c6465a031100286bd1cc,CVE-2021-4034
+466553344,T3slaa/pwnkit-pwn,pwnkit-pwn,c7e98650f29f9a8e3f71a401bbd110f804a35ed5,CVE-2021-4034
+466553344,T3slaa/pwnkit-pwn,_GITHUB_REPO_METADATA_,,CVE-2021-4034

@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2021-43984,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
+CNVD-2021-43984,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
+CNVD-2021-43984,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNVD-2021-43984,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+CNVD-2021-43984,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2021-43984,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

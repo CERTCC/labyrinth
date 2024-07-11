@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+566108053,caique-garbim/CVE-2019-9978_Exploit,exploit.sh,5cc6f228ad5a952c67f6a7fb8475bfc1b91481c4,CVE-2019-9978
+566108053,caique-garbim/CVE-2019-9978_Exploit,README.md,b65a0967528cada32698f9732c9a4928a7df3580,CVE-2019-9978
+566108053,caique-garbim/CVE-2019-9978_Exploit,_GITHUB_REPO_METADATA_,,CVE-2019-9978

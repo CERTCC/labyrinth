@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+565951547,AlexanderDaou/exploit-videos,Apache Solr Log4Shell/README.md,010828a78587b0e07d3c0ce7394f4c5d8754624e,CVE-2021-44228
+565951547,AlexanderDaou/exploit-videos,Apache Solr Log4Shell/Apache Solr Log4Shell.mp4,6590a86460e1077ebe631c6bceeabaccf7c96d6c,VU#00
+565951547,AlexanderDaou/exploit-videos,Apache Solr Log4Shell/Apache Solr Log4Shell.mp4,6590a86460e1077ebe631c6bceeabaccf7c96d6c,VU#10
+565951547,AlexanderDaou/exploit-videos,IKEEXT DLL Hijacking/IKEEXT DLL Hijacking.mp4,ab1c30c9a5fadd9c9c3e629cb61d65a8ce997a96,VU#02

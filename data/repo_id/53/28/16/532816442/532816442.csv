@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+532816442,CodeIntelligenceTesting/java-demo,README.md,213dcd21af1d893a285ce1eb0ebe9b544fb491fd,CVE-2015-3253
+532816442,CodeIntelligenceTesting/java-demo,README.md,213dcd21af1d893a285ce1eb0ebe9b544fb491fd,CVE-2022-24124

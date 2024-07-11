@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+513546145,Vulnmachines/Spring_cve-2022-22980,README.md,491b350ab685fdaf1a4c4b4968cca2215762fe9b,CVE-2022-22980
+513546145,Vulnmachines/Spring_cve-2022-22980,payload,ea225b7a73048d8f4450be6597ce2a4f1f18dcb5,CVE-2022-22980
+513546145,Vulnmachines/Spring_cve-2022-22980,_GITHUB_REPO_METADATA_,,CVE-2022-22980

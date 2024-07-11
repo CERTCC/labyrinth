@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+578659060,Guccifer808/doublepulsar-scanner-golang,README.md,1923933eddf095558ba6572ce1293194451b6253,CVE-2017-0143
+578659060,Guccifer808/doublepulsar-scanner-golang,README.md,1923933eddf095558ba6572ce1293194451b6253,CVE-2017-0144
+578659060,Guccifer808/doublepulsar-scanner-golang,README.md,1923933eddf095558ba6572ce1293194451b6253,CVE-2017-0145
+578659060,Guccifer808/doublepulsar-scanner-golang,README.md,1923933eddf095558ba6572ce1293194451b6253,CVE-2017-0146
+578659060,Guccifer808/doublepulsar-scanner-golang,README.md,1923933eddf095558ba6572ce1293194451b6253,CVE-2017-0147
+578659060,Guccifer808/doublepulsar-scanner-golang,README.md,1923933eddf095558ba6572ce1293194451b6253,CVE-2017-0148
+578659060,Guccifer808/doublepulsar-scanner-golang,README.md,1923933eddf095558ba6572ce1293194451b6253,MS17-010
+578659060,Guccifer808/doublepulsar-scanner-golang,scanner.go,20dc9883712ee14616f655c143d6724a1c0b8ff2,MS17-010
+578659060,Guccifer808/doublepulsar-scanner-golang,_GITHUB_REPO_METADATA_,,MS17-010

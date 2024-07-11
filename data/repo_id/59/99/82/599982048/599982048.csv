@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+599982048,Virgil-UNSC/Strut2-CVE---Script,Shellevil-2013-2251.py,6ffc8acebf6330fa6fe25836ec6f315a78a804fd,CVE-2013-2251
+599982048,Virgil-UNSC/Strut2-CVE---Script,CVE-9805.py,e78d4f343ae943926d099c97162b03c2fa648fa8,CVE-2017-9805
+599982048,Virgil-UNSC/Strut2-CVE---Script,CVE-9805.py,e78d4f343ae943926d099c97162b03c2fa648fa8,VU#29

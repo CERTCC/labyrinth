@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+437273514,b-abderrahmane/CVE-2021-44228-playground,docker_images/nginx/Exploit44228.java,4809adb3d78f00f1fbb65de1b6bc2add1abc9e30,CVE-2021-44228
+437273514,b-abderrahmane/CVE-2021-44228-playground,.github/workflows/extended-test.yml,65e44ac98fc59c1f5b812b4058f91a0bc96edaf8,CVE-2021-44228
+437273514,b-abderrahmane/CVE-2021-44228-playground,constants.py,ade9b861f37e8b2172c689e530542e0eb3158580,CVE-2021-44228
+437273514,b-abderrahmane/CVE-2021-44228-playground,marshalsec/src/main/java/marshalsec/Jackson.java,b9d2b24850ff2af4777f5c04b8941057bdf20afc,CVE-2017-7525
+437273514,b-abderrahmane/CVE-2021-44228-playground,log4shell_validator.py,e5e6ce9d90dc7e85d68d737183003e20d86edd47,CVE-2021-44228
+437273514,b-abderrahmane/CVE-2021-44228-playground,README.md,ed9358706a9de4810ab1dbcca50046d4c4052c3a,CVE-2021-44228
+437273514,b-abderrahmane/CVE-2021-44228-playground,_GITHUB_REPO_METADATA_,,CVE-2021-44228

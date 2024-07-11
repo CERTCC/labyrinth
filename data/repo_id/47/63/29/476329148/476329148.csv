@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+476329148,justmumu/SpringShell,CVE-2022-22965/docker-compose.yml,35d5c092488c6a70fd6039b895ceff31ca243f6e,CVE-2022-22965
+476329148,justmumu/SpringShell,CVE-2022-22965/Dockerfile,387c851db48a3560ee1dc88aeef57fcddc7809c9,CVE-2022-22965
+476329148,justmumu/SpringShell,CVE-2022-22963/Dockerfile,4f086aff19243fec59804f8737696a14a803da1e,CVE-2022-22963
+476329148,justmumu/SpringShell,CVE-2022-22963/docker-compose.yml,6762c10ef7812d12bf0a6d75a4229e6f0233d424,CVE-2022-22963
+476329148,justmumu/SpringShell,nuclei-templates/CVE-2022-22965.yaml,87031ec054caeea5270d2f77c9fd324ede89ac8e,CVE-2022-22965
+476329148,justmumu/SpringShell,nuclei-templates/CVE-2022-22963.yaml,9e916b77a5e6411daa114b6289ceb2e924fdc06f,CVE-2022-22963
+476329148,justmumu/SpringShell,CVE-2022-22965/src/main/resources/application.properties,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2022-22965
+476329148,justmumu/SpringShell,CVE-2022-22965/src/main/java/com/reznok/helloworld/HelloworldApplication.java,ae26aaa58db1e9cf08700e2b8cbed8dfe5ad637b,CVE-2022-22965
+476329148,justmumu/SpringShell,CVE-2022-22965/pom.xml,be22596ef338b5276e35bc7886ae0f17ff14a527,CVE-2022-22965
+476329148,justmumu/SpringShell,CVE-2022-22965/src/test/java/com/reznok/helloworld/HelloworldApplicationTests.java,d25103496de9fd6071984cb412dfcb6d34062901,CVE-2022-22965
+476329148,justmumu/SpringShell,README.md,d4e9b551aa5072c19bb9cec7a5cede270427a887,CVE-2022-22963
+476329148,justmumu/SpringShell,README.md,d4e9b551aa5072c19bb9cec7a5cede270427a887,CVE-2022-22965
+476329148,justmumu/SpringShell,CVE-2022-22965/src/main/resources/templates/hello.html,d568f66a14a8ae94c611f426a59e208a1f572d1a,CVE-2022-22965
+476329148,justmumu/SpringShell,CVE-2022-22965/src/main/java/com/reznok/helloworld/Greeting.java,df999a9a1c42699209db04d16d7f07a09ab6e0e9,CVE-2022-22965
+476329148,justmumu/SpringShell,CVE-2022-22965/src/main/java/com/reznok/helloworld/HelloController.java,f54c8579b45421cdcaf97061abbd3ce7ca619209,CVE-2022-22965

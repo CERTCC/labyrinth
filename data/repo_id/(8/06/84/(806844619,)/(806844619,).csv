@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+806844619,tadahana/ShellcodeLoader,堆加载器/.vs/堆加载器/v17/Browse.VC.db,681766d6a502e4b886ed53695274fa6e03e74bfb,VU#32516
+806844619,tadahana/ShellcodeLoader,创建线程加载/.vs/创建线程加载/v17/Browse.VC.db,7cfe680fad79c979f66a481dafdcf23a21886c58,VU#15

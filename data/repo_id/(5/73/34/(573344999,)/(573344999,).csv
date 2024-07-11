@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2019-19893
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2019-19894
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2019-19895
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2019-19896
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2019-19897
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2019-19898
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2020-12302
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2020-12431
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2020-26949
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2020-8342
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2020-8345
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2020-8614
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2021-0052
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2021-1661
+573344999,kusk/rce.sh,index.html,14cbe63b1379d6e6f58ec428e4cbd89a383e6fb7,CVE-2021-3250

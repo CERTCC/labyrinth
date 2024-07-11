@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+470905781,kavishkagihan/CVE-2022-24112-POC,README.md,7af0eeb45c2fab35ad4edd591effe8a5bcb1c8ce,CVE-2022-24112
+470905781,kavishkagihan/CVE-2022-24112-POC,poc.py,94e83936df0fc3e30fc70df8ab0b2fcbbd944391,CVE-2022-24112
+470905781,kavishkagihan/CVE-2022-24112-POC,_GITHUB_REPO_METADATA_,,CVE-2022-24112

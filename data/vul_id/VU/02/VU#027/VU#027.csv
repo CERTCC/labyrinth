@@ -1,3 +1,16 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#027,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
-VU#027,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#027,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
+VU#027,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#027,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#027,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#027,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
+VU#027,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#027,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
+VU#027,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,805159528
+VU#027,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
+VU#027,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#027,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
+VU#027,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
+VU#027,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#027,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+485420838,WMDA/ctf,exploits/Foothold/HttpFileServer_2_3_x_RcE.py,0f6c40e468889dd3ebfc29666bc66862232464d4,CVE-2014-6287
+485420838,WMDA/ctf,exploits/Foothold/Webmin_1_890-1_920_RCE.py,293acb923f4b5d88e7147c3a11f57cc2863a3cd1,CVE-2019-15107
+485420838,WMDA/ctf,exploits/PrivEsC/cve-2019-13272.c,3fcbeced553007e195617cdb6ffb8982c59c1cc8,CVE-2019-13272
+485420838,WMDA/ctf,exploits/PrivEsC/cve-2019-13272.c,3fcbeced553007e195617cdb6ffb8982c59c1cc8,GPZ-1903
+485420838,WMDA/ctf,exploits/PrivEsC/kernel_exploit_3.13.c,428a7235e008286beacd7e6799e99ac1dafe6590,CVE-2015-1328
+485420838,WMDA/ctf,exploits/PrivEsC/polkit_exploit.sh,51f224483c9b94310e62774fdd8fe53dcef7cc26,CVE-2021-3560
+485420838,WMDA/ctf,exploits/Foothold/BlogEngine_NET_LessThan_3_3_6.cs,53bd940adfbf152eeb50ae0fd635871744d9d02d,CVE-2019-6714
+485420838,WMDA/ctf,exploits/Foothold/nostromo_1_9_6_RCE.py,55461e50ed4e81cf6f5a6ebf8a642190c8780404,CVE-2019-16278
+485420838,WMDA/ctf,exploits/Foothold/Fuel_CMS_1_4_1_RCE.py,6ee8bf5d6339fe1b2029eafb395afb1b62ebd37b,CVE-2018-16763
+485420838,WMDA/ctf,exploits/Foothold/KiBa_cve-2019-7609.py,a5c7745ca7d1fbecd6e5651a36a8379c0d95458d,CVE-2019-7609
+485420838,WMDA/ctf,exploits/Foothold/PhpMyAdmin_4_3_0-4_6_2_RcE.py,b70776ebb79e7190d7416b7de0df3e9b9b32cfc5,CVE-2016-5734
+485420838,WMDA/ctf,exploits/README.md,d7995d71f415b645b20547484c375adb8bc5dab4,CVE-2019-6714
+485420838,WMDA/ctf,exploits/README.md,d7995d71f415b645b20547484c375adb8bc5dab4,CVE-2019-7609
+485420838,WMDA/ctf,exploits/README.md,d7995d71f415b645b20547484c375adb8bc5dab4,CVE-2021-3560
+485420838,WMDA/ctf,exploits/PrivEsC/polkit.py,db002b77b82e0fbb1c0d0a0ed5ba423bdde63815,CVE-2021-3560
+485420838,WMDA/ctf,exploits/Foothold/CMS_MaDe_Simple_lessThan_2_2_9_SQLi.py,f2b8f16bdb8f96ec34c0e49d98f7b223794c5680,CVE-2019-9053

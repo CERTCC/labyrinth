@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+416151847,yaklang/yakit,app/renderer/src/main/src/utils/logo.ts,aafb59c477f147b0d10738c49d5f4e4fb701989a,VU#38
+416151847,yaklang/yakit,app/renderer/src/main/src/utils/logo.ts,aafb59c477f147b0d10738c49d5f4e4fb701989a,VU#57
+416151847,yaklang/yakit,app/renderer/src/main/src/utils/logo.ts,aafb59c477f147b0d10738c49d5f4e4fb701989a,VU#78
+416151847,yaklang/yakit,app/renderer/src/main/src/utils/logo.ts,aafb59c477f147b0d10738c49d5f4e4fb701989a,VU#81
+416151847,yaklang/yakit,app/renderer/src/main/src/assets/sequence.mp4,b79dd0789b56301f10216795212e9e8ee6a7c0dd,VU#43
+416151847,yaklang/yakit,app/renderer/src/main/yarn.lock,bfa33b3f14858950980f71a9937d1556f6d19be2,VU#05
+416151847,yaklang/yakit,app/renderer/src/main/yarn.lock,bfa33b3f14858950980f71a9937d1556f6d19be2,VU#18
+416151847,yaklang/yakit,app/renderer/src/main/yarn.lock,bfa33b3f14858950980f71a9937d1556f6d19be2,VU#37
+416151847,yaklang/yakit,app/renderer/src/main/yarn.lock,bfa33b3f14858950980f71a9937d1556f6d19be2,VU#548
+416151847,yaklang/yakit,app/renderer/src/main/yarn.lock,bfa33b3f14858950980f71a9937d1556f6d19be2,VU#67
+416151847,yaklang/yakit,app/renderer/src/main/yarn.lock,bfa33b3f14858950980f71a9937d1556f6d19be2,VU#77
+416151847,yaklang/yakit,app/renderer/src/main/yarn.lock,bfa33b3f14858950980f71a9937d1556f6d19be2,VU#838
+416151847,yaklang/yakit,app/renderer/src/main/yarn.lock,bfa33b3f14858950980f71a9937d1556f6d19be2,VU#85
+416151847,yaklang/yakit,app/renderer/src/main/src/pages/cve/CVEDescription.tsx,c52bb46e9738fe15a6aadac2c7b8049a33ae21ca,CVE-2001-0830

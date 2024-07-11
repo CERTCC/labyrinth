@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+631968228,scratchadams/Heap-Resources,README.md,282660655515cef725c6482c7636e030504fc386,CVE-2020-6449
+631968228,scratchadams/Heap-Resources,README.md,282660655515cef725c6482c7636e030504fc386,CVE-2022-1786

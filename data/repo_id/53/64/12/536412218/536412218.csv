@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+536412218,trhacknon/nmap_draytek_rce,README.md,39caed4423315f2a6fbe70563c45703c02ac4f65,CVE-2020-8515
+536412218,trhacknon/nmap_draytek_rce,http-draytek-rce.nse,f12df945e74b7c0e022175fd33c702e5dc85b6a0,CVE-2020-8515

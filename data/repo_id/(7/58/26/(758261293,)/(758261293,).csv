@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+758261293,RickdeJager/browser-exploitation,notes/BrowserExploitation/firefox/reading.md,5d699e7b5819275106476d0f818343e0cc62048c,CVE-2020-26950
+758261293,RickdeJager/browser-exploitation,notes/BrowserExploitation/shellcode/JIT spraying.md,75707c9f2dacd7ba800b60afba4ab59e3cd95124,CVE-2019-11707
+758261293,RickdeJager/browser-exploitation,firefox/CVE-2019-17026/bundle.js,90684287778414c7b6b352c7056d3757ae84e0f4,CVE-2019-17026
+758261293,RickdeJager/browser-exploitation,firefox/CVE-2019-17026/exploit.js,a581957374b7ed91285c6be89f16fcc1ba710e6e,CVE-2019-17026
+758261293,RickdeJager/browser-exploitation,notes/BrowserExploitation/firefox/CVE-2019-17026.md,d07fc76e8ae169fe0dd9167c57ebbab263166e8c,CVE-2019-17026
+758261293,RickdeJager/browser-exploitation,firefox/CVE-2019-17026/Makefile,d270783569862d699f96c5bc6a6c25b1321415be,CVE-2019-17026
+758261293,RickdeJager/browser-exploitation,firefox/CVE-2019-17026/repro.js,e3becd9ae68726d3d161dbc8d45abcc2f03c2ca6,CVE-2019-17026

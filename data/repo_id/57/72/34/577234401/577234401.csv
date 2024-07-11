@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+577234401,MRvirusIR/VMware-NSX-Manager-XStream,RemoteCode.php,b7b68ffbc46b44470363f8378f6ef2dbdea01ed7,CVE-2021-39144
+577234401,MRvirusIR/VMware-NSX-Manager-XStream,README.md,c0c00ced41daf91845f531a193297fca2be02043,CVE-2021-39144

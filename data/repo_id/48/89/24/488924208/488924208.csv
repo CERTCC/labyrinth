@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+488924208,Du4t/ShellcodeDb,Shellcode/Windows_x86/_Write/14288.txt,bec4554750b6c7003ff61bd99286ba94dcd95bb0,CVE-2010-0425
+488924208,Du4t/ShellcodeDb,Shellcode/Linux_MIPS/_system(telnetd_/27132.txt,c01b3b59deae2b8b21fbd9c9682682b85995b850,CVE-2013-4659

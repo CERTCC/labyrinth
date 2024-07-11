@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+717682171,Umair8906/DarkSploit,modules/dirsearch/thirdparty/requests/cacert.pem,e626b115e2bac921ae73161c0f93489325d76d71,VU#29
+717682171,Umair8906/DarkSploit,modules/dirsearch/thirdparty/requests/cacert.pem,e626b115e2bac921ae73161c0f93489325d76d71,VU#32
+717682171,Umair8906/DarkSploit,modules/dirsearch/thirdparty/requests/cacert.pem,e626b115e2bac921ae73161c0f93489325d76d71,VU#37
+717682171,Umair8906/DarkSploit,modules/dirsearch/thirdparty/requests/cacert.pem,e626b115e2bac921ae73161c0f93489325d76d71,VU#65

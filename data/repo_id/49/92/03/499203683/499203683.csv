@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+499203683,AchocolatechipPancake/MS-MSDT-Office-RCE-Follina,README.md,394ce0103ee050a72fcc54e066c550ddf882b4dc,CVE-2022-30190
+499203683,AchocolatechipPancake/MS-MSDT-Office-RCE-Follina,_GITHUB_REPO_METADATA_,,CVE-2022-30190

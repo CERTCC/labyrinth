@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+625553300,abdulr7mann/exploits,CVE-2023-23397/README.md,1ef8e6fc29edd8eb8f934b0db689a52aff7c5260,CVE-2023-23397
+625553300,abdulr7mann/exploits,CVE-2023-23397/CVE-2023-23397.py,45b6034a1046f3fc26d0590bc37de47d4d25b1f6,CVE-2023-23397
+625553300,abdulr7mann/exploits,README.md,a5e6db7ee7497044a84eb77d40e95b30f4fa829e,CVE-2023-23397
+625553300,abdulr7mann/exploits,CVE-2023-23397/chicken.wav,e5642b60561d66a266f3b56b4ce9f247272d71f5,CVE-2023-23397

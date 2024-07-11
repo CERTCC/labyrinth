@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+812759874,Kristal-g/CVE-2022-32250,exploit.c,9acf174905fad9a8dc897dcc69eec0bda479c5b7,CVE-2022-0185
+812759874,Kristal-g/CVE-2022-32250,exploit.c,9acf174905fad9a8dc897dcc69eec0bda479c5b7,CVE-2023-3390
+812759874,Kristal-g/CVE-2022-32250,_GITHUB_REPO_METADATA_,,CVE-2022-32250

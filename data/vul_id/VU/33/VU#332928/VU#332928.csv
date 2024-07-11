@@ -1,3 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#332928,0.25000000,https://github.com/forse01/CVE-2020-25213-Wordpress,forse01/CVE-2020-25213-Wordpress,335841666
-VU#332928,0.00070872,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+VU#332928,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+VU#332928,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#332928,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#332928,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

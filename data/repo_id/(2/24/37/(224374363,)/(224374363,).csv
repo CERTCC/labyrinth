@@ -1,0 +1,51 @@
+repo_id,repo_full_name,file,file_sha1,match
+224374363,bsauce/kernel-security-learning,paper/kernel_fuzz/How Double-Fetch Situations turn into DoubleFetch-usenix-2017.pdf,1e23f710e7656085afa57c39bd9b7c8dd86a2cac,VU#69
+224374363,bsauce/kernel-security-learning,CVE/CVE-2017-7184-overflow/pwn_CVE-2017-7184.c,2c9de547a18c7af76e01caf4615ddf5bd6ef9f0f,CVE-2017-7184
+224374363,bsauce/kernel-security-learning,CVE/CVE-2017-7184-overflow/ISO Download,525df0b9e8207c88e783c9da3e14f074ad2eb7f4,CVE-2017-7184
+224374363,bsauce/kernel-security-learning,paper/kernel_fuzz/Detecting Concurrency Memory Corruption Vulnerabilities-fse19.pdf,528ebfe842afcaee51e2ace5cc01ba161b6ef171,VU#02
+224374363,bsauce/kernel-security-learning,paper/kernel_exploit/From collision to exploitation_ Unleashing Use-After-Free vulnerabilities in Linux Kernel-CCS2015.pdf,63b64daa5bdfe687ad8907e48d82d817c9906692,CVE-2010-1807
+224374363,bsauce/kernel-security-learning,paper/kernel_exploit/From collision to exploitation_ Unleashing Use-After-Free vulnerabilities in Linux Kernel-CCS2015.pdf,63b64daa5bdfe687ad8907e48d82d817c9906692,CVE-2015-3636
+224374363,bsauce/kernel-security-learning,paper/kernel_exploit/From collision to exploitation_ Unleashing Use-After-Free vulnerabilities in Linux Kernel-CCS2015.pdf,63b64daa5bdfe687ad8907e48d82d817c9906692,CVE-2014-1776
+224374363,bsauce/kernel-security-learning,CVE/README.md,6551c3187acca12fde2e18d77a4ce6e693beefc7,CVE-2017-7184
+224374363,bsauce/kernel-security-learning,CVE/README.md,6551c3187acca12fde2e18d77a4ce6e693beefc7,CVE-2017-16995
+224374363,bsauce/kernel-security-learning,paper/kernel_fuzz/CAB-Fuzz：Practical Concolic Testing Techniques for {COTS} Operating Systems-USENIX-2017.pdf,6f84bd980b06798107a6b3dd99327cb3704802d6,CVE-2013-5065
+224374363,bsauce/kernel-security-learning,CVE/CVE-2017-16995-integer_extend/test_exp.c,b36554352aca85e1b0369d8501fd776a243f4944,CVE-2017-16995
+224374363,bsauce/kernel-security-learning,CVE/CVE-2017-16995-integer_extend/exp.c,df9275973b71167628929d089423bec3cbc7367d,CVE-2017-16995
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2021-4154
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2021-42008
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2021-43267
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-0185
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-0847
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-0995
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-1015
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2017-1000112
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-2588
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2021-41073
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-2602
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-2639
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-27666
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-32250
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-34918
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2024-1086
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2022-25636
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2021-3490
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2021-22555
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2021-31440
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2017-11176
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2017-16995
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2017-5123
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2017-6074
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2017-7184
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2021-3156
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2017-8890
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2017-7308
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2019-15666
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2019-8956
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2020-27194
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2020-8835
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2016-9793
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2021-26708
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2018-5333
+224374363,bsauce/kernel-security-learning,README.md,e37575a04bb162000d04f5e2519e9975f7757d46,CVE-2019-9213
+224374363,bsauce/kernel-security-learning,CVE/CVE-2017-7184-overflow/reverse_shell.c,f666b7f7a36b9323aad3b7b989735b8598e72345,CVE-2017-7184
+224374363,bsauce/kernel-security-learning,CVE/CVE-2017-7184-overflow/gdb_kernel.sh,fb6b457e2229a12f52aeba0e239edf0764fb920c,CVE-2017-7184

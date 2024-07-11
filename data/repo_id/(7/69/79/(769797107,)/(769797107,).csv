@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+769797107,SeanHeelan/claude_opus_cve_2023_0266,README.md,005192d90a905a8b9558b5411222cbfdcd87a430,CVE-2023-0266
+769797107,SeanHeelan/claude_opus_cve_2023_0266,multistage.py,1491e798b3416ffbb4588040137a4d98222b653f,CVE-2023-0266
+769797107,SeanHeelan/claude_opus_cve_2023_0266,res/.control_compat.c.swp,946af89e396af3b3b729916d0a7ca903db073acc,CVE-2023-0266
+769797107,SeanHeelan/claude_opus_cve_2023_0266,main.py,db6444706ee3f49164f628a69d5574cad90954e5,CVE-2023-0266
+769797107,SeanHeelan/claude_opus_cve_2023_0266,res/.control.h.swp,ecf43e1a107eeec1fc892e83375049688a3fed5a,CVE-2023-0266
+769797107,SeanHeelan/claude_opus_cve_2023_0266,original.py,ff75ba9fe25336f6e6ff2035143e68ad5f4553a7,CVE-2023-0266
+769797107,SeanHeelan/claude_opus_cve_2023_0266,_GITHUB_REPO_METADATA_,,CVE-2023-0266

@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-XR8X-PXM6-PRJG,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-24057,Live-Hack-CVE/CVE-2023-24057,598180746
+GHSA-XR8X-PXM6-PRJG,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-XR8X-PXM6-PRJG,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

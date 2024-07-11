@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+476068286,DylanMarriott/PoC-Spring4Shell-RCE,target/poc.war,03b45cb099ccdb7c993df1e25b0f6ec8eef683e6,VU#45
+476068286,DylanMarriott/PoC-Spring4Shell-RCE,target/poc.war.original,649039d525481820e1610b544951aca809eeeed2,VU#19
+476068286,DylanMarriott/PoC-Spring4Shell-RCE,target/poc/WEB-INF/lib/spring-web-5.3.15.jar,a228b373eff7fe34e868827ab02c91b8bf7a643e,VU#45

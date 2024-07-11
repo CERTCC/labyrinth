@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+810547170,YN1337/JetBrains-TeamCity-,ex.py,410e77d30630a374c5a6d35a568f334335556dae,CVE-2023-42793
+810547170,YN1337/JetBrains-TeamCity-,README.md,f3672bf67aefd176935dd7d1a35d7beb1549692b,CVE-2023-42793

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+474960129,misterxid/watchguard_cve-2022-26318,README.md,cbb5d839e203d742ba0e5e13c9819c104d34a134,CVE-2022-26318
+474960129,misterxid/watchguard_cve-2022-26318,_GITHUB_REPO_METADATA_,,CVE-2022-26318

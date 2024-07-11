@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+637852784,falconkei/snakeyaml_cve_poc,README.md,65a865955e60f741d21981433b6002b2e65bab60,CVE-2022-1471
+637852784,falconkei/snakeyaml_cve_poc,Dockerfile,93894dee0267228b1984ec726ac1d95e5beb174e,CVE-2022-1471
+637852784,falconkei/snakeyaml_cve_poc,_GITHUB_REPO_METADATA_,,CVE-2022-1471

@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+791779383,Ox6e3062306479/mitsubishi,cve23.2060-2063.py,4dffcada5b09cb4b569a6e156b2cfcb9fa0b410c,CVE-2023-2060
+791779383,Ox6e3062306479/mitsubishi,cve23.2060-2063.py,4dffcada5b09cb4b569a6e156b2cfcb9fa0b410c,CVE-2023-2061
+791779383,Ox6e3062306479/mitsubishi,cve23.2060-2063.py,4dffcada5b09cb4b569a6e156b2cfcb9fa0b410c,CVE-2023-2062
+791779383,Ox6e3062306479/mitsubishi,cve23.2060-2063.py,4dffcada5b09cb4b569a6e156b2cfcb9fa0b410c,CVE-2023-2063
+791779383,Ox6e3062306479/mitsubishi,VU#495509 - Mitsubishi Electric RJ71EIP91 Ethernet_IP Configuration Tool (2023-004 & ICSA-23-157-02) (Draft).pdf,8088bc70e2e99dea6647c574713b6632cbcf66cc,CVE-2023-2060
+791779383,Ox6e3062306479/mitsubishi,VU#495509 - Mitsubishi Electric RJ71EIP91 Ethernet_IP Configuration Tool (2023-004 & ICSA-23-157-02) (Draft).pdf,8088bc70e2e99dea6647c574713b6632cbcf66cc,CVE-2023-2061
+791779383,Ox6e3062306479/mitsubishi,VU#495509 - Mitsubishi Electric RJ71EIP91 Ethernet_IP Configuration Tool (2023-004 & ICSA-23-157-02) (Draft).pdf,8088bc70e2e99dea6647c574713b6632cbcf66cc,CVE-2023-2062
+791779383,Ox6e3062306479/mitsubishi,VU#495509 - Mitsubishi Electric RJ71EIP91 Ethernet_IP Configuration Tool (2023-004 & ICSA-23-157-02) (Draft).pdf,8088bc70e2e99dea6647c574713b6632cbcf66cc,CVE-2023-2063
+791779383,Ox6e3062306479/mitsubishi,VU#495509 - Mitsubishi Electric RJ71EIP91 Ethernet_IP Configuration Tool (2023-004 & ICSA-23-157-02) (Draft).pdf,8088bc70e2e99dea6647c574713b6632cbcf66cc,VU#495509

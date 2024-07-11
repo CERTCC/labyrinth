@@ -7,6 +7,7 @@ repo_id,repo_full_name,file,file_sha1,match
 289031927,Am0rphous/Malware,Windows/PowerShell/CVE-2021-1675.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#69
 289031927,Am0rphous/Malware,Windows/PowerShell/CVE-2021-1675.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#71
 289031927,Am0rphous/Malware,Windows/dll/htmlayout.dll,39290d5e140107193fb0a9be13d0ccbfcfd00d50,VU#99
+289031927,Am0rphous/Malware,Compressed archives/Y1040-2+Y1048-2+(NZ) INV-PL (JAN-19-2022) - Revised 1.7z,4d921f8441e1d1615d3d6c86b07bf7e7ff5ac74f,VU#24
 289031927,Am0rphous/Malware,PHP/db2a52b3.ico,544d5140a943e1138e4633e018e1be001a4890a2,VU#09
 289031927,Am0rphous/Malware,Linux/frp_0.38.0_linux_amd64.tar.gz,73f5713b2eb6b5dd43240e2b2185a10e3c04b98d,VU#84
 289031927,Am0rphous/Malware,Windows/PowerShell/README.md,bb6410d7f8bbb3459429ee5e06b8fa3aa27d7371,CVE-2021-1675

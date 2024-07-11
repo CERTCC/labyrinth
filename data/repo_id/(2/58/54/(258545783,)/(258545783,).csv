@@ -1,0 +1,53 @@
+repo_id,repo_full_name,file,file_sha1,match
+258545783,bhassani/EternalBlueC,eternalblue_replay/eternalblue_hex_quotes.txt,000b0536328dda45b17981b8706391d63adf1fa4,VU#98
+258545783,bhassani/EternalBlueC,DoublePulsar_UploadShellcode.cpp,072c462a34e50d995015363d9b47f115d7ae630d,MS17-010
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/doublepulsar.c,2c3f70ae5ea8d532be608a8812048d7f29d04bdd,VU#21
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/doublepulsar.c,2c3f70ae5ea8d532be608a8812048d7f29d04bdd,VU#25
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/namedpipetouch.c,34306d44032c57fa9df948a3a4f1514b30e558e5,VU#21
+258545783,bhassani/EternalBlueC,ms17_vuln_status.cpp,3ca44193f925af0ea230686251aa792fa728c3bf,MS17-010
+258545783,bhassani/EternalBlueC,eternalblue_replay/eternalblue_hex_output.txt,582bd86c3f61657218df9f5057bcd0292f3ac01e,VU#98
+258545783,bhassani/EternalBlueC,DoublePulsar_structure_exec.cpp,5a54b89a2a494f4e80893b28ff3b3da4df3bb951,MS17-010
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalromance.c,7352e08d825a0d3b30cb500610cba41673333d1a,VU#92
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalromance.c,7352e08d825a0d3b30cb500610cba41673333d1a,VU#21
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalromance.c,7352e08d825a0d3b30cb500610cba41673333d1a,VU#19
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalromance.c,7352e08d825a0d3b30cb500610cba41673333d1a,VU#15
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalromance.c,7352e08d825a0d3b30cb500610cba41673333d1a,VU#49
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalchampion.c,86644d75edf30b2a842d15549eeb5becb44fc578,VU#21
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalchampion.c,86644d75edf30b2a842d15549eeb5becb44fc578,VU#09
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalchampion.c,86644d75edf30b2a842d15549eeb5becb44fc578,VU#29
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalchampion.c,86644d75edf30b2a842d15549eeb5becb44fc578,VU#25
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalchampion.c,86644d75edf30b2a842d15549eeb5becb44fc578,VU#53
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalchampion.c,86644d75edf30b2a842d15549eeb5becb44fc578,VU#59
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalblue.c,a35ab8d322005e6b182ae096ddb5c6b6154debef,VU#53
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalblue.c,a35ab8d322005e6b182ae096ddb5c6b6154debef,VU#86
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalblue.c,a35ab8d322005e6b182ae096ddb5c6b6154debef,VU#21
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalblue.c,a35ab8d322005e6b182ae096ddb5c6b6154debef,VU#18
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalblue.c,a35ab8d322005e6b182ae096ddb5c6b6154debef,VU#09
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/Experimental/DoublePulsar_Ping_Exec_Struct.cpp,adee39aa9792bd63c0abd17779a47c3bc619e2b6,MS17-010
+258545783,bhassani/EternalBlueC,eternalblue_replay/EternalBlue_C_Shellcode.txt,b31042acb8a152adfb4519f76f48c55ae70b88ad,VU#98
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,MS17-010
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,CVE-2017-0146
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,CVE-2017-0143
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,CVE-2017-0145
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,CVE-2017-0144
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,CVE-2017-0148
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,CVE-2017-0147
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/Experimental/DoublePulsar_Fixed_STructs_exec_shellcode.cpp,cf6664331c349239d1d2100b2d7c38575d24ed78,MS17-010
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/smbtouch.c,d147b0d85b9ea0258d15a9d204a581c1db81b223,VU#79
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/smbtouch.c,d147b0d85b9ea0258d15a9d204a581c1db81b223,VU#29
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/smbtouch.c,d147b0d85b9ea0258d15a9d204a581c1db81b223,VU#09
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/smbtouch.c,d147b0d85b9ea0258d15a9d204a581c1db81b223,VU#25
+258545783,bhassani/EternalBlueC,kernel shellcode/multi_arch_kernel_queue_apc.asm,d66f84cc18b28ecfda3abf194bedd205f16ecb08,MS17-010
+258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/test.c,d9656dd79089750a32babd3f8f05f3d3fa2af831,VU#25
+258545783,bhassani/EternalBlueC,kernel shellcode/x64/src/exploit/kernel.asm,dbdc86f806eb3de1f70e44c11b3929b3832efcc4,MS17-010
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/WannacryDLLMetasploit.rb,e8fe982871725fea686c071896a81913e7235272,MS17-010
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/WannacryDLLMetasploit.rb,e8fe982871725fea686c071896a81913e7235272,CVE-2017-0148
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/WannacryDLLMetasploit.rb,e8fe982871725fea686c071896a81913e7235272,CVE-2017-0147
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/WannacryDLLMetasploit.rb,e8fe982871725fea686c071896a81913e7235272,CVE-2017-0146
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/WannacryDLLMetasploit.rb,e8fe982871725fea686c071896a81913e7235272,CVE-2017-0145
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/WannacryDLLMetasploit.rb,e8fe982871725fea686c071896a81913e7235272,CVE-2017-0144
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/WannacryDLLMetasploit.rb,e8fe982871725fea686c071896a81913e7235272,CVE-2017-0143
+258545783,bhassani/EternalBlueC,README.md,e999e9652d87100ff41c353341f59de11ef392fb,MS17-010
+258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/Experimental/DoublePulsar_exec_structure.cpp,f1e5c59fb39ca0ee6435934e2d1785a31c6b4b16,MS17-010
+258545783,bhassani/EternalBlueC,eternalblue_replay/eternalblue.dat,f959c127c43bd51a9ceaed321ee1302157045406,VU#98
+258545783,bhassani/EternalBlueC,_GITHUB_REPO_METADATA_,,MS17-010

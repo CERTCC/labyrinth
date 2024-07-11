@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+470283934,angelpimentell/distcc_exploit,README.md,40c506e3256cfe7dfb9cabcda55695ab35e2ba96,CVE-2004-2687
+470283934,angelpimentell/distcc_exploit,distcc_cve-2004-2687_exploit.py,faf576272fa49259a8ff23311b597f3c2a503912,CVE-2004-2687

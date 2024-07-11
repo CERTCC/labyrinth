@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/WiderStand Premium.zip,196ac9cad477c32e3fa33991cdfcfbe2c95eac9a,VU#02
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/WiderStand Premium.zip,196ac9cad477c32e3fa33991cdfcfbe2c95eac9a,VU#15
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/WiderStand Premium.zip,196ac9cad477c32e3fa33991cdfcfbe2c95eac9a,VU#27
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/WiderStand Premium.zip,196ac9cad477c32e3fa33991cdfcfbe2c95eac9a,VU#40
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/WiderStand Premium.zip,196ac9cad477c32e3fa33991cdfcfbe2c95eac9a,VU#75
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/kernel64.sys.dll,2200e8c8cd10a4ca26a23e04f7bdb357b8ddde80,VU#40
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/exploit-main.dll,4d405bfeb256202cb532a2a114d3cc5726e63e44,VU#20
+593691424,wd53rc16mn412tys53our32ces/exploits,free-editon/1.0/WiderStand UI.zip,915633e26ea5c1e6d37d38999c2e36ddea97da7d,VU#02
+593691424,wd53rc16mn412tys53our32ces/exploits,free-editon/1.0/WiderStand UI.zip,915633e26ea5c1e6d37d38999c2e36ddea97da7d,VU#27
+593691424,wd53rc16mn412tys53our32ces/exploits,free-editon/1.0/WiderStand UI.zip,915633e26ea5c1e6d37d38999c2e36ddea97da7d,VU#28
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/finj.exe,a126ca7111d997a52c9f0747d89764818bc46e26,VU#19
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/krnl.dll,f3f7cd1b2be76b3a2940e26143cda4655f1beb71,VU#02
+593691424,wd53rc16mn412tys53our32ces/exploits,plus-edition/1.0/krnl.dll,f3f7cd1b2be76b3a2940e26143cda4655f1beb71,VU#27

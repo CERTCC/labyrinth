@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+717720175,duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell,README.md,13ad3b3fa3d10825c66bb474e5a535456a44d57c,CVE-2023-46604
+717720175,duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell,exploit.py,4485c3c2d70dc7eaed52a17be7982bc7cc1d62bf,CVE-2023-46604
+717720175,duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell,_GITHUB_REPO_METADATA_,,CVE-2023-46604

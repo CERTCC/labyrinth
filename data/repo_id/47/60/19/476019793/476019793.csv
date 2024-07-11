@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+476019793,Transmetal/Tool-ExploitPack,output/Report name/Report name.html,3a47b6a8fef8ff2d9806a387e7032dcce8b8dc07,CVE-2011-2135
+476019793,Transmetal/Tool-ExploitPack,output/Report name/Report name.html,3a47b6a8fef8ff2d9806a387e7032dcce8b8dc07,CVE-2011-2417
+476019793,Transmetal/Tool-ExploitPack,output/Report name/Report name.html,3a47b6a8fef8ff2d9806a387e7032dcce8b8dc07,CVE-2011-2425
+476019793,Transmetal/Tool-ExploitPack,output/Example report/Example report.html,7acca6d8b7162cded0a057d60c60fe8abe7699ee,CVE-2011-2135
+476019793,Transmetal/Tool-ExploitPack,output/Example report/Example report.html,7acca6d8b7162cded0a057d60c60fe8abe7699ee,CVE-2011-2417
+476019793,Transmetal/Tool-ExploitPack,output/Example report/Example report.html,7acca6d8b7162cded0a057d60c60fe8abe7699ee,CVE-2011-2425
+476019793,Transmetal/Tool-ExploitPack,data/rsyntaxtextarea-2.5.8.jar,7e7dfa44d9d9703c827b8f891339150919c2d7fe,VU#04
+476019793,Transmetal/Tool-ExploitPack,output/executionlog.eplog,863f7608084827e9e7894213cf716db57107cc32,CVE-2011-2135
+476019793,Transmetal/Tool-ExploitPack,output/executionlog.eplog,863f7608084827e9e7894213cf716db57107cc32,CVE-2011-2417
+476019793,Transmetal/Tool-ExploitPack,output/executionlog.eplog,863f7608084827e9e7894213cf716db57107cc32,CVE-2011-2425
+476019793,Transmetal/Tool-ExploitPack,output/executionlog.eplog,863f7608084827e9e7894213cf716db57107cc32,CVE-2014-4114
+476019793,Transmetal/Tool-ExploitPack,output/executionlog.eplog,863f7608084827e9e7894213cf716db57107cc32,CVE-2018-0797
+476019793,Transmetal/Tool-ExploitPack,output/executionlog.eplog,863f7608084827e9e7894213cf716db57107cc32,CVE-2018-0812
+476019793,Transmetal/Tool-ExploitPack,output/gdbconnector.py,cb0fce700bf95301392c915d1b617ea63179bba8,VU#09
+476019793,Transmetal/Tool-ExploitPack,data/exploits.zip,dae660a2b49f50d758ca16ee9ce19e575700845b,MS14-068
+476019793,Transmetal/Tool-ExploitPack,data/exploits.zip,dae660a2b49f50d758ca16ee9ce19e575700845b,MS17-010

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+475703425,mtomassoli/expdev,ie11-part-1.html,0952304a298495e5998eed63738a70135579b365,CVE-2014-1776
+475703425,mtomassoli/expdev,highlight/DIGESTS.md,3fac1f9adb0e65a0cf2761d05ff18a1f76087fc1,VU#43
+475703425,mtomassoli/expdev,ie11-part-2.html,6f28551a789a47229c8e20a69fa58ffafda5a279,CVE-2014-1776
+475703425,mtomassoli/expdev,ie10-use-free-bug.html,74390665d347342d5b6ffb7c94e4993600910b8a,CVE-2014-0322

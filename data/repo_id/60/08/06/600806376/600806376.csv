@@ -1,0 +1,38 @@
+repo_id,repo_full_name,file,file_sha1,match
+600806376,Hacking-Notes/Red-Team,6 - Machine/1 - Linux/General/Exploitation/1 - Privilege Escalation/5 - Kernel Exploits.md,22b2c139481a53a10e2da3c96dbeced16ad637b3,CVE-2016-5195
+600806376,Hacking-Notes/Red-Team,6 - Machine/3 - Active Directory/Notes/Tyler/2 - Enumerating Security Controls.md,3ba0cbd9aacb5122e215755deaa4d404d6c57899,MS08-067
+600806376,Hacking-Notes/Red-Team,4 - Exploitation/Metasploit/Notes/2 - Metasploit Exploitation.md,8256f72aa2257c594d39b3e0c780d7b85dfab2ac,MS17-010
+600806376,Hacking-Notes/Red-Team,2 - Scanning + Enumeration/3 - Ports/Ports Links/139 & 445 - SMB/• SMB.md,9cd94e45e4b3ef4e1000611b67b93acfbeb9d25e,CVE-2017-7494
+600806376,Hacking-Notes/Red-Team,6 - Machine/3 - Active Directory/General/Exploitation/5 - Exploiting AD/Specific Topics/• Token Impersonation.md,ae2a38a162aad810d6ebedbe9fd81d43439eb896,MS16-075
+600806376,Hacking-Notes/Red-Team,6 - Machine/2 - Windows/Notes/3 - Kernel Exploits.md,bf7bd6debf199072b004f7eb59632bedcbed7c91,MS10-015
+600806376,Hacking-Notes/Red-Team,6 - Machine/2 - Windows/Notes/3 - Kernel Exploits.md,bf7bd6debf199072b004f7eb59632bedcbed7c91,MS10-059
+600806376,Hacking-Notes/Red-Team,4 - Exploitation/Metasploit/Notes/3 - Metasploit Meterpreter.md,f1555bc8d220c4c7133485882d540a4d13b7e02f,MS17-010
+600806376,Hacking-Notes/Red-Team,6 - Machine/3 - Active Directory/Notes/Tyler/5 - Stacking The Deck.md,f1cec525e3e80a88161c51bd4ff97d217c9088d5,CVE-2021-42287
+600806376,Hacking-Notes/Red-Team,6 - Machine/3 - Active Directory/Notes/Tyler/5 - Stacking The Deck.md,f1cec525e3e80a88161c51bd4ff97d217c9088d5,CVE-2021-1675
+600806376,Hacking-Notes/Red-Team,6 - Machine/3 - Active Directory/Notes/Tyler/5 - Stacking The Deck.md,f1cec525e3e80a88161c51bd4ff97d217c9088d5,CVE-2021-34527
+600806376,Hacking-Notes/Red-Team,6 - Machine/3 - Active Directory/Notes/Tyler/5 - Stacking The Deck.md,f1cec525e3e80a88161c51bd4ff97d217c9088d5,CVE-2021-36942
+600806376,Hacking-Notes/Red-Team,6 - Machine/3 - Active Directory/Notes/Tyler/5 - Stacking The Deck.md,f1cec525e3e80a88161c51bd4ff97d217c9088d5,MS14-068
+600806376,Hacking-Notes/Red-Team,6 - Machine/3 - Active Directory/Notes/Tyler/5 - Stacking The Deck.md,f1cec525e3e80a88161c51bd4ff97d217c9088d5,CVE-2021-42278
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,MS14-025
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,VU#35
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,MS17-010
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,VU#09
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,VU#319
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,MS08-068
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,MS14-068
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2022-26923
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2022-26925
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,VU#36
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2021-42287
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2021-42278
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2021-40469
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2021-36934
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2021-34527
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2021-1675
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2020-1472
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2020-0796
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2019-1040
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2019-0724
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2019-0686
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,CVE-2022-33679
+600806376,Hacking-Notes/Red-Team,Others/ㅤㅤ/pentest_ad_dark_2022_11.svg,fee55a141c26782622e79d1325a7d9b75af6686a,VU#82

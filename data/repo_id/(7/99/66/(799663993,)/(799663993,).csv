@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+799663993,DiabloHTB/Nuclei-Template-CVE-2024-1561,CVE-2024-1561.yaml,20feadcfcd1d445d884ca7db657a3ef7db2356ad,CVE-2024-1561
+799663993,DiabloHTB/Nuclei-Template-CVE-2024-1561,README.md,9a58ee7ba2834a3f1edddf1dc612d87466fe2a46,CVE-2024-1561
+799663993,DiabloHTB/Nuclei-Template-CVE-2024-1561,_GITHUB_REPO_METADATA_,,CVE-2024-1561

@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,clfs_eop/x64/Release/clfs_eop.tlog/clfs_eop.lastbuildstate,0064691059fc4f1832096e201918967063fd13c2,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,clfs_eop/x64/Release/vc142.pdb,021b3ff725d2421fd90a623f21f9638f13e10f97,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,clfs_eop/x64/Release/clfs_eop.obj,4fb1e3db9c2df69bd7515622f510dd0bab25b3ec,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,exploit.exe,5a64a3687641e443fd319b417bd63c6ba3f5bc81,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,clfs_eop/x64/Release/clfs_eop.log,717bc3a23c386d6cb1528b48291e32a245630b20,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,clfs_eop/x64/Debug/clfs_eop.tlog/clfs_eop.lastbuildstate,91140d3908c60ead5fc3690cea95e3403ffa169e,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,README.md,943e2cb921a4ac470934c0b8cee6aae2503a5775,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,README.md,943e2cb921a4ac470934c0b8cee6aae2503a5775,CVE-2023-2852
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,clfs_eop/x64/Release/clfs_eop.exe.recipe,9fae47eabbbc6c4c05ae49965d9ff0e61757f155,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,clfs_eop/x64/Debug/vc143.pdb,a11c19c7616ce632b190b1c5357953230a95fc42,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,clfs_eop/x64/Debug/vc143.idb,dd3e2789a1f1f37d1ee0638a29140d86566b60ee,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,clfs_eop/x64/Debug/clfs_eop.log,ec28dd62a9edf55bc5ddb748db5a097ecdc166a4,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,x64/Release/clfs_eop.pdb,f38f32099bd8141972f166a5466ceb0a89016dd3,CVE-2023-28252
+746601760,duck-sec/CVE-2023-28252-Compiled-exe,_GITHUB_REPO_METADATA_,,CVE-2023-28252

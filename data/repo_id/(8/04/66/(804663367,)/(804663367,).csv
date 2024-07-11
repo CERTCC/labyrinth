@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+804663367,T0niKroOs/scala_vulnerability_poc,readme.md,dcfd043e14640a5fe4643b47f3a626d4a36fad24,CVE-2022-36944

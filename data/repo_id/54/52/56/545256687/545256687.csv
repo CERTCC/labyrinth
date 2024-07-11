@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+545256687,risesecurity/exploits,_data/exploits.yml,285b3eb2dd5772766a9c9f619e599bf102afb6f2,CVE-2006-4655
+545256687,risesecurity/exploits,_data/exploits.yml,285b3eb2dd5772766a9c9f619e599bf102afb6f2,CVE-2009-2692

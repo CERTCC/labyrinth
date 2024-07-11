@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+693617848,sufyandaredevil/OSED,exploits/02/syncbreeze_enterprise_v10.0.28.exe,4a1fb796d6774cfc63d75ed6d9e7ccb7919d1c88,VU#24
+693617848,sufyandaredevil/OSED,exploits/02/syncbreeze_enterprise_v10.0.28.exe,4a1fb796d6774cfc63d75ed6d9e7ccb7919d1c88,VU#32

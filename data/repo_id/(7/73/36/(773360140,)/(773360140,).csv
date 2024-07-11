@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+773360140,sagisar1/CVE-2014-6721-exploit-Shellshock,README.md,1c8e2b140049ab8727a7d2693aaae18ce470c36f,CVE-2014-6721
+773360140,sagisar1/CVE-2014-6721-exploit-Shellshock,CVE-2014-6721-POC.py,5ddedaa38e19874e6d5f9b9d1f8fbc3b60004999,CVE-2014-6271
+773360140,sagisar1/CVE-2014-6721-exploit-Shellshock,CVE-2014-6721-POC.py,5ddedaa38e19874e6d5f9b9d1f8fbc3b60004999,CVE-2014-6721
+773360140,sagisar1/CVE-2014-6721-exploit-Shellshock,_GITHUB_REPO_METADATA_,,CVE-2014-6721

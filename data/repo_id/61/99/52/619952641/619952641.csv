@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+619952641,TcherB31/exploits_scripts,CVE-2008-0005.html,277a612a7517225048fe7b18dfd1957e0f4fdb0c,CVE-2008-0005
+619952641,TcherB31/exploits_scripts,CVE-2006-20001.py,9e791c20b197c0f1cdbacded8629c4bb4d249c2e,CVE-2006-20001
+619952641,TcherB31/exploits_scripts,CVE-2018-7600.pl,fe470fa1152648e7c0c2be09ca661d1739774bca,CVE-2018-7600

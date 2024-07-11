@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+466418797,PawanKumarPandit/Commix,src/core/modules/shellshock/shellshock.py,b78d98b54cac0c6ca05c3b88e9a932d5c73431dc,CVE-2014-6271
+466418797,PawanKumarPandit/Commix,src/core/modules/shellshock/shellshock.py,b78d98b54cac0c6ca05c3b88e9a932d5c73431dc,CVE-2014-6278
+466418797,PawanKumarPandit/Commix,doc/CHANGELOG.md,e7942c292ff50a17b946687cf0f833e4f3b20373,CVE-2014-6271
+466418797,PawanKumarPandit/Commix,doc/CHANGELOG.md,e7942c292ff50a17b946687cf0f833e4f3b20373,CVE-2014-6278

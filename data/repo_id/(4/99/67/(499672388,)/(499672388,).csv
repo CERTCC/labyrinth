@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+499672388,x90hack/vulnerabilty_lab,[2022년 11월] LKM 2.6 이후 버전 .ko 연구 보고서.pdf,aa47b0bc5a899478c7a18300c564728026e7ec01,VU#05
+499672388,x90hack/vulnerabilty_lab,README.md,ad734ef48eeab63857dc6f0290a7bd7f5ef54e68,CVE-2009-2692
+499672388,x90hack/vulnerabilty_lab,README.md,ad734ef48eeab63857dc6f0290a7bd7f5ef54e68,CVE-2016-5195
+499672388,x90hack/vulnerabilty_lab,README.md,ad734ef48eeab63857dc6f0290a7bd7f5ef54e68,CVE-2019-13272
+499672388,x90hack/vulnerabilty_lab,README.md,ad734ef48eeab63857dc6f0290a7bd7f5ef54e68,CVE-2021-22555
+499672388,x90hack/vulnerabilty_lab,README.md,ad734ef48eeab63857dc6f0290a7bd7f5ef54e68,CVE-2021-26708
+499672388,x90hack/vulnerabilty_lab,README.md,ad734ef48eeab63857dc6f0290a7bd7f5ef54e68,CVE-2022-0847

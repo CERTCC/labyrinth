@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+572526199,Trinity-SYT-SECURITY/coablt_strike_4.5,README.md,4093cdaacc3369f296bd26f53b7c0f19f82c97cc,CVE-2022-39197
+572526199,Trinity-SYT-SECURITY/coablt_strike_4.5,scripts/default.cna,89ee4142771dad952f230b46fbd6b7e4d4ff554d,BID-1
+572526199,Trinity-SYT-SECURITY/coablt_strike_4.5,cobaltstrike.jar,bb0815f6b7f1e9549526452d0727a54a2fe89b89,CVE-2014-4113
+572526199,Trinity-SYT-SECURITY/coablt_strike_4.5,cobaltstrike.jar,bb0815f6b7f1e9549526452d0727a54a2fe89b89,VU#45
+572526199,Trinity-SYT-SECURITY/coablt_strike_4.5,cobaltstrike.jar,bb0815f6b7f1e9549526452d0727a54a2fe89b89,VU#49
+572526199,Trinity-SYT-SECURITY/coablt_strike_4.5,cobaltstrike.jar,bb0815f6b7f1e9549526452d0727a54a2fe89b89,VU#83
+572526199,Trinity-SYT-SECURITY/coablt_strike_4.5,cobaltstrike.jar,bb0815f6b7f1e9549526452d0727a54a2fe89b89,VU#91
+572526199,Trinity-SYT-SECURITY/coablt_strike_4.5,cobaltstrike.jar,bb0815f6b7f1e9549526452d0727a54a2fe89b89,VU#92
+572526199,Trinity-SYT-SECURITY/coablt_strike_4.5,_GITHUB_REPO_METADATA_,,CVE-2022-39197

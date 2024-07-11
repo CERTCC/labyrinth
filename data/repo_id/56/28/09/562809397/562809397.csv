@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+562809397,adarshpv9746/Log4j-exploit,target/RogueJndi-1.1.jar,ad08c937dfe2cd3570af4f03177cd4d3bd32f124,VU#23
+562809397,adarshpv9746/Log4j-exploit,target/RogueJndi-1.1.jar,ad08c937dfe2cd3570af4f03177cd4d3bd32f124,VU#46

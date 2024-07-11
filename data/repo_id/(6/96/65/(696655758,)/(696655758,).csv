@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+696655758,im-hanzou/WooRefer,woorefer.sh,ba9151277d4d8ffa097e577dbdec2a2e746bc8f1,CVE-2022-4047
+696655758,im-hanzou/WooRefer,README.md,c597bf6d282e26ea4102bdb340c8a87d415eb4e8,CVE-2022-4047
+696655758,im-hanzou/WooRefer,README.md,c597bf6d282e26ea4102bdb340c8a87d415eb4e8,GHSA-3J85-6864-55P3
+696655758,im-hanzou/WooRefer,_GITHUB_REPO_METADATA_,,CVE-2022-4047

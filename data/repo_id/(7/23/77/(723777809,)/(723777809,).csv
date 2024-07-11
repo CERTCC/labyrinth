@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+723777809,Fw-fW-fw/CVE-2023-28432-minio_update_rce,CVE-2023-28432 minio 接口未授权访问到无损RCE和全局后门.pdf,53fe98de78fd49d6baa6b134379e1e96f1b64649,CVE-2023-28432
+723777809,Fw-fW-fw/CVE-2023-28432-minio_update_rce,README.md,f6e89bf584c584144c38d22d98dec9c6258f5cb6,CVE-2023-28432
+723777809,Fw-fW-fw/CVE-2023-28432-minio_update_rce,_GITHUB_REPO_METADATA_,,CVE-2023-28432

@@ -1,0 +1,8 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2022-86535,0.01851852,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
+CNVD-2022-86535,0.00934579,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
+CNVD-2022-86535,0.00184843,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+CNVD-2022-86535,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNVD-2022-86535,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+CNVD-2022-86535,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2022-86535,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

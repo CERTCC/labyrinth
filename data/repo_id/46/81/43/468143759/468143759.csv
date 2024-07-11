@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+468143759,babyshen/CVE-2022-0847,exploit.c,3169ab2b58b09fe08774dbb56f4f4b1991ec2404,CVE-2022-0847
+468143759,babyshen/CVE-2022-0847,_GITHUB_REPO_METADATA_,,CVE-2022-0847

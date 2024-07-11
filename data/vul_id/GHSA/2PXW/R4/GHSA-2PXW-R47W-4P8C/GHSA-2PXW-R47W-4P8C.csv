@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-2PXW-R47W-4P8C,0.00083333,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
+GHSA-2PXW-R47W-4P8C,0.00082988,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+GHSA-2PXW-R47W-4P8C,0.00082919,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
+GHSA-2PXW-R47W-4P8C,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+GHSA-2PXW-R47W-4P8C,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-2PXW-R47W-4P8C,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

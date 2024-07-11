@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+173116721,brompwnie/botb,lib.go,ad18a87fc4bef7c585a6398faf849ad0449c7ec5,CVE-2019-5736
+173116721,brompwnie/botb,README.md,b63041f8ea1920f52f40c43901d134edaaf402bf,CVE-2019-1002101
+173116721,brompwnie/botb,README.md,b63041f8ea1920f52f40c43901d134edaaf402bf,CVE-2019-5736

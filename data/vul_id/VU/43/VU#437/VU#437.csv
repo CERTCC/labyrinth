@@ -1,0 +1,15 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#437,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
+VU#437,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#437,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
+VU#437,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
+VU#437,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
+VU#437,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
+VU#437,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
+VU#437,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
+VU#437,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,805159528
+VU#437,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
+VU#437,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#437,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
+VU#437,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
+VU#437,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685

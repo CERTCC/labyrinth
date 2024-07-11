@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+597637403,0dayegirl/cloning,DRIVERS/vcredist2013_x86.exe,0f5d66bcaf120f2d3f340e448a268fe4bbf7709d,VU#42
+597637403,0dayegirl/cloning,DRIVERS/vcredist2013_x86.exe,0f5d66bcaf120f2d3f340e448a268fe4bbf7709d,VU#62
+597637403,0dayegirl/cloning,DRIVERS/vcredist2013_x64.exe,1194e6bf4153fa88f20b2a70ac15bc359ada4ee2,VU#23
+597637403,0dayegirl/cloning,DRIVERS/vcredist2013_x64.exe,1194e6bf4153fa88f20b2a70ac15bc359ada4ee2,VU#24
+597637403,0dayegirl/cloning,DRIVERS/vcredist2013_x64.exe,1194e6bf4153fa88f20b2a70ac15bc359ada4ee2,VU#81
+597637403,0dayegirl/cloning,DRIVERS/vcredist2010_x86.exe,28c54491be70c38c97849c3d8cfbfdd0d3c515cb,VU#35
+597637403,0dayegirl/cloning,DRIVERS/vcredist2015_2017_2019_x86.exe,5ce7923ffea712468c05e7ac376dd9c29ea9f6be,VU#11
+597637403,0dayegirl/cloning,DRIVERS/vcredist2015_2017_2019_x86.exe,5ce7923ffea712468c05e7ac376dd9c29ea9f6be,VU#98
+597637403,0dayegirl/cloning,DRIVERS/vcredist2015_2017_2019_x64.exe,9ed4b091148c9b53f66b3f2c69be7e60e74c486a,VU#98
+597637403,0dayegirl/cloning,DRIVERS/vcredist2008_x64.exe,a7c83077b8a28d409e36316d2d7321fa0ccdb7e8,VU#43
+597637403,0dayegirl/cloning,DRIVERS/vcredist2005_x86.exe,e052789ebad7dc8d6f8505a9295b0576babd125e,VU#89

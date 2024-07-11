@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+728920376,cyberaz0r/GL.iNet-Multiple-Vulnerabilities,CVE-2023-46455.py,158d9d34c36d179e3799cdc864cdf31ab6eab5f7,CVE-2023-46455
+728920376,cyberaz0r/GL.iNet-Multiple-Vulnerabilities,CVE-2023-46454.py,286e652f55ccc72442ef3e3983dd64f93e6db1ae,CVE-2023-46454
+728920376,cyberaz0r/GL.iNet-Multiple-Vulnerabilities,README.md,729e550aac4406b2184fb9a4693b966e5b4634f3,CVE-2023-46454
+728920376,cyberaz0r/GL.iNet-Multiple-Vulnerabilities,README.md,729e550aac4406b2184fb9a4693b966e5b4634f3,CVE-2023-46455
+728920376,cyberaz0r/GL.iNet-Multiple-Vulnerabilities,README.md,729e550aac4406b2184fb9a4693b966e5b4634f3,CVE-2023-46456
+728920376,cyberaz0r/GL.iNet-Multiple-Vulnerabilities,CVE-2023-46456.py,e9adc0382d3f4c3adcd29bf20e06e52083575b26,CVE-2023-46456
+728920376,cyberaz0r/GL.iNet-Multiple-Vulnerabilities,_GITHUB_REPO_METADATA_,,CVE-2023-46454
+728920376,cyberaz0r/GL.iNet-Multiple-Vulnerabilities,_GITHUB_REPO_METADATA_,,CVE-2023-46455
+728920376,cyberaz0r/GL.iNet-Multiple-Vulnerabilities,_GITHUB_REPO_METADATA_,,CVE-2023-46456

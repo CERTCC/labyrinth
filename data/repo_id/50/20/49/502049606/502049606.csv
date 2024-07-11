@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+502049606,randorisec/CVE-2022-1972-infoleak-PoC,README.md,47207d0fbed4643ef2d6261aa00b8e353f89f8f7,CVE-2022-1972
+502049606,randorisec/CVE-2022-1972-infoleak-PoC,_GITHUB_REPO_METADATA_,,CVE-2022-1972

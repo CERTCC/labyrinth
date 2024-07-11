@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+477818601,yywing/cve-2022-0778,server/main.go,88e4551532e689c71ece081dc451b3b1fcf7af5b,CVE-2022-0778
+477818601,yywing/cve-2022-0778,go.mod,c599ce9576f1bd0980fbffbb7ee8147ba99bd4a7,CVE-2022-0778
+477818601,yywing/cve-2022-0778,certfile/server.key,cc60b5db411eebcb6da45e68907412abd97a0f6d,VU#91
+477818601,yywing/cve-2022-0778,README.md,e20d0eebb031c70c424dd70b29626ec22b3c47d1,CVE-2022-0778
+477818601,yywing/cve-2022-0778,tls/cipher_suites.go,e6559b5d3aa073f0f3de020707bf19a51b5d6a21,CVE-2022-0778
+477818601,yywing/cve-2022-0778,client/main.go,efa43a3ad8a2fa3123448ec557ffb2994f637df8,CVE-2022-0778
+477818601,yywing/cve-2022-0778,_GITHUB_REPO_METADATA_,,CVE-2022-0778

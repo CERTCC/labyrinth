@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+772880701,BugBountyHunterCVE/CVE-2023-40276,CVE-2023-40276_Unauthenticated-File-Download_OpenClinic-GA_5.247.01_Report.md,f283516a46b54eade146620020efa1a17bfe86b2,CVE-2023-40276
+772880701,BugBountyHunterCVE/CVE-2023-40276,_GITHUB_REPO_METADATA_,,CVE-2023-40276

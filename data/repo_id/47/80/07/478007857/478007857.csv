@@ -1,0 +1,20 @@
+repo_id,repo_full_name,file,file_sha1,match
+478007857,p0dalirius/Awesome-RCE-techniques,Content-Management-Systems-(CMS)/FuelCMS/techniques/CVE-2018-16763_-_Pre-Auth_Remote_Code_Execution/README.md,1a98bab11a4f39e1522599ab268c12c0c3ad8b02,CVE-2018-16763
+478007857,p0dalirius/Awesome-RCE-techniques,Other/GiTea/techniques/User-with-git-hooks-activated/README.md,1e4f8fa9ab7c5bb55a0084f818e2a6bf89eb5159,CVE-2020-14144
+478007857,p0dalirius/Awesome-RCE-techniques,Content-Management-Systems-(CMS)/FuelCMS/techniques/CVE-2018-16763_-_Pre-Auth_Remote_Code_Execution/test_env/files/apache2.conf,329ffaaa82b3f15ae8051b6f05bd052451cbc800,CVE-2018-16763
+478007857,p0dalirius/Awesome-RCE-techniques,Other/Webmin/README.md,3f480070d458bf92d6eb31c7262ab89ecb0cead7,CVE-2022-36446
+478007857,p0dalirius/Awesome-RCE-techniques,Frameworks/Apache-Tomcat/techniques/CVE-2017-12615_-_PUT_a_jsp_file/README.md,43f5e566d4384500a27e1eb70e2cded70ddebf4e,CVE-2017-12615
+478007857,p0dalirius/Awesome-RCE-techniques,Other/Webmin/techniques/CVE-2022-36446_-_Webmin_1.996_authenticated_rce/README.md,58619f4cc7431e1beed11c9e8a440d198de50a7a,CVE-2022-36446
+478007857,p0dalirius/Awesome-RCE-techniques,Other/Webmin/techniques/CVE-2022-36446_-_Webmin_1.996_authenticated_rce/README.md,58619f4cc7431e1beed11c9e8a440d198de50a7a,GHSA-3Q8J-9W3H-V6P5
+478007857,p0dalirius/Awesome-RCE-techniques,Content-Management-Systems-(CMS)/FuelCMS/techniques/CVE-2018-16763_-_Pre-Auth_Remote_Code_Execution/test_env/files/database.php,6f610d6cf473d3d51cb93318b27686b9d790c534,CVE-2018-16763
+478007857,p0dalirius/Awesome-RCE-techniques,Content-Management-Systems-(CMS)/FuelCMS/techniques/CVE-2018-16763_-_Pre-Auth_Remote_Code_Execution/test_env/files/.htaccess,708191a21fdb6e1946f78e00d53650380b4a01bc,CVE-2018-16763
+478007857,p0dalirius/Awesome-RCE-techniques,Content-Management-Systems-(CMS)/FuelCMS/techniques/CVE-2018-16763_-_Pre-Auth_Remote_Code_Execution/test_env/Makefile,8b1949692e3cb00be16e2026ffebe8b84eb3bed9,CVE-2018-16763
+478007857,p0dalirius/Awesome-RCE-techniques,Frameworks/Apache-Tomcat/README.md,a2d9c41d052a7a004df2b1cc6043f3a515f4d4fc,CVE-2017-12615
+478007857,p0dalirius/Awesome-RCE-techniques,Other/Gitlab/techniques/CVE-2021-22205 - Unauthenticated RCE using ExifTool/test_env/Makefile,b54f2783503864562b9190c0c56444bbfd33761a,CVE-2021-22205
+478007857,p0dalirius/Awesome-RCE-techniques,Other/Gitlab/techniques/CVE-2021-22205 - Unauthenticated RCE using ExifTool/README.md,bb35ff1d8a60bb9dea4977460326c8a393e7bc90,CVE-2021-22205
+478007857,p0dalirius/Awesome-RCE-techniques,Other/Gitlab/techniques/CVE-2021-22205 - Unauthenticated RCE using ExifTool/test_env/Dockerfile,c70ebc641e870cabc661bd120ffae9d43c7724db,CVE-2021-22205
+478007857,p0dalirius/Awesome-RCE-techniques,Other/Gitlab/README.md,c7502fca6a28d760757aa339b1f2c6616ff52931,CVE-2021-22205
+478007857,p0dalirius/Awesome-RCE-techniques,Content-Management-Systems-(CMS)/FuelCMS/techniques/CVE-2018-16763_-_Pre-Auth_Remote_Code_Execution/test_env/Dockerfile,cd2cfdcd4b6b3f0b4ce50b8e97bd82a74dd57d15,CVE-2018-16763
+478007857,p0dalirius/Awesome-RCE-techniques,Content-Management-Systems-(CMS)/FuelCMS/README.md,e81679d7f53cb534937a9fbfd218cb121c4d64a4,CVE-2018-16763
+478007857,p0dalirius/Awesome-RCE-techniques,Other/Webmin/techniques/CVE-2022-36446_-_Webmin_1.996_authenticated_rce/test_env/Dockerfile,fd092e6496ac2dafc72ec44524a3fa79f568a5bc,CVE-2022-36446
+478007857,p0dalirius/Awesome-RCE-techniques,Other/Webmin/techniques/CVE-2022-36446_-_Webmin_1.996_authenticated_rce/test_env/Makefile,fe19cd2880bb25d9847f9ef61268357c60ad454f,CVE-2022-36446

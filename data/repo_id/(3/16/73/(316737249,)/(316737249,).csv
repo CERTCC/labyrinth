@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+316737249,loneicewolf/Stuxnet-Source,Docs/w32_stuxnet_dossier.pdf,0ea46e6fa462f1817f890b594e98ebec0a82b94a,BID-31874
+316737249,loneicewolf/Stuxnet-Source,Docs/w32_stuxnet_dossier.pdf,0ea46e6fa462f1817f890b594e98ebec0a82b94a,BID-41732
+316737249,loneicewolf/Stuxnet-Source,Docs/w32_stuxnet_dossier.pdf,0ea46e6fa462f1817f890b594e98ebec0a82b94a,BID-43073
+316737249,loneicewolf/Stuxnet-Source,Docs/w32_stuxnet_dossier.pdf,0ea46e6fa462f1817f890b594e98ebec0a82b94a,MS08-067
+316737249,loneicewolf/Stuxnet-Source,Docs/w32_stuxnet_dossier.pdf,0ea46e6fa462f1817f890b594e98ebec0a82b94a,MS10-046
+316737249,loneicewolf/Stuxnet-Source,Docs/w32_stuxnet_dossier.pdf,0ea46e6fa462f1817f890b594e98ebec0a82b94a,MS10-061
+316737249,loneicewolf/Stuxnet-Source,Docs/w32_stuxnet_dossier.pdf,0ea46e6fa462f1817f890b594e98ebec0a82b94a,MS10-073
+316737249,loneicewolf/Stuxnet-Source,Docs/w32_stuxnet_dossier.pdf,0ea46e6fa462f1817f890b594e98ebec0a82b94a,VU#07
+316737249,loneicewolf/Stuxnet-Source,Malware/FILES.zip,14447b82167c182a94e1431c46369c239f05d438,VU#01
+316737249,loneicewolf/Stuxnet-Source,Docs/Symantec - Stuxnet 0.5 - The Missing Link v1.0.pdf,712311f4cacd476100c7ef037e3accc740558920,BID-54651
+316737249,loneicewolf/Stuxnet-Source,Docs/Symantec - Stuxnet 0.5 - The Missing Link v1.0.pdf,712311f4cacd476100c7ef037e3accc740558920,VU#54

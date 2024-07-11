@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+803901018,Securenetology/CVE-2013-3900,Remediate CVE-2013-3900 - Certificate Padding Check.ps1,391ae2f5387b03e68e52f2996347b77725aeda0b,CVE-2013-3900
+803901018,Securenetology/CVE-2013-3900,Remediate CVE-2013-3900 - Certificate Padding Check.ps1,391ae2f5387b03e68e52f2996347b77725aeda0b,MS13-098
+803901018,Securenetology/CVE-2013-3900,_GITHUB_REPO_METADATA_,,CVE-2013-3900

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+460035686,Mr-xn/sunlogin_rce,SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#08
+460035686,Mr-xn/sunlogin_rce,SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#23
+460035686,Mr-xn/sunlogin_rce,SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#67

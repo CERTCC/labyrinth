@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+779840916,yoryio/django-vuln-research,CVE-2022-34265/models.py,19d321b6adb9d4f0cfff55bc46ae38cf0c1221ec,CVE-2022-34265
+779840916,yoryio/django-vuln-research,CVE-2022-34265/README.md,3354b03b4adb5f3a12494520c3e51ee6dc21ccb2,CVE-2020-7471
+779840916,yoryio/django-vuln-research,CVE-2022-34265/README.md,3354b03b4adb5f3a12494520c3e51ee6dc21ccb2,CVE-2022-34265
+779840916,yoryio/django-vuln-research,CVE-2022-34265/settings.py,4ad6ab987c60eb7cf0c87f74dd04c67bfb6cb93f,CVE-2022-34265
+779840916,yoryio/django-vuln-research,CVE-2022-34265/docker-compose.yml,582bd1f40c957e4cbf220ca9a972647499bd2dd5,CVE-2022-34265
+779840916,yoryio/django-vuln-research,CVE-2022-34265/Dockerfile,648c46818a3170b867aabfd262b837d367c4dc0b,CVE-2022-34265
+779840916,yoryio/django-vuln-research,README.md,add285703c07bfc110fd7370ed9886c9536e4586,CVE-2014-0472
+779840916,yoryio/django-vuln-research,README.md,add285703c07bfc110fd7370ed9886c9536e4586,CVE-2019-19844
+779840916,yoryio/django-vuln-research,README.md,add285703c07bfc110fd7370ed9886c9536e4586,CVE-2020-13524
+779840916,yoryio/django-vuln-research,README.md,add285703c07bfc110fd7370ed9886c9536e4586,CVE-2020-7471
+779840916,yoryio/django-vuln-research,README.md,add285703c07bfc110fd7370ed9886c9536e4586,CVE-2022-34265
+779840916,yoryio/django-vuln-research,CVE-2022-34265/views.py,c2b9d4dd350eb7117c6d9bde4fcc456ee1b583e9,CVE-2022-34265
+779840916,yoryio/django-vuln-research,CVE-2022-34265/urls.py,e13ab05285f37903f69bc1345938b1628295c1c6,CVE-2022-34265

@@ -4,7 +4,7 @@ name: SearchRepos
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '26 * * * *'
+    - cron:  '26 4/12 * * *'
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     strategy:
+      max-parallel: 10
       fail-fast: false
       matrix:
        search_str: 
@@ -54,6 +55,12 @@ jobs:
          - cve-2 OR cve_2
          # 18176
          - exploit
+         # 17
+         - UEFI bootkit
+         # 12
+         - secure boot bypass
+         # 35
+         - exploitation persistence
 #          # 2944
 #          - '"privilege escalation" OR privesc'
 #          # 1504
@@ -64,19 +71,19 @@ jobs:
 #          - 0-day
 #          # 502 (noisy)
 #          - 1day
-
+        
     steps:
       - name: Get today and yesterday dates
         id: date
         run: |
-          echo "::set-output name=today::$(date +'%Y-%m-%d')"
-          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
+          echo "today=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "yesterday=$(date -d yesterday '+%Y-%m-%d')" >> $GITHUB_OUTPUT
     
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
       
@@ -108,17 +115,18 @@ jobs:
       - name: Get dates
         id: date
         run: |
-          echo "::set-output name=today::$(date +'%Y-%m-%d')"
-          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
-          echo "::set-output name=this_month::$(date +'%Y-%m')"
-          echo "::set-output name=this_year::$(date +'%Y')"
+          echo "today=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "yesterday=$(date -d yesterday '+%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "this_month=$(date +'%Y-%m')" >> $GITHUB_OUTPUT
+          echo "this_year=$(date +'%Y')" >> $GITHUB_OUTPUT
+
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.VUL_DRILLER_TOKEN }}
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
@@ -179,18 +187,18 @@ jobs:
       - name: Get dates
         id: date
         run: |
-          echo "::set-output name=today::$(date +'%Y-%m-%d')"
-          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
-          echo "::set-output name=last_day::$(date -d yesterday +'%d')"
-          echo "::set-output name=this_day::$(date +'%d')"
-          echo "::set-output name=this_month::$(date +'%m')"
-          echo "::set-output name=this_year::$(date +'%Y')"
+          echo "today=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "yesterday=$(date -d yesterday '+%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "last_day=$(date -d yesterday +'%d')" >> $GITHUB_OUTPUT
+          echo "this_day=$(date +'%d')" >> $GITHUB_OUTPUT
+          echo "this_month=$(date +'%m')" >> $GITHUB_OUTPUT
+          echo "this_year=$(date +'%Y')" >> $GITHUB_OUTPUT
 
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
@@ -235,10 +243,10 @@ jobs:
 
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 

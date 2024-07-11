@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+812644339,mchklt/PFE,README.md,6771eb58aaabf5caf8dbe6436b77d9972617bbe6,CVE-2017-0143
+812644339,mchklt/PFE,README.md,6771eb58aaabf5caf8dbe6436b77d9972617bbe6,MS08-067
+812644339,mchklt/PFE,README.md,6771eb58aaabf5caf8dbe6436b77d9972617bbe6,MS17-010

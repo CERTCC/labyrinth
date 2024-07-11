@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-4H98-2769-GH6H,1.00000000,https://github.com/pcaversaccio/malleable-signatures,pcaversaccio/malleable-signatures,651981338
+GHSA-4H98-2769-GH6H,0.50000000,https://github.com/Decurity/semgrep-smart-contracts,Decurity/semgrep-smart-contracts,476727342
+GHSA-4H98-2769-GH6H,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+GHSA-4H98-2769-GH6H,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-4H98-2769-GH6H,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-4H98-2769-GH6H,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

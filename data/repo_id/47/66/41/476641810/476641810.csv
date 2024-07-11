@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+476641810,playZG/Exploit-,Online Sports Complex Booking System/Online Sports Complex Booking System 1.0 SQL Injection(二).md,41d79a999079a2337c3394e40ff3e2003e6ff6a0,CVE-2022-28962
+476641810,playZG/Exploit-,Online Sports Complex Booking System/Online Sports Complex Booking System 1.0 SQL Injection(三).md,c5fbbcd9e4478b0e1731a70c055f5651b32cb701,CVE-2022-29304
+476641810,playZG/Exploit-,Online Sports Complex Booking System/Online Sports Complex Booking System 1.0 XSS loophole.md,f85af4bb957e3ce9004f8d8860b3d39793574fbc,CVE-2022-29652

@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+545255966,rcvalle/exploits,_data/exploits.yml,53b8ea95e5d9bee9c7fbc1285c448a85cc6b266d,CVE-2006-4655
+545255966,rcvalle/exploits,_data/exploits.yml,53b8ea95e5d9bee9c7fbc1285c448a85cc6b266d,CVE-2009-2692
+545255966,rcvalle/exploits,_data/exploits.yml,53b8ea95e5d9bee9c7fbc1285c448a85cc6b266d,CVE-2014-0160
+545255966,rcvalle/exploits,_data/exploits.yml,53b8ea95e5d9bee9c7fbc1285c448a85cc6b266d,CVE-2014-6593
+545255966,rcvalle/exploits,_data/exploits.yml,53b8ea95e5d9bee9c7fbc1285c448a85cc6b266d,CVE-2015-1793
+545255966,rcvalle/exploits,rcvalle_heartbleed.rb,63221ab6b709269ef02b637e442e0d96c6dbcd61,CVE-2014-0160
+545255966,rcvalle/exploits,rcvalle_accforgery.rb,7d5d0113499b7f5dba86b92927a4f527e56e2031,CVE-2015-1793
+545255966,rcvalle/exploits,rcvalle_skiptls.rb,bef0a16b52275b6879539aea2d55da1342db202d,CVE-2014-6593

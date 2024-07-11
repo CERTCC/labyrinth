@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+468041974,CodeXTF2/goautodial-rce-exploit,exploit.py,187d8df6b61ee58e5a491ca55ee3b821521cea43,CVE-2015-2845
+468041974,CodeXTF2/goautodial-rce-exploit,README.md,64aa55113a3a1283837b5d7975d8b476d6341ecd,CVE-2015-2843
+468041974,CodeXTF2/goautodial-rce-exploit,README.md,64aa55113a3a1283837b5d7975d8b476d6341ecd,CVE-2015-2844
+468041974,CodeXTF2/goautodial-rce-exploit,README.md,64aa55113a3a1283837b5d7975d8b476d6341ecd,CVE-2015-2845

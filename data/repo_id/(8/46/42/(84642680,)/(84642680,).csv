@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+84642680,jrrombaldo/CVE-2017-5638,README.md,1b01a05eb817c86243ec5d64d46f10a4c4b2bc4e,CVE-2017-5638
+84642680,jrrombaldo/CVE-2017-5638,struts-shock-validation.py,f684a40797f162b58eadf3361d3373e78f8ff80f,CVE-2017-5638
+84642680,jrrombaldo/CVE-2017-5638,_GITHUB_REPO_METADATA_,,CVE-2017-5638

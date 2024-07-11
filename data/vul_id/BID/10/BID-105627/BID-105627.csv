@@ -1,2 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-105627,0.00070872,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+BID-105627,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
+BID-105627,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
+BID-105627,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
+BID-105627,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+BID-105627,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+BID-105627,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+BID-105627,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-105627,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-105627,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

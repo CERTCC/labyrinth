@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+527290748,huyql109/Browser-exploitation,CVE-2020-16040/gdbinit,6e4e1c20076733fd3883cf6c560dabb12acccfe9,CVE-2020-16040
+527290748,huyql109/Browser-exploitation,CVE-2020-16040/README.md,81497963c00fa0c3714fc67936a8ba1347699108,CVE-2020-16040
+527290748,huyql109/Browser-exploitation,CVE-2020-16040/exploit.html,c6506a5a647decb6f0e7d45762430bd2cd972e3d,CVE-2020-16040
+527290748,huyql109/Browser-exploitation,CVE-2020-16040/exploit.js,e74d89ee958bdefd7112ad6f6cd77eee3d1481e6,CVE-2020-16040

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+784084395,j-arivazhagan/auto,metaAuto.sh,1d96b15f137b1e52a65af6b3c5b0d7273a20d501,CVE-2019-0708
+784084395,j-arivazhagan/auto,metaAuto.sh,1d96b15f137b1e52a65af6b3c5b0d7273a20d501,MS17-010

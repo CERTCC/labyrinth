@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+546716408,njnelso/Exploits,16320.rb,00cd46312886c1c3d0ef320e8ed27917de0b4f4a,BID-23972
+546716408,njnelso/Exploits,16320.rb,00cd46312886c1c3d0ef320e8ed27917de0b4f4a,CVE-2007-2447
+546716408,njnelso/Exploits,16320.rb,00cd46312886c1c3d0ef320e8ed27917de0b4f4a,OSVDB-34700
+546716408,njnelso/Exploits,37292.c,5eb779e448fe5ce4c0ac31993b8dbda93106769d,CVE-2015-1328

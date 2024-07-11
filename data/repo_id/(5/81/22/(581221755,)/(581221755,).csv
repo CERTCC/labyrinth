@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+581221755,PabloMK7/ENLBufferPwn,images/vuln.pdn,a3c77dd822ee6db02b84db31e495016ba7f98488,VU#379
+581221755,PabloMK7/ENLBufferPwn,README.md,d42eabfd6ee8dc3d508a590110791c04c71e0bfb,CVE-2022-47949
+581221755,PabloMK7/ENLBufferPwn,Mario_Kart_7_PoC/Includes/types.h,d8a7f9cf9b580a6c5064185939bc39cae2889216,VU#16
+581221755,PabloMK7/ENLBufferPwn,Mario_Kart_7_PoC/Includes/types.h,d8a7f9cf9b580a6c5064185939bc39cae2889216,VU#32
+581221755,PabloMK7/ENLBufferPwn,Mario_Kart_7_PoC/Includes/types.h,d8a7f9cf9b580a6c5064185939bc39cae2889216,VU#64

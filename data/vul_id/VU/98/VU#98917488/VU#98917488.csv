@@ -1,0 +1,11 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#98917488,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22360,Live-Hack-CVE/CVE-2023-22360,601156889
+VU#98917488,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22353,Live-Hack-CVE/CVE-2023-22353,601156864
+VU#98917488,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22350,Live-Hack-CVE/CVE-2023-22350,601156841
+VU#98917488,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22349,Live-Hack-CVE/CVE-2023-22349,601156817
+VU#98917488,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22347,Live-Hack-CVE/CVE-2023-22347,601156790
+VU#98917488,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22346,Live-Hack-CVE/CVE-2023-22346,601156759
+VU#98917488,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22345,Live-Hack-CVE/CVE-2023-22345,601156724
+VU#98917488,0.00270270,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918
+VU#98917488,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#98917488,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

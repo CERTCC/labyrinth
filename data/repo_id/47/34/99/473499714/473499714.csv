@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+473499714,mirailovers/exploits,log4.zip,591fe1a02f554fee34eb30d337b68d872e6b1366,VU#02
+473499714,mirailovers/exploits,log4.zip,591fe1a02f554fee34eb30d337b68d872e6b1366,VU#17
+473499714,mirailovers/exploits,log4.zip,591fe1a02f554fee34eb30d337b68d872e6b1366,VU#28
+473499714,mirailovers/exploits,log4.zip,591fe1a02f554fee34eb30d337b68d872e6b1366,VU#38
+473499714,mirailovers/exploits,log4.zip,591fe1a02f554fee34eb30d337b68d872e6b1366,VU#393
+473499714,mirailovers/exploits,magicNEW.zip,a72e0f5f7616f14b43d0b685fbd4f8d635e2ef37,VU#76

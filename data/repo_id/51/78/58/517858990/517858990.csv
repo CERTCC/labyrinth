@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+517858990,mixx688/router_exploit,README.md,07305fc29b9bdee5ac2e2b36ac189f8f5cd6d7af,CVE-2021-35327
+517858990,mixx688/router_exploit,telnet_exploit.sh,d7a064226bd90b1615ef917fb022cfa2b5081488,CVE-2021-35327

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+790152234,mija-pilkaite/CVE-2022-0482_exploit,cve-2022-0482.py,082037c8657f393725b41bb351a54a040a3570bc,CVE-2022-0482
+790152234,mija-pilkaite/CVE-2022-0482_exploit,README.md,7b4e81d035bbe517409512fece60d70fad57652e,CVE-2022-0482
+790152234,mija-pilkaite/CVE-2022-0482_exploit,_GITHUB_REPO_METADATA_,,CVE-2022-0482

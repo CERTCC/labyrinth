@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+160874388,robertdebock/ansible-role-cve_2018_19788,README.md,049154636b60e572f09ba69c14cadbd73c2f3003,CVE-2018-19788
+160874388,robertdebock/ansible-role-cve_2018_19788,molecule/default/converge.yml,40893f6e6414f426c7be7d2b4d21d232bb4a0783,CVE-2018-19788
+160874388,robertdebock/ansible-role-cve_2018_19788,CONTRIBUTING.md,be36b1732194fb48effad5961d43ede1a145f5e6,CVE-2018-19788
+160874388,robertdebock/ansible-role-cve_2018_19788,SECURITY.md,c407742bff38c1af678442b1eafa6520144a5a68,CVE-2018-19788
+160874388,robertdebock/ansible-role-cve_2018_19788,.github/settings.yml,c60de13fa07a37638916d0d318a2fc4202b8cc60,CVE-2018-19788
+160874388,robertdebock/ansible-role-cve_2018_19788,tasks/main.yml,eb22e363d690e86855ac20596dcda9466384dfc2,CVE-2018-19788
+160874388,robertdebock/ansible-role-cve_2018_19788,meta/main.yml,f70cc488563b653f03d5209bdfb32655a58cba21,CVE-2018-19788
+160874388,robertdebock/ansible-role-cve_2018_19788,_GITHUB_REPO_METADATA_,,CVE-2018-19788

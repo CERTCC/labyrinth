@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+498220300,NagisaYumaa/Log4j_Exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+498220300,NagisaYumaa/Log4j_Exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+498220300,NagisaYumaa/Log4j_Exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+498220300,NagisaYumaa/Log4j_Exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+498220300,NagisaYumaa/Log4j_Exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+498220300,NagisaYumaa/Log4j_Exploit,README.md,5351f00ec32654cda92f808480e530d689818099,CVE-2021-44228
+498220300,NagisaYumaa/Log4j_Exploit,exploit.py,e345c4b80595100b08441be2ace0673e6afedc73,CVE-2021-44228

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+778680882,uthrasri/CVE-2024-2193,membarrier.c,25d7ea08d258c8ab3008a5d2d84903fe6d3858bb,CVE-2024-2193
+778680882,uthrasri/CVE-2024-2193,_GITHUB_REPO_METADATA_,,CVE-2024-2193

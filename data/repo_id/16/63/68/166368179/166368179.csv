@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+166368179,DrunkenShells/Disclosures,CVE-2021-46366-CSRF+Open Redirect-Magnolia CMS/README.md,0116fee1be95578ba83b870a35c7ffb0db9c357b,CVE-2021-46366
 166368179,DrunkenShells/Disclosures,CVE-2019-19810-Java RMI Deserialization-ZoomCallRecording/The Easy Way/ExploitZoom.java,015cbbca3fa29a69e8024a35c67a215b640656d3,CVE-2019-19810
 166368179,DrunkenShells/Disclosures,CVE-2021-42559-Command Injection Via Configurations-MITRE Caldera/README.md,01fc273175b6bc246ef1514db85e41ad538f1000,CVE-2021-42559
 166368179,DrunkenShells/Disclosures,CVE-2020-14029-XXE-Ozeki SMS Gateway/XXE Payloads/ssrf.xml,0494463643c3bc8b46b1fc868c35a04119e56620,CVE-2020-14029
@@ -11,9 +12,11 @@ repo_id,repo_full_name,file,file_sha1,match
 166368179,DrunkenShells/Disclosures,CVE-2020-13965-Cross Site-Scripting via Malicious XML Attachment-Roundcube/README.md,2c5827cd7a32c637cf183d477414b77cff8de208,CVE-2020-13965
 166368179,DrunkenShells/Disclosures,CVE-2020-13965-Cross Site-Scripting via Malicious XML Attachment-Roundcube/README.md,2c5827cd7a32c637cf183d477414b77cff8de208,CVE-2020-12625
 166368179,DrunkenShells/Disclosures,CVE-2018-17289-XXE-Kofax/README.md,2f7cc7996ed8d5e2210a4edcc2193a6cb3bd6b06,CVE-2018-17289
-166368179,DrunkenShells/Disclosures,CVE-2020-12625-Cross Site-Scripting via Malicious HTML Attachment-Roundcube/JavaScript Payloads/get_all_mail.html,2f80631faecdc9e959e20ad15bdb2c0902c41d48,CVE-2020-12625
+166368179,DrunkenShells/Disclosures,CVE-2020-12625-Cross Site-Scripting via Malicious HTML Attachment-Roundcube/JavaScript Payloads/get_all_mail_POST.html,2f80631faecdc9e959e20ad15bdb2c0902c41d48,CVE-2020-12625
 166368179,DrunkenShells/Disclosures,CVE-2019-19810-Java RMI Deserialization-ZoomCallRecording/The Hard Way/README.md,30d9a1984abe54b5cd49ec02e869ef91395bb3ff,CVE-2019-19810
 166368179,DrunkenShells/Disclosures,CVE-2019-19810-Java RMI Deserialization-ZoomCallRecording/README.md,336075745bf5b08c8cc3097d510437fbebb80028,CVE-2019-19810
+166368179,DrunkenShells/Disclosures,CVE-2021-46365-Unsafe XML Parsing-Magnolia CMS/README.md,381a1d519d10faeb2f7ef48fab3d8b472b07793a,CVE-2021-46365
+166368179,DrunkenShells/Disclosures,CVE-2021-46366-CSRF+Open Redirect-Magnolia CMS/Payloads/brute_csrf_iframe.html,38c28ea58f666987c8331876c76f9cd75cd5bc97,CVE-2021-46366
 166368179,DrunkenShells/Disclosures,CVE-2020-14027-MySQL LOAD DATA LOCAL INFILE Attack-Ozeki SMS Gateway/README.md,3a98e5942dc935d36c62e32b1722d27fdb13a107,CVE-2020-14027
 166368179,DrunkenShells/Disclosures,CVE-2019-19810-Java RMI Deserialization-ZoomCallRecording/The Hard Way/zoom.groovy,3e18f781273fb90f009603dadf55e569296187f4,CVE-2019-19810
 166368179,DrunkenShells/Disclosures,CVE-2020-14028-Arbitary File Write-Ozeki SMS Gateway/README.md,4106850b9a373120af35b8d0d72542005c3bee58,CVE-2020-14028
@@ -21,8 +24,8 @@ repo_id,repo_full_name,file,file_sha1,match
 166368179,DrunkenShells/Disclosures,CVE-2020-9004-Authenticated Remote Authorization Bypass Leading to RCE-Wowza/README.md,46c703789c083a00eab98b25947f5cb4b3014502,CVE-2020-9004
 166368179,DrunkenShells/Disclosures,CVE-2020-12641-Command Injection-Roundcube/Bypasses/Flag Injection.md,46e7059d6adbe29ca454e729cfe9d1f0bd603cb4,CVE-2020-12641
 166368179,DrunkenShells/Disclosures,CVE-2019-18822-PrivEscal-ZoomCallRecording/README.md,49afc8c8d1b4371cf16b6a4100e7fb466ae0bad2,CVE-2019-18822
-166368179,DrunkenShells/Disclosures,CVE-2020-2869-Cross-Site Request Forgery-Oracle WebLogic/README.md,49f4e2bb495926b36059b1d47748e419d473df12,CVE-2020-2869
 166368179,DrunkenShells/Disclosures,CVE-2020-2869-Cross-Site Request Forgery-Oracle WebLogic/README.md,49f4e2bb495926b36059b1d47748e419d473df12,CVE-2020-2875
+166368179,DrunkenShells/Disclosures,CVE-2020-2869-Cross-Site Request Forgery-Oracle WebLogic/README.md,49f4e2bb495926b36059b1d47748e419d473df12,CVE-2020-2869
 166368179,DrunkenShells/Disclosures,CVE-2020-2875-MySQL LOAD DATA LOCAL INFILE Attack-Oracle MySQL Connectors/README.md,4ab78e6f23baf3d9301bd862c1417f9ed033c733,CVE-2020-2875
 166368179,DrunkenShells/Disclosures,CVE-2020-14026-Formula Injection-Ozeki SMS Gateway/README.md,4bcac2da7f9ad128827050b4d0103a9e936c2fd5,CVE-2020-14026
 166368179,DrunkenShells/Disclosures,CVE-2019-14222-Default Certificate-Alfresco Community/README.md,5049bcc873ba0fa16fe16c8118386009874e1df4,CVE-2019-14222
@@ -31,6 +34,8 @@ repo_id,repo_full_name,file,file_sha1,match
 166368179,DrunkenShells/Disclosures,CVE-2019-14222-Default Certificate-Alfresco Community/alfresco.rsa,5b02ae37ae0c161918f658e1a0f1e02505b2a6b4,CVE-2019-14222
 166368179,DrunkenShells/Disclosures,CVE-2020-14031-Arbitary File Delete-Ozeki SMS Gateway/README.md,5bddc37d986b2ccadea72b183fad7f63b143c709,CVE-2020-14031
 166368179,DrunkenShells/Disclosures,CVE-2020-12641-Command Injection-Roundcube/README.md,62f7a191ae4c8b698315c3732b3befd5b45d4228,CVE-2020-12641
+166368179,DrunkenShells/Disclosures,CVE-2021-46364-YAML Deserialization-Magnolia CMS/README.md,67d1262a907eb066feac4d9d2e86dd22961f56b5,CVE-2021-46364
+166368179,DrunkenShells/Disclosures,CVE-2021-46365-Unsafe XML Parsing-Magnolia CMS/Payloads/exploit.xlf,694c339ae42ed881de95adebdfe00a5e0aa3edf1,CVE-2021-46365
 166368179,DrunkenShells/Disclosures,CVE-2019-11287-DoS via Heap Overflow-RabbitMQ Web Management Plugin/README.md,6c93778986810d0fa45ea2e7f801e139affff0a1,CVE-2019-11287
 166368179,DrunkenShells/Disclosures,CVE-2021-42561-Command Injection Via the Human Plugin-MITRE Caldera/README.md,6d730cc74c324590ef8f810d74b322b4d1446d44,CVE-2021-42561
 166368179,DrunkenShells/Disclosures,CVE-2018-17169-XXE-PrinterON/README.md,6da996ce9c9b23446c26ec8f457b86bb420dc3fb,CVE-2018-17169
@@ -45,6 +50,8 @@ repo_id,repo_full_name,file,file_sha1,match
 166368179,DrunkenShells/Disclosures,CVE-2019-7654-CSRF-Wowza/README.md,878a11da0fedf689c8f42b1dd9f009076c1947e7,CVE-2019-7654
 166368179,DrunkenShells/Disclosures,CVE-2019-14224-Authenticated Remote Code Execution-Alfresco Community/README.md,8d71966f91911f7f099b6db2c2d0a5db034ef5c6,CVE-2019-14224
 166368179,DrunkenShells/Disclosures,CVE-2020-12641-Command Injection-Roundcube/Bypasses/Windows SMB Paths.md,9318f87a87d169bfc699017cdda2ad586e80acc3,CVE-2020-12641
+166368179,DrunkenShells/Disclosures,CVE-2021-46361-FreeMarker Bypass-Magnolia CMS/README.md,938bd125571edc1c5b3b669b2e43eaff418a2790,CVE-2021-46361
+166368179,DrunkenShells/Disclosures,CVE-2021-46361-FreeMarker Bypass-Magnolia CMS/README.md,938bd125571edc1c5b3b669b2e43eaff418a2790,CVE-2021-25770
 166368179,DrunkenShells/Disclosures,CVE-2020-14030-RCE via .NET Deserialization-Ozeki SMS Gateway/README.md,9eee63caed01b86b4d689b7ffad904ec5eb2b778,CVE-2020-14030
 166368179,DrunkenShells/Disclosures,CVE-2020-14029-XXE-Ozeki SMS Gateway/XXE Payloads/inline_xxe.xml,a0c2e626928f5ef1ed5ec3e42ab6e1f6b39c9725,CVE-2020-14029
 166368179,DrunkenShells/Disclosures,CVE-2019-12401-XML Bomb-Apache Solr/README.md,ac222476fd7bbce31beaef485c9416532f87c362,CVE-2019-12401
@@ -61,7 +68,9 @@ repo_id,repo_full_name,file,file_sha1,match
 166368179,DrunkenShells/Disclosures,CVE-2021-42562-Improper Access Control-MITRE Caldera/README.md,d8863cd4d67bfab53eedbab8bcb0f4dada4256ea,CVE-2021-42562
 166368179,DrunkenShells/Disclosures,CVE-2019-9849-Remote Bullet Graphics Retrieved in 'Stealth Mode'-LibreOffice/README.md,da0ff52b19160add85bf4833e0017c219eda2d35,CVE-2019-9849
 166368179,DrunkenShells/Disclosures,CVE-2020-14029-XXE-Ozeki SMS Gateway/README.md,dafc71da132e08cc88825d321a162e69b2eb9325,CVE-2020-14029
+166368179,DrunkenShells/Disclosures,CVE-2021-46363-Formula Injection-Magnolia CMS/README.md,df6edc2bd8e835bfebe98a738a3f9ff73702d1a8,CVE-2021-46363
 166368179,DrunkenShells/Disclosures,CVE-2020-14025-Cross-Site Request Forgery-Ozeki SMS Gateway/README.md,e840c4425b75470454dfe278df15ce9e9819e22f,CVE-2020-14025
+166368179,DrunkenShells/Disclosures,CVE-2021-46362-Unauthenticated SSTI-Magnolia CMS/README.md,e8f83b5155575333da9d3df8721739e2df3bc5c2,CVE-2021-46362
 166368179,DrunkenShells/Disclosures,CVE-2020-2875-MySQL LOAD DATA LOCAL INFILE Attack-Oracle MySQL Connectors/PoC for Oracle WebLogic/README.md,ed86bd354075c5a3f3569f1a6ab96cfdaf5d9f23,CVE-2020-2875
 166368179,DrunkenShells/Disclosures,CVE-2019-1332-Cross-Site Scripting-Microsoft SQL Server Reporting Services/README.md,f03d9158e7cd3bf74ac2e4d757de092590274eef,CVE-2019-1332
 166368179,DrunkenShells/Disclosures,CVE-2019-14224-Authenticated Remote Code Execution-Alfresco Community/Solr Conf Files/schema.xml,f3d867e7a58894836a78c74d810bc34c44ca650b,CVE-2019-14224

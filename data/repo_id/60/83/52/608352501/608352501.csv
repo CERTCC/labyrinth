@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+608352501,hotblac/text4shell,README.md,75b345d9651d433065d841a794067669c147b591,CVE-2022-42889
+608352501,hotblac/text4shell,pom.xml,aa15686502ff3bf4934476edff6a4b07ac11df56,CVE-2022-42889
+608352501,hotblac/text4shell,_GITHUB_REPO_METADATA_,,CVE-2022-42889

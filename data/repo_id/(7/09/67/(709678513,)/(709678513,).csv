@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+709678513,senpaisamp/Netscaler-CVE-2023-4966-POC,README.md,d7886daa61ba597f9f112ba2147eed6fc4f92b91,CVE-2023-4966
+709678513,senpaisamp/Netscaler-CVE-2023-4966-POC,exploit.py,ddb109e45ea1f1f247f966c0645d520d69f5db5a,CVE-2023-4966
+709678513,senpaisamp/Netscaler-CVE-2023-4966-POC,_GITHUB_REPO_METADATA_,,CVE-2023-4966

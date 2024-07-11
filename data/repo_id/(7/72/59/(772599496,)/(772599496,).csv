@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+772599496,MadExploits/Apache-RCE-Checker,apachefinder.py,6e401e1ed068ca9244d9886e83a7c88bbf922740,CVE-2021-41773
+772599496,MadExploits/Apache-RCE-Checker,apachefinder.py,6e401e1ed068ca9244d9886e83a7c88bbf922740,CVE-2021-42013

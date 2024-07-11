@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+805983363,KTN1990/wordpress_duplicator_rce,README.md,32145553ec45769533745e84e2172742a0cec989,CVE-2018-25095
+805983363,KTN1990/wordpress_duplicator_rce,README.md,32145553ec45769533745e84e2172742a0cec989,CVE-2022-0316
+805983363,KTN1990/wordpress_duplicator_rce,duplicator.py,e37e1583c06d498acb404c7a99ffdfee60000380,CVE-2018-25095

@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+544761745,RICSecLab/exploit-poc-public,CVE-2021-30633/README.md,3872c2d469d2bfa3429a0a4b430e238960cf373a,CVE-2021-30633
+544761745,RICSecLab/exploit-poc-public,CVE-2022-24834/exploit.py,5d7d07b189f32302f5f8abb78a3638b28d2ac0b0,CVE-2022-24834
+544761745,RICSecLab/exploit-poc-public,CVE-2021-30633/poc.html,8838052dddb07dfd5e47fc0989dbfe5ae53fa51f,CVE-2021-30633
+544761745,RICSecLab/exploit-poc-public,CVE-2021-30633/poc.js,a8c651c485ea2a48399fd0fda64c324280214088,CVE-2021-30633
+544761745,RICSecLab/exploit-poc-public,CVE-2022-24834/README.md,b3f8306fb29d85e26f669e9d43631b0fdb646e7d,CVE-2022-24834
+544761745,RICSecLab/exploit-poc-public,CVE-2022-24834/exploit.lua,bf0ea03be49fd4c3fa1bdfd87929747416977dad,CVE-2022-24834

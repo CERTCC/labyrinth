@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+530137358,Vulnmachines/Apache-spark-CVE-2022-33891,README.md,330b54d060c7ec12b7867debda3c141b88eede03,CVE-2022-33891
+530137358,Vulnmachines/Apache-spark-CVE-2022-33891,_GITHUB_REPO_METADATA_,,CVE-2022-33891

@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-CRHG-XGRG-VVCC,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22494,Live-Hack-CVE/CVE-2023-22494,588662631

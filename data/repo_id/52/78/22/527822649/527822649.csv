@@ -1,0 +1,33 @@
+repo_id,repo_full_name,file,file_sha1,match
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-10021-WP-Symposium-FileUpload/exploit.py,00d1c7fd5fd90ad8f9ab66a237bba57e5ef673f7,CVE-2014-10021
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2015-1172-Theme-Holding-Pattern-FileUpload/CryptoJS v3.1.2.zip,0913db042c7d2cdc14eb729185f445c670be3392,CVE-2015-1172
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2017-8295-Unauthorized-Password-Reset/POC.txt,09ca1a047ca13c199933feb2e578d6de8d2cafca,CVE-2017-8295
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-9308- WP-EasyCart-FileUpload/poc.html,1e98f03ff8df6ed3d8dcf08eb3754299ad8cd8cc,CVE-2014-9308
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2015-1172-Theme-Holding-Pattern-FileUpload/md5.js,292130bce7267964021f6aed61e114bbbe9cc54e,CVE-2015-1172
+527822649,shacojx/WordPress-CVE-Exploit-POC,1DAY-2018-Site-Editor-LFI/exploit.py,3170e2283c9805361ecd403cb0b6352b36094f0d,CVE-2018-7422
+527822649,shacojx/WordPress-CVE-Exploit-POC,1DAY-2018-WordPress-Core-DoS/exploit.py,42910867a07bdfcda6170b90e98de9bb6c66ccc5,CVE-2018-6389
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2015-8351-Gwolle-Guestbook-RFI/POC.txt,47f6cdb1b15f4d86833c735e0be5eb6b419b4570,CVE-2015-8351
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2016-6896-AND-CVE-2016-6897/poc.sh,484869904a719753c8703641263241c86687dbd3,CVE-2016-6897
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2016-6896-AND-CVE-2016-6897/poc.sh,484869904a719753c8703641263241c86687dbd3,CVE-2016-6896
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-9034-DoS/POC.txt,54e7989773aff9cf9fd60a9a6e0a584f8782abc5,CVE-2014-9034
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-5460-Slideshow-Gallery-File-Upload/POC.txt,5bace9ee8cc20e5851b0b18f7a2b11f7f5c03814,CVE-2014-5460
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2015-1376- Pixabay-Images-Code-Upload/exploit.py,67dfef4897c982d10ef15dc3c9a6b0c6fdf12a89,CVE-2015-1376
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-9473-Cforms-FileUpload/exploit.py,6ef7457d92400019e2609e470d00c44c6dd6dac0,CVE-2014-9473
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2012-6649-wp-gpx-map-FileUpload/POC.txt,7400d77cec8ab8c117180af0a0035e9579b64958,CVE-2012-6649
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-9308- WP-EasyCart-FileUpload/shell.php,76b7659f2a299a83534e9e3df6c0def57e7492cb,CVE-2014-9308
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2015-1172-Theme-Holding-Pattern-FileUpload/shell123.php,76b7659f2a299a83534e9e3df6c0def57e7492cb,CVE-2015-1172
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2015-1376- Pixabay-Images-Code-Upload/POC.txt,7ef64ba989dc654c0aec438161f8625524e2b47e,CVE-2015-1376
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-9473-Cforms-FileUpload/POC.txt,7f1c59483b291a0e2c444a44527f121674f2bfbd,CVE-2014-9473
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-7969-Creative-Contact-Form-File-Upload/POC.txt,8944b7fdb0f9ddfb59d5489f2d42fa90dad27b55,CVE-2014-7969
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-2674-Ajax-Pagination-Path-Travesal/POC.txt,9a65809f639dc9b6c55b7558b43b65fa754f43d6,CVE-2014-2674
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-9308- WP-EasyCart-FileUpload/POC.txt,a9ef00190c462ed32e3bbe43779789a109989fab,CVE-2014-9308
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-10021-WP-Symposium-FileUpload/POC.txt,b31c950acbbfd63b1c94198a3d093d595a84ea88,CVE-2014-10021
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2016-6896-AND-CVE-2016-6897/POC.txt,b5277c54e4fe04dd8ddcf860aa7f65b70fd0d627,CVE-2016-6897
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2016-6896-AND-CVE-2016-6897/POC.txt,b5277c54e4fe04dd8ddcf860aa7f65b70fd0d627,CVE-2016-6896
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2015-1172-Theme-Holding-Pattern-FileUpload/POC.txt,c569bb3cdf3aae8073cf2875b24ca42b9eaf2cac,CVE-2015-1172
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2017-5487-Username-Enumeration/POC.txt,dadd37023f37898e9523f07aed4e7f1dc739ffaf,CVE-2017-5487
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2014-5465-ShortCode-LFI/POC.txt,db81666cb20dac2568bf4bd47ee8200bd7e3b2ef,CVE-2014-5465
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2013-2010-W3-Total-Cach-RCE/POC.txt,dbf636c504240d7e06e85b923862e3e45753549a,CVE-2013-2010
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2015-1172-Theme-Holding-Pattern-FileUpload/poc.html,deae9cb24ebe573a726442e931108f39d5de1c81,CVE-2015-1172
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2015-1172-Theme-Holding-Pattern-FileUpload/enc-base64-min.js,eceda6841c0d271fb6c300fe12c53e8f255841ed,CVE-2015-1172
+527822649,shacojx/WordPress-CVE-Exploit-POC,CVE-2017-8295-Unauthorized-Password-Reset/exploit.py,efa796e019ff18b814b98dc577fefa145eb6ffaa,CVE-2017-8295

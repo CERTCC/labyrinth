@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+467570864,ITMarcin2211/CVE-2022-0847-DirtyPipe-Exploit,exploit.c,1282934ac33de81d4cbf689e58b48f9ef7c7942c,CVE-2022-0847
+467570864,ITMarcin2211/CVE-2022-0847-DirtyPipe-Exploit,README.md,2accd6ce0e1ddc37a39dfa9aeb81c3d8252aab47,CVE-2022-0847
+467570864,ITMarcin2211/CVE-2022-0847-DirtyPipe-Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-0847

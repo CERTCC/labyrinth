@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-2X7R-93WW-CXRQ,0.00006185,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

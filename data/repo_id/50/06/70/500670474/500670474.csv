@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+500670474,ZeraTS/Rogue-UI,Rogue/obj/Release/Rogue.exe,028e0c0bff7a62e42fad8752a61e6e4ae23ce214,VU#7887
+500670474,ZeraTS/Rogue-UI,Rogue/Poppins-SemiBold.ttf,20b39c8b480c946b084d6aa09f12bf10b2ec5aa6,VU#7887
+500670474,ZeraTS/Rogue-UI,Rogue/obj/Debug/Rogue.g.resources,2cf1eb6eb5ae583c8a9f7379c4085cecb3ae2fcc,VU#7887
+500670474,ZeraTS/Rogue-UI,Rogue/obj/Debug/Rogue.exe,95cbb37f3358e5c86d9e0b78e4c12bc74e480a88,VU#7887
+500670474,ZeraTS/Rogue-UI,Rogue/obj/Release/Rogue.g.resources,a45370868261619ed81d332e04fdfcb287f91ea7,VU#7887
+500670474,ZeraTS/Rogue-UI,packages/AvalonEdit.6.1.1/AvalonEdit.6.1.1.nupkg,be5847955a324b5e741a5d91df09e690964c1e7b,VU#63

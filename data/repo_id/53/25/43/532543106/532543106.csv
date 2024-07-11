@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+532543106,filipkarc/PoC-ubuntutouch-pin-privesc,README.md,4e644fcad06589e86787774896b5c975cfa7db88,CVE-2022-40297
+532543106,filipkarc/PoC-ubuntutouch-pin-privesc,_GITHUB_REPO_METADATA_,,CVE-2022-40297

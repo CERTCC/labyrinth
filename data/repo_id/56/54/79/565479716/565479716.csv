@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+565479716,Noob-hacker369/Metasploit_Payload,payload.sh,00939a5b3d27400faf94d02d392d7543e94df4a5,VU#20
+565479716,Noob-hacker369/Metasploit_Payload,payload.sh,00939a5b3d27400faf94d02d392d7543e94df4a5,VU#29
+565479716,Noob-hacker369/Metasploit_Payload,RAT/Compiled_apk/smali/androidx/core/util/PatternsCompat.smali,1660eadadd5b9c1b1a760b301a966d84e7c4acab,VU#861
+565479716,Noob-hacker369/Metasploit_Payload,RAT/Compiled_apk/build/apk/classes.dex,2c2f94eff7638c261e444d4a30d1a2be05fb0919,VU#861
+565479716,Noob-hacker369/Metasploit_Payload,RAT/Jar_utils/apktool.jar,36df33b49f5b70a6a9ea464bd8d9fc340ce1f617,VU#12
+565479716,Noob-hacker369/Metasploit_Payload,RAT/Jar_utils/apktool.jar,36df33b49f5b70a6a9ea464bd8d9fc340ce1f617,VU#48

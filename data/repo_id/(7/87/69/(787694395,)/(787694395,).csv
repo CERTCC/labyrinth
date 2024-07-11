@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+787694395,nikhil-harvard-cs/kernel-exploit-263,CVE-2021-netfilter/README.md,7957a6a69f7420d33a5052e5ddfa9cba879c9620,CVE-2021-22555
+787694395,nikhil-harvard-cs/kernel-exploit-263,exploitlib/map_to_exploit.py,f97bedf6aa0bd974a4422f84d73cd121d309da36,CVE-2017-11176

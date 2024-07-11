@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+600411799,jujuo0o/CVE-Exploits,CVE-2023-24813/payload.gpg,2ab6b4191ca5c20ce3eba0b6cb42fbdbb6b0d29a,CVE-2023-24813
+600411799,jujuo0o/CVE-Exploits,README.md,9112f4c902a556f8a6b080e886b336b31e2a852a,CVE-2023-24813
+600411799,jujuo0o/CVE-Exploits,CVE-2023-24813/index.php,bc3eaa98090b5ff2e354a1acaa6f5b64531ae80b,CVE-2023-24813
+600411799,jujuo0o/CVE-Exploits,CVE-2023-24813/composer.lock,ec1482f596dab9df0a6c568adca7a7efaf5d8596,CVE-2023-24813

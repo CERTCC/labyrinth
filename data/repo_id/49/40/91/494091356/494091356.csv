@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+494091356,caiquebaracho/CVE-2021-44228,tomcat/lib/tomcat-jdbc.jar,051f718c096f0c0c6de00a45b578bad81b014aa5,VU#06
+494091356,caiquebaracho/CVE-2021-44228,README.md,186e849a0df63b82247adfb18f64e0ff08a15658,CVE-2021-44228
+494091356,caiquebaracho/CVE-2021-44228,tomcat/lib/tomcat-websocket.jar,1fd5727782dd15707058ff3f397df38b542842fa,VU#60
+494091356,caiquebaracho/CVE-2021-44228,Attacker_Machine.md,4d24df48a64d93aa28628ca6a424e4c445a2c756,CVE-2021-44228
+494091356,caiquebaracho/CVE-2021-44228,tomcat/lib/ecj-4.5.jar,6ee0a678915ddac550d9187c896be6cb76f5cd2f,VU#09
+494091356,caiquebaracho/CVE-2021-44228,poc.py,adc7739d871a820a14acbbef8ab3286c19cd8102,CVE-2021-44228
+494091356,caiquebaracho/CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228

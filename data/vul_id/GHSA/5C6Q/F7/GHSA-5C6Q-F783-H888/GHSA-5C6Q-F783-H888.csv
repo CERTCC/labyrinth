@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-5C6Q-F783-H888,0.33333333,https://github.com/murataydemir/CVE-2022-41828,murataydemir/CVE-2022-41828,576236390
+GHSA-5C6Q-F783-H888,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

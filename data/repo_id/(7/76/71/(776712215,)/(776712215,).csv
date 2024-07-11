@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+776712215,rry0/exploits,46635(upy3).py,18ae1674947fc91a5d5d143d08c23edf6f4992a6,CVE-2019-9053
+776712215,rry0/exploits,50477.py,4291b514f7357b0a8ecc393c6bc7761ce0554808,CVE-2018-16763

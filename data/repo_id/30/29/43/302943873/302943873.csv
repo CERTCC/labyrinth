@@ -1,1 +1,5 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+302943873,Nintendo-Homebrew/str2hax,Raiz do cartão SD/apps/wiiflow/boot.dol,2fee70e921faaca0bd997bc1cb05265c5b36decd,VU#80
+302943873,Nintendo-Homebrew/str2hax,Raiz do cartão SD/extra/loadPriiloader.zip,e0a95624a0bc7ae782da5800f7982b0154187167,VU#20
+302943873,Nintendo-Homebrew/str2hax,Raiz do cartão SD/apps/wiiflow_channel_installer/boot.dol,f2254d0aa7ae8a24b58cca56eac4c26bdcb52914,VU#27
+302943873,Nintendo-Homebrew/str2hax,Raiz do cartão SD/apps/wiiflow_channel_installer/boot.dol,f2254d0aa7ae8a24b58cca56eac4c26bdcb52914,VU#33

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+492143666,SampatDhakal/Metasploit-Attack-Report,Metasploit Attack Report.pdf,fafc23eee1f18d36cef1d9d1f196ef52bfecbd2e,MS17-010
+492143666,SampatDhakal/Metasploit-Attack-Report,Metasploit Attack Report.pdf,fafc23eee1f18d36cef1d9d1f196ef52bfecbd2e,VU#489397
+492143666,SampatDhakal/Metasploit-Attack-Report,_GITHUB_REPO_METADATA_,,CVE-2017-0143

@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-77PG-3832-HJF8,0.00307692,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921

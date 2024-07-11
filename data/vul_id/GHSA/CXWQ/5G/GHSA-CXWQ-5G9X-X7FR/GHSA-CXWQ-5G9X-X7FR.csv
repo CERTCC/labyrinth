@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-CXWQ-5G9X-X7FR,0.33333333,https://github.com/Live-Hack-CVE/CVE-2022-23547,Live-Hack-CVE/CVE-2022-23547,582593350
+GHSA-CXWQ-5G9X-X7FR,0.33333333,https://github.com/Live-Hack-CVE/CVE-2022-23547,Live-Hack-CVE/CVE-2022-23547,582024554
+GHSA-CXWQ-5G9X-X7FR,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-CXWQ-5G9X-X7FR,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+776776802,akabe1/Graver,graver.py,3e537ba266723d46ba585a2adfea3d863b3feb24,CVE-2024-28116
+776776802,akabe1/Graver,README.md,484e105ddec47bbbac93e08910f7501f2bda4800,CVE-2024-28116
+776776802,akabe1/Graver,_GITHUB_REPO_METADATA_,,CVE-2024-28116

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+499073115,derco0n/mitigate-folina,README.md,1ad0bb973d3d56eeb3f99781c57d01f9643ecac5,CVE-2022-30190
+499073115,derco0n/mitigate-folina,mitigate-folina.ps1,89d93c579dfc6b4f4cbda1c0838d9d16a6aa106b,CVE-2022-30190
+499073115,derco0n/mitigate-folina,_GITHUB_REPO_METADATA_,,CVE-2022-30190

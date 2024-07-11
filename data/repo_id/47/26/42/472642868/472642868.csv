@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+472642868,shikari00007/Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC,exploit.py,1933a5f0e5f5b6d2ec664cef075432e26cfca827,CVE-2022-25487
+472642868,shikari00007/Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC,README.md,e0b3928784be2c5b494b6f90d371e1263cc77ccd,CVE-2022-25487

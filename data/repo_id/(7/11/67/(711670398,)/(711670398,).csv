@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+711670398,AIex-3/confluence-hack,README.md,513c9da5473d17dc1a51bb94282dac2a931c678a,CVE-2023-22515
+711670398,AIex-3/confluence-hack,_GITHUB_REPO_METADATA_,,CVE-2023-22515

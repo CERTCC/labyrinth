@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,CVE-2023-45288
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,CVE-2024-2653
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,CVE-2024-27316
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,CVE-2024-2758
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,CVE-2024-27919
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,CVE-2024-27983
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,CVE-2024-28182
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,CVE-2024-30255
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,CVE-2024-31309
+782977388,Ampferl/poc_http2-continuation-flood,README.md,0926b6c344c94be1ff480f1b757b51e911683356,VU#421644

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+555568989,trhacknon/CVE-2018-7600,README.md,1a4de438a2b545175e1261aa7d9edd062ef0de4d,CVE-2018-7600
+555568989,trhacknon/CVE-2018-7600,Drupalgeddon2.py,5d3cad81d19aac3f66d48cfcc7557f513c2b907d,CVE-2018-7600
+555568989,trhacknon/CVE-2018-7600,_GITHUB_REPO_METADATA_,,CVE-2018-7600

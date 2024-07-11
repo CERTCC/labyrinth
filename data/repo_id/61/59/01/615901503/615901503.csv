@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+615901503,qixils/anticropalypse,README.md,19ed21eabfedc04b4395058e35f918702dccbcdb,CVE-2023-21036
+615901503,qixils/anticropalypse,bot/src/main/kotlin/dev/qixils/acropalypse/Scanner.kt,bbe5a2f82fe6b990ce7abd0763c2282c045d6d55,CVE-2023-21036
+615901503,qixils/anticropalypse,_GITHUB_REPO_METADATA_,,CVE-2023-21036

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+506925900,assetnote/jira-mobile-ssrf-exploit,exploit.py,1282d5bcfed1753fafeac23fa7564f9cd334a3e3,CVE-2022-26135
+506925900,assetnote/jira-mobile-ssrf-exploit,README.md,63f035f723b4987f1d3b9a7659b2ae59dcfc4453,CVE-2022-26135
+506925900,assetnote/jira-mobile-ssrf-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-26135

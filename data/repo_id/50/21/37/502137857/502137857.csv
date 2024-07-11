@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+502137857,KeepWannabe/BotCon,botcon.sh,845d6af5770d7e8325235c1c545117541357bc15,CVE-2022-26134
+502137857,KeepWannabe/BotCon,README.md,bd22bd9df5b7ede2698297f4b631b87e2db22c51,CVE-2022-26134
+502137857,KeepWannabe/BotCon,_GITHUB_REPO_METADATA_,,CVE-2022-26134

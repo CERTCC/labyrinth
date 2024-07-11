@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+518001622,yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL,README.md,8b41dd43233ce6af7d7d52f5b85b6abe5acf1808,CVE-2022-2466
+518001622,yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL,_GITHUB_REPO_METADATA_,,CVE-2022-2466

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+806296900,abelmorad/TryHackMe-CDA-Exploiting-FTP-03,README.md,3d5c81841472a55e904ca587cb34ffd99e6e81dd,CVE-2017-7494

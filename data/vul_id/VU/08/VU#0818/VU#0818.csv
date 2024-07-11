@@ -1,3 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#0818,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
+VU#0818,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#0818,0.00714286,https://github.com/Jackbling/metasploitable3,Jackbling/metasploitable3,816266113
+VU#0818,0.00714286,https://github.com/Nauj-Montes/metasploitable_01_03_2024,Nauj-Montes/metasploitable_01_03_2024,766273101
+VU#0818,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
+VU#0818,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
+VU#0818,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#0818,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#0818,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942

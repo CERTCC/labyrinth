@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+479059555,fullhunt/spring4shell-scan,spring4shell-scan.py,4e3b84313d22f3783aa7eb2af367a042be8b2d90,CVE-2022-22963
+479059555,fullhunt/spring4shell-scan,spring4shell-scan.py,4e3b84313d22f3783aa7eb2af367a042be8b2d90,CVE-2022-22965
+479059555,fullhunt/spring4shell-scan,README.md,a68c0da593b45edae8bc3db8ea23f34a9ac9fe99,CVE-2022-22963
+479059555,fullhunt/spring4shell-scan,README.md,a68c0da593b45edae8bc3db8ea23f34a9ac9fe99,CVE-2022-22965

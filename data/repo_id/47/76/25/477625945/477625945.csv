@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+477625945,cxkoda/ERC721MintExploits,yarn.lock,006be4638fd165de889050a3e4b9b6399cb50263,VU#137
+477625945,cxkoda/ERC721MintExploits,yarn.lock,006be4638fd165de889050a3e4b9b6399cb50263,VU#18
+477625945,cxkoda/ERC721MintExploits,yarn.lock,006be4638fd165de889050a3e4b9b6399cb50263,VU#62

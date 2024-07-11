@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+791513209,dubzzz/poc-find-cve-with-fast-check,CVE-2019-10744.spec.js,1befd584a71f59ffc402cf33fa476a594026a500,CVE-2019-10744
+791513209,dubzzz/poc-find-cve-with-fast-check,CVE-2020-8203.spec.js,987bb039daf2999a0ee5c73e9d94d9ce41b5fe37,CVE-2020-8203
+791513209,dubzzz/poc-find-cve-with-fast-check,CVE-2018-3721.spec.js,aafd3a14d0875a02bd037965bfb85301ef2c8ce9,CVE-2018-3721
+791513209,dubzzz/poc-find-cve-with-fast-check,CVE-2018-16487.spec.js,af826579e222be1cfcccd3e77fef1eecd113b443,CVE-2018-16487

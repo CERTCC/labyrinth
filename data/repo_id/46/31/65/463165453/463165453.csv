@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+463165453,Ananya-0306/Log-4j-scanner,README.md,9eba9a9fb5f950005893271e98bd1e4898dc3c1a,CVE-2021-44228
+463165453,Ananya-0306/Log-4j-scanner,README.md,9eba9a9fb5f950005893271e98bd1e4898dc3c1a,CVE-2021-45046
+463165453,Ananya-0306/Log-4j-scanner,log4j-scan.py,cec8e6b9dedffaf465f42ce2a1b297535ce23430,CVE-2021-44228
+463165453,Ananya-0306/Log-4j-scanner,log4j-scan.py,cec8e6b9dedffaf465f42ce2a1b297535ce23430,CVE-2021-45046
+463165453,Ananya-0306/Log-4j-scanner,_GITHUB_REPO_METADATA_,,CVE-2021-44228

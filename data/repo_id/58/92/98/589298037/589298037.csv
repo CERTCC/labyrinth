@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+589298037,suicidaladdict/strucid,exploit.lua,d597e8185a44613d0357519c00a3b1410e07f2ae,VU#31
+589298037,suicidaladdict/strucid,exploit.lua,d597e8185a44613d0357519c00a3b1410e07f2ae,VU#337
+589298037,suicidaladdict/strucid,exploit.lua,d597e8185a44613d0357519c00a3b1410e07f2ae,VU#34
+589298037,suicidaladdict/strucid,exploit.lua,d597e8185a44613d0357519c00a3b1410e07f2ae,VU#38

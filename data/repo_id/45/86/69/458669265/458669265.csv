@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+458669265,DanaEpp/pwncat_pwnkit,README.md,3a21f1f8fcd480e092f2ddd312c0c4cf606b3a33,CVE-2021-4034
+458669265,DanaEpp/pwncat_pwnkit,.README.md.swp,b949c66e25a262a6dc592a205661991b2be2e4c0,CVE-2021-4034
+458669265,DanaEpp/pwncat_pwnkit,pwnkit.py,fd8dc4d1c9e01c3139ab1cac5802501fe914bd54,CVE-2021-4034
+458669265,DanaEpp/pwncat_pwnkit,_GITHUB_REPO_METADATA_,,CVE-2021-4034

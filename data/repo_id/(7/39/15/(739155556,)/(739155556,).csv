@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+739155556,julienbrs/exploit-CVE-2023-3460,ultimate-member.2.6.5/ultimate-member/assets/font/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+739155556,julienbrs/exploit-CVE-2023-3460,.env,1c56975fc5b77067133ced2156b4b0b8fc9f96bf,CVE-2023-3460
+739155556,julienbrs/exploit-CVE-2023-3460,ultimate-member.2.6.5/ultimate-member/assets/font/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+739155556,julienbrs/exploit-CVE-2023-3460,Makefile,767069ea0052ad538abd398d7281c86d87d7f661,CVE-2023-3460
+739155556,julienbrs/exploit-CVE-2023-3460,src/exploit.py,aa41fe3c0e759fa009ad35fd1a96bb10e7d1b4aa,CVE-2023-3460
+739155556,julienbrs/exploit-CVE-2023-3460,README.md,c4c00b7b0bf5251468240d5027ef72e2f721d560,CVE-2023-3460
+739155556,julienbrs/exploit-CVE-2023-3460,ultimate-member.2.6.5/ultimate-member/assets/font/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
+739155556,julienbrs/exploit-CVE-2023-3460,_GITHUB_REPO_METADATA_,,CVE-2023-3460

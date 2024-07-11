@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+690237690,im-hanzou/INPGer,README.md,10ba0a4d5f045cbfc7e99a99e9aac087f5302e55,CVE-2022-4063
+690237690,im-hanzou/INPGer,README.md,10ba0a4d5f045cbfc7e99a99e9aac087f5302e55,GHSA-5RMH-7P7V-FMFC
+690237690,im-hanzou/INPGer,inpger.sh,2bdddc3fd9c2d799b107f40121ea927724f44f4d,CVE-2022-4063
+690237690,im-hanzou/INPGer,single-exploiter-beta.py,311e29a2d8f70bcf3bd2d603413ea18d913f3d4b,CVE-2022-4063
+690237690,im-hanzou/INPGer,single-exploiter-beta.sh,b91d296d9e01e9476cd7906293c03a7ae20dbbc9,CVE-2022-4063
+690237690,im-hanzou/INPGer,_GITHUB_REPO_METADATA_,,CVE-2022-4063

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+724015597,rcenvironment/rce-main,de.rcenvironment/doc/meta/release_shasums.txt,27e1f1b6331ac34e7de977a42b11be6564271d72,VU#15
+724015597,rcenvironment/rce-main,org.eclipse.equinox.launcher/src/main/java/de/rcenvironment/core/launcher/internal/RCELauncherCustomization.java,3beb0c63618b77cf00c91754491e2808212b0683,CVE-2021-44228
+724015597,rcenvironment/rce-main,de.rcenvironment/doc/meta/release_changelogs/Changelog10.x.x.md,ef2a67dcbf8a46aa4c74b2e0e3084dd0c182180a,CVE-2023-46604

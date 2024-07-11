@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+640373815,Avo-Catto/CVE-Scripts,CVE-2014-6271.py,89b7dbd426dbd0ef96a80c69ebf81619559c24a2,CVE-2014-6271
+640373815,Avo-Catto/CVE-Scripts,CVE-2022-46169.py,b78763d6f33526dd3e3f60868106a6b8ecf1a99c,CVE-2022-46169

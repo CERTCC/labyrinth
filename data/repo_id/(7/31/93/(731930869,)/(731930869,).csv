@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+731930869,Ptitlu42/exploit,polkit/exploit.polkit.sh,3c2eee10a14175efa61bf7a7116ee970493a1576,CVE-2018-18955
+731930869,Ptitlu42/exploit,polkit/subshell.c,533cecb7ad63c18c384998a3a650f28357777d7a,GPZ-1712
+731930869,Ptitlu42/exploit,polkit/subuid_shell.c,8714cb77d5b92609f0a09742972a6427260707b0,CVE-2018-18955
+731930869,Ptitlu42/exploit,polkit/subuid_shell.c,8714cb77d5b92609f0a09742972a6427260707b0,GPZ-1712

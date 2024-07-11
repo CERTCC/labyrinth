@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+483645707,pazhanivel07/hardware_interfaces-A10_r33_CVE-2021-0510,camera/device/3.4/default/ExternalCameraDevice.cpp,4779bde8c3bba8febb0eb7e56b5cd3430790a314,VU#420
+483645707,pazhanivel07/hardware_interfaces-A10_r33_CVE-2021-0510,camera/device/3.4/default/ExternalCameraDeviceSession.cpp,947bbe3b4f586bb5aa6d10064b0fb574615e6c3c,VU#420
+483645707,pazhanivel07/hardware_interfaces-A10_r33_CVE-2021-0510,_GITHUB_REPO_METADATA_,,CVE-2021-0510

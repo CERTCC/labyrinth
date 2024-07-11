@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+718994113,vacuumlabs/cardano-ctf,videos/08_lending.mp4,015fc0954961b361f753ae2c54db41c099eb2ba9,VU#12
+718994113,vacuumlabs/cardano-ctf,videos/10_king_of_cardano.mp4,1bc994602c0a37ad05a632b2b465e29d1dbfd413,VU#61
+718994113,vacuumlabs/cardano-ctf,videos/10_king_of_cardano.mp4,1bc994602c0a37ad05a632b2b465e29d1dbfd413,VU#73
+718994113,vacuumlabs/cardano-ctf,videos/06_tipjar_v2.mp4,1f84cfb40aa617313f9f29f1fa437fd44e06f7da,VU#13
+718994113,vacuumlabs/cardano-ctf,videos/00_hello_world.mp4,27ca2d6617768688d038ac55076b9301c14dded7,VU#39
+718994113,vacuumlabs/cardano-ctf,videos/00_hello_world.mp4,27ca2d6617768688d038ac55076b9301c14dded7,VU#56
+718994113,vacuumlabs/cardano-ctf,videos/00_hello_world.mp4,27ca2d6617768688d038ac55076b9301c14dded7,VU#67
+718994113,vacuumlabs/cardano-ctf,videos/07_multisig_treasury_v2.mp4,46624aa8f0bf5a00172346686eb7670d0ae1cc93,VU#60
+718994113,vacuumlabs/cardano-ctf,videos/milestone3_changelog.mp4,89c9c7fb8a781a9c00c6c47c5e55ba406daadf50,VU#28
+718994113,vacuumlabs/cardano-ctf,videos/milestone3_changelog.mp4,89c9c7fb8a781a9c00c6c47c5e55ba406daadf50,VU#72
+718994113,vacuumlabs/cardano-ctf,videos/02_vesting.mp4,a6fb34ac61fab1d064bd3a9c6e733f921263f9f4,VU#46
+718994113,vacuumlabs/cardano-ctf,videos/04_tipjar.mp4,c0e168fc7f03aeddc3bae94557ec084f1eab4e08,VU#99
+718994113,vacuumlabs/cardano-ctf,videos/03_multisig_treasury.mp4,d09390408cf055a039277e999f1404c17325b046,VU#51
+718994113,vacuumlabs/cardano-ctf,videos/05_purchase_offer.mp4,d83d62154f2a550aff6d8d2a67125236ea4a751a,VU#43
+718994113,vacuumlabs/cardano-ctf,videos/05_purchase_offer.mp4,d83d62154f2a550aff6d8d2a67125236ea4a751a,VU#49
+718994113,vacuumlabs/cardano-ctf,videos/01_sell_nft.mp4,d86c0174bd9009e06296a5aea4b7874f5afa86dc,VU#44

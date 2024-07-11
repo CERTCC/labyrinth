@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+808560094,RevoltSecurities/CVE-2024-24919,exploit.py,4eae9fdd49006cc47126414eabcc25d8b050a371,CVE-2024-24919
+808560094,RevoltSecurities/CVE-2024-24919,README.md,cb3763d5dafc659ed21bd861367dc3723bb99e5d,CVE-2024-24919
+808560094,RevoltSecurities/CVE-2024-24919,_GITHUB_REPO_METADATA_,,CVE-2024-24919

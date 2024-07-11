@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+587387036,michalbednarski/LeakValue,README.md,7fcfe8fa420b7496223120a12fc499c0a149a33b,CVE-2022-20452
+587387036,michalbednarski/LeakValue,README.md,7fcfe8fa420b7496223120a12fc499c0a149a33b,CVE-2022-20474
+587387036,michalbednarski/LeakValue,_GITHUB_REPO_METADATA_,,CVE-2022-20452

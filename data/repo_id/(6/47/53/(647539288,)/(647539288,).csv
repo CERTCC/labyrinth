@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+647539288,reneoliveirajr/wp_CVE-2020-35489_checker,README.md,235269cf9846075638ee111eda61494013061126,CVE-2020-35489
+647539288,reneoliveirajr/wp_CVE-2020-35489_checker,cve_2020_35489_checker.py,51bd255813c5d0b554a1ffface2cc890d4bc1c60,CVE-2020-35489
+647539288,reneoliveirajr/wp_CVE-2020-35489_checker,_GITHUB_REPO_METADATA_,,CVE-2020-35489

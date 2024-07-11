@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+606729349,n3rada/zero-effort,zero_effort/console.py,7b6fbf00c852be7de78fee293182f59e212e373c,CVE-2020-1472
+606729349,n3rada/zero-effort,README.md,7c9dba30e9bfcb230451332a65898cb0db55c5cc,CVE-2020-1472
+606729349,n3rada/zero-effort,pyproject.toml,cee5f46efdbe96b9c81a0db4196eabb5a456fabe,CVE-2020-1472
+606729349,n3rada/zero-effort,_GITHUB_REPO_METADATA_,,CVE-2020-1472

@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-CR3Q-PQGQ-M8C2,0.50000000,https://github.com/afine-com/CVE-2018-25031,afine-com/CVE-2018-25031,496741511
+GHSA-CR3Q-PQGQ-M8C2,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-CR3Q-PQGQ-M8C2,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

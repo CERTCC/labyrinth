@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-60229,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 BID-60229,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
+BID-60229,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 BID-60229,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 BID-60229,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
 BID-60229,0.00023798,https://github.com/snskiff/metasploit-framework,snskiff/metasploit-framework,126784216

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+656870424,joedthomas2005/ExploitScripts,CVE-2022-46169.py,04137eb173c58d1f0c294ac050e66e539aaab612,CVE-2022-46169
+656870424,joedthomas2005/ExploitScripts,CVE-2007-2447.py,1e63dca780c404b26772a1bdddb295e4f1044969,CVE-2007-2447
+656870424,joedthomas2005/ExploitScripts,CVE-2023-27163.py,8ac22fed8b47cceeeeee8a1e66c3d11afdd69c6a,CVE-2023-27163

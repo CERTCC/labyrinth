@@ -1,2 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
+209404112,connormcgarr/Exploit-Development,Browser/CVE-2019-0567.html,5bf45a2fd5b2fb7de9e4a6979c0dcb67e43caac5,CVE-2019-0567
+209404112,connormcgarr/Exploit-Development,Browser/CVE-2019-0567.html,5bf45a2fd5b2fb7de9e4a6979c0dcb67e43caac5,GPZ-1299
+209404112,connormcgarr/Exploit-Development,Browser/CVE-2019-0567.html,5bf45a2fd5b2fb7de9e4a6979c0dcb67e43caac5,GPZ-1360
+209404112,connormcgarr/Exploit-Development,Browser/CVE-2019-0567.js,6803b95496b6153b418cf49db787fa83ccc1189e,CVE-2019-0539
+209404112,connormcgarr/Exploit-Development,Browser/CVE-2019-0567.js,6803b95496b6153b418cf49db787fa83ccc1189e,CVE-2019-0567
+209404112,connormcgarr/Exploit-Development,Browser/CVE-2019-0567.js,6803b95496b6153b418cf49db787fa83ccc1189e,GPZ-1702
 209404112,connormcgarr/Exploit-Development,Browser/MS13-055.html,b8aa291551932a2acd6f2459425716a1d008a5c0,MS13-055

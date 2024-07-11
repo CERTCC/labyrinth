@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+745652743,RosePwns/Exploits,printers/lexmark/CVE-2023-3710/exploit.py,25f55f6deb5f5098c3af1b1a3e0b4e55be2dcb5d,CVE-2023-3710
+745652743,RosePwns/Exploits,printers/lexmark/CVE-2023-26067/bind_shell.py,48d28cacc3a41add380cdfeaf1aa5a86aaed5834,CVE-2023-26067
+745652743,RosePwns/Exploits,printers/lexmark/CVE-2023-26067/README.md,730ab70db1fda8a8182ed999a50c540fcb087a16,CVE-2023-26067
+745652743,RosePwns/Exploits,printers/lexmark/CVE-2023-3710/README.md,8c9fd339d0152348f62fd08a5db7d2732a089718,CVE-2023-26067
+745652743,RosePwns/Exploits,printers/lexmark/CVE-2023-3710/README.md,8c9fd339d0152348f62fd08a5db7d2732a089718,CVE-2023-3710

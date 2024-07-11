@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-440220972,intel-xeon/CVE-2021-44228---detection-with-PowerShell,README.md,99acb1548fd80ee296285235dc51c9934347e121,CVE-2021-44228
+440220972,intel-xeon/CVE-2021-44228---detection-with-PowerShell,README.md,066dfbdac069804196453e6f6d98da75b1117295,CVE-2021-44228
 440220972,intel-xeon/CVE-2021-44228---detection-with-PowerShell,_GITHUB_REPO_METADATA_,,CVE-2021-44228

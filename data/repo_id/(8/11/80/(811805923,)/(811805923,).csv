@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+811805923,huseyinstif/CVE-2024-4577-Nuclei-Template,CVE-2024-4577.yaml,433d4b68fffa8b20112e4609af07476adff1c904,CVE-2024-4577
+811805923,huseyinstif/CVE-2024-4577-Nuclei-Template,README.md,e01a69af4a99925873d904f2dd198c881eb672f7,CVE-2024-4577
+811805923,huseyinstif/CVE-2024-4577-Nuclei-Template,_GITHUB_REPO_METADATA_,,CVE-2024-4577

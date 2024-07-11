@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+703016564,Esonhugh/Self-Metasploit,exploits/linux/local/gameoverlayfs.rb,2dd62fdbda6d6b799ccbb14dba8ea1ddba7c64bf,CVE-2023-2640
+703016564,Esonhugh/Self-Metasploit,exploits/linux/local/gameoverlayfs.rb,2dd62fdbda6d6b799ccbb14dba8ea1ddba7c64bf,CVE-2023-32629
+703016564,Esonhugh/Self-Metasploit,exploits/multi/java/metabase_rce.rb,5481446ea4bb191eeb1b117010bdade784a64060,CVE-2023-38646

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+503605930,p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor,README.md,4fb4f063169fd3341a43a715cd142baa13a2ea86,CVE-2017-7921
+503605930,p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor,_GITHUB_REPO_METADATA_,,CVE-2017-7921

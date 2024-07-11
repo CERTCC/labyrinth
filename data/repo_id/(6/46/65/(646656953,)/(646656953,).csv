@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+646656953,EBLIS-TOOLS/DEVIL-SPYER,payloads/android.py,0974e77bc803808c2c0b7774cc5abf8e35ae56be,VU#20
+646656953,EBLIS-TOOLS/DEVIL-SPYER,payloads/linux.py,29b5aa24efaf60232ed458c4b936b0194ec9f73e,VU#20
+646656953,EBLIS-TOOLS/DEVIL-SPYER,payloads/windows.py,558cc2846a7681823832b82ab113d9a622321d7f,VU#20

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+467545853,3sjay/sploits,moxa_router_writeup.md,2e8490247dccd3d7591510fd2e769af6709e99e0,CVE-2022-41758
+467545853,3sjay/sploits,moxa_router_writeup.md,2e8490247dccd3d7591510fd2e769af6709e99e0,CVE-2022-41759
+467545853,3sjay/sploits,device42_preauth-rce_poc.py,64509369e093c7689fd704529701b8275c485c5c,CVE-2022-1401
+467545853,3sjay/sploits,dlink880l_expl.py,75bc7a95f9a1744990008de0a348d7b6948aacf7,CVE-2018-5767
+467545853,3sjay/sploits,hevd_stack_bo.cpp,ee18e1e10756c058811c6d20a4824256dc2ff127,CVE-2016-0051

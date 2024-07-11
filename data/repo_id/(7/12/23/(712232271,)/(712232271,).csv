@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+712232271,quantiano/cve-2023-47102,index.html,37d8c41b766587df24d3a73ac6d611373230ff0e,CVE-2023-47102
+712232271,quantiano/cve-2023-47102,_GITHUB_REPO_METADATA_,,CVE-2023-47102

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+177653781,Mattiwatti/EfiGuard,Application/EfiDSEFix/src/ntdll.h,36f5cc636aa5cf7b49ca90fe4b4e3c339d0d1d12,CVE-2017-5715

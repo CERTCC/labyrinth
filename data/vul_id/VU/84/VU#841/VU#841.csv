@@ -1,0 +1,14 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#841,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
+VU#841,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
+VU#841,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#841,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
+VU#841,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#841,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
+VU#841,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
+VU#841,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
+VU#841,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#841,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#841,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
+VU#841,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
+VU#841,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685

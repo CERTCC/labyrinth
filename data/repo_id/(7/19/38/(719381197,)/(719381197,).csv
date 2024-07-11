@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+719381197,alicangnll/CTI_Arastirmalarim,IoC/APT29_IoC/README.md,2ca7edd38a78e45a5dd9948574cbe380f73456cb,CVE-2023-38831
+719381197,alicangnll/CTI_Arastirmalarim,IoC/Rhysida_IoC/FBI_Rhysida_Report.pdf,66a6db6ef9a80761e30745e86d65ff711cb99956,CVE-2020-1472
+719381197,alicangnll/CTI_Arastirmalarim,IoC/APT29_IoC/apt29_rules.yara,ab4be4301df78a401d8a78c624281e8d943e9569,CVE-2023-38831
+719381197,alicangnll/CTI_Arastirmalarim,IoC/APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#13
+719381197,alicangnll/CTI_Arastirmalarim,IoC/APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#51
+719381197,alicangnll/CTI_Arastirmalarim,IoC/APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#52
+719381197,alicangnll/CTI_Arastirmalarim,IoC/APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#56
+719381197,alicangnll/CTI_Arastirmalarim,IoC/AgentTesla_IoC/README.md,b8629ffe2c9067eb638f100e34580c10ec738c51,CVE-2018-0802

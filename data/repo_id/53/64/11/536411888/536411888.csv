@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+536411888,trhacknon/CVE-2020-8515,README.md,97097d9ee6bf542b6ef1b93b52831cfddaadcdba,CVE-2020-8515
+536411888,trhacknon/CVE-2020-8515,draytek.py,ada8f02eedcf0d714d81dc2e4eeb4ae04d3a84a8,CVE-2020-8515
+536411888,trhacknon/CVE-2020-8515,_GITHUB_REPO_METADATA_,,CVE-2020-8515

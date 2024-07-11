@@ -1,3 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-437426386,corretto/hotpatch-for-apache-log4j2,README.md,18272e90e9ecc4b5eaabc9a8c9c8ee156564f554,CVE-2021-44228
+437426386,corretto/hotpatch-for-apache-log4j2,pom.xml,5b09358902d6f7e59b8181fa52fc23744a2593cd,CVE-2021-44228
+437426386,corretto/hotpatch-for-apache-log4j2,README.md,839ef392503f2bdfebf341dc0dd3178499fcaa17,CVE-2021-44228
+437426386,corretto/hotpatch-for-apache-log4j2,README.md,839ef392503f2bdfebf341dc0dd3178499fcaa17,CVE-2021-45046
+437426386,corretto/hotpatch-for-apache-log4j2,CHANGELOG.md,ba0f147bd65efd6195c6d5f44182de5cb86873cd,CVE-2021-44228
+437426386,corretto/hotpatch-for-apache-log4j2,CHANGELOG.md,ba0f147bd65efd6195c6d5f44182de5cb86873cd,CVE-2021-45046
 437426386,corretto/hotpatch-for-apache-log4j2,_GITHUB_REPO_METADATA_,,CVE-2021-44228

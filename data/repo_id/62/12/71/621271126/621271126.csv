@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+621271126,drkbcn/lblfixer_cve_2023_28447,lblfixer_cve_2023_28447.php,809b28c1b641c13380a5add1cc95e11a0a1e80af,CVE-2023-28447
+621271126,drkbcn/lblfixer_cve_2023_28447,README.md,abd31b56f4d6dd41342a6b3e0bcc747b0fdb86cd,CVE-2023-28447
+621271126,drkbcn/lblfixer_cve_2023_28447,README.md,abd31b56f4d6dd41342a6b3e0bcc747b0fdb86cd,GHSA-7J98-H7FP-4VWJ
+621271126,drkbcn/lblfixer_cve_2023_28447,_GITHUB_REPO_METADATA_,,CVE-2023-28447

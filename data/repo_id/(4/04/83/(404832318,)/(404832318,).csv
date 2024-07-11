@@ -1,0 +1,28 @@
+repo_id,repo_full_name,file,file_sha1,match
+404832318,Jonathan-Elias/Exploits,CVE-2019-0708_RDP.py,03f3d901b4b254476e8061f7756a7350cbbfc04f,CVE-2019-0708
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/vcruntime140_1.dll,0dcd3d7672650830578048e1599214575fe531eb,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/symsrv.dll,1622612d3bc193a6158a95990ed9130960765907,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/msvcp140.dll,1846962ea508bfcf91b70c6d29468cbd6517e6dd,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/vcruntime140.dll,1f5725e8a4017b6add2d0d8545c2a157fc4feebb,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/calc_target_offsets.bat,2555ebe49794ac81045c60285b1087ad17ed6633,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits, Grafana CVE-2021-43798/README.md,360e412758e71876cec09081820df1fe1566ef07,CVE-2021-43798
+404832318,Jonathan-Elias/Exploits,CVE-2018-13379.py,44e0a13f5ce5381c8cf7466694af2e740c5a358d,CVE-2018-13379
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/dbghelp.dll,543b936a89fbdb0220381eeff0824b3968390e82,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,Sonicwall - CVE-2021-20034/README.md,54e12641ada21f84a2afbb4b9fac2d5c9076723a,CVE-2021-20034
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/README.md,5739673003f23fbcaea345044f63e2abd235d7db,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/README.md,5739673003f23fbcaea345044f63e2abd235d7db,CVE-2020-1206
+404832318,Jonathan-Elias/Exploits, Grafana CVE-2021-43798/grafana.db,6261993f9bec533b281ba716f5a72cc30747f459,CVE-2021-43798
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/tbbmalloc.dll,6304cb0bfdc1442df3a334a244af3ffd57a2a124,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,alfa.php,8724033aae9d4f9097e4a700ffb7ff7acb9c5954,VU#83
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/link.exe,900953f76c757bf3701e5cd6b857cdf36595ec18,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,vnc.py,920f6ee610086808ff9cea0b35c8394c828a22b9,CVE-2006-2369
+404832318,Jonathan-Elias/Exploits, Grafana CVE-2021-43798/Makefile,a46554319216ca54685679e2002feeea51bbc226,CVE-2021-43798
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/dumpbin.exe,b73a0862a63863a19ac356eb505eec9d157a257b,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,BlueRDPSploit-master/bluerdpsploit,c09e6aaf27c9e61469e4bf660851ec56d3b27a5b,CVE-2019-0708
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/cdb.exe,d78ff1d9377c07a93cdc7d6d92944d4b685c18b7,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/smbghost_kshellcode_x64.asm,e1a6904ce280934f7cc00360a49331a62380bae0,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/smbghost_kshellcode_x64.asm,e1a6904ce280934f7cc00360a49331a62380bae0,CVE-2019-0708
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/SMBleedingGhost.py,e830ee0d7d62b51ebac101bf94f3f5e645f57077,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/SMBleedingGhost.py,e830ee0d7d62b51ebac101bf94f3f5e645f57077,CVE-2019-11708
+404832318,Jonathan-Elias/Exploits, Grafana CVE-2021-43798/exploit.go,f37b22f11b1a528632eb6e5437aa4de04b31eb7d,CVE-2021-43798
+404832318,Jonathan-Elias/Exploits, Grafana CVE-2021-43798/sample.ini,f8d5e39cd0fdc9a0adfd30170d7cf8f4c3cd69c5,CVE-2021-43798

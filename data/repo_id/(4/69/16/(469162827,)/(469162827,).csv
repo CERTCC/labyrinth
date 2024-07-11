@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+469162827,Kiosec/Linux-Exploitation,Exploits/Pwnkit/CVE-2021-4034.md,54dc6ad73991b7937ff8f49920bd31d49b5c05e5,CVE-2021-4034
+469162827,Kiosec/Linux-Exploitation,Exploits/GameOver(lay)/CVE-2023-2640-CVE-2023-32629.md,6ac730d4902061dc77ba50c89194df9d04fd10fc,CVE-2023-2640
+469162827,Kiosec/Linux-Exploitation,Exploits/GameOver(lay)/CVE-2023-2640-CVE-2023-32629.md,6ac730d4902061dc77ba50c89194df9d04fd10fc,CVE-2023-32629
+469162827,Kiosec/Linux-Exploitation,Exploits/Baron-Samedit/CVE-2021-3156,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2021-3156
+469162827,Kiosec/Linux-Exploitation,Exploits/DirtyPipe/CVE-2022-0847.md,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2022-0847
+469162827,Kiosec/Linux-Exploitation,README.md,d12f11e3ea1e76071d3a706cd701b8e347311b98,CVE-2019-14287
+469162827,Kiosec/Linux-Exploitation,README.md,d12f11e3ea1e76071d3a706cd701b8e347311b98,CVE-2021-3156
+469162827,Kiosec/Linux-Exploitation,README.md,d12f11e3ea1e76071d3a706cd701b8e347311b98,CVE-2021-4034
+469162827,Kiosec/Linux-Exploitation,README.md,d12f11e3ea1e76071d3a706cd701b8e347311b98,CVE-2022-0847
+469162827,Kiosec/Linux-Exploitation,README.md,d12f11e3ea1e76071d3a706cd701b8e347311b98,CVE-2023-2640
+469162827,Kiosec/Linux-Exploitation,README.md,d12f11e3ea1e76071d3a706cd701b8e347311b98,CVE-2023-32629

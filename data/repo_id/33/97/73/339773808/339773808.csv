@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-339773808,EntySec/HatSploit,hatsploit/modules/exploit/windows/smb/ms17_010_eternalblue.py,acaa18f28d56ddbe89968b0a3977be0981bbca61,MS17-010
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/windows/smb/ms17_010_eternalblue.py,d1a1e9f9589efb45945b0e6b8c411e8a8b3dfe68,MS17-010

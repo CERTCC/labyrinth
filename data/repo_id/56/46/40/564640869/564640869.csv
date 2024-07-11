@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+564640869,dkjiayu/dkjiayu.github.io,poc2.html,4508418e357368efcaa52927f8d0b8433816f26f,CVE-2022-22620
+564640869,dkjiayu/dkjiayu.github.io,poc3.html,861985ada1620650faa6ccc8ba569c223faf85b2,CVE-2022-22620
+564640869,dkjiayu/dkjiayu.github.io,README.md,faf593a74c565fb45174a5bd71c74191191fdbaf,CVE-2022-22620
+564640869,dkjiayu/dkjiayu.github.io,_GITHUB_REPO_METADATA_,,CVE-2022-22620

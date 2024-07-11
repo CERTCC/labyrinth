@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+407942105,phreakAI/MetasploitGym,metasploit_gym/action/exploit.py,9ce071d48cb9429dcc8e0e443bf7e0c28c1bd1a2,MS08-067
+407942105,phreakAI/MetasploitGym,tests/test_connection.py,c5008c894e6b117526d780575cc7312087bd1067,MS08-067

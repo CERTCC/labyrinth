@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+720237297,MichalApl/Reflected-xss-node-js-poc,mquery/History.md,467a6091e535892efeeb507f8d58eb1e55451270,CVE-2020-35149

@@ -1,1 +1,7 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+257893340,zoogie/unSAFE_MODE,bb3_installer/payload/otherapp_template/libctru/include/ctr/types.h,229df3b09948c3b3b53ad134968252c7f8a4ba93,VU#16
+257893340,zoogie/unSAFE_MODE,bb3_installer/payload/otherapp_template/libctru/include/ctr/types.h,229df3b09948c3b3b53ad134968252c7f8a4ba93,VU#32
+257893340,zoogie/unSAFE_MODE,bb3_installer/payload/otherapp_template/libctru/include/ctr/types.h,229df3b09948c3b3b53ad134968252c7f8a4ba93,VU#64
+257893340,zoogie/unSAFE_MODE,bb3_installer/payload/otherapp_template/libctru/include/ctr/HID.h,5570ec5be7e8d96894760923485a682f1d7f3b99,VU#32
+257893340,zoogie/unSAFE_MODE,bb3_installer/payload/otherapp_template/source/main.c,b418546ccd8b2611967c5cdf7881c32502a43fc9,VU#32
+257893340,zoogie/unSAFE_MODE,bb3_installer/payload/otherapp_template/libctru/source/HID.c,dc8cf0cbbc7a1319020c2a05e177a1f06c77224b,VU#32

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+680918858,h8handles/CVE-2019-9978-Python3,exploit.py,c07f1efa2fa93e6de25ef8456683d664a9c16e6c,CVE-2019-9978
+680918858,h8handles/CVE-2019-9978-Python3,README.md,f0c93e66ebbb42be5311326ac0c36248d5325ef4,CVE-2019-9978
+680918858,h8handles/CVE-2019-9978-Python3,_GITHUB_REPO_METADATA_,,CVE-2019-9978

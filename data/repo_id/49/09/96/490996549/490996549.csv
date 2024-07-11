@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+490996549,adminsec5247/CVE-2020-25213-wordpress-wp-file-manager-fileupload,exploit.py,7621b35d7e9fa62d6c49b8ba4f4454c14aa9f82e,CVE-2020-25213
+490996549,adminsec5247/CVE-2020-25213-wordpress-wp-file-manager-fileupload,README.md,a899d328fceef2da5c4f5d6625091255312b1bbc,CVE-2020-25213
+490996549,adminsec5247/CVE-2020-25213-wordpress-wp-file-manager-fileupload,_GITHUB_REPO_METADATA_,,CVE-2020-25213

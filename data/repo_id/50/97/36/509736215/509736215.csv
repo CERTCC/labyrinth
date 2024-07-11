@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+509736215,hack-parthsharma/Ofbiz-Exploit,exploit.sh,d1408b7a475f85095cf0d14b38b4ccc29e94576e,CVE-2020-9496

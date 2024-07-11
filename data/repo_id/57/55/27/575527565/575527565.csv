@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+575527565,gokul-ramesh/text4shell-exploit,README.md,da0104dfaa70ae17d0016ff0241e5565bab9eeee,CVE-2022-42889
+575527565,gokul-ramesh/text4shell-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-42889

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+504743780,podsdev/ratExploiter,RATexploiter/rat/Plugin/NGR32.dll,1456e6d46935dd8f79fc386e6c1a82c3d26ac6b0,VU#91
+504743780,podsdev/ratExploiter,RATexploiter/rat/Plugin/NGR64.dll,aae1a20f118685cf8ad51ae496b4a3d49b6852bd,VU#09
+504743780,podsdev/ratExploiter,RATexploiter/rat/rattool.exe,b872393a07d3949947a41871132b736c00c771bb,VU#88
+504743780,podsdev/ratExploiter,RATexploiter/rat/vncviewer.exe,f962549e42b58a056b11a9ba9750a30bc76844d7,VU#88

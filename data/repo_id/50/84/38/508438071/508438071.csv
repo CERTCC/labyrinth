@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+508438071,oppsec/arbimz,arbimz/interface/menu,17c7d21e2145a8888ecf1a09964b63fa749d35ec,CVE-2019-9670
+508438071,oppsec/arbimz,README.md,386d42f7afd4affa5107c7f139007835127962b8,CVE-2019-9670
+508438071,oppsec/arbimz,_GITHUB_REPO_METADATA_,,CVE-2019-9670

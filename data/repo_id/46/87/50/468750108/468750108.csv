@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+468750108,echo-devim/exploit_linux_kernel4.13,README.md,475c84fef6d5282d148d84c3ec2204a8d894acfa,CVE-2017-14954
+468750108,echo-devim/exploit_linux_kernel4.13,README.md,475c84fef6d5282d148d84c3ec2204a8d894acfa,CVE-2017-18344
+468750108,echo-devim/exploit_linux_kernel4.13,README.md,475c84fef6d5282d148d84c3ec2204a8d894acfa,CVE-2017-5123
+468750108,echo-devim/exploit_linux_kernel4.13,poc.c,5e887789f413160cc104c53363751d7497204c32,CVE-2017-14954
+468750108,echo-devim/exploit_linux_kernel4.13,poc.c,5e887789f413160cc104c53363751d7497204c32,CVE-2017-18344
+468750108,echo-devim/exploit_linux_kernel4.13,poc.c,5e887789f413160cc104c53363751d7497204c32,CVE-2017-5123
+468750108,echo-devim/exploit_linux_kernel4.13,_GITHUB_REPO_METADATA_,,CVE-2017-14954
+468750108,echo-devim/exploit_linux_kernel4.13,_GITHUB_REPO_METADATA_,,CVE-2017-18344
+468750108,echo-devim/exploit_linux_kernel4.13,_GITHUB_REPO_METADATA_,,CVE-2017-5123

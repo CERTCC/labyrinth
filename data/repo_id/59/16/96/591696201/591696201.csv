@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+591696201,n3m1dotsys/CVE-2023-22809-sudoedit-privesc,README.md,3159737d3cc959e5907bff3b152d10ec6baa1471,CVE-2023-22809
+591696201,n3m1dotsys/CVE-2023-22809-sudoedit-privesc,exploit.sh,cee15bc96e5ead51e6add9220594b81e967c9ee9,CVE-2023-22809
+591696201,n3m1dotsys/CVE-2023-22809-sudoedit-privesc,_GITHUB_REPO_METADATA_,,CVE-2023-22809

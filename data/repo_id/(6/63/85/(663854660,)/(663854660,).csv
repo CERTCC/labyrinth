@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+663854660,p1n93r/SpringBootAdmin-thymeleaf-SSTI,README.md,6d122e2d4e304024304ec9c49529acbef82b21dc,CVE-2023-38286

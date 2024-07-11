@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+646638117,kw3h4/CVE-2023-21839-metasploit-scanner,README.md,733a9b665253da1b506db26a144cf55a5efa2d5d,CVE-2023-21839
+646638117,kw3h4/CVE-2023-21839-metasploit-scanner,weblogic_iiop_rce.py,952a1969461031f133a8da175bac07038a4c71e0,CVE-2023-21839
+646638117,kw3h4/CVE-2023-21839-metasploit-scanner,_GITHUB_REPO_METADATA_,,CVE-2023-21839

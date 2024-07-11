@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+793726017,takeshixx/tac_plus-pre-auth-rce,README.md,62662e13f678f84f341cd3065d153e1fa8f7c984,CVE-2023-45239
+793726017,takeshixx/tac_plus-pre-auth-rce,README.md,62662e13f678f84f341cd3065d153e1fa8f7c984,CVE-2023-48643
+793726017,takeshixx/tac_plus-pre-auth-rce,README.md,62662e13f678f84f341cd3065d153e1fa8f7c984,GHSA-P334-5R3G-4VX3

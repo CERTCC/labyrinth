@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+666563893,MFurkanKaykac/Kali-Linux-Exploit-Files,usermap_script.rb,259995794cdacbc72d753ab6239ce47f1aa71feb,BID-23972
+666563893,MFurkanKaykac/Kali-Linux-Exploit-Files,usermap_script.rb,259995794cdacbc72d753ab6239ce47f1aa71feb,CVE-2007-2447
+666563893,MFurkanKaykac/Kali-Linux-Exploit-Files,usermap_script.rb,259995794cdacbc72d753ab6239ce47f1aa71feb,OSVDB-34700
+666563893,MFurkanKaykac/Kali-Linux-Exploit-Files,postgres_payload.rb,748a0d76119b240d49d010d06a35d5764c4fbe14,CVE-2007-3280
+666563893,MFurkanKaykac/Kali-Linux-Exploit-Files,vsftpd_234_backdoor.rb,d9abe102e3a6c48ed084bbb5cd95a38f4f59ab9f,OSVDB-73573

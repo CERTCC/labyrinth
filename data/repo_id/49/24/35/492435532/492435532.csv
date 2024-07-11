@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+492435532,iveresk/cve-2022-1388-iveresk-command-shell,cve-2022-1388-1veresk.py,94f178eee8d4d3f749c8c4bf2839ed5bf1c55053,CVE-2022-1388
+492435532,iveresk/cve-2022-1388-iveresk-command-shell,README.md,fc95ade05fd9b4ef10a3f4f0edb661a428e41245,CVE-2022-1388
+492435532,iveresk/cve-2022-1388-iveresk-command-shell,_GITHUB_REPO_METADATA_,,CVE-2022-1388

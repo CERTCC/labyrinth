@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+522797645,poxicity/CVE-2015-1328,ofs.c,428a7235e008286beacd7e6799e99ac1dafe6590,CVE-2015-1328
+522797645,poxicity/CVE-2015-1328,_GITHUB_REPO_METADATA_,,CVE-2015-1328

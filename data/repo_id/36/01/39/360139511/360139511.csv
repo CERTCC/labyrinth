@@ -1,13 +1,13 @@
 repo_id,repo_full_name,file,file_sha1,match
 360139511,Guezone/SECMON,static/img/logo.svg,01539112be99e48b031f9c27dec7ef9e9a1d61a8,VU#85
-360139511,Guezone/SECMON,DOCS.md,039784dbd237898c16a68706473d3de17599367a,CVE-2014-8380
-360139511,Guezone/SECMON,DOCS.md,039784dbd237898c16a68706473d3de17599367a,CVE-2020-1590
-360139511,Guezone/SECMON,DOCS.md,039784dbd237898c16a68706473d3de17599367a,CVE-2021-3156
 360139511,Guezone/SECMON,static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
 360139511,Guezone/SECMON,static/fonts/poppins/Poppins-ExtraLight.ttf,20c587a55713abe55f036299b397470a7eaefbbf,VU#33
 360139511,Guezone/SECMON,static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
 360139511,Guezone/SECMON,templates/exploits.html,4cae7c27fce9b9a843885dd18575ac384e8556a6,CVE-2020-7030
 360139511,Guezone/SECMON,static/fonts/raleway/Raleway-ExtraLightItalic.ttf,9384ad2a8a76276bcb033338b5777ab648d90400,VU#43
+360139511,Guezone/SECMON,DOCS.md,9675f4371cd55a66c8ffd8fde8d39b392ab42d27,CVE-2014-8380
+360139511,Guezone/SECMON,DOCS.md,9675f4371cd55a66c8ffd8fde8d39b392ab42d27,CVE-2020-1590
+360139511,Guezone/SECMON,DOCS.md,9675f4371cd55a66c8ffd8fde8d39b392ab42d27,CVE-2021-3156
 360139511,Guezone/SECMON,templates/vuln-mgmt.html,98bc5055ff63548ef8628e75ed1c0f6f05e66add,CVE-2020-1472
 360139511,Guezone/SECMON,templates/search.html,c8c95c28b2989554cef2d3093c4ac7c110271ff1,CVE-2020-1472
 360139511,Guezone/SECMON,static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96

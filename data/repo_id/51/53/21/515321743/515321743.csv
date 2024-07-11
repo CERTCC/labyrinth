@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+515321743,randomAnalyst/PoC-Fetcher,README.md,12c9b8ebd81ed669faf39d73f53c6fcbe6d3c99a,CVE-2021-41773
+515321743,randomAnalyst/PoC-Fetcher,README.md,12c9b8ebd81ed669faf39d73f53c6fcbe6d3c99a,CVE-2021-42013
+515321743,randomAnalyst/PoC-Fetcher,README.md,12c9b8ebd81ed669faf39d73f53c6fcbe6d3c99a,CVE-2022-0219

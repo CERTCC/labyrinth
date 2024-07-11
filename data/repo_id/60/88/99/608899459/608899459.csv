@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+608899459,Hacking-Notes/VulnFinder,modules/structure.py,20c587a783db3bba7e0770ce4fbd798ab9ec6eb6,CVE-2000-0000
+608899459,Hacking-Notes/VulnFinder,modules/__pycache__/structure.cpython-310.pyc,8dbff82e4a852c4ca2a9ed1940c510112cf799c2,CVE-2000-0000

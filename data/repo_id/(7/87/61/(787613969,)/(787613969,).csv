@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+787613969,Chocapikk/CVE-2024-3400,exploit.py,35706cae7da5f873abbab5ff257efcbbeddbc07a,CVE-2024-3400
+787613969,Chocapikk/CVE-2024-3400,scanner_oob.py,48b2bea35fb1775638db0ec4d12669304bfe84a6,CVE-2024-3400
+787613969,Chocapikk/CVE-2024-3400,README.md,67a595f39f30d728b3b35fffb5fcfe61aac2b6b9,CVE-2024-3400
+787613969,Chocapikk/CVE-2024-3400,_GITHUB_REPO_METADATA_,,CVE-2024-3400

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+811414385,sneaky-wizard/dompdf_rce,CVE-2022-28368_poc.txt,28dd036a568536125ab4bc73f872a0ff947073d8,CVE-2022-28368
+811414385,sneaky-wizard/dompdf_rce,exploit_CVE-2022-28368.css,d06f775394561644caf8effad60606a2219479e2,CVE-2022-28368
+811414385,sneaky-wizard/dompdf_rce,exploit_font_CVE-2022-28368.php,d3b21f858e9b9eed4ca4d7bae48f5bc7f9990ff9,CVE-2022-28368

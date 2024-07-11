@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+771765194,r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check,check-cve-2024-21762.py,68cdfc6f1fdde8eec959cadddf3a8d92bf5e0960,CVE-2024-21762
+771765194,r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check,README.md,ce69932f14d6cd3179be3b7631fda0d93460631d,CVE-2024-21762
+771765194,r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check,_GITHUB_REPO_METADATA_,,CVE-2024-21762

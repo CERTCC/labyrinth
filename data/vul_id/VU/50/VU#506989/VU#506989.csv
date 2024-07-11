@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#506989,0.50000000,https://github.com/jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM,jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM,389410092
 VU#506989,0.50000000,https://github.com/n3tsurge/CVE-2021-36934,n3tsurge/CVE-2021-36934,388194766
+VU#506989,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

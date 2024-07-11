@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+475519883,IanSmith123/spring-core-rce,README.md,f88ae04387eb7e2c1ba3c941605f5cf043fc589f,CVE-2022-24086

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+717395935,dorian33160/Linux-Kernel-4.4.0-21_EXPLOIT,45010(1).c,9d8fc0d198b8b32add6a1c88ac8b137fdc2377dd,CVE-2017-16995

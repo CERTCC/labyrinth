@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+464704192,oplogix/Helpful-Scripts,CVE-2014-6287.py,19b96c01cfb80756922ba339b908997b2e5a105b,CVE-2014-6287
+464704192,oplogix/Helpful-Scripts,README.md,3df25cadad682f19b3c53c73ee7a44f7ac748fc5,CVE-2014-6287
+464704192,oplogix/Helpful-Scripts,README.md,3df25cadad682f19b3c53c73ee7a44f7ac748fc5,CVE-2019-9053
+464704192,oplogix/Helpful-Scripts,CVE-2019-9053.py,a6c2b4b635635514d4c99c1799889b40c17491b5,CVE-2019-9053

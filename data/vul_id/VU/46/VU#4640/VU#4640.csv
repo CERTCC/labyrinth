@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#4640,0.05882353,https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,510875629
+VU#4640,0.05882353,https://github.com/khalednassar/CVE-2022-21449-TLS-PoC,khalednassar/CVE-2022-21449-TLS-PoC,483804378
+VU#4640,0.00606061,https://github.com/maxamin/o-wicked-Exploits-out-there,maxamin/o-wicked-Exploits-out-there,826056433
+VU#4640,0.00307692,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921

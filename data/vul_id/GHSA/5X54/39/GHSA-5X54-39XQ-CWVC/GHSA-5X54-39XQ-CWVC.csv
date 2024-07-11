@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-5X54-39XQ-CWVC,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-11015,Live-Hack-CVE/CVE-2020-11015,581711313
+GHSA-5X54-39XQ-CWVC,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-5X54-39XQ-CWVC,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

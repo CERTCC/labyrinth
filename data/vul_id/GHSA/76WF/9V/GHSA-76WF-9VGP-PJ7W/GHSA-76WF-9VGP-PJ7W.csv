@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-76WF-9VGP-PJ7W,0.33333333,https://github.com/AbelChe/evil_minio,AbelChe/evil_minio,619494083
+GHSA-76WF-9VGP-PJ7W,0.12500000,https://github.com/jassics/awesome-aws-security,jassics/awesome-aws-security,186966440
+GHSA-76WF-9VGP-PJ7W,0.00307692,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+472651368,hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-,README.md,1e6faeb1e8a695332d868ad0619f2e41ccae7cc6,CVE-2021-43530
+472651368,hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-,_GITHUB_REPO_METADATA_,,CVE-2021-43530

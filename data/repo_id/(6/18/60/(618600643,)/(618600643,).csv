@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+618600643,BluStik/ScreenTimeRemover,screentime/grant_full_disk_access.m,191d81b191bc8f6d4adacdeedc6e0a6d321cd5dd,CVE-2022-46689
+618600643,BluStik/ScreenTimeRemover,screentime/grant_full_disk_access.h,ad38bef6487e17bec9b4b73d0b0b4ede5dda4d22,CVE-2022-46689
+618600643,BluStik/ScreenTimeRemover,screentime/vm_unaligned_copy_switch_race.h,ec5778fae996e0d85504a7ab36f5c3bf8fde07b7,CVE-2022-46689

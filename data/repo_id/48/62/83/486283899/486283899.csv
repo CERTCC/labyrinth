@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+486283899,spentera/Exploit,Zahir-Enterprise/CVE-2018-17408.py,fc040c57cf663219b094a97f9fa0e7c1a0bbe3c0,CVE-2018-17408
+486283899,spentera/Exploit,Cyberlink-Labelprint/CVE-2017-14627.py,fed8aaf96a5a65b07f2e7c1b8457420ad2438783,CVE-2017-14627

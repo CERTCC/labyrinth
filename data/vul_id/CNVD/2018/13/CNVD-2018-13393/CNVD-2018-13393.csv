@@ -1,2 +1,15 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-CNVD-2018-13393,0.00561798,https://github.com/chaitin/xray,chaitin/xray,191117123
+CNVD-2018-13393,0.01190476,https://github.com/daffainfo/suricata-rules,daffainfo/suricata-rules,635439624
+CNVD-2018-13393,0.00909091,https://github.com/youki992/VscanPlus,youki992/VscanPlus,763934320
+CNVD-2018-13393,0.00552486,https://github.com/chaitin/xray,chaitin/xray,191117123
+CNVD-2018-13393,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2018-13393,0.00269542,https://github.com/ExpLangcn/FuYao-Go,ExpLangcn/FuYao-Go,481044551
+CNVD-2018-13393,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
+CNVD-2018-13393,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
+CNVD-2018-13393,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
+CNVD-2018-13393,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
+CNVD-2018-13393,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+CNVD-2018-13393,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNVD-2018-13393,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+CNVD-2018-13393,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2018-13393,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

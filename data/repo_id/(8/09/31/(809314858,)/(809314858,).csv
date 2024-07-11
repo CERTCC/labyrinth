@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+809314858,0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress,exploit.py,6b84bea2ee90c96efb4dc9da4156319c9ebed5cc,CVE-2024-25600
+809314858,0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress,README.md,cc86e31a01d73e417f253eac2b31717a26e22b5e,CVE-2024-25600
+809314858,0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress,_GITHUB_REPO_METADATA_,,CVE-2024-25600

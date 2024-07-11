@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+700450885,TechnicalForumResearcher/DuplicateDetectionWithGPT3,DupPredictor_ReImp/dataset/tex.npz,0863ec62edafb03ccdd915a3802744ab99399fb3,VU#10
+700450885,TechnicalForumResearcher/DuplicateDetectionWithGPT3,DupPredictor_ReImp/dataset/unix.npz,23db1c2b7d33b73b0efb35ad287fbcce5102ffd0,CVE-2014-0160
+700450885,TechnicalForumResearcher/DuplicateDetectionWithGPT3,DupPredictor_ReImp/dataset/mathematica.npz,debdbd668843dc385360db784651390290ec34d2,VU#74

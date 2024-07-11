@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+706726490,Cashiuus/pocman,pocman.py,c4d8f76be185e20d65265a477ef3f80b927e9af7,CVE-2023-2019
+706726490,Cashiuus/pocman,pocman.py,c4d8f76be185e20d65265a477ef3f80b927e9af7,CVE-2023-44487
+706726490,Cashiuus/pocman,README.md,ff4377a82cc58bb584e9584de2618a70a3d72c41,CVE-2023-20198

@@ -1,9 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
+440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,README.md,5aca4195d5c689fa8f1abdf62ab14ce2dded0dc4,CVE-2021-44228
+440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,README.md,5aca4195d5c689fa8f1abdf62ab14ce2dded0dc4,CVE-2021-45105
 440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,demo-scenarios-on-aws.excalidraw,7320e82250915f5c58b2df41e444e8f1840073e2,VU#15
 440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,demo-scenarios-on-aws.excalidraw,7320e82250915f5c58b2df41e444e8f1840073e2,VU#21
 440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,demo-scenarios-on-aws.excalidraw,7320e82250915f5c58b2df41e444e8f1840073e2,VU#33
 440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,demo-scenarios-on-aws.excalidraw,7320e82250915f5c58b2df41e444e8f1840073e2,VU#44
-440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,README.md,7ac7b4b210abc1efe65cd8de73df2db24d6556f5,CVE-2021-44228
-440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,README.md,7ac7b4b210abc1efe65cd8de73df2db24d6556f5,CVE-2021-45105
 440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,demo-aws-mitigation.md,c631e01dbad0af23c77da3a22c15bb071d63ac18,CVE-2021-44228
 440722343,BabooPan/Log4Shell-CVE-2021-44228-Demo,_GITHUB_REPO_METADATA_,,CVE-2021-44228

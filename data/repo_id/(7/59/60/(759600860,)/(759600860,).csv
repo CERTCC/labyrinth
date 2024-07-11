@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+759600860,ommadawn46/chakra-type-confusions,README.md,1a5650b7911257a684177b9f4cd7294b5935865e,CVE-2018-8617
+759600860,ommadawn46/chakra-type-confusions,README.md,1a5650b7911257a684177b9f4cd7294b5935865e,CVE-2019-0539
+759600860,ommadawn46/chakra-type-confusions,README.md,1a5650b7911257a684177b9f4cd7294b5935865e,CVE-2019-0567
+759600860,ommadawn46/chakra-type-confusions,README.md,1a5650b7911257a684177b9f4cd7294b5935865e,GPZ-1702
+759600860,ommadawn46/chakra-type-confusions,README.md,1a5650b7911257a684177b9f4cd7294b5935865e,GPZ-1703
+759600860,ommadawn46/chakra-type-confusions,README.md,1a5650b7911257a684177b9f4cd7294b5935865e,GPZ-1705
+759600860,ommadawn46/chakra-type-confusions,js/TypeConfusions.js,5f2a821efdeafea53c50ada30621ca8ff631b0c0,CVE-2018-8617
+759600860,ommadawn46/chakra-type-confusions,js/TypeConfusions.js,5f2a821efdeafea53c50ada30621ca8ff631b0c0,CVE-2019-0539
+759600860,ommadawn46/chakra-type-confusions,js/TypeConfusions.js,5f2a821efdeafea53c50ada30621ca8ff631b0c0,CVE-2019-0567
+759600860,ommadawn46/chakra-type-confusions,js/TypeConfusions.js,5f2a821efdeafea53c50ada30621ca8ff631b0c0,GPZ-1702
+759600860,ommadawn46/chakra-type-confusions,js/TypeConfusions.js,5f2a821efdeafea53c50ada30621ca8ff631b0c0,GPZ-1703
+759600860,ommadawn46/chakra-type-confusions,js/TypeConfusions.js,5f2a821efdeafea53c50ada30621ca8ff631b0c0,GPZ-1705
+759600860,ommadawn46/chakra-type-confusions,chakra-type-confusions.html,8ceb6a63b44cd241412e486702635b1a1a52999e,CVE-2018-8617
+759600860,ommadawn46/chakra-type-confusions,chakra-type-confusions.html,8ceb6a63b44cd241412e486702635b1a1a52999e,CVE-2019-0539
+759600860,ommadawn46/chakra-type-confusions,chakra-type-confusions.html,8ceb6a63b44cd241412e486702635b1a1a52999e,CVE-2019-0567

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+663855033,NnickSecurity/vsftpd_backdoor_exploit,vsftpd_exploit.py,5266d4ddf01a9d224c7cb9954b6bff1e542e1cde,CVE-2011-2523
+663855033,NnickSecurity/vsftpd_backdoor_exploit,README.md,bc6c82ce2f672df8e446f7742729205fd02bbe91,CVE-2011-2523

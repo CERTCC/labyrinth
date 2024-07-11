@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+617122203,tiepologian/CVE-2023-23397,README.md,4a186cff497beb920c130dea676f9b9c0710e8ed,CVE-2023-23397
+617122203,tiepologian/CVE-2023-23397,Exploit.py,fa8294a7f7860cf3f8076e7bafa8facb0ad442d2,CVE-2023-23397
+617122203,tiepologian/CVE-2023-23397,_GITHUB_REPO_METADATA_,,CVE-2023-23397

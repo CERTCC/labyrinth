@@ -7,3 +7,4 @@ repo_id,repo_full_name,file,file_sha1,match
 141445563,gquere/pwn_jenkins,README.md,842434a167d4a49b573d7664a0625264ad4cc82a,CVE-2019-1003029
 141445563,gquere/pwn_jenkins,README.md,842434a167d4a49b573d7664a0625264ad4cc82a,CVE-2019-1003030
 141445563,gquere/pwn_jenkins,README.md,842434a167d4a49b573d7664a0625264ad4cc82a,CVE-2019-10392
+141445563,gquere/pwn_jenkins,rce/jenkins_rce_cve-2015-8103_deser.py,c6a1db4ab0595d59ae62376e88d923627b5264a0,CVE-2015-8103

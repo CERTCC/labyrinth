@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#17
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#20
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#32
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#33
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#396
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#49
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#53
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#65
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#82
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#84
+805320426,roschnor/poc-master,composer.phar,527496c4f4e0e7d3ffd2ae5e943b9a3a0ed868e5,VU#85

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+758899750,shri142/ZipScan,README.md,c768c9ad12245b1213bea33e895113a42de93f50,CVE-2022-30190
+758899750,shri142/ZipScan,_GITHUB_REPO_METADATA_,,CVE-2022-30190

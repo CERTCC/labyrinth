@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+168705397,jaxBCD/Zeebsploit,zeeb_src/utils/wordlist/wp-theme.fuzz,b3b33196eee31ee0b923d8d1fbf8832aeac3a8de,VU#01
+168705397,jaxBCD/Zeebsploit,zeeb_src/utils/wordlist/wp-theme.fuzz,b3b33196eee31ee0b923d8d1fbf8832aeac3a8de,VU#03

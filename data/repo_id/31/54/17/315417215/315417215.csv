@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+315417215,blackbotinc/Atomic-Red-Team-Intelligence-C2,blackbot/core/certs/artic2_chain.pem,a6f2c65007d25b6ad9ede7cac02c4a20d90223e1,VU#86
+315417215,blackbotinc/Atomic-Red-Team-Intelligence-C2,blackbot/core/certs/artic2_cert.pem,f8adf2a4505e34d143532bbd9c360d785b04c3c4,VU#86

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+494319745,sadshade/CVE-2022-24706-CouchDB-Exploit,README.md,42a748f83f9c1e585dc49ffb58b5f8c2089ae77b,CVE-2022-24706
+494319745,sadshade/CVE-2022-24706-CouchDB-Exploit,CVE-2022-24706-Exploit.py,b0f8f97b299aa20b97fd68d56cd2d49d07d19f9d,CVE-2022-24706
+494319745,sadshade/CVE-2022-24706-CouchDB-Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-24706

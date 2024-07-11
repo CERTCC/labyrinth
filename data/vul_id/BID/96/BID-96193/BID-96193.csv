@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+BID-96193,0.50000000,https://github.com/Live-Hack-CVE/CVE-2017-2992,Live-Hack-CVE/CVE-2017-2992,582903204
+BID-96193,0.50000000,https://github.com/Live-Hack-CVE/CVE-2017-2984,Live-Hack-CVE/CVE-2017-2984,582903114
+BID-96193,0.50000000,https://github.com/Live-Hack-CVE/CVE-2017-2986,Live-Hack-CVE/CVE-2017-2986,582903102
+BID-96193,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-96193,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-96193,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

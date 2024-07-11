@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+383254488,byt3bl33d3r/ItWasAllADream,itwasalladream/__main__.py,99a4e9ebb8518126ed611c46792c5eb2d02e4e46,CVE-2021-34527
+383254488,byt3bl33d3r/ItWasAllADream,README.md,c2bf0e68f6227e983113ae7d9229a8dc8832dd20,CVE-2021-1675
+383254488,byt3bl33d3r/ItWasAllADream,README.md,c2bf0e68f6227e983113ae7d9229a8dc8832dd20,CVE-2021-34527
+383254488,byt3bl33d3r/ItWasAllADream,_GITHUB_REPO_METADATA_,,CVE-2021-34527

@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNNVD-201806-1367,0.04347826,https://github.com/purple-WL/vulnerability-poc,purple-WL/vulnerability-poc,538845179
+CNNVD-201806-1367,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

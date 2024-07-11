@@ -1,2 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-131677,0.00223214,https://github.com/zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-,zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-,183373457
+OSVDB-131677,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+OSVDB-131677,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+OSVDB-131677,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,0 +1,614 @@
+repo_id,repo_full_name,file,file_sha1,match
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9363.c,023772e87339e0aec21320f258f05514dd802739,CVE-2005-4605
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/full-nelson_modz.c,035cd0e1a8c54b7766ebadcb71166e8429f49b59,CVE-2010-4258
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/full-nelson_modz.c,035cd0e1a8c54b7766ebadcb71166e8429f49b59,CVE-2010-3849
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/full-nelson_modz.c,035cd0e1a8c54b7766ebadcb71166e8429f49b59,CVE-2010-3850
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15974.txt,04b45ccc5f77b20099081b8f7c45a41651e32579,BID-45051
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/b374k.php.php,04c99efd187cf29dc4e5603c51be44170987bce2,VU#043
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15304.txt,05e997aff44544ab8a593b95475b1f1582da062b,CVE-2010-3856
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15304.txt,05e997aff44544ab8a593b95475b1f1582da062b,CVE-2010-3847
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit1.c,09d3ea188ca54ac79218bfb76c940e6e1af6fcb9,CVE-2010-3904
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS11-097
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS12-003
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS12-009
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS07-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS12-203
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS08-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS12-018
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS11-062
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS11-080
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS11-056
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS09-012
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS09-020
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS09-041
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS10-048
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS10-015
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS10-084
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS11-011
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS11-014
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS11-046
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/asp/RedHat Hacker.asp明文版.asp,0bfe1eef2a22093ea7304aa800f87f24228bc2b5,MS10-065
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/recon/sparta/goldenPac.py,0d79efd8b2c39880b1e073fc3efd2a2cda4f41b8,MS14-068
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/2004.c,0e69011459385e9c4fe2e1873cd83c31e17684cf,CVE-2006-2451
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/在线exp专用免杀版.php,0eaa93eba4f20d5151d9582f1597faef41639b68,VU#77
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/在线exp专用免杀版.php,0eaa93eba4f20d5151d9582f1597faef41639b68,VU#7599
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/在线exp专用免杀版.php,0eaa93eba4f20d5151d9582f1597faef41639b68,VU#78
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/在线exp专用免杀版.php,0eaa93eba4f20d5151d9582f1597faef41639b68,VU#85
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/在线exp专用免杀版.php,0eaa93eba4f20d5151d9582f1597faef41639b68,VU#439
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9595.c,0f4487ba276cbbb6361385ea9538ff3e1ae3119e,BID-35727
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/17147.txt,11275fec71272f4068e16db92c7c0ea546b14378,CVE-2011-1496
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/www.zjjv.com.php,12bf2e21a1e712a85a4e80d60d80618da2694bd2,VU#33
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/www.zjjv.com.php,12bf2e21a1e712a85a4e80d60d80618da2694bd2,VU#955
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/linux/mempodipper.c,14e513267c6bb1b06842eadd19a2bbbc9a5531f2,CVE-2012-0056
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15074.sh,172b3a50554a1d07c8fef5802f169b664cfec295,BID-43084
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/full-nelson.c,179173ee2abbf09c0b833b4982e617365ef9b28e,CVE-2010-4258
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/full-nelson.c,179173ee2abbf09c0b833b4982e617365ef9b28e,CVE-2010-3850
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/full-nelson.c,179173ee2abbf09c0b833b4982e617365ef9b28e,CVE-2010-3849
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/eternalred/eternal.py,18245afd71edde2d1a936f604053443ea8cc1548,CVE-2017-7494
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit12.c,19d4908b51b2a8a6bf2b6f2e70b586ce5935b486,CVE-2010-3850
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit12.c,19d4908b51b2a8a6bf2b6f2e70b586ce5935b486,CVE-2010-4258
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit12.c,19d4908b51b2a8a6bf2b6f2e70b586ce5935b486,CVE-2010-3849
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/linux/scripts/linux_kernel_exploiter.pl,1e055e9e1062c5a673fe6f7a6df181a60aa29be0,BID-45408
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/windows-privesc-check2.exe,1fbc3f8cf90dcffefb8f42436f9db2ec6f9ae12d,VU#03
+481726227,MdTauheedAlam/Pentest-MetaSploit,exploitation/remote-services/smb-ports-139-445.md,227854638e5db785b88cd968d8f63629f037e2bc,MS17-010
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit6.c,23d77fc3da7b9ba25c5f542393ab59ef411edda0,CVE-2010-2959
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit7.c,241b13a9d818fb62753ad1a590ed9d0a05bee2ed,CVE-2010-4073
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit7.c,241b13a9d818fb62753ad1a590ed9d0a05bee2ed,CVE-2010-3848
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit7.c,241b13a9d818fb62753ad1a590ed9d0a05bee2ed,CVE-2010-3850
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit8.c,24f1ceac259f5f8d73332e6359b1c0e252dd3a07,CVE-2010-3848
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit8.c,24f1ceac259f5f8d73332e6359b1c0e252dd3a07,CVE-2010-3850
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit8.c,24f1ceac259f5f8d73332e6359b1c0e252dd3a07,CVE-2010-4073
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/stationx/owasp-commands.md,24fabac7733fc0480e3a7dcd4c8a6868bd508406,CVE-2009-1185
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9477.txt,28e93f51069d68fc23f57950f7fe2fc9d12d3d88,CVE-2009-2692
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/c99_madnet.php,2ae7a21189295609f9e4dc8227e7da9dad8ee922,VU#3920
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/c99_madnet.php,2ae7a21189295609f9e4dc8227e7da9dad8ee922,VU#845
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/8303.c,2e255dface4aadcdd6c9e3f426ace05a2e24dc18,CVE-2009-0360
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9135.sh,2eb3f11d0e76b130b16d932b6f0c96b80c523829,CVE-2008-4190
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/other/acat/ACat-附数据库驱动.jar,2f5aa31598810c7c3546a7a64db9007b7ea491e1,VU#31
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/5167.sh,30029daf7cc6e81df9f6a84003680b00d0006f15,CVE-2007-3103
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/boffmax_v1.0_web_shell_by_the-c0de_team(1).php,360609383ca25afdc76c8272d1f873b757cf6150,VU#112
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/boffmax_v1.0_web_shell_by_the-c0de_team(1).php,360609383ca25afdc76c8272d1f873b757cf6150,VU#58
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/boffmax_v1.0_web_shell_by_the-c0de_team(1).php,360609383ca25afdc76c8272d1f873b757cf6150,VU#54
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Mysql udf by M4ster.php,38d6796680b82513e5e2d98db613cd937fb5adec,VU#053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Mysql udf by M4ster.php,38d6796680b82513e5e2d98db613cd937fb5adec,VU#07
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Mysql udf by M4ster.php,38d6796680b82513e5e2d98db613cd937fb5adec,VU#11
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Mysql udf by M4ster.php,38d6796680b82513e5e2d98db613cd937fb5adec,VU#78
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Mysql udf by M4ster.php,38d6796680b82513e5e2d98db613cd937fb5adec,VU#16
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Mysql udf by M4ster.php,38d6796680b82513e5e2d98db613cd937fb5adec,VU#32
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Mysql udf by M4ster.php,38d6796680b82513e5e2d98db613cd937fb5adec,VU#55
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Mysql udf by M4ster.php,38d6796680b82513e5e2d98db613cd937fb5adec,VU#332
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/cmds-ref.md,3e94a287c0d4906ed3be67c88a4eab9ec3d4fe76,MS11-080
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/cmds-ref.md,3e94a287c0d4906ed3be67c88a4eab9ec3d4fe76,MS08-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15285.c,4030f488d91a8e39fbecf64b36ca3cdb481f2f63,CVE-2010-3904
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/4172.c,4079b4aab65535ae8bb0242bba13b9e060e275f8,CVE-2007-1000
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/exp.php,44068a9987d5ecadce9346f75da5c554044bf296,VU#78
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/exp.php,44068a9987d5ecadce9346f75da5c554044bf296,VU#85
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/exp.php,44068a9987d5ecadce9346f75da5c554044bf296,VU#439
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/exp.php,44068a9987d5ecadce9346f75da5c554044bf296,VU#77
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/exp.php,44068a9987d5ecadce9346f75da5c554044bf296,VU#7599
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Post Exploitation Scripts/linux-privesc.pl,44239f264ccce9ad173bff6696860bb40d63b16b,CVE-2014-0196
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Post Exploitation Scripts/linux-privesc.pl,44239f264ccce9ad173bff6696860bb40d63b16b,BID-45408
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/14339.sh,449069fc7313a2d40981c942cf64a270f1abd9a2,CVE-2010-0832
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/14273.sh,454593c1827e7c63526545f34cc9a80d71b305b6,CVE-2010-0832
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15274.txt,48a9e4b5e5e0a7325e9d2730b05f7a0f629f2f6c,CVE-2009-1894
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15274.,48a9e4b5e5e0a7325e9d2730b05f7a0f629f2f6c,CVE-2010-3847
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/eternalred/eternalred.py,4e497b4799a71edee88dc3245db09dabbc15e70d,CVE-2017-7494
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/wp-conten1_pass_KoR345Ker78DSa.php,4f2f5c11f219ece96aad5c741f031ed9e93aefb5,VU#85
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/wp-conten1_pass_KoR345Ker78DSa.php,4f2f5c11f219ece96aad5c741f031ed9e93aefb5,VU#91
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/wp-conten1_pass_KoR345Ker78DSa.php,4f2f5c11f219ece96aad5c741f031ed9e93aefb5,VU#84
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/wp-conten1_pass_KoR345Ker78DSa.php,4f2f5c11f219ece96aad5c741f031ed9e93aefb5,VU#50
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/wp-conten1_pass_KoR345Ker78DSa.php,4f2f5c11f219ece96aad5c741f031ed9e93aefb5,VU#55
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/wp-conten1_pass_KoR345Ker78DSa.php,4f2f5c11f219ece96aad5c741f031ed9e93aefb5,VU#57
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/7618.c,528f407174a6d5e5af51f83ad4e17a8909230ae7,CVE-2008-4113
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/half-nelson1.c,52bf6d3af3c948b8ffab765d6e6a2bbdcad910b9,CVE-2010-3850
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/half-nelson1.c,52bf6d3af3c948b8ffab765d6e6a2bbdcad910b9,CVE-2010-4073
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/half-nelson2.c,52bf6d3af3c948b8ffab765d6e6a2bbdcad910b9,CVE-2010-3848
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15150.c,55af05ce2c67b0d503e6ef5cdbd18bf47aa41dec,CVE-2010-3437
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/11650.c,589ec598454c4007c0a19bbd672de1a51aa6a620,CVE-2010-0425
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/sock_sendpage2/exploit.c,5d130ce7ba0ab0ebcfa4fba6a851ff8cd7637278,CVE-2009-1895
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit3.c,5dbcf7927f2bc19180c2195796ced81701c9edff,CVE-2010-3848
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit3.c,5dbcf7927f2bc19180c2195796ced81701c9edff,CVE-2010-3850
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploitc.c,5dbcf7927f2bc19180c2195796ced81701c9edff,CVE-2010-4073
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/sure.php,611ba122f515ee337824f1db7a8672147f93b1c2,VU#64
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/sure.php,611ba122f515ee337824f1db7a8672147f93b1c2,VU#33
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9208.txt,65d74f3c7938f68d500ddc87cf66bd669c5cd8c9,BID-35721
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/recon/sparta/ntlmrelayx.py,67945cd48fa561af97275301301409e40dc4f341,CVE-2015-0005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/notes/Initial Enumeration.md,681c059637043e3255d76cf00fd1049e08a8841c,MS06-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/notes/Initial Enumeration.md,681c059637043e3255d76cf00fd1049e08a8841c,MS10-054
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/notes/Initial Enumeration.md,681c059637043e3255d76cf00fd1049e08a8841c,MS10-061
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/notes/Initial Enumeration.md,681c059637043e3255d76cf00fd1049e08a8841c,MS08-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/notes/Initial Enumeration.md,681c059637043e3255d76cf00fd1049e08a8841c,MS07-029
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/notes/PenetrationTestingToolsCheatSheet .mdown,6820f2efbc4e1788242da2107913f760a1d165c2,MS06-040
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/notes/PenetrationTestingToolsCheatSheet .mdown,6820f2efbc4e1788242da2107913f760a1d165c2,MS08-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/notes/PenetrationTestingToolsCheatSheet .mdown,6820f2efbc4e1788242da2107913f760a1d165c2,MS08-040
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/notes/PenetrationTestingToolsCheatSheet .mdown,6820f2efbc4e1788242da2107913f760a1d165c2,MS09-050
+481726227,MdTauheedAlam/Pentest-MetaSploit,exploitation/web-application/common-web-services.md,69c312f7b8469ae3adf548e03451eb26e2ecdbf3,CVE-2010-2861
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/linux/exim.py,73d7c5061f822b45f41c56cb084c0a7d0901d070,CVE-2018-6789
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/4028.txt,75f350154f697e2c4ac074db4536f68d6dbb9ec9,CVE-2007-3048
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9479.c,793d712f991180b8ff66b25db49fbd030d6813a3,CVE-2009-2692
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/B374k Beta ShElL V1.php,79db5352060cafa39f6844951e5096093395bf5d,VU#147
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15774.c,80941db5ca2846c4a334dd98ea98aa6370d93347,CVE-2010-4347
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/14814.c,82a75be1b1e6a38f4bdf6e4417f7b5d1ba36020b,CVE-2010-2959
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/SPS-3.0免杀.php,835c3b9b4b7025f1852733b7739a296a58b81145,VU#43
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS10-061
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS13-055
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS14-012
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS11-011
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS13-059
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS13-009
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS13-101
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS13-090
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS13-080
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS13-053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS10-073
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS13-069
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS10-059
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/help.md,83cc881fad6279df1c1ba886f2a7963c85167620,MS13-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/6337.sh,86ae3de1bf6c5ae01dc8a381ebced8f1ee2b70ec,CVE-2008-2936
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/scripts/ptlabs/jenkins-1.645/cve-2016-0792.py,86fef3a7e94ea51ab8a0e802e3059a494963a74f,CVE-2016-0792
+481726227,MdTauheedAlam/Pentest-MetaSploit,finding-vulnerabilities/manual-testing-and-analysis/initial-scanning.md,8d2cf0c498d408a11a971b087d70134526b6400b,MS07-029
+481726227,MdTauheedAlam/Pentest-MetaSploit,finding-vulnerabilities/manual-testing-and-analysis/initial-scanning.md,8d2cf0c498d408a11a971b087d70134526b6400b,MS08-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,finding-vulnerabilities/manual-testing-and-analysis/initial-scanning.md,8d2cf0c498d408a11a971b087d70134526b6400b,MS06-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,finding-vulnerabilities/manual-testing-and-analysis/initial-scanning.md,8d2cf0c498d408a11a971b087d70134526b6400b,MS03-026
+481726227,MdTauheedAlam/Pentest-MetaSploit,finding-vulnerabilities/manual-testing-and-analysis/initial-scanning.md,8d2cf0c498d408a11a971b087d70134526b6400b,MS10-061
+481726227,MdTauheedAlam/Pentest-MetaSploit,finding-vulnerabilities/manual-testing-and-analysis/initial-scanning.md,8d2cf0c498d408a11a971b087d70134526b6400b,MS12-020
+481726227,MdTauheedAlam/Pentest-MetaSploit,finding-vulnerabilities/manual-testing-and-analysis/initial-scanning.md,8d2cf0c498d408a11a971b087d70134526b6400b,MS10-054
+481726227,MdTauheedAlam/Pentest-MetaSploit,finding-vulnerabilities/manual-testing-and-analysis/initial-scanning.md,8d2cf0c498d408a11a971b087d70134526b6400b,MS14-068
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9543.c,8d7213d10c38b365d6e368c638442a59e177134e,CVE-2009-3002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS34-008
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS27-001
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS26-008
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS26-003
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS26-006
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS34-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-003
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS26-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS26-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS26-001
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS26-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS26-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS34-003
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS27-003
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS34-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-009
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS34-001
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-010
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS28-008
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS34-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-006
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS34-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS27-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS28-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS28-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS28-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS28-003
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS28-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS28-001
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-008
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS27-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS27-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS34-006
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS28-006
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/bob/dirlisting.txt,909784619bed495306011c16699dbcc7e872ddb3,MS56-001
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS13-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS13-090
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS13-053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS13-059
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS11-011
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS10-047
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS13-055
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS13-101
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS10-061
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS13-069
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS13-009
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS10-073
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS10-059
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS09-072
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS13-080
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS10-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/README.md,96c85726cba8fb4e50a63b333eaad6c614443d40,MS14-012
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/ref-pentesting.txt,9927eab2e58b505729e5dfdfbdb00e028399a490,MS07-029
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/ref-pentesting.txt,9927eab2e58b505729e5dfdfbdb00e028399a490,MS10-061
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/ref-pentesting.txt,9927eab2e58b505729e5dfdfbdb00e028399a490,MS10-054
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/ref-pentesting.txt,9927eab2e58b505729e5dfdfbdb00e028399a490,MS08-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/ref-pentesting.txt,9927eab2e58b505729e5dfdfbdb00e028399a490,MS06-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/wordlists/Passwords/rockyou-75.txt,9b3424e5cf27a408fcae31323a9f7aa5f80dd491,VU#12
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/wordlists/Passwords/rockyou-75.txt,9b3424e5cf27a408fcae31323a9f7aa5f80dd491,VU#123
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS07-029
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS05-017
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS10-015
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS04-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS06-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS06-070
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS05-039
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS03-026
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS03-049
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS06-066
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS04-031
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS08-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS09-050
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS04-011
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS06-040
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/windows/windows-privesc-check.py,9dad2f86ad54f9caa77e461dac2936df28c55b7a,MS07-065
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/nsT View.php,a496176f549acd7ba5ca0ed792fc5c99d5fe1908,VU#25
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS10-059
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-001
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-080
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS10-047
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-068
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-035
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-017
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,CVE-2016-7255
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-040
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-012
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-009
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-058
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-101
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-060
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-097
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-062
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-096
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-064
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-090
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,CVE-2016-7201
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-070
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-010
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS10-061
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-134
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-014
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-135
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-129
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-009
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS12-022
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-098
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-132
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-075
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-074
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-063
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-059
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-056
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-042
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-016
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS16-032
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS12-037
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-112
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-111
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-102
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-071
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-022
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-069
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS10-073
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-051
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-052
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-056
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-059
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS11-011
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-078
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-055
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-097
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-100
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,CVE-2015-1730
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,CVE-2015-1701
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-052
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS11-080
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS15-015
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS01-023
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-027
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS10-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-012
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-016
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-017
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-018
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-021
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-030
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-036
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-038
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-039
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-040
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-047
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-051
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-054
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-001
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-006
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-013
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-014
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS10-015
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-030
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-034
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-035
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-036
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-040
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS05-055
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-049
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-045
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-032
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS01-026
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS01-033
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS02-018
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS02-039
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS02-056
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS02-063
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS02-065
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-020
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-022
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-026
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-036
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-034
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-039
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-045
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-046
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-049
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-051
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-011
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-019
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-020
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-022
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-028
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS04-031
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS03-043
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-055
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-019
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-057
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,GPZ-514
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-011
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-014
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-016
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-021
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-041
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,GPZ-222
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-068
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-069
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-070
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS08-078
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-001
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-020
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-026
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-043
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-050
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-065
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS09-072
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS00-094
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS07-065
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-029
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-071
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-063
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-070
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS07-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS07-009
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS07-017
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS07-027
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS07-064
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS07-055
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS07-029
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/win-exp-suggester/windows-exploit-suggester.py,a6df392a19e90205fa2817604feb02bf634e0315,MS06-066
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/c99_locus7s.php,ad1928ed1cec75b09a7d05548b47cae5c472a427,VU#70
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/other/acat/ACat-附数据库驱动-jdk1.5.jar,adf1662088852cbd7873764afba035c2434050af,VU#31
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/exploit11.c,ae981bf983dfeb497a55fb3316f86f131d99a4c3,CVE-2014-3153
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/b374k-mini-shell-php.php.php,afb88635fbdd9ebe86b650cc220d3012a8c35143,VU#147
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/I-47 v1.3.php,b15b073801067429a93e116af1147a21b928b215,VU#24
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/I-47 v1.3.php,b15b073801067429a93e116af1147a21b928b215,VU#81
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/I-47 v1.3.php,b15b073801067429a93e116af1147a21b928b215,VU#52
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/I-47 v1.3.php,b15b073801067429a93e116af1147a21b928b215,VU#71
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9542.c,b3124baf29c33ad9f8667c906c5dec4eecfa1e8f,CVE-2009-2698
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15704.c,b641c6f2c4798da359d2ba2db4831a2202d3fdff,CVE-2010-3849
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15704.c,b641c6f2c4798da359d2ba2db4831a2202d3fdff,CVE-2010-3850
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15704.c,b641c6f2c4798da359d2ba2db4831a2202d3fdff,CVE-2010-4258
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/8534.c,b83af7e065c0de312797b486fee688223d3a808f,CVE-2009-0036
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/kolang-bypass.php,be5c056aefcec2b67582ba49c4705c3e8e1b27f9,CVE-2009-4018
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/loot/dirlisting.txt,becd6a4b07b98c5e471c80a7b09afae02eb95417,VU#73
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/loot/dirlisting.txt,becd6a4b07b98c5e471c80a7b09afae02eb95417,VU#72
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/8572.c,c0a36265eed17c2d7a0fe2c717bd5a09d2fbf7bb,CVE-2009-1185
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/dcow/README.md,c33378b729c015333d43885547d6efa593c20d84,CVE-2016-5195
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/american-sign-language.c,c4882e68c9527650062174901660b7e1761caef4,CVE-2010-4347
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/15620.sh,c554b00ba5e41578a2d90c950eeaf12a67e32a82,CVE-2010-4170
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/pentesting.md,c884cfaa841a4bc8d6bcf15ac410a87bc12e49e2,MS12-037
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/pentesting.md,c884cfaa841a4bc8d6bcf15ac410a87bc12e49e2,CVE-2010-3904
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/pentesting.md,c884cfaa841a4bc8d6bcf15ac410a87bc12e49e2,MS16-032
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/pentesting.md,c884cfaa841a4bc8d6bcf15ac410a87bc12e49e2,CVE-2016-5195
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/pentesting.md,c884cfaa841a4bc8d6bcf15ac410a87bc12e49e2,CVE-2010-2959
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/pentesting.md,c884cfaa841a4bc8d6bcf15ac410a87bc12e49e2,MS11-080
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/pentesting.md,c884cfaa841a4bc8d6bcf15ac410a87bc12e49e2,CVE-2012-0056
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/36108.c,ca989b8dbde9645834f91cd05ff1e850dab986c0,CVE-2009-2698
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/linux_local_exploits.tar.gz,ce3c52556e5aef838573b0f8a2ebf028cae1f614,VU#08
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/linux_local_exploits.tar.gz,ce3c52556e5aef838573b0f8a2ebf028cae1f614,VU#37
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/linux_local_exploits.tar.gz,ce3c52556e5aef838573b0f8a2ebf028cae1f614,VU#78
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/5424.txt,ce67da5f277db4eaa091835acbf67f60693a203b,CVE-2007-5301
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/therebel/exploit.c,d385ed1d76eb3a8056023cfac666f420c9e6bb2d,CVE-2009-2698
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/2006.c,d49ba2af9a049158ca190121296b3e59edaf3d4c,CVE-2006-2451
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/xnonymoux_webshell_ver_1.0.php,d6440523d879967f80550d0383a9686b8b97efdb,VU#01
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/xnonymoux_webshell_ver_1.0.php,d6440523d879967f80550d0383a9686b8b97efdb,VU#05
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/xnonymoux_webshell_ver_1.0.php,d6440523d879967f80550d0383a9686b8b97efdb,VU#40
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/xnonymoux_webshell_ver_1.0.php,d6440523d879967f80550d0383a9686b8b97efdb,VU#09
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/xnonymoux_webshell_ver_1.0.php,d6440523d879967f80550d0383a9686b8b97efdb,VU#29
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/xnonymoux_webshell_ver_1.0.php,d6440523d879967f80550d0383a9686b8b97efdb,VU#21
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/xnonymoux_webshell_ver_1.0.php,d6440523d879967f80550d0383a9686b8b97efdb,VU#16
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS14-060
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS99-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS14-058
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS14-064
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-018
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS14-012
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-071
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS07-017
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS07-029
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS07-064
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS07-065
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS08-041
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS08-053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS08-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS08-068
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS08-070
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS08-078
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS09-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS09-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS09-043
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS14-017
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS09-053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS09-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS09-072
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-015
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-022
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-026
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-038
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-042
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-045
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-070
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-066
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-057
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS01-023
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS01-026
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS01-033
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS02-018
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS02-039
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS02-056
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS02-065
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS03-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS03-020
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS03-022
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS03-026
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS03-046
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS03-049
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-046
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS03-051
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS04-011
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS04-031
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS04-045
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS05-017
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS05-030
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS05-039
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS05-054
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-001
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-013
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-014
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-040
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS06-055
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS04-007
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-061
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS09-050
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-087
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS12-037
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS12-043
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS12-063
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-008
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-022
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-037
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-038
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-053
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS12-027
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-055
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-069
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-071
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-080
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-081
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-090
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-096
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-097
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS14-002
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS14-009
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-059
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS12-022
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS13-009
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS11-080
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-104
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS11-093
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS11-081
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS12-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS12-005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS00-094
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS11-003
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS11-050
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS11-038
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-090
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS11-021
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS11-006
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/windows-privesc-check/wpc/conf.py,d80f62c791b2b250b059387b1392a263119c0e42,MS10-092
+481726227,MdTauheedAlam/Pentest-MetaSploit,recon/active-recon/enumerating-services.md,dd2dcde14db39d8b28c05098ce5ab19f0479432d,MS06-025
+481726227,MdTauheedAlam/Pentest-MetaSploit,recon/active-recon/enumerating-services.md,dd2dcde14db39d8b28c05098ce5ab19f0479432d,MS10-061
+481726227,MdTauheedAlam/Pentest-MetaSploit,recon/active-recon/enumerating-services.md,dd2dcde14db39d8b28c05098ce5ab19f0479432d,MS07-029
+481726227,MdTauheedAlam/Pentest-MetaSploit,recon/active-recon/enumerating-services.md,dd2dcde14db39d8b28c05098ce5ab19f0479432d,MS10-054
+481726227,MdTauheedAlam/Pentest-MetaSploit,recon/active-recon/enumerating-services.md,dd2dcde14db39d8b28c05098ce5ab19f0479432d,MS08-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/openfire/openfire-test_plugin.zip,dd456a1bbda39ea3d42f05d2aea8acbfa9fe54f1,VU#55
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/openfire/openfire-test_plugin.zip,dd456a1bbda39ea3d42f05d2aea8acbfa9fe54f1,VU#53
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/recon/sparta/smbrelayx.py,dd480cc748ca85a47687c234c32f03fdecd28346,CVE-2015-0005
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/scripts/ptlabs/scripts/php-rce-mailer.py,dee8bb4e6b3b2ddc9ef6e78e52ac1b3c8718b1d9,CVE-2016-10045
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/scripts/ptlabs/scripts/php-rce-mailer.py,dee8bb4e6b3b2ddc9ef6e78e52ac1b3c8718b1d9,CVE-2016-10033
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Private x0rg Web Hosting Bypass.php,e034e8d0fe79a50177b93b5530564afe892da22c,VU#25
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Private x0rg Web Hosting Bypass.php,e034e8d0fe79a50177b93b5530564afe892da22c,VU#601
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Private x0rg Web Hosting Bypass.php,e034e8d0fe79a50177b93b5530564afe892da22c,VU#53
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Private x0rg Web Hosting Bypass.php,e034e8d0fe79a50177b93b5530564afe892da22c,VU#820
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Private x0rg Web Hosting Bypass.php,e034e8d0fe79a50177b93b5530564afe892da22c,VU#68
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Private x0rg Web Hosting Bypass.php,e034e8d0fe79a50177b93b5530564afe892da22c,VU#02
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Private x0rg Web Hosting Bypass.php,e034e8d0fe79a50177b93b5530564afe892da22c,VU#78
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Private x0rg Web Hosting Bypass.php,e034e8d0fe79a50177b93b5530564afe892da22c,VU#23
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/Private x0rg Web Hosting Bypass.php,e034e8d0fe79a50177b93b5530564afe892da22c,VU#557
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9575.c,e2f3a4e33853881e0bd529574c5efc158ac85b6f,CVE-2009-2698
+481726227,MdTauheedAlam/Pentest-MetaSploit,other-resources.md,e410915ba160ed45f36b48577b9c6df67d1b3909,CVE-2018-6460
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/tools/scripts/payload2.exe.7z,e4a7a2689e6c878c05c9ffcabf364a3defbec205,VU#18
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/scripts/ldso.c,e64cfbf8b2c87fb826661dfc64ffa0cff745a524,CVE-2017-1000371
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/scripts/ldso.c,e64cfbf8b2c87fb826661dfc64ffa0cff745a524,CVE-2017-1000366
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/Not Compiled/pktcdvd.c,ea32b379bfc0a4d4e36bb3ffbcd113d98e7635f7,CVE-2010-3437
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/docs/stationx/eternalblue-manual.md,eb04f46ce58f067c7a430c4a62584888828d15c7,MS17-010
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9574.txt,ebbc9abccc920b68ad2b483ee2ce6c854ae84384,CVE-2009-2698
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/9083.c,ed600396bd08b1952b98d9ff9e7f461425b77a33,CVE-2009-1046
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/16086.txt,ede1df66d1d7bdab623b3b01823a54df95e0848a,CVE-2011-0018
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/loot/registrydump.txt,eff840e9f70ffa8ed8d987f329b5f163cded4fc7,VU#73
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/windows/scripts/loot/registrydump.txt,eff840e9f70ffa8ed8d987f329b5f163cded4fc7,VU#72
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/C99madShell v. 2.0 madnet edition.php,f99f8228eb12746847f54bad45084f19d1a7e111,VU#845
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/shells/allshells/php/C99madShell v. 2.0 madnet edition.php,f99f8228eb12746847f54bad45084f19d1a7e111,VU#3920
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/2031.c,f9d78f46fba722042cd62b762c3ba321e2e21cca,CVE-2006-2451
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-105
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-098
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-096
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-6888
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-084
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-6405
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-075
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-3336
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-2752
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-6480
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-7252
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-2751
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-7135
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-7097
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-081
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-004
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-039
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-046
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-050
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-054
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-6420
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-062
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-067
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,MS13-006
+481726227,MdTauheedAlam/Pentest-MetaSploit,pentest-pack/privesc/privesc-pack/linux/linux_exploits/udev_txt,fcb1b940ca50b47eb39a9a72934987fc7ae5099e,CVE-2013-7259

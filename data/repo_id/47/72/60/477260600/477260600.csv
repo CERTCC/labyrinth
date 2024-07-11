@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+477260600,twseptian/cve-2022-22963,jar/demo-0.0.1-SNAPSHOT.jar,0f06faf3103fd9086a0de882e987b86eb9976cdd,VU#45
+477260600,twseptian/cve-2022-22963,README.md,5adcd4887f8d0d8bb0a43c534e94f79b0df6aa55,CVE-2022-22963
+477260600,twseptian/cve-2022-22963,_GITHUB_REPO_METADATA_,,CVE-2022-22963

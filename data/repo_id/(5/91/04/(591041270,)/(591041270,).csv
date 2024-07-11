@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+591041270,k0mraid3/K0mraid3s-System-Shell-PREBUILT,README.md,8caa3b296056647347735e6336330b38703b1bf1,CVE-2019-16253
+591041270,k0mraid3/K0mraid3s-System-Shell-PREBUILT,samsungTTSVULN2.apk,efc114c1c36e4b86f85678b54ada112a2aef5e01,VU#64
+591041270,k0mraid3/K0mraid3s-System-Shell-PREBUILT,_GITHUB_REPO_METADATA_,,CVE-2019-16253

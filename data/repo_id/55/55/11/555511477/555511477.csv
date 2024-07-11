@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+555511477,n1c00o/bloom,third_party/googleapis/google/cloud/securitycenter/v1/vulnerability.proto,a4e7cd60d9264d1b5cb75687c91db0838813f921,CVE-2021-34527

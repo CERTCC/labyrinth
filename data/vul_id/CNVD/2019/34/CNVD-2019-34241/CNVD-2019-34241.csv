@@ -1,3 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-CNVD-2019-34241,0.02040816,https://github.com/tr0uble-mAker/POC-bomber,tr0uble-mAker/POC-bomber,432052287
+CNVD-2019-34241,0.01960784,https://github.com/tr0uble-mAker/POC-bomber,tr0uble-mAker/POC-bomber,432052287
+CNVD-2019-34241,0.01298701,https://github.com/codeyso/CodeTest,codeyso/CodeTest,465011945
 CNVD-2019-34241,0.01041667,https://github.com/pen4uin/Poc-Exp,pen4uin/Poc-Exp,324937157
+CNVD-2019-34241,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
+CNVD-2019-34241,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2019-34241,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+667660139,STBRR/OSWE,manageengine/payloads/vbs/wmi-get.vbs,954d858cdc1079212975d57ef8a341462e99662e,VU#31
+667660139,STBRR/OSWE,manageengine/payloads/vbs/payload.vbs,f118e9136059cf974df4bef6d736c4bb739868eb,VU#31

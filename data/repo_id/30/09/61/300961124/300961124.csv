@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-300961124,gikabyte27/Pentest,oscp_notes.ctb,e132078338f3243ce06e39a97e79d75b960bb964,CVE-2020-0796
-300961124,gikabyte27/Pentest,oscp_notes.ctb,e132078338f3243ce06e39a97e79d75b960bb964,MS14-025
-300961124,gikabyte27/Pentest,oscp_notes.ctb,e132078338f3243ce06e39a97e79d75b960bb964,MS17-010
-300961124,gikabyte27/Pentest,oscp_notes.ctb,e132078338f3243ce06e39a97e79d75b960bb964,VU#577
+300961124,gikabyte27/Pentest,oscp_notes.ctb,973e48bfcf22329fd6aeab2f5a1c3e9eb9678c27,CVE-2020-0796
+300961124,gikabyte27/Pentest,oscp_notes.ctb,973e48bfcf22329fd6aeab2f5a1c3e9eb9678c27,MS14-025
+300961124,gikabyte27/Pentest,oscp_notes.ctb,973e48bfcf22329fd6aeab2f5a1c3e9eb9678c27,MS17-010
+300961124,gikabyte27/Pentest,oscp_notes.ctb,973e48bfcf22329fd6aeab2f5a1c3e9eb9678c27,VU#577

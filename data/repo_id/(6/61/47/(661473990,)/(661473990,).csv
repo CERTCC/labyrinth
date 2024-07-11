@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+661473990,skayblye/tryhackme-machines-exploits,0day/shellshockCmd.py,33ad0ba0dadc4570cea5f7e32a4bea72a98d0c23,CVE-2014-6271

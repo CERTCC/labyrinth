@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+666817282,JoseRev/Metasploit,smb_ms17_010.md,34b7d34c1109082ec26cc208d980a987eb0cacdb,MS17-010
+666817282,JoseRev/Metasploit,smb_ms17_010.md,34b7d34c1109082ec26cc208d980a987eb0cacdb,MS17-070
+666817282,JoseRev/Metasploit,README.md,a1c2fc709ecdde7dca57b8faf7540f05b0bc35b4,MS17-010

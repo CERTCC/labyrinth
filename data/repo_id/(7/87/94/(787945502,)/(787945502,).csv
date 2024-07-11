@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+787945502,vulncheck-oss/cve-2023-25194,README.md,11ca5c2c6e18bd7f3c390adf7c738a7b5ae1057e,CVE-2023-25194
+787945502,vulncheck-oss/cve-2023-25194,go.mod,50062c9ae211ccf64d64dac8446becf5ede58c82,CVE-2023-25194
+787945502,vulncheck-oss/cve-2023-25194,cve-2023-25194.go,8932a3217e3f536bcedee0161c4a4b376acca7e7,CVE-2023-25194
+787945502,vulncheck-oss/cve-2023-25194,_GITHUB_REPO_METADATA_,,CVE-2023-25194

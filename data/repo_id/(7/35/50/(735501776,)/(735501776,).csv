@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+735501776,kmeps4/PSFree,README.md,0f5673f876d5a8796563d41ddcc2f48410b22da9,CVE-2022-22620
+735501776,kmeps4/PSFree,index.html,cbd16a0f0afb9186d05a8b10d5f51b677b128e19,CVE-2022-22620

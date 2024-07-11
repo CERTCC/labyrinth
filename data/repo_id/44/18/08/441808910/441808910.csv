@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 441808910,DavidBuchanan314/WAMpage,bin/d8,90834a0369cb5f91e76de74e8340f6f4d7dccdd7,VU#32
 441808910,DavidBuchanan314/WAMpage,bin/mksnapshot,9fe7dd28ef6ac8cdf22a95789173d5d55cf7d6a7,VU#32
+441808910,DavidBuchanan314/WAMpage,README.md,ca1f8d5d1905621b92f46d91d65fe9bc6adc1e21,CVE-2022-23731
+441808910,DavidBuchanan314/WAMpage,_GITHUB_REPO_METADATA_,,CVE-2022-23731

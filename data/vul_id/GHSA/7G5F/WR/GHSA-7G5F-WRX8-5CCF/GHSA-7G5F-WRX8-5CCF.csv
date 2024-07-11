@@ -1,0 +1,11 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-7G5F-WRX8-5CCF,0.50000000,https://github.com/7imbitz/CVE-2023-25157-checker,7imbitz/CVE-2023-25157-checker,652662180
+GHSA-7G5F-WRX8-5CCF,0.50000000,https://github.com/win3zz/CVE-2023-25157,win3zz/CVE-2023-25157,650178194
+GHSA-7G5F-WRX8-5CCF,0.25000000,https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158,murataydemir/CVE-2023-25157-and-CVE-2023-25158,652314324
+GHSA-7G5F-WRX8-5CCF,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
+GHSA-7G5F-WRX8-5CCF,0.00307692,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+GHSA-7G5F-WRX8-5CCF,0.00184843,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+GHSA-7G5F-WRX8-5CCF,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+GHSA-7G5F-WRX8-5CCF,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-7G5F-WRX8-5CCF,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-7G5F-WRX8-5CCF,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

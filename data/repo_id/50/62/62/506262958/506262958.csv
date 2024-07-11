@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+506262958,Abhinavs1ngh/Exploit_2022,Exlpoit_code.c,871e216c0eb9d0018751a89479cd9a94f58f5034,CVE-2019-6192
+506262958,Abhinavs1ngh/Exploit_2022,Source.md,aebdbe85afeb0a0d4151c5ada998180c84e1d09e,CVE-2015-6639

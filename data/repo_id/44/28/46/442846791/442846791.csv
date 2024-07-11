@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-442846791,a5tra/log4j-exploit-builder,README.md,041c013466b5d62b7119d6550d75aa7839f3d64e,CVE-2021-44228
+442846791,a5tra/log4j-exploit-builder,README.md,791e0c3c67f7c9353b4ff71480c235a21f9c05cd,CVE-2021-44228
 442846791,a5tra/log4j-exploit-builder,_GITHUB_REPO_METADATA_,,CVE-2021-44228

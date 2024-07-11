@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+573557575,hacksysteam/CVE-2022-28672,README.md,8a15abfeeb1d76ce4cb25388dbdaf01417c758c2,CVE-2022-28672
+573557575,hacksysteam/CVE-2022-28672,_GITHUB_REPO_METADATA_,,CVE-2022-28672

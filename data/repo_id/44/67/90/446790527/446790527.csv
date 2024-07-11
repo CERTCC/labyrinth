@@ -1,73 +1,76 @@
 repo_id,repo_full_name,file,file_sha1,match
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/ms16-032.exe,06583169384a9b26075e3310bb598868cf41528f,MS16-032
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/CVE-2021-1675/4.5/SharpPrintNightmare.exe,0721d9649a8fa550693063be590f93a9aace6ff8,CVE-2021-1675
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-0841
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1405
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1388
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1385
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1388
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1385
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1315
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1253
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1253
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1130
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1064
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-0841
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-1064
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Watson.exe,08ce73eb6ddfb0e421238aeefbb620e3c9006ac5,CVE-2019-0836
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/IntrScan.cna,091b42dfa677a34dbe2cecd0ca27ae9b2f8158cb,BID-3
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/Lateral movement.cna,0b5e0bb7e58b0bbc37ed9bedb4dd9ec23a971005,BID-3
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/IntrAgent/x64/frpcx.exe,0d8cd6e92050dcbf922f2a1669c7b1889d6f06c1,VU#95
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/WeblogicRCE.exe,113e7083cdf6b1a01447bd60515b3ca5b16de12a,CVE-2019-2725
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/x64/frpc.exe,0d8cd6e92050dcbf922f2a1669c7b1889d6f06c1,VU#95
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/WeblogicRCE.exe,113e7083cdf6b1a01447bd60515b3ca5b16de12a,CVE-2017-3248
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/WeblogicRCE.exe,113e7083cdf6b1a01447bd60515b3ca5b16de12a,CVE-2018-2893
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/WeblogicRCE.exe,113e7083cdf6b1a01447bd60515b3ca5b16de12a,CVE-2018-2628
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/WeblogicRCE.exe,113e7083cdf6b1a01447bd60515b3ca5b16de12a,CVE-2017-3248
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/WeblogicRCE.exe,113e7083cdf6b1a01447bd60515b3ca5b16de12a,CVE-2017-10271
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/WeblogicRCE.exe,113e7083cdf6b1a01447bd60515b3ca5b16de12a,CVE-2016-3510
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/WeblogicRCE.exe,113e7083cdf6b1a01447bd60515b3ca5b16de12a,CVE-2016-0638
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/WeblogicRCE.exe,113e7083cdf6b1a01447bd60515b3ca5b16de12a,CVE-2019-2725
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/ms16-016.exe,26e05c17ed0588ab5c0e3d2e0c6e4a84d428ffd9,MS16-016
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/RemoteLogin.cna,28e9d69a7d1264f32fc0184293ffdee7e987e3f1,BID-3
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/IntrScan/x64/Allin.exe,2b79906d994489eee8a1e9d8d073694729819e91,VU#37
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2020-1472
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2021-36934
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2016-7255
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2020-0688
+446790527,CnHack3r/Awesome-hacking-tools,后渗透使用软件/ATAttack - 敌后侦察/ATAttack - 敌后侦察.zip,2b9e90cee7e51d99d8c0fe91d4e8f0390f4c66c3,VU#17
+446790527,CnHack3r/Awesome-hacking-tools,后渗透使用软件/ATAttack - 敌后侦察/ATAttack - 敌后侦察.zip,2b9e90cee7e51d99d8c0fe91d4e8f0390f4c66c3,VU#68
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2020-0796
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2021-40444
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2016-7255
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2020-1472
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2021-34527
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2021-36934
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2021-40444
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2021-1675
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/update.txt,2bf4032d7bc6bdb26b20610ae9374a4933768ec1,CVE-2020-0688
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/fun.txt,2c5a994f5f777493181c1fe7b0869b63470b67e6,CVE-2020-0688
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/fun.txt,2c5a994f5f777493181c1fe7b0869b63470b67e6,CVE-2021-1675
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/fun.txt,2c5a994f5f777493181c1fe7b0869b63470b67e6,CVE-2021-36934
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/fun.txt,2c5a994f5f777493181c1fe7b0869b63470b67e6,CVE-2020-0688
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/fun.txt,2c5a994f5f777493181c1fe7b0869b63470b67e6,CVE-2020-1472
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/IntrAgent.cna,35ef4f91ca8b93ec4d3123e8c1ff3e6e78ee40b4,BID-3
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/Invoke-MS16135.ps1,437ff649bd83dc374c96247e818427f8f09b4ca1,CVE-2016-7255
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/Invoke-MS16135.ps1,437ff649bd83dc374c96247e818427f8f09b4ca1,MS16-135
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Invoke-MS16135.ps1,437ff649bd83dc374c96247e818427f8f09b4ca1,CVE-2016-7255
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Invoke-MS16135.ps1,437ff649bd83dc374c96247e818427f8f09b4ca1,MS16-135
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon-cn.cna,445a652c5744fc5e237ecc38e67c70facf9a3c8b,CVE-2020-0688
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon-cn.cna,445a652c5744fc5e237ecc38e67c70facf9a3c8b,CVE-2021-1675
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon-cn.cna,445a652c5744fc5e237ecc38e67c70facf9a3c8b,CVE-2019-2725
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon-cn.cna,445a652c5744fc5e237ecc38e67c70facf9a3c8b,CVE-2020-1472
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon-cn.cna,445a652c5744fc5e237ecc38e67c70facf9a3c8b,CVE-2021-36934
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon-cn.cna,445a652c5744fc5e237ecc38e67c70facf9a3c8b,CVE-2021-1675
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon-cn.cna,445a652c5744fc5e237ecc38e67c70facf9a3c8b,CVE-2020-1472
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon-cn.cna,445a652c5744fc5e237ecc38e67c70facf9a3c8b,CVE-2019-2725
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,CVE-2020-0796
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,BID-10000
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS15-051
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS14-058
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS16-016
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS16-135
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS15-051
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,CVE-2014-4113
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS16-032
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS16-075
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,BID-3
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS16-135
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,CVE-2016-0051
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,CVE-2015-1701
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,CVE-2014-4113
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,BID-3
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,CVE-2020-0796
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS14-058
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/CVE-2020-0796.x64.dll,52caa1d3061ee69bd51d235dfd88a52872fae5fa,CVE-2020-0796
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/cve-2015-1701.x86.dll,58670a69ddeb00aa4932414d2889f2b1bf6951c0,CVE-2015-1701
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/Invoke-EternalBlue.ps1,61c021a293194ff3e3da341c71bf617c0dddf24d,MS17-010
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/privilege escalation.cna,4737dadf29855bbe3f7c3d3defa11d066719cc51,MS16-075
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/CVE-2020-0796.x64.dll,52caa1d3061ee69bd51d235dfd88a52872fae5fa,CVE-2020-0796
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/cve-2015-1701.x86.dll,58670a69ddeb00aa4932414d2889f2b1bf6951c0,CVE-2015-1701
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Invoke-EternalBlue.ps1,61c021a293194ff3e3da341c71bf617c0dddf24d,MS17-010
 446790527,CnHack3r/Awesome-hacking-tools,后渗透使用软件/大灰狼远控v9.5/大灰狼远程管理软件 V9.5.exe,64b59d0961b7037ede34fe023d9333f3a59de215,VU#33
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/LateMovement/MS14-068.exe,677f7c6e9fa320ac3175619b69acc61da6e07539,VU#82
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/LateMovement/MS14-068.exe,677f7c6e9fa320ac3175619b69acc61da6e07539,MS14-068
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/credential access.cna,6952be063eeeef5715b483d302508d8ba75ccbd9,BID-3
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/cve-2016-0051.x86.dll,6fad978455b75d6bfaf2de25fde88642c5bdfac9,CVE-2016-0051
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/cve-2016-0051.x86.dll,6fad978455b75d6bfaf2de25fde88642c5bdfac9,CVE-2016-0051
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/brute force.cna,7561f0ecc60b15302f3e9844c11d0bbb6a5ce1e2,BID-3
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/blue.exe,78ad7f974ffa027ff151b0d45204f8334d7da3eb,MS17-010
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/LateMovement.cna,7949c52bb7ac0745daf10bfd8355c2afd103da7b,MS14-068
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/LateMovement.cna,7949c52bb7ac0745daf10bfd8355c2afd103da7b,BID-3
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/LateMovement.cna,7949c52bb7ac0745daf10bfd8355c2afd103da7b,CVE-2020-1472
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/LateMovement.cna,7949c52bb7ac0745daf10bfd8355c2afd103da7b,MS14-068
+446790527,CnHack3r/Awesome-hacking-tools,CVE/CVE-2022-22965/Spring-beans_RCE漏洞分析.pdf,7c42dec9b9619e12b726ec3c715bb9a45db08b8f,CVE-2022-22965
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/PassCapture.cna,8b7b2f9ecf739a508f52a5fc70147935531c4d66,CVE-2021-36934
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/PassCapture.cna,8b7b2f9ecf739a508f52a5fc70147935531c4d66,BID-3
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/InfoCollect.cna,8dbe35a34aa74215b96de81beda2655f6a77984d,BID-3
@@ -75,49 +78,52 @@ repo_id,repo_full_name,file,file_sha1,match
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,CVE-2014-4113
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,CVE-2015-1701
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,CVE-2016-0051
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,BID-10000
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,CVE-2021-1675
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,MS15-051
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,MS16-016
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,CVE-2016-7255
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,MS14-058
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,MS16-075
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,BID-3
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,BID-10000
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,CVE-2020-0796
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,MS16-135
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,MS16-032
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,MS16-016
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,CVE-2020-0796
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,MS14-058
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,BID-3
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,CVE-2016-7255
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthPromote.cna,a73e3da71892a4763444e310cd39896e5076933e,MS16-135
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/system.cna,ac5baf2652568fa12fa8597677f81ce1c7abd289,BID-3
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/CVE-2021-1675/3.5/SharpPrintNightmare.exe,b2aa2441b2838215d42058bef1412d75e35d3891,CVE-2021-1675
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon.cna,b7e2cb0c06ad55caaf485e49f890be09ea4323bf,CVE-2021-40444
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon.cna,b7e2cb0c06ad55caaf485e49f890be09ea4323bf,CVE-2020-0688
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon.cna,b7e2cb0c06ad55caaf485e49f890be09ea4323bf,CVE-2019-2725
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/Ladon.cna,b7e2cb0c06ad55caaf485e49f890be09ea4323bf,CVE-2020-0688
+446790527,CnHack3r/Awesome-hacking-tools,后渗透使用软件/大灰狼远控v9.5/大灰狼远控v9.5.zip,b918e2b3ccf1be41649be9cbc9466007e83f21cd,VU#83
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/README.md,bd51caa7c80c3379d0c31d5b37d860ceffab2632,CVE-2020-0796
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/README.md,bd51caa7c80c3379d0c31d5b37d860ceffab2632,CVE-2016-3088
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/README.md,bd51caa7c80c3379d0c31d5b37d860ceffab2632,CVE-2017-0143
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/README.md,bd51caa7c80c3379d0c31d5b37d860ceffab2632,CVE-2019-2725
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/README.md,bd51caa7c80c3379d0c31d5b37d860ceffab2632,CVE-2017-0143
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/README.md,bd51caa7c80c3379d0c31d5b37d860ceffab2632,CVE-2017-0144
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/README.md,bd51caa7c80c3379d0c31d5b37d860ceffab2632,CVE-2017-12615
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/Ladon9.0_巨龙拉冬插件/README.md,bd51caa7c80c3379d0c31d5b37d860ceffab2632,CVE-2018-2894
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/LateMovement/kekeo/samba/lib_smb_pipe.c,c1a3258fab80a28991a5507a15bcc635f975a9d1,CVE-2017-7494
+446790527,CnHack3r/Awesome-hacking-tools,CVE/CVE-2022-22965/Spring-core-RCE.py,c2f04ab5e0f744c06ce401342e123844d96ff2a0,CVE-2022-22965
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/Invoke-MS16032.ps1,c4c1b4d1b0702369c8c81256a84dfd1ef94b2e9f,MS16-032
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2020-0796
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-0836
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-0841
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1064
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1130
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2020-0796
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1315
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1385
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1064
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2020-0787
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1253
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1315
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1385
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1388
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1405
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2020-0787
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1253
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/dazzleUP_Reflective_DLL.x64.dll,cb3ba84296698a8bd5e8e982d9e86d0715f21cd6,CVE-2019-1130
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/crack.exe,cb5ac0c6a1f7084f7ebcabf3b15e158cdfc815f0,VU#93
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/cve-2014-4113.x64.dll,da89157954c4fada4b7780e5d7e7e976df361df3,CVE-2014-4113
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/cve-2015-1701.x64.dll,e22f074fe13c696b09b2286c8603b097f44466d8,CVE-2015-1701
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/cve-2014-4113.x64.dll,da89157954c4fada4b7780e5d7e7e976df361df3,CVE-2014-4113
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/cve-2015-1701.x64.dll,e22f074fe13c696b09b2286c8603b097f44466d8,CVE-2015-1701
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/modules/Intranet penetration.cna,e35fa2493ee0caecf6215d6a111db40abab911d4,BID-3
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/ms15-051.exe,e92f8a455d689137be8c05f3e2f3979fcc285725,MS15-051
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/cve-2014-4113.x86.dll,eb571ebfa53742df0e2e8375b7d15f94ab436a09,CVE-2014-4113
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/AuthPromote/cve-2014-4113.x86.dll,eb571ebfa53742df0e2e8375b7d15f94ab436a09,CVE-2014-4113
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/AuthMaintain.cna,ed540acd651fad7206d3182ce8d87fc0d5a2897f,BID-0
+446790527,CnHack3r/Awesome-hacking-tools,CVE/CVE-2022-22965/README.md,f1c9084b8f95b978969ea5ca413e0a91e207ec31,CVE-2022-22965
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/modules/BypassCxk.cna,f58c43228dbe72edc96c3af4107ceda104a0f3af,BID-3
 446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/PassCapture/CVE-2021-36934.exe,f6509dc5fca85bb3a91d7e79fe32e197b9b2a441,CVE-2021-36934
-446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/梼杌/script/lazagne.exe,fa2f281fd4009100b2293e120997bfd7feb10c16,VU#30
+446790527,CnHack3r/Awesome-hacking-tools,cobaltstrike-plugins/LSTAR 3.0/scripts/PassCapture/lazagne.exe,fa2f281fd4009100b2293e120997bfd7feb10c16,VU#30

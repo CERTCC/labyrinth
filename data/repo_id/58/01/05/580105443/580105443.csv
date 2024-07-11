@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+580105443,omurugur/Symantec_Messaging_Gateway_XSS_Stored_Exploit,README.md,3feebcdc45c0723ef1809e3096abb75c7611f25e,CVE-2019-2576

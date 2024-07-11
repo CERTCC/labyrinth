@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+598285208,SYNgularity1/exploits,README.md,4ec63bc286afacacd35cf7d94799f554d30a88ee,CVE-2019-15993
+598285208,SYNgularity1/exploits,README.md,4ec63bc286afacacd35cf7d94799f554d30a88ee,CVE-2020-5330
+598285208,SYNgularity1/exploits,cve-2019-15993.py,dba44254e7fbecadc6ea81af69082e6d85d76a84,CVE-2019-15993
+598285208,SYNgularity1/exploits,cve-2019-15993.py,dba44254e7fbecadc6ea81af69082e6d85d76a84,CVE-2020-5330

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+465973416,defhacks/cve-2021-4034,Cargo.toml,cb16496bb506b143fd166c34526df8f38e92ca4d,CVE-2021-4034
+465973416,defhacks/cve-2021-4034,README.md,dd2f61dea2063477abb44d9b707e3d2c6166ebd3,CVE-2021-4034
+465973416,defhacks/cve-2021-4034,_GITHUB_REPO_METADATA_,,CVE-2021-4034

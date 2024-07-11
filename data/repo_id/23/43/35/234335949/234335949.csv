@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+234335949,xairy/unlockdown,README.md,9078628c51624409e32e27234b5a7e79a2e9db88,CVE-2022-21499
+234335949,xairy/unlockdown,README.md,9078628c51624409e32e27234b5a7e79a2e9db88,CVE-2022-21505

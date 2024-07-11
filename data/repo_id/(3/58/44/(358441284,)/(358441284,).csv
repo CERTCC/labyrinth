@@ -1,0 +1,56 @@
+repo_id,repo_full_name,file,file_sha1,match
+358441284,Bin4xin/bigger-than-bigger,CTF/MISC/backdoor/backdoor.pcapng,01892d65e6e7e0f13b82007584b3fe308ee3f6e4,VU#85
+358441284,Bin4xin/bigger-than-bigger,CTF/MISC/backdoor/backdoor.pcapng,01892d65e6e7e0f13b82007584b3fe308ee3f6e4,VU#06
+358441284,Bin4xin/bigger-than-bigger,CTF/MISC/backdoor/backdoor.pcapng,01892d65e6e7e0f13b82007584b3fe308ee3f6e4,VU#05
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/ncdepend.jar,0cace1032273ca2dca64f8eadf665b860a9d9bee,VU#22
+358441284,Bin4xin/bigger-than-bigger,CoVV/Gitlab/CVE-2020-10977/README.MD,2339d14641ef3c0327471182d614e3d9824661d8,CVE-2020-10977
+358441284,Bin4xin/bigger-than-bigger,CoVV/polkit-CVE-2021-3560/README.MD,2ee873d4c7b1b1c0512b154a02165cd79be2860a,CVE-2021-3560
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/log.jar,381dcfe31e742a36e1496b99f01518fc419941dd,VU#40
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/libsigar-pa-hpux-11.sl,4015dbf8b7f210891d875ba1fa304e612ee36d3d,VU#17
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/libsigar-pa-hpux-11.sl,4015dbf8b7f210891d875ba1fa304e612ee36d3d,VU#15
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/libsigar-pa-hpux-11.sl,4015dbf8b7f210891d875ba1fa304e612ee36d3d,VU#14
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/libsigar-pa-hpux-11.sl,4015dbf8b7f210891d875ba1fa304e612ee36d3d,VU#12
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/libsigar-pa-hpux-11.sl,4015dbf8b7f210891d875ba1fa304e612ee36d3d,VU#10
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/README.md,42c2c587046de50444212b1986f1403f59a12172,CVE-2022-32532
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/README.md,42c2c587046de50444212b1986f1403f59a12172,CVE-2022-40664
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/README.md,42c2c587046de50444212b1986f1403f59a12172,CVE-2022-22978
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/libsigar-ppc-aix-5.so,4387ad3ac53f13e157388b53b6da27f12ed59a10,VU#64
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/src/main/java/com/example/shirodemo/DemoController.java,473fb391a98c26bbba33e7de604a9b95a02d077c,CVE-2022-40664
+358441284,Bin4xin/bigger-than-bigger,CoVV/Gitlab/CVE-2021-22205/README.MD,5c8d2aa5c8be250b88b4fcf44677a2230752442a,CVE-2021-22205
+358441284,Bin4xin/bigger-than-bigger,CoVV/polkit-CVE-2021-3560/polkit-CVE-2021-3560.sh,6047b799ff4e0d91ec94bb545c6eb05f6cd195bf,CVE-2021-3560
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/jasper.jar,6445dc4a9089f1a9b8ab1d697553996d4e8d3716,VU#67
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/weblogic.jar,6fb89edefcc64c668bbb814c57b4c344c9000291,VU#48
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/weblogic.jar,6fb89edefcc64c668bbb814c57b4c344c9000291,VU#74
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/weblogic.jar,6fb89edefcc64c668bbb814c57b4c344c9000291,VU#14
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/weblogic.jar,6fb89edefcc64c668bbb814c57b4c344c9000291,VU#76
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/weblogic.jar,6fb89edefcc64c668bbb814c57b4c344c9000291,VU#07
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/weblogic.jar,6fb89edefcc64c668bbb814c57b4c344c9000291,VU#54
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/weblogic.jar,6fb89edefcc64c668bbb814c57b4c344c9000291,VU#77
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/pom.xml,71693a892caac4c609cbc8282db5ff5c2e2820e9,CVE-2022-32532
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/pom.xml,71693a892caac4c609cbc8282db5ff5c2e2820e9,CVE-2022-40664
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheLog4j/README.MD,7786e15335189e6f117bd779e6dece82b9abb13e,CVE-2021-44228
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/src/main/java/com/example/shirodemo/ShiroDemoApplication.java,88f306b934965e6d052ebc3685d6770d236d1b81,CVE-2022-40664
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/src/main/java/com/example/shirodemo/ShiroConfig.java,9602828c570a2b35e81ae6cf418dce4a2b8d2589,CVE-2022-40664
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/src/main/java/com/example/shirodemo/MyShiroFilterFactoryBean.java,ad23c86ab251c281314dd62b87deb193f153f8c9,CVE-2022-40664
+358441284,Bin4xin/bigger-than-bigger,assets/CVE-2022-40664/屏幕录制2022-10-25 14.52.44.mov,bce904f01db9ffdab0730acd73335173e6ed82e0,VU#80
+358441284,Bin4xin/bigger-than-bigger,assets/CVE-2022-40664/屏幕录制2022-10-25 14.52.44.mov,bce904f01db9ffdab0730acd73335173e6ed82e0,VU#51
+358441284,Bin4xin/bigger-than-bigger,assets/CVE-2022-40664/屏幕录制2022-10-25 14.52.44.mov,bce904f01db9ffdab0730acd73335173e6ed82e0,CVE-2022-40664
+358441284,Bin4xin/bigger-than-bigger,assets/CVE-2022-40664/屏幕录制2022-10-25 14.52.44.mov,bce904f01db9ffdab0730acd73335173e6ed82e0,VU#70
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/wasdepend.jar,c10ba7d094887712e12fd83668732dcdaadcaa08,VU#57
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/wasdepend.jar,c10ba7d094887712e12fd83668732dcdaadcaa08,VU#04
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/wasdepend.jar,c10ba7d094887712e12fd83668732dcdaadcaa08,VU#26
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/wasdepend.jar,c10ba7d094887712e12fd83668732dcdaadcaa08,VU#64
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/wasdepend.jar,c10ba7d094887712e12fd83668732dcdaadcaa08,VU#63
+358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/wasdepend.jar,c10ba7d094887712e12fd83668732dcdaadcaa08,VU#78
+358441284,Bin4xin/bigger-than-bigger,CoVV/Inspur Cluster Engine v4/README.MD,cc0a546ffa7b30b6036b84eb1ddc6d5c8eb969d7,CNVD-2021-39845
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheSolr/README.MD,d2d6bd0582dfc53045e5d3c1ae046ad704ff386f,CVE-2019-0193
+358441284,Bin4xin/bigger-than-bigger,CoVV/Gitlab/CVE-2020-10977/cookie_generater.sh,d55a0f3bf2d73cf0f143c8a65dfe1ec87fef743d,CVE-2020-10977
+358441284,Bin4xin/bigger-than-bigger,CoVV/Gitlab/CVE-2020-10977/color_print_fun.sh,d5ae4f2aab91b39aecd430638884201fd2b90ffc,CVE-2020-10977
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/src/main/java/com/example/shirodemo/MyFilter.java,d5b0db29252ed12f03c8b7e8caa25428df9ccf74,CVE-2022-40664
+358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheShiro/CVE-2022-40664/src/main/resources/application.properties,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2022-40664
+358441284,Bin4xin/bigger-than-bigger,CoVV/README.MD,da7a15d393b7588402b11be4c64b35c3d10fb9db,CVE-2019-0193
+358441284,Bin4xin/bigger-than-bigger,CoVV/README.MD,da7a15d393b7588402b11be4c64b35c3d10fb9db,CVE-2021-3560
+358441284,Bin4xin/bigger-than-bigger,WALL_LISTS/lists.txt,fa57baf1a076bdae9d28e7489bbf504afa148893,VU#291
+358441284,Bin4xin/bigger-than-bigger,WALL_LISTS/lists.txt,fa57baf1a076bdae9d28e7489bbf504afa148893,VU#29
+358441284,Bin4xin/bigger-than-bigger,WALL_LISTS/lists.txt,fa57baf1a076bdae9d28e7489bbf504afa148893,VU#25
+358441284,Bin4xin/bigger-than-bigger,WALL_LISTS/lists.txt,fa57baf1a076bdae9d28e7489bbf504afa148893,VU#21

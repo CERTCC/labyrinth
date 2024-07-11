@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+770417981,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,Exploiting MS08-067 with Metasploit.pdf,e73b0b78a8ece304cf52591798af91d30d9ca6b3,MS08-067
+770417981,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,Exploiting MS08-067 with Metasploit.pdf,e73b0b78a8ece304cf52591798af91d30d9ca6b3,VU#06
+770417981,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,README.md,f3c613a3214bb748bc544b88d391dd8fcbee45f6,MS08-067
+770417981,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,_GITHUB_REPO_METADATA_,,MS08-067

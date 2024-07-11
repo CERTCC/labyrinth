@@ -1,0 +1,6 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-58G2-VGPG-335Q,0.50000000,https://github.com/madhavmehndiratta/CVE-2023-27163,madhavmehndiratta/CVE-2023-27163,739760866
+GHSA-58G2-VGPG-335Q,0.50000000,https://github.com/mathias-mrsn/CVE-2023-27163,mathias-mrsn/CVE-2023-27163,737109864
+GHSA-58G2-VGPG-335Q,0.50000000,https://github.com/MasterCode112/CVE-2023-27163,MasterCode112/CVE-2023-27163,736614226
+GHSA-58G2-VGPG-335Q,0.50000000,https://github.com/entr0pie/CVE-2023-27163,entr0pie/CVE-2023-27163,665224442
+GHSA-58G2-VGPG-335Q,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

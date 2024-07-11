@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+605438103,Supersonic/Wallbreak,README.md,211503086036ae62b48c50e75466c5d7dd437d62,CVE-2021-39670
+605438103,Supersonic/Wallbreak,README.md,211503086036ae62b48c50e75466c5d7dd437d62,CVE-2021-39690
+605438103,Supersonic/Wallbreak,app/src/main/res/layout/activity_main.xml,56dba2445c060518909e7b007879db33bb5aacf0,CVE-2021-39670
+605438103,Supersonic/Wallbreak,app/src/main/res/layout/activity_main.xml,56dba2445c060518909e7b007879db33bb5aacf0,CVE-2021-39690
+605438103,Supersonic/Wallbreak,_GITHUB_REPO_METADATA_,,CVE-2021-39670
+605438103,Supersonic/Wallbreak,_GITHUB_REPO_METADATA_,,CVE-2021-39690

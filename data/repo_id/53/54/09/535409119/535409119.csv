@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+535409119,Gustavo-Nogueira/Dirty-Pipe-Exploits,exploit-3.c,47937e47b558c007ffabc898dae7cdff9a92eb72,CVE-2022-0847
+535409119,Gustavo-Nogueira/Dirty-Pipe-Exploits,report.pdf,6a906f7fc4dca7d99d07d8d73d186018e327bd21,CVE-2022-0847
+535409119,Gustavo-Nogueira/Dirty-Pipe-Exploits,exploit-1.c,6ff94c9e488425be141f7c5eb81b3494d6b857e8,CVE-2022-0847
+535409119,Gustavo-Nogueira/Dirty-Pipe-Exploits,exploit-2.c,8abc602064cb502a7f5407d502558fd5f28a92f0,CVE-2022-0847
+535409119,Gustavo-Nogueira/Dirty-Pipe-Exploits,README.md,aeb1e8b201fc5992f9f747ec5a38fb7cbc7d76d6,CVE-2022-0847
+535409119,Gustavo-Nogueira/Dirty-Pipe-Exploits,_GITHUB_REPO_METADATA_,,CVE-2022-0847

@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+741432348,thenetworkfantom/exploits_by_ruby,mysql-ex.rb,4cc3b9ba74ed1c895f50a73213c4c535149da504,CVE-2012-5613
+741432348,thenetworkfantom/exploits_by_ruby,mysql-ex.rb,4cc3b9ba74ed1c895f50a73213c4c535149da504,OSVDB-88118
+741432348,thenetworkfantom/exploits_by_ruby,backdoor.rb,74e98b623ee56d9fe30793b76d9494d808fa4fec,CVE-2010-0103
+741432348,thenetworkfantom/exploits_by_ruby,backdoor.rb,74e98b623ee56d9fe30793b76d9494d808fa4fec,OSVDB-62782
+741432348,thenetworkfantom/exploits_by_ruby,IIS-firewall.rb,8b372997e616b2086b52487bd24a2ef3911dfc52,CVE-2004-0362
+741432348,thenetworkfantom/exploits_by_ruby,IIS-firewall.rb,8b372997e616b2086b52487bd24a2ef3911dfc52,OSVDB-4355

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+435926848,A-D-Team/grafanaExp,cmd/grafanaExp.go,23edfb81ff4d5cf9497ee5f2d6808f0f9a8f4bee,CVE-2021-43798
+435926848,A-D-Team/grafanaExp,README_en.md,dcfbe1ce0926505a9d59b3bc091e41b07e41378d,CVE-2021-43798
+435926848,A-D-Team/grafanaExp,README.md,eda886b838f56dbf9c229f0c85510320d74fb1d2,CVE-2021-43798
+435926848,A-D-Team/grafanaExp,_GITHUB_REPO_METADATA_,,CVE-2021-43798

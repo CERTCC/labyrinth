@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+530050046,phamvandan/Exploit-Tools,recon/fuzzing_dict/CMS/wp-themes.fuzz.txt,b3b33196eee31ee0b923d8d1fbf8832aeac3a8de,VU#01
+530050046,phamvandan/Exploit-Tools,recon/fuzzing_dict/CMS/wp-themes.fuzz.txt,b3b33196eee31ee0b923d8d1fbf8832aeac3a8de,VU#03

@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+745226621,matiasarenhard/rails-cve-2017-17917,config/environments/production.rb,0ad9ac3e993dad4dda79e573ec6e70d6288c2dac,CVE-2017-17917
+745226621,matiasarenhard/rails-cve-2017-17917,entrypoint.sh,47aef5ebb67f294c6846e2c8d6d1548585880eed,CVE-2017-17917
+745226621,matiasarenhard/rails-cve-2017-17917,config/database.yml,6719334ac61536fb379d6636f754339925cacd23,CVE-2017-17917
+745226621,matiasarenhard/rails-cve-2017-17917,docker-compose.yml,6b6757c97191c121e2465ec2bcf0ab2afb39cfac,CVE-2017-17917
+745226621,matiasarenhard/rails-cve-2017-17917,Dockerfile,6c85f91bd33b23c59f28df3c4cff2814b9b47275,CVE-2017-17917
+745226621,matiasarenhard/rails-cve-2017-17917,README.md,c687b3da5f849708da87ec148a289c32b1d003a1,CVE-2017-17917
+745226621,matiasarenhard/rails-cve-2017-17917,config/cable.yml,de59648a4c65d3a194bcac43cf482f8fff8dc1f2,CVE-2017-17917
+745226621,matiasarenhard/rails-cve-2017-17917,_GITHUB_REPO_METADATA_,,CVE-2017-17917

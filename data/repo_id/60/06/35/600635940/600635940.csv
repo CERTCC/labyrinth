@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+600635940,GoodGalaxyGeeks/common-vulnerabilities-and-exposures,README.md,9e499ec16b426a14fe835bb3f60058edd6592407,CVE-2022-47870
+600635940,GoodGalaxyGeeks/common-vulnerabilities-and-exposures,README.md,9e499ec16b426a14fe835bb3f60058edd6592407,CVE-2022-47871
+600635940,GoodGalaxyGeeks/common-vulnerabilities-and-exposures,CVE-2022-47870,d6a492d414e61aeeaa5a801b4fce82dd20b37721,CVE-2022-47870
+600635940,GoodGalaxyGeeks/common-vulnerabilities-and-exposures,CVE-2022-47871,e1c4e21a7d7abc021e0796e1bc2ad1e427bd968a,CVE-2022-47871

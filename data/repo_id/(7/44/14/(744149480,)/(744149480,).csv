@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+744149480,zacharimayer/ssh-exploit,README.md,40aa6fc0fd1149826c5682165b0e2a7198e92e0a,CVE-2023-25136
+744149480,zacharimayer/ssh-exploit,exploit.py,8607a9208cd08a217f2f100241bb18b96fd4fb67,CVE-2023-25136
+744149480,zacharimayer/ssh-exploit,scan.py,b3f50559144dbcf5755730c80381baa0520aa159,CVE-2023-25136

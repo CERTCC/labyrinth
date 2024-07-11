@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-R9WH-HXQH-3XQ7,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-45492,Live-Hack-CVE/CVE-2022-45492,599742883
+GHSA-R9WH-HXQH-3XQ7,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-R9WH-HXQH-3XQ7,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

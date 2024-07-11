@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+675391411,baric6/knownExploitsScraper,README.md,380fce7dcf5fbb7dc9a0a051e97d8f3e361d562c,CVE-2023-35081
+675391411,baric6/knownExploitsScraper,index.js,f7a84ea874e5008cce8f67d4322d7b311d6df840,CVE-2023-35081

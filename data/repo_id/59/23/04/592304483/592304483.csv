@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+592304483,walnutsecurity/cve-2022-36804,cve-2022-36804.py,21f20df56d1c4f2b33a07e20e1df39a73c67ffed,CVE-2021-36804
+592304483,walnutsecurity/cve-2022-36804,cve-2022-36804.py,21f20df56d1c4f2b33a07e20e1df39a73c67ffed,CVE-2022-36804
+592304483,walnutsecurity/cve-2022-36804,README.md,426b9217999b30d1399d97bc3a0253f9868d3dfc,CVE-2022-36804
+592304483,walnutsecurity/cve-2022-36804,_GITHUB_REPO_METADATA_,,CVE-2022-36804

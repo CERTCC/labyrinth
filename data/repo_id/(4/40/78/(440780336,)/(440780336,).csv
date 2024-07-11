@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+440780336,aalex954/Log4PowerShell,Log4ShellPoC.ps1,104e1f1babdb36cda97fb70dc717cfff860db06f,CVE-2021-44228
+440780336,aalex954/Log4PowerShell,java/java-se-8u41-ri/jre/bin/server/jvm.diz,11e36fb1b0a40cfdb23a9b6139becfff59273580,VU#64
+440780336,aalex954/Log4PowerShell,java/java-se-8u41-ri/jre/lib/ext/nashorn.jar,b9feff9f011a2a04ac174c4f956b3462d289293e,VU#665
+440780336,aalex954/Log4PowerShell,java/java-se-8u41-ri/jre/lib/ext/nashorn.jar,b9feff9f011a2a04ac174c4f956b3462d289293e,VU#7747
+440780336,aalex954/Log4PowerShell,README.md,cba88c128653f236a9d90a3cc63a8826771e0619,CVE-2021-44228

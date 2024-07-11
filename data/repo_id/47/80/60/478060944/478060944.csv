@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+478060944,Snip3R69/spring-shell-vuln,README.md,4a843e1a4bf8c7ca2fad6f2b827b903e1aed377f,CVE-2010-1622
+478060944,Snip3R69/spring-shell-vuln,README.md,4a843e1a4bf8c7ca2fad6f2b827b903e1aed377f,CVE-2022-22965
+478060944,Snip3R69/spring-shell-vuln,_GITHUB_REPO_METADATA_,,CVE-2022-22965

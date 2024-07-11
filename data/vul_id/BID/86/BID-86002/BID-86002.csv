@@ -1,2 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-86002,0.33333333,https://github.com/Live-Hack-CVE/CVE-2016-2118,Live-Hack-CVE/CVE-2016-2118,583510222
+BID-86002,0.01923077,https://github.com/paRaade/Vulnerability-Assessment-and-Exploitation-Lab,paRaade/Vulnerability-Assessment-and-Exploitation-Lab,749258290
+BID-86002,0.00434783,https://github.com/DCFBGFSDTHFSD/Exploit,DCFBGFSDTHFSD/Exploit,692458402
 BID-86002,0.00075988,https://github.com/pasanchamikara/metasploitable2_var,pasanchamikara/metasploitable2_var,91070442
+BID-86002,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
+BID-86002,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-86002,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

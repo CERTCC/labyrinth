@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+507450005,Viniciuspxf/CVE-2019-10742,client/client.js,8216ee93957e08a5e0107c8d49f29441fafd8418,CVE-2019-10742
+507450005,Viniciuspxf/CVE-2019-10742,_GITHUB_REPO_METADATA_,,CVE-2019-10742

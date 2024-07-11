@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+586568152,kevinsmith96/CVE-2022-1040,xploit,239a3677c084505ad6d6ceee52ecc29d04eff923,CVE-2022-1040
+586568152,kevinsmith96/CVE-2022-1040,README.md,8b0dff7f47ffaf6fe6bd21f3a9bfcdf9c7850d66,CVE-2022-1040
+586568152,kevinsmith96/CVE-2022-1040,_GITHUB_REPO_METADATA_,,CVE-2022-1040

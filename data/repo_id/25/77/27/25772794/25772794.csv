@@ -1,1 +1,11 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+25772794,brimstone/docker-kali,kali.pub,8a4fb3f314f28e28d2054557e743a0bb8b23bc66,VU#08
+25772794,brimstone/docker-kali,lists/10-million-combos.txt.gz,c0c39b7dbaf94e611d83d2b08c586dc60e2cd29d,VU#09
+25772794,brimstone/docker-kali,lists/10-million-combos.txt.gz,c0c39b7dbaf94e611d83d2b08c586dc60e2cd29d,VU#13
+25772794,brimstone/docker-kali,lists/10-million-combos.txt.gz,c0c39b7dbaf94e611d83d2b08c586dc60e2cd29d,VU#21
+25772794,brimstone/docker-kali,lists/10-million-combos.txt.gz,c0c39b7dbaf94e611d83d2b08c586dc60e2cd29d,VU#35
+25772794,brimstone/docker-kali,lists/10-million-combos.txt.gz,c0c39b7dbaf94e611d83d2b08c586dc60e2cd29d,VU#36
+25772794,brimstone/docker-kali,lists/10-million-combos.txt.gz,c0c39b7dbaf94e611d83d2b08c586dc60e2cd29d,VU#40
+25772794,brimstone/docker-kali,lists/10-million-combos.txt.gz,c0c39b7dbaf94e611d83d2b08c586dc60e2cd29d,VU#42
+25772794,brimstone/docker-kali,lists/10-million-combos.txt.gz,c0c39b7dbaf94e611d83d2b08c586dc60e2cd29d,VU#445
+25772794,brimstone/docker-kali,lists/10-million-combos.txt.gz,c0c39b7dbaf94e611d83d2b08c586dc60e2cd29d,VU#70

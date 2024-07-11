@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+486592621,jet-pentest/CVE-2022-24449,README.md,80bb899dda832c77e1edd6785bc82b0508ab59a1,CVE-2022-24449
+486592621,jet-pentest/CVE-2022-24449,_GITHUB_REPO_METADATA_,,CVE-2022-24449

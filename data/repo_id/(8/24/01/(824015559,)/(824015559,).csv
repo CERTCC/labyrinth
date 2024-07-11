@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+824015559,AleksPwn/CVE-2022-37706,exploit.sh,7d48e20035a7c6705e4be82eeee773e6bb14e364,CVE-2022-37706
+824015559,AleksPwn/CVE-2022-37706,_GITHUB_REPO_METADATA_,,CVE-2022-37706

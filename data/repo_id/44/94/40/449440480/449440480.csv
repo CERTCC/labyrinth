@@ -1,14 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,README.md,1e5360ae00030cd72cf874f9fd47218005cba9b8,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,go.mod,32f8861c98b58bbe7f9c88fe6d659397fe62061f,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,tags/default_test.go,35255706ab68ffcd6a6761cd562db0c8f2a39cc4,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,semver/default_test.go,4904913c0870d461736908df1a20f60006bfef3c,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,docker/default.go,50767f20e6bff1a12eaa22ecac07a9c1ca0a4f48,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,data-scripts/aggregate.js,64c81b3289c55320f28e309976839e881adb9a2a,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,Makefile,92b5558e74cdc2d19eb715e33c9e5cf3ace165c2,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,docker/default_test.go,aeaff9a81838fc992d7fdd66f7a2735e2f596570,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,storage/default.go,aec7241d22b100c0b05d8f2d7f31a03e2b54afe3,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,CHANGELOG.md,c1faa7e38746c66fe5c802749c0da836acbab671,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,main.go,ca0dd25b31efb8f3b967208a457032723349cfe7,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,semver/default.go,ec9aab99b71e5c71f7e135e9c3b55cad418cc31f,CVE-2021-22205
+449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,README.md,00320c2afccf4239474313746220c9a8560f461c,CVE-2021-22205
+449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,CHANGELOG.md,6bc4b4a60c022689120a5a44d328824e3c19e3bd,CVE-2021-22205
 449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,_GITHUB_REPO_METADATA_,,CVE-2021-22205

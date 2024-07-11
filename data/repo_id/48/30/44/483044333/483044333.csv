@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+483044333,master-info/masteRcensus,data-raw/csv/stranieri_paesi.csv,2104deff2753e7a78e761bf4b4c792fa8fbe4372,VU#2020
+483044333,master-info/masteRcensus,data/professione_eta.rda,843ca68cbae718006cb33f1ae85c71d393e1d355,VU#36
+483044333,master-info/masteRcensus,data-raw/csv/censimento.zip,e470b1c8a787f4aef617e777538f567180a110e8,VU#37
+483044333,master-info/masteRcensus,data-raw/csv/censimento.zip,e470b1c8a787f4aef617e777538f567180a110e8,VU#39
+483044333,master-info/masteRcensus,data-raw/csv/censimento.zip,e470b1c8a787f4aef617e777538f567180a110e8,VU#58
+483044333,master-info/masteRcensus,data-raw/csv/censimento.zip,e470b1c8a787f4aef617e777538f567180a110e8,VU#78
+483044333,master-info/masteRcensus,data-raw/csv/censimento.zip,e470b1c8a787f4aef617e777538f567180a110e8,VU#85
+483044333,master-info/masteRcensus,data-raw/csv/censimento.zip,e470b1c8a787f4aef617e777538f567180a110e8,VU#98
+483044333,master-info/masteRcensus,data-raw/csv/censimento.zip,e470b1c8a787f4aef617e777538f567180a110e8,VU#99

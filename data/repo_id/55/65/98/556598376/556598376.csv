@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+556598376,cokeBeer/logi,pkg/payload/exec.go,fcc8ffe97139a29c7eb9ae8aaf6e869074c9e996,CVE-2020-14644

@@ -1,0 +1,18 @@
+repo_id,repo_full_name,file,file_sha1,match
+568053217,txuswashere/pentesting,ATTACKDEFENSE_PentesterAcademy.pdf,2ecaa30f82e046cfe40a57c373612fafdd430dc1,VU#31
+568053217,txuswashere/pentesting,OSSTMM3.pdf,8b1bc1c3d9f090f5642dfdc55522a6f9572436bd,VU#43
+568053217,txuswashere/pentesting,OSSTMM3.pdf,8b1bc1c3d9f090f5642dfdc55522a6f9572436bd,VU#10
+568053217,txuswashere/pentesting,OSSTMM3.pdf,8b1bc1c3d9f090f5642dfdc55522a6f9572436bd,VU#66
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2016-0128
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,MS14-068
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,MS14-025
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2021-42287
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2021-42278
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2020-1472
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2019-1040
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2019-0708
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2019-0683
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2018-8518
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2017-0143
+568053217,txuswashere/pentesting,AD by Julien Provenzano ralfkairos.com .pdf,9d57a2dcf18548291c702ded6a9965f3d05cb716,CVE-2020-17049
+568053217,txuswashere/pentesting,Threat Modeling course.pdf,b27a0c36d24d374348fe634351b27ad87a8d12bd,VU#88

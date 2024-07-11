@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+481091566,imssm99/browser-exploit,CVE-2019-5791/solve.md,8549ea3b0bbd36ac606383c1826517231af9b1e1,CVE-2019-5791
+481091566,imssm99/browser-exploit,CVE-2020-9802/exploit.js,92cc65bbc9ff39f331478a4da7147aa6b7857755,CVE-2020-9802
+481091566,imssm99/browser-exploit,CVE-2019-5791/exploit.js,a45ec2941519345fd2a54788a14dcd560ff7f0f8,CVE-2019-5791

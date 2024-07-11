@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-331439225,sho-luv/zerologon,zerologon.py,697f84a0d22740dfe467a1b6e9ca27393887d577,CVE-2020-1472
-331439225,sho-luv/zerologon,README.md,d4dbd31a3e973237f001dc61a79236e87a263c8a,CVE-2020-1472
-331439225,sho-luv/zerologon,README.md,d4dbd31a3e973237f001dc61a79236e87a263c8a,CVE-2020-1742
+331439225,sho-luv/zerologon,zerologon.py,1a839a2db429d6714766e59e6eebff3feaef425a,CVE-2020-1472
+331439225,sho-luv/zerologon,README.md,bb62583726d746cedfa3e90d8d175b698ab17903,CVE-2020-1472
+331439225,sho-luv/zerologon,README.md,bb62583726d746cedfa3e90d8d175b698ab17903,CVE-2020-1742
 331439225,sho-luv/zerologon,_GITHUB_REPO_METADATA_,,CVE-2020-1472

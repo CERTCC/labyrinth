@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+602617992,grandDancer/CVE-2017-5124-RCE-0-Day,README.md,4519bdc05a4a087b90f8f6d4ca1d751cae7a031f,CVE-2020-1472
+602617992,grandDancer/CVE-2017-5124-RCE-0-Day,_GITHUB_REPO_METADATA_,,CVE-2017-5124

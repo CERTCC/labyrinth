@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-RPR3-CW39-3PXH,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-10650,Live-Hack-CVE/CVE-2020-10650,582569296
+GHSA-RPR3-CW39-3PXH,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

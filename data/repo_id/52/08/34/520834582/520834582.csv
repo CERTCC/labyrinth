@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+520834582,cckuailong/Test-JNDI-Injection-Exploit-Plus,libs/com.ibm.ws.webservices.thinclient_8.5.0.jar,843548ffa9dcfa43dd62635acf8166b13056e88e,VU#16
+520834582,cckuailong/Test-JNDI-Injection-Exploit-Plus,libs/com.ibm.ws.webservices.thinclient_8.5.0.jar,843548ffa9dcfa43dd62635acf8166b13056e88e,VU#45
+520834582,cckuailong/Test-JNDI-Injection-Exploit-Plus,libs/com.ibm.ws.webservices.thinclient_8.5.0.jar,843548ffa9dcfa43dd62635acf8166b13056e88e,VU#47

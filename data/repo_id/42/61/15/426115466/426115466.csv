@@ -1,0 +1,18 @@
+repo_id,repo_full_name,file,file_sha1,match
+426115466,AngelJuanMa/Pentesting,HTB/Pentesting_Active_directory.xmind,280e696f0374b8792112e8d82cd1a4fffb0040bc,CVE-2020-0796
+426115466,AngelJuanMa/Pentesting,HTB/Pentesting_Active_directory.xmind,280e696f0374b8792112e8d82cd1a4fffb0040bc,MS14-068
+426115466,AngelJuanMa/Pentesting,HTB/Pentesting_Active_directory.xmind,280e696f0374b8792112e8d82cd1a4fffb0040bc,MS14-025
+426115466,AngelJuanMa/Pentesting,HTB/Pentesting_Active_directory.xmind,280e696f0374b8792112e8d82cd1a4fffb0040bc,MS08-068
+426115466,AngelJuanMa/Pentesting,HTB/Pentesting_Active_directory.xmind,280e696f0374b8792112e8d82cd1a4fffb0040bc,MS17-010
+426115466,AngelJuanMa/Pentesting,HTB/Pentesting_Active_directory.xmind,280e696f0374b8792112e8d82cd1a4fffb0040bc,CVE-2021-1675
+426115466,AngelJuanMa/Pentesting,HTB/Pentesting_Active_directory.xmind,280e696f0374b8792112e8d82cd1a4fffb0040bc,CVE-2020-1472
+426115466,AngelJuanMa/Pentesting,HTB/Pentesting_Active_directory.xmind,280e696f0374b8792112e8d82cd1a4fffb0040bc,CVE-2021-36934
+426115466,AngelJuanMa/Pentesting,"Libros/Dafydd Stuttard, Marcus Pinto - The web application hacker's handbook_ finding and exploiting security flaws-Wiley (2011).pdf",356a45fd9affa77ba8a1576c36c013f434bf95a6,VU#53
+426115466,AngelJuanMa/Pentesting,"Libros/Dafydd Stuttard, Marcus Pinto - The web application hacker's handbook_ finding and exploiting security flaws-Wiley (2011).pdf",356a45fd9affa77ba8a1576c36c013f434bf95a6,VU#36
+426115466,AngelJuanMa/Pentesting,"Libros/Dafydd Stuttard, Marcus Pinto - The web application hacker's handbook_ finding and exploiting security flaws-Wiley (2011).pdf",356a45fd9affa77ba8a1576c36c013f434bf95a6,VU#72
+426115466,AngelJuanMa/Pentesting,Libros/Bug Bounty Bootcamp The Guide to Finding and Reporting Web Vulnerabilities by Vickie Li.pdf,575c05ebe7972fb683a60e5299f16b5cf85a466d,VU#47
+426115466,AngelJuanMa/Pentesting,Libros/Real-World Bug Hunting - A Field Guide to Web Hacking by Peter Yaworski.pdf,819e734b65af108a05f28e08e1d86ead8a0b4e71,VU#21
+426115466,AngelJuanMa/Pentesting,Libros/Wiley - Hands on Hacking.pdf,9c55065d4ea0b69e52b17db1fcf8ceb78a456403,VU#24
+426115466,AngelJuanMa/Pentesting,Payloads/LFI.txt,c896dd91c261137a82c734ce944836448159e0c0,VU#29
+426115466,AngelJuanMa/Pentesting,Active Directory.md,cd4f22db9320f5307444b3ed3ed2f2c2ede660a8,MS17-010
+426115466,AngelJuanMa/Pentesting,Libros/Bug-Bounty-Playbook-2-Exploitation-Cissp-Workbook.pdf,e65e72a3997bcb7f439f6a4ec0018115dffeed3c,VU#12

@@ -1,1 +1,9 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+178120741,ashemery/exploitation-course,course/2021/Module 02 - Reverse Engineering/Module_02_Assembly.pptx,197fccb820eda7902558dde4951b35decbccc794,VU#72
+178120741,ashemery/exploitation-course,course/2021/Module 05 - Metasploit/Module-05-Metasploit.pdf,33b177e2cb0804e62db8e3ac0f034b1f33ab64c0,VU#522
+178120741,ashemery/exploitation-course,course/2021/Module 05 - Metasploit/Module-05-Metasploit.pdf,33b177e2cb0804e62db8e3ac0f034b1f33ab64c0,VU#544
+178120741,ashemery/exploitation-course,course/2021/Module 07 - SEH and Jumping Strategies/Understanding SEH Exploitation.pdf,42f52673f916ce4691fa23b57c604864bc86d90c,VU#20
+178120741,ashemery/exploitation-course,course/2021/Module 07 - SEH and Jumping Strategies/Understanding SEH Exploitation.pdf,42f52673f916ce4691fa23b57c604864bc86d90c,VU#72
+178120741,ashemery/exploitation-course,course/2021/Module 02 - Reverse Engineering/Module_02_Assembly.odp,504460a8d26112fa2c9fd7391da900fa76753232,VU#72
+178120741,ashemery/exploitation-course,labs/2022/PDF/Lab-26-Manually Backdooring an EXE-SP22.pdf,bc4c36b3d5030bb4452dbbf554bf841cd22c5325,VU#17
+178120741,ashemery/exploitation-course,course/2021/Module 02 - Reverse Engineering/Module_02_Assembly.pdf,f67b32ebcd3cf171f3f2907b15c6fadbf24364ee,VU#90

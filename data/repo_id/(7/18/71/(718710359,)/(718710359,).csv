@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+718710359,ditekshen/ansible-cve-2023-36845,README.md,44883d9ab2b6410e124e530c6bd39a30b39dab50,CVE-2023-36845
+718710359,ditekshen/ansible-cve-2023-36845,cve-2023-36845.yml,be4e8c37159e69d89fc173733e79cb877ee69997,CVE-2023-36845
+718710359,ditekshen/ansible-cve-2023-36845,_GITHUB_REPO_METADATA_,,CVE-2023-36845

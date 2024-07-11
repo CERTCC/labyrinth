@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+506948665,emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,sbx.js,31117c809305e19b4bec7e33163604acec4ba160,CVE-2020-6465
+506948665,emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,rce-poc.js,6a5bc01f61401a5ef6ad7c3cb2c0dfd41167658a,CVE-2020-15994
+506948665,emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,Chrome Windows Chrome RCE and SBX/Chrome RCE Full Chain Exploit-revised.mht,7497e8831c11b6c6bd90d16b052fdd6ebbd05d02,CVE-2020-15994
+506948665,emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,Chrome Windows Chrome RCE and SBX/Chrome RCE Full Chain Exploit-revised.mht,7497e8831c11b6c6bd90d16b052fdd6ebbd05d02,CVE-2020-6465
+506948665,emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,Chrome Android   Chrome RCE and SBX/Chrome RCE Full Chain Exploit.mht,a725a14f6a9d6187cb916eb0cc7b459fb6447a72,CVE-2020-15994
+506948665,emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,Chrome Android   Chrome RCE and SBX/Chrome RCE Full Chain Exploit.mht,a725a14f6a9d6187cb916eb0cc7b459fb6447a72,CVE-2020-6465
+506948665,emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,Chrome Windows Chrome RCE and SBX/Chrome RCE Full Chain Exploit-revised.mht.gpg,feb59f6340dee35d0858dc8285ec7e24097c15ef,VU#72

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+823804180,l0n3m4n/pocfinder,templates/custom_templates.md,0890acf9ae3154a9978c12b4d30fa49b50e6851b,CVE-2024-4577
+823804180,l0n3m4n/pocfinder,CVE-2024-4577_Sample.html,97fcef9b1256ca6fcca800cda386651e6873f018,CVE-2024-4577
+823804180,l0n3m4n/pocfinder,CVE-2024-4577_Sample.html,97fcef9b1256ca6fcca800cda386651e6873f018,GHSA-VXPP-6299-MXW3

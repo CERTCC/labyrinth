@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+510365717,Ranwu0/Vulnerability-Wiki,Apache Solr RCE检测脚本 (CVE-2017-12629).py,69d74fd74b8765d65b528fafbdfd3a2703559718,CVE-2017-12629

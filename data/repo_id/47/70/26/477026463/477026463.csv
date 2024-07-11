@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+477026463,Masutayunikon/Codiad-exploit,2.py,062ee0fc88d924cf04f20eaa36af75962d4ba0f7,CVE-2019-19208
+477026463,Masutayunikon/Codiad-exploit,1.py,c3b98cf296c2edf56a73898514fc3ebed506f6db,CVE-2018-19423

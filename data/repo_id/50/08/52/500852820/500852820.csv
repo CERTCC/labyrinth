@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+500852820,moshuum/tf-log4j-aws-poc,readme.md,f5ced55e5d306a2244ef4ee50b9122984479efce,CVE-2021-44228
+500852820,moshuum/tf-log4j-aws-poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+612358302,SamuelTulach/nullmap,README.md,c777070295b6d483c0b27f8b990f020c8253c0fe,CVE-2023-21768
+612358302,SamuelTulach/nullmap,_GITHUB_REPO_METADATA_,,CVE-2023-21768

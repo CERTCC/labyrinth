@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+463070747,real-exploit/red_hat_python,Image_Extractor.exe,10036d5e43fb6f63911f63f59b234b7db9defa79,VU#21
+463070747,real-exploit/red_hat_python,Image_Extractor.exe,10036d5e43fb6f63911f63f59b234b7db9defa79,VU#45
+463070747,real-exploit/red_hat_python,Wifi_Password_Extractor.exe,b8e3132b24ec3956adeb65d21c7e3d91ad288188,VU#21
+463070747,real-exploit/red_hat_python,Wifi_Password_Extractor.exe,b8e3132b24ec3956adeb65d21c7e3d91ad288188,VU#45

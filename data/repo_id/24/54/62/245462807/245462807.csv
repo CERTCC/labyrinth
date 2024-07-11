@@ -1,11 +1,1 @@
-repo_id,repo_full_name,file,file_sha1,match
-245462807,redtimmy/Richsploit,src/com/redtimmy/Richsploit.java,62cc603f07227067b0ff81e843affc4cdc046491,CVE-2013-2165
-245462807,redtimmy/Richsploit,src/com/redtimmy/Richsploit.java,62cc603f07227067b0ff81e843affc4cdc046491,CVE-2015-0279
-245462807,redtimmy/Richsploit,src/com/redtimmy/Richsploit.java,62cc603f07227067b0ff81e843affc4cdc046491,CVE-2018-12532
-245462807,redtimmy/Richsploit,src/com/redtimmy/Richsploit.java,62cc603f07227067b0ff81e843affc4cdc046491,CVE-2018-12533
-245462807,redtimmy/Richsploit,src/com/redtimmy/Richsploit.java,62cc603f07227067b0ff81e843affc4cdc046491,CVE-2018-14667
-245462807,redtimmy/Richsploit,README.MD,dce3b7a131026b9bdaaeb0ad04c2f0714e2134e0,CVE-2013-2165
-245462807,redtimmy/Richsploit,README.MD,dce3b7a131026b9bdaaeb0ad04c2f0714e2134e0,CVE-2015-0279
-245462807,redtimmy/Richsploit,README.MD,dce3b7a131026b9bdaaeb0ad04c2f0714e2134e0,CVE-2018-12532
-245462807,redtimmy/Richsploit,README.MD,dce3b7a131026b9bdaaeb0ad04c2f0714e2134e0,CVE-2018-12533
-245462807,redtimmy/Richsploit,README.MD,dce3b7a131026b9bdaaeb0ad04c2f0714e2134e0,CVE-2018-14667
+

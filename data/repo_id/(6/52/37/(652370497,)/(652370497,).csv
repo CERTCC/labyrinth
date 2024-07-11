@@ -1,0 +1,30 @@
+repo_id,repo_full_name,file,file_sha1,match
+652370497,alex14324/Exploit_pack,output/Report name/Report name.html,3a47b6a8fef8ff2d9806a387e7032dcce8b8dc07,CVE-2011-2135
+652370497,alex14324/Exploit_pack,output/Report name/Report name.html,3a47b6a8fef8ff2d9806a387e7032dcce8b8dc07,CVE-2011-2417
+652370497,alex14324/Exploit_pack,output/Report name/Report name.html,3a47b6a8fef8ff2d9806a387e7032dcce8b8dc07,CVE-2011-2425
+652370497,alex14324/Exploit_pack,ExploitPack - Manual.pdf,506c373a9a01266e174630c31e9bd8d98a6d3abb,VU#98
+652370497,alex14324/Exploit_pack,ExploitPack - Manual.pdf,506c373a9a01266e174630c31e9bd8d98a6d3abb,VU#67
+652370497,alex14324/Exploit_pack,ExploitPack - Manual.pdf,506c373a9a01266e174630c31e9bd8d98a6d3abb,VU#09
+652370497,alex14324/Exploit_pack,ExploitPack - Manual.pdf,506c373a9a01266e174630c31e9bd8d98a6d3abb,VU#02
+652370497,alex14324/Exploit_pack,ExploitPack - Manual.pdf,506c373a9a01266e174630c31e9bd8d98a6d3abb,VU#01
+652370497,alex14324/Exploit_pack,data/phishing/outlook/index_files/prefetch_data/boot.css,70f27fcbbd725d05ec41addecc8ee31633916ce0,VU#82
+652370497,alex14324/Exploit_pack,output/Example report/Example report.html,7acca6d8b7162cded0a057d60c60fe8abe7699ee,CVE-2011-2135
+652370497,alex14324/Exploit_pack,output/Example report/Example report.html,7acca6d8b7162cded0a057d60c60fe8abe7699ee,CVE-2011-2417
+652370497,alex14324/Exploit_pack,output/Example report/Example report.html,7acca6d8b7162cded0a057d60c60fe8abe7699ee,CVE-2011-2425
+652370497,alex14324/Exploit_pack,lib/rsyntaxtextarea-2.5.8.jar,7e7dfa44d9d9703c827b8f891339150919c2d7fe,VU#04
+652370497,alex14324/Exploit_pack,data/python-2.7.msi,9a999c80cc9215341003634c0f344ea7e614f2ef,VU#63
+652370497,alex14324/Exploit_pack,data/python-2.7.msi,9a999c80cc9215341003634c0f344ea7e614f2ef,VU#38
+652370497,alex14324/Exploit_pack,data/python-2.7.msi,9a999c80cc9215341003634c0f344ea7e614f2ef,VU#34
+652370497,alex14324/Exploit_pack,data/phishing/paypal/paypal_files/styles__ltr.css,9abeea835fedf298d12307a268a4ae068a933fbe,VU#1275
+652370497,alex14324/Exploit_pack,data/phishing/paypal/paypal_files/styles__ltr.css,9abeea835fedf298d12307a268a4ae068a933fbe,VU#16
+652370497,alex14324/Exploit_pack,data/phishing/paypal/paypal_files/styles__ltr(2).css,9abeea835fedf298d12307a268a4ae068a933fbe,VU#96
+652370497,alex14324/Exploit_pack,data/phishing/paypal/paypal_files/styles__ltr.css,9abeea835fedf298d12307a268a4ae068a933fbe,VU#60
+652370497,alex14324/Exploit_pack,data/phishing/linkedin/linkedin_files/by7tszj31b09w3igr1qvu94j3,a6327f2ef59fb987e13045b93acfe0635bd7a88e,VU#94
+652370497,alex14324/Exploit_pack,output/gdbconnector.py,cb0fce700bf95301392c915d1b617ea63179bba8,VU#09
+652370497,alex14324/Exploit_pack,data/phishing/linkedin/linkedin.html,dac227173da0641c97ef16f47fe7c77938ddda0b,VU#94
+652370497,alex14324/Exploit_pack,output/executionlog.eplog,e6a72748561f626fe27c424cffdc8bbf27c5ead1,CVE-2014-4114
+652370497,alex14324/Exploit_pack,output/executionlog.eplog,e6a72748561f626fe27c424cffdc8bbf27c5ead1,CVE-2011-2425
+652370497,alex14324/Exploit_pack,output/executionlog.eplog,e6a72748561f626fe27c424cffdc8bbf27c5ead1,CVE-2018-0812
+652370497,alex14324/Exploit_pack,output/executionlog.eplog,e6a72748561f626fe27c424cffdc8bbf27c5ead1,CVE-2011-2135
+652370497,alex14324/Exploit_pack,output/executionlog.eplog,e6a72748561f626fe27c424cffdc8bbf27c5ead1,CVE-2011-2417
+652370497,alex14324/Exploit_pack,output/executionlog.eplog,e6a72748561f626fe27c424cffdc8bbf27c5ead1,CVE-2018-0797

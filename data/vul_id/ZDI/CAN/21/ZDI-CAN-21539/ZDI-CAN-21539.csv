@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-CAN-21539,0.00680272,https://github.com/jcole-sec/Trending-Exploitation-Research,jcole-sec/Trending-Exploitation-Research,794099151
+ZDI-CAN-21539,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+ZDI-CAN-21539,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+108102720,leomazuran/metasploit,run.py,3b80f6150cfa59da1515706e4d7d38d3966fa392,MS17-010
+108102720,leomazuran/metasploit,scan.rb,c06edcb0289c0287e5cf9e5bcdcc95d44d63c6b3,CVE-2017-0143
+108102720,leomazuran/metasploit,scan.rb,c06edcb0289c0287e5cf9e5bcdcc95d44d63c6b3,CVE-2017-0144
+108102720,leomazuran/metasploit,scan.rb,c06edcb0289c0287e5cf9e5bcdcc95d44d63c6b3,CVE-2017-0145
+108102720,leomazuran/metasploit,scan.rb,c06edcb0289c0287e5cf9e5bcdcc95d44d63c6b3,CVE-2017-0146
+108102720,leomazuran/metasploit,scan.rb,c06edcb0289c0287e5cf9e5bcdcc95d44d63c6b3,CVE-2017-0147
+108102720,leomazuran/metasploit,scan.rb,c06edcb0289c0287e5cf9e5bcdcc95d44d63c6b3,CVE-2017-0148
+108102720,leomazuran/metasploit,scan.rb,c06edcb0289c0287e5cf9e5bcdcc95d44d63c6b3,MS17-010
+108102720,leomazuran/metasploit,readme.txt,f3095b3c1bb59f71e59f7a96c908167534fbc5d7,MS17-010

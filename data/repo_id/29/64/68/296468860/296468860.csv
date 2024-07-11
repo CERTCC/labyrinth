@@ -2,6 +2,6 @@ repo_id,repo_full_name,file,file_sha1,match
 296468860,sv3nbeast/CVE-2020-1472,impacket/examples/ntlmrelayx/clients/smbrelayclient.py,2c8a385844286b6fe2ec9d2722b6b2feec19b8a2,CVE-2019-1019
 296468860,sv3nbeast/CVE-2020-1472,impacket/examples/ntlmrelayx/clients/smbrelayclient.py,2c8a385844286b6fe2ec9d2722b6b2feec19b8a2,CVE-2019-1040
 296468860,sv3nbeast/CVE-2020-1472,impacket/examples/ntlmrelayx/clients/ldaprelayclient.py,4da7781ae5f4d748d494506c737907773c91c658,CVE-2019-1040
-296468860,sv3nbeast/CVE-2020-1472,README.md,6240f0b5b7f68ad46fc4781f784d9bc17b3763a6,CVE-2020-1472
+296468860,sv3nbeast/CVE-2020-1472,README.md,7caecf378d183ded43bc9ff3d2922b234eb7b00b,CVE-2020-1472
 296468860,sv3nbeast/CVE-2020-1472,examples/cve-2020-1472-exploit.py,dc4e85ff40528544c845e7cc230c101229670922,CVE-2020-1472
 296468860,sv3nbeast/CVE-2020-1472,_GITHUB_REPO_METADATA_,,CVE-2020-1472

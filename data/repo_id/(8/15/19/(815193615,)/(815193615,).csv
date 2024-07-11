@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+815193615,K3ysTr0K3R/Custom-Metasploit-Modules,explodingcan.rb,5ce892bb395df2feec66ff7e6b2a21a21eda4c66,CVE-2017-7269
+815193615,K3ysTr0K3R/Custom-Metasploit-Modules,hikvision_auth_bypass.rb,d768a9a5a3806da308efd3b28a89e7e9ad95b2c4,CVE-2017-7921

@@ -1,0 +1,6 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#2020,0.04545455,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
+VU#2020,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
+VU#2020,0.01886792,https://github.com/Sylvain062/CDAoct23-Exploitation-Cinematographique,Sylvain062/CDAoct23-Exploitation-Cinematographique,794466916
+VU#2020,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+VU#2020,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

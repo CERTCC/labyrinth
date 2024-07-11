@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+706392431,eslerm/nvd-api-client,README.md,18e9beee862182184be95039d338ec01bed06098,CVE-2022-25187
+706392431,eslerm/nvd-api-client,README.md,18e9beee862182184be95039d338ec01bed06098,CVE-2022-25319
+706392431,eslerm/nvd-api-client,README.md,18e9beee862182184be95039d338ec01bed06098,CVE-2022-25321
+706392431,eslerm/nvd-api-client,README.md,18e9beee862182184be95039d338ec01bed06098,CVE-2022-29528
+706392431,eslerm/nvd-api-client,README.md,18e9beee862182184be95039d338ec01bed06098,CVE-2023-43794

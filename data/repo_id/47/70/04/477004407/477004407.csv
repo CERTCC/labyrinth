@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+477004407,wjl110/Spring-Core-RCE,README.md,18cccc156a4f45eb7572f685200735bac4ba26e1,CVE-2022-22965

@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-27487,0.09090909,https://github.com/saadoxo/Vulnerability-assessment-on-Kioptrix-Level-1,saadoxo/Vulnerability-assessment-on-Kioptrix-Level-1,562528635
 OSVDB-27487,0.09090909,https://github.com/joshmalek/ethack,joshmalek/ethack,261077976
+OSVDB-27487,0.08333333,https://github.com/Nishant-Pall/Kioptrix-exploit,Nishant-Pall/Kioptrix-exploit,547369321

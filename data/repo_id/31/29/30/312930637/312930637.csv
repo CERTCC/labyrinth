@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+312930637,jdgregson/Disclosures,microsoft/cve-2022-41104-excel-security-feature-bypass/sales-report-july-2022.xlsx,2fbabfbd96ff01dac33f8a344f8e7d14f641d3e9,CVE-2022-41104
+312930637,jdgregson/Disclosures,microsoft/cve-2022-41104-excel-security-feature-bypass/server.py,381dc7ad976278c5ea1ed3c39d138f366a05c25b,CVE-2022-41104
+312930637,jdgregson/Disclosures,microsoft/cve-2022-41104-excel-security-feature-bypass/text-file-read.xlsx,65c006f7274e08e66f878f2b1a5921259e6ce22d,CVE-2022-41104
+312930637,jdgregson/Disclosures,microsoft/cve-2022-41104-excel-security-feature-bypass/poc-text-file-read.mp4,80108e4c82df2b54d07bbad81a9c36e1885eef89,CVE-2022-41104
+312930637,jdgregson/Disclosures,microsoft/cve-2022-41104-excel-security-feature-bypass/poc-excel-file-read.mp4,e54cf08076d640d6d83d7fb8fa97342c5fbde249,CVE-2022-41104
+312930637,jdgregson/Disclosures,microsoft/cve-2022-41104-excel-security-feature-bypass/README.md,e62ec270b6783a354334748e8886ebf3f4566fb9,CVE-2022-41104

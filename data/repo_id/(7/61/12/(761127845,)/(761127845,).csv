@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+761127845,W01fh4cker/ScreenConnect-AuthBypass-RCE,README.md,a779982dfe664766ded4fc659b00cb21d8161dbf,CVE-2024-1708
+761127845,W01fh4cker/ScreenConnect-AuthBypass-RCE,README.md,a779982dfe664766ded4fc659b00cb21d8161dbf,CVE-2024-1709
+761127845,W01fh4cker/ScreenConnect-AuthBypass-RCE,ScreenConnect-AuthBypass-RCE.py,d83aa59d6b04d852b70ce015ae276478f85d9623,CVE-2024-1708
+761127845,W01fh4cker/ScreenConnect-AuthBypass-RCE,ScreenConnect-AuthBypass-RCE.py,d83aa59d6b04d852b70ce015ae276478f85d9623,CVE-2024-1709
+761127845,W01fh4cker/ScreenConnect-AuthBypass-RCE,_GITHUB_REPO_METADATA_,,CVE-2024-1709

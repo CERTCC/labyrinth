@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+600652208,varelsecurity/CVE-2016-10993,README.md,77841b9b9f10335c592e96cb46f27b74a7a724f3,CVE-2016-10993
+600652208,varelsecurity/CVE-2016-10993,_GITHUB_REPO_METADATA_,,CVE-2016-10993

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+813543246,skred91/Data-Base-Exploit,Msf-payload.exe,44c53ce31a8718a10924efd79c786f2810379bd4,VU#13
+813543246,skred91/Data-Base-Exploit,OBF-Client.exe,d5b0c88e96acfe4b4051d02e337e59034c30c2d4,VU#94
+813543246,skred91/Data-Base-Exploit,Pthd-MSDEF-Bypass.exe,e1618b0b1f7928c59366e95439f68178341d0a7e,VU#94
+813543246,skred91/Data-Base-Exploit,decode-exec.exe,f93eb63b3c0e24b511ccee25de0f52371d331799,VU#94

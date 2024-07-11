@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+730930195,moemen34/Exploiting-Wordpress-Vulnerabilities,CVE-2017-5490/README.md,0d6a70677b574eb8d922639faa8f561138be92c0,CVE-2017-5490
+730930195,moemen34/Exploiting-Wordpress-Vulnerabilities,CVE-2019-9787/README.md,1d6d8415d76294a909d3060587d75b0f40d10069,CVE-2019-9687
+730930195,moemen34/Exploiting-Wordpress-Vulnerabilities,CVE-2019-9787/README.md,1d6d8415d76294a909d3060587d75b0f40d10069,CVE-2019-9787
+730930195,moemen34/Exploiting-Wordpress-Vulnerabilities,README.md,699afb534212f39c8cb9a20291b8da307034fb4c,CVE-2017-5490
+730930195,moemen34/Exploiting-Wordpress-Vulnerabilities,README.md,699afb534212f39c8cb9a20291b8da307034fb4c,CVE-2019-9787
+730930195,moemen34/Exploiting-Wordpress-Vulnerabilities,CVE-2019-9787/proj3.html,8908adfdf79d05d690e32d073fbefb8c966fc9c7,CVE-2019-9787

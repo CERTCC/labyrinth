@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+785525373,watchtowrlabs/ibm-qradar-ajp_smuggling_CVE-2022-26377_poc,README.md,12eef17288ad7c24f7a1bcf6b285f4c7c30a4bb6,CVE-2022-26377
+785525373,watchtowrlabs/ibm-qradar-ajp_smuggling_CVE-2022-26377_poc,watchtowr-vs-ibm_qradar_2024-04-12.py,fc937e787e184b57b98961a59fda8e7ee5ecdccf,CVE-2022-26377
+785525373,watchtowrlabs/ibm-qradar-ajp_smuggling_CVE-2022-26377_poc,_GITHUB_REPO_METADATA_,,CVE-2022-26377

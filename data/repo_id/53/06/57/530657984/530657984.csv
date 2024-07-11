@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+530657984,kh4sh3i/Apache-Tomcat-Pentesting,CVE-2019-0221.yaml,3e66bf91b515db6de2e42644d1f860d0d60e18c5,CVE-2019-0221
+530657984,kh4sh3i/Apache-Tomcat-Pentesting,README.md,7836be57360f53c4ab141254d123b5599a773942,CVE-2019-0221
+530657984,kh4sh3i/Apache-Tomcat-Pentesting,README.md,7836be57360f53c4ab141254d123b5599a773942,CVE-2020-9484
+530657984,kh4sh3i/Apache-Tomcat-Pentesting,CVE-2020-9484.yaml,84523ed2e12cb4d898091e93a8d751bfc478d34f,CVE-2020-9484

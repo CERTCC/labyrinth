@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+572770481,merlinepedra/DemonHunter_Exploitkit,ReadMe.txt,07261811714389e5372b1eb46c82054bfdbf6ef7,CVE-2008-2992
+572770481,merlinepedra/DemonHunter_Exploitkit,ReadMe.txt,07261811714389e5372b1eb46c82054bfdbf6ef7,CVE-2010-0188
+572770481,merlinepedra/DemonHunter_Exploitkit,ReadMe.txt,07261811714389e5372b1eb46c82054bfdbf6ef7,CVE-2010-0842
+572770481,merlinepedra/DemonHunter_Exploitkit,ReadMe.txt,07261811714389e5372b1eb46c82054bfdbf6ef7,CVE-2010-1297
+572770481,merlinepedra/DemonHunter_Exploitkit,ReadMe.txt,07261811714389e5372b1eb46c82054bfdbf6ef7,CVE-2010-2884
+572770481,merlinepedra/DemonHunter_Exploitkit,ReadMe.txt,07261811714389e5372b1eb46c82054bfdbf6ef7,CVE-2010-3552
+572770481,merlinepedra/DemonHunter_Exploitkit,ReadMe.txt,07261811714389e5372b1eb46c82054bfdbf6ef7,CVE-2013-2460
+572770481,merlinepedra/DemonHunter_Exploitkit,ReadMe.txt,07261811714389e5372b1eb46c82054bfdbf6ef7,CVE-2013-2551
+572770481,merlinepedra/DemonHunter_Exploitkit,modules/Adobe-2010-1297.php,4f53bac3b19b9e8ed1002aca5db6974cb64c759e,VU#31

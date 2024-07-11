@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+598309338,electr0sm0g/CVE-2022-4510,RCE_Binwalk.py,0e327a631aa203a12c681aa88977db6d7c91c34f,CVE-2022-4510
+598309338,electr0sm0g/CVE-2022-4510,_GITHUB_REPO_METADATA_,,CVE-2022-4510

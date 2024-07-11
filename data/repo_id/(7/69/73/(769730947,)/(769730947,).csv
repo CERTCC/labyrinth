@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+769730947,SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697,notes/PG Hub (FuguHub 8.4).md,09539ecea0fa1ec392da51ccaa58a452f2cc4149,CVE-2023-24078
+769730947,SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697,exploit.py,e60a0b8b0bb143aab651195b242d93323b111e57,CVE-2023-24078
+769730947,SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697,exploit.py,e60a0b8b0bb143aab651195b242d93323b111e57,CVE-2024-27697
+769730947,SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697,README.md,f9603f037dc2c8dba248fa1ef3d609394b4386da,CVE-2023-24078
+769730947,SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697,_GITHUB_REPO_METADATA_,,CVE-2024-27697

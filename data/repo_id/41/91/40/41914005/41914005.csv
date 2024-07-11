@@ -1,6 +1,13 @@
 repo_id,repo_full_name,file,file_sha1,match
 41914005,superkojiman/vulnerabilities,Ultra-Mini-HTTPD-1.21/README.md,49a36dd36e843e5991a88c7b86bfb5d3dcaf55ec,CVE-2013-5019
+41914005,superkojiman/vulnerabilities,AvantFAX-3.3.7/README.md,4c2c1c74ab51c4f571d457aaa8ce5ed86a78509d,CVE-2023-23326
+41914005,superkojiman/vulnerabilities,AvantFAX-3.3.7/README.md,4c2c1c74ab51c4f571d457aaa8ce5ed86a78509d,CVE-2023-23327
+41914005,superkojiman/vulnerabilities,AvantFAX-3.3.7/README.md,4c2c1c74ab51c4f571d457aaa8ce5ed86a78509d,CVE-2023-23328
+41914005,superkojiman/vulnerabilities,Verify-Ontario/BadQRDemo.mp4,6c9cc97e12fd0e076d8cdddc7278f5d756d1eb52,VU#04
+41914005,superkojiman/vulnerabilities,Verify-Ontario/BadQRDemo.mp4,6c9cc97e12fd0e076d8cdddc7278f5d756d1eb52,VU#11
+41914005,superkojiman/vulnerabilities,Verify-Ontario/BadQRDemo.mp4,6c9cc97e12fd0e076d8cdddc7278f5d756d1eb52,VU#85
 41914005,superkojiman/vulnerabilities,Easy-File-Sharing-FTP-Server-3.5/exploit.py,998ee3c6d7b2c3f51ca592fde5729da48b5f9f3d,CVE-2006-3952
+41914005,superkojiman/vulnerabilities,AvantFAX-3.3.7/af_pwn.php,9ab6b0b494d63097049af8d46dec4236211463ba,CVE-2023-23328
 41914005,superkojiman/vulnerabilities,Easy-File-Sharing-Web-Server-6.8/README.md,a74e83c1a3bb53e5dc8eab0932c32b44ae947f96,CVE-2014-3791
 41914005,superkojiman/vulnerabilities,Winamp-5.12/exploit.py,c76612c7d230a2bd4fb42c08fdb34725992ca4b6,CVE-2006-0720
 41914005,superkojiman/vulnerabilities,Winamp-5.12/README.md,dc0567f278ee7061a915ba7381505957b6fcf26b,CVE-2006-0720

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+547881832,gitzero0/ProxyNotShell,README.md,a13c76cee785d1e3ac9d3731c92c07366ed65acc,CVE-2022-41040
+547881832,gitzero0/ProxyNotShell,README.md,a13c76cee785d1e3ac9d3731c92c07366ed65acc,CVE-2022-41082
+547881832,gitzero0/ProxyNotShell,_GITHUB_REPO_METADATA_,,CVE-2022-41040
+547881832,gitzero0/ProxyNotShell,_GITHUB_REPO_METADATA_,,CVE-2022-41082

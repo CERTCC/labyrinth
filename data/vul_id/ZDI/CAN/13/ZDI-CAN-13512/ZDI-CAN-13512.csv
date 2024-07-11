@@ -1,0 +1,9 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-CAN-13512,0.00114679,https://github.com/JoshTech1000/CVE-Details_2022-Analysis,JoshTech1000/CVE-Details_2022-Analysis,576556373
+ZDI-CAN-13512,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+ZDI-CAN-13512,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
+ZDI-CAN-13512,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+ZDI-CAN-13512,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-CAN-13512,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+ZDI-CAN-13512,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+ZDI-CAN-13512,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

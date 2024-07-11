@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+515790479,Charlie0257/T2TL,src/pretrain/Transformer-dumb_ac_Eventually_1_5_1_4_Simple-LTL-Env-v0_seed:1_n_encoder:4_nhead:8_d_model:64_dim_feedforward:256_d_out:16_None/train/status.pt,717778719222f3ee4f223b5a429ebfc133c910ec,VU#23

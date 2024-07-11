@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#123
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#15
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#2222
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#28
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#345
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#377
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#56
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#593
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#653
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#66
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#665
+820214507,KanzakiisYU/exploit,domain.txt,0962a62a657983f6fbb16a30e03234de5db7b6e0,VU#981

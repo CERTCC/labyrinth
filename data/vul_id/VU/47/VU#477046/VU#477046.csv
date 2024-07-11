@@ -1,4 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#477046,0.02173913,https://github.com/ucsb-seclab/boomerang,ucsb-seclab/boomerang,76598629
-VU#477046,0.01724138,https://github.com/rhpco/CVE-2018-16509,rhpco/CVE-2018-16509,200477390
+VU#477046,0.01538462,https://github.com/rhpco/CVE-2018-16509,rhpco/CVE-2018-16509,200477390
+VU#477046,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
 VU#477046,0.00190840,https://github.com/wupeng15/Exploitation-of-vulnerability,wupeng15/Exploitation-of-vulnerability,289938865
+VU#477046,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#477046,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#477046,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

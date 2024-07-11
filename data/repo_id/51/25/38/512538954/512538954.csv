@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+512538954,c04tl/WebLogic-Handle-RCE-Scanner,README.md,72d6755c952df892779a6b8b8b947fa9413c978d,CVE-2020-14750
+512538954,c04tl/WebLogic-Handle-RCE-Scanner,README.md,72d6755c952df892779a6b8b8b947fa9413c978d,CVE-2020-14882
+512538954,c04tl/WebLogic-Handle-RCE-Scanner,README.md,72d6755c952df892779a6b8b8b947fa9413c978d,CVE-2020-14883
+512538954,c04tl/WebLogic-Handle-RCE-Scanner,nuclei/WebLogic-RCE-Scanner.yaml,a098a906300e4fae20714276c763c460a7064c52,CVE-2020-14750
+512538954,c04tl/WebLogic-Handle-RCE-Scanner,nuclei/WebLogic-RCE-Scanner.yaml,a098a906300e4fae20714276c763c460a7064c52,CVE-2020-14882
+512538954,c04tl/WebLogic-Handle-RCE-Scanner,nuclei/WebLogic-RCE-Scanner.yaml,a098a906300e4fae20714276c763c460a7064c52,CVE-2020-14883

@@ -4,7 +4,10 @@ repo_id,repo_full_name,file,file_sha1,match
 283759384,hvmi/hvmi,docs/presentations/VBH.pdf,7a808f0dca9d02fae86ea9b26e6134a3b5864c81,CVE-2016-5195
 283759384,hvmi/hvmi,docs/presentations/VBH.pdf,7a808f0dca9d02fae86ea9b26e6134a3b5864c81,CVE-2017-7308
 283759384,hvmi/hvmi,docs/presentations/VBH.pdf,7a808f0dca9d02fae86ea9b26e6134a3b5864c81,CVE-2019-5736
+283759384,hvmi/hvmi,docs/presentations/HVI.pptx,889c94e631c0d5041749406074647c9e80357028,VU#53
 283759384,hvmi/hvmi,introcore/src/guests/linux/lixkernel.c,c518e7051e3eca11cd7be01576a4ff8b72361d35,CVE-2019-1125
 283759384,hvmi/hvmi,introcore/src/guests/instrument/swapgs.c,d17c173f8fb612c11341477dc32a8858cbf7be67,CVE-2019-1125
 283759384,hvmi/hvmi,docs/papers/U-HIPE.pdf,d7b16928dc8c603be2e40f3cfec8f9d7dcc54152,CVE-2010-3333
+283759384,hvmi/hvmi,docs/papers/U-HIPE.pdf,d7b16928dc8c603be2e40f3cfec8f9d7dcc54152,VU#38
+283759384,hvmi/hvmi,docs/papers/U-HIPE.pdf,d7b16928dc8c603be2e40f3cfec8f9d7dcc54152,VU#57
 283759384,hvmi/hvmi,introcore/src/guests/windows/kernel/wintoken.c,f684c751097b0b9aa27833af10dcc4ca784baa73,CVE-2020-0796

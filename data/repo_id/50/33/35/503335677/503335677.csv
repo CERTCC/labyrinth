@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+503335677,YannikG/tsbe-cybersec-follina,automated/exploit.py,0c95ddfcd9ee6f474d4e3c2a386ba01dfb1e654e,CVE-2022-30190
+503335677,YannikG/tsbe-cybersec-follina,README.md,6455974b71d86e026b8cc1d2b73bf74ddecfe46e,CVE-2022-30190

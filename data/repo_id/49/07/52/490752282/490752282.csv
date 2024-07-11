@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+490752282,thatonesecguy/CVE-2022-1388-Exploit,README.md,0ebb6e64ca20b65867d1bd87aad8da85203ff6c6,CVE-2022-1388
+490752282,thatonesecguy/CVE-2022-1388-Exploit,CVE_2022_1388.py,25092365d8dfb3a4027e8df56e7de110916b9fc3,CVE-2022-1388
+490752282,thatonesecguy/CVE-2022-1388-Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-1388

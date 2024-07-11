@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#13
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#137
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#18
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#32
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#43
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#49
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#62
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#838
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#932
+475676483,bgibers/dice-game-exploit,yarn.lock,18ba11efcf7e5b3b5414206fa1e251360833fd21,VU#979

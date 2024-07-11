@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+734620925,febinrev/deepin-linux_reader_RCE-exploit,README.md,45271276126e9c89ff16f6b07f8be69fe95bf031,CVE-2023-50254
+734620925,febinrev/deepin-linux_reader_RCE-exploit,README.md,45271276126e9c89ff16f6b07f8be69fe95bf031,GHSA-Q9JR-726G-9495
+734620925,febinrev/deepin-linux_reader_RCE-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-50254

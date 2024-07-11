@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+779245387,ZHIRspb/metasploitable_GIS,tasks/iis-dos.md,0aa79e7ad16194818a83fba1cc9100e18c00ec10,CVE-2015-1635
+779245387,ZHIRspb/metasploitable_GIS,tasks/iis-dos.md,0aa79e7ad16194818a83fba1cc9100e18c00ec10,MS15-034
+779245387,ZHIRspb/metasploitable_GIS,tasks/rdp-dos-+-rce.md,567bb50324fc992a168ddc33dcca2039b4d7dc8e,CVE-2019-0708
+779245387,ZHIRspb/metasploitable_GIS,tasks/rdp-dos-+-rce.md,567bb50324fc992a168ddc33dcca2039b4d7dc8e,MS12-020
+779245387,ZHIRspb/metasploitable_GIS,tasks/smb-exploitation.md,5690915349dc8f05078b8d04402c706c695915ad,MS17-010

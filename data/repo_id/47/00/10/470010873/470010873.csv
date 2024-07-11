@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+470010873,Supersonic/CVE-2020-0443,app/src/androidTest/java/poc/sithija/cve_2020_0443/ExampleInstrumentedTest.java,0831c3e1872da5efbf1117617ee25914d0fe628a,CVE-2020-0443
+470010873,Supersonic/CVE-2020-0443,README.md,0e1b33d257f93bc1d0db2ec6f50a391c64ad5958,CVE-2020-0443
+470010873,Supersonic/CVE-2020-0443,app/src/main/res/values/strings.xml,0e3d9035f11710297c0a2fd52ecd3bd4768ea60f,CVE-2020-0443
+470010873,Supersonic/CVE-2020-0443,app/src/test/java/poc/sithija/cve_2020_0443/ExampleUnitTest.java,4b0acaf70b8495b6dcce3d2dd43ce8b80c1b07e9,CVE-2020-0443
+470010873,Supersonic/CVE-2020-0443,app/build.gradle,60de179a1ddb686ba1045250bde7c2b2230c30b9,CVE-2020-0443
+470010873,Supersonic/CVE-2020-0443,app/src/main/java/poc/sithija/cve_2020_0443/MainActivity.java,b82718f0ac6327c399fe596ecc93c9c9085d624b,CVE-2020-0443
+470010873,Supersonic/CVE-2020-0443,app/src/main/AndroidManifest.xml,e2602b8011d46f03145f613bbebe540378b33a79,CVE-2020-0443
+470010873,Supersonic/CVE-2020-0443,_GITHUB_REPO_METADATA_,,CVE-2020-0443

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+533450693,BasHB00M01001/leviathan-framework,lib/exploits/apache_struts_rce.py,5be377999278d9bfe6148d6c7e8e09cce77ed0c3,CVE-2017-5638
+533450693,BasHB00M01001/leviathan-framework,lib/exploits/smb_17_010.py,5c856c1696ad5f5a79a939d14938871d7d5977fa,MS17-010
+533450693,BasHB00M01001/leviathan-framework,lib/exploits/shellshock.py,b77db819a30f56223de77a7369c2b37ae09ce576,CVE-2014-6271

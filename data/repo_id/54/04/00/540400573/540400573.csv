@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+540400573,Chocapikk/CVE-2022-36804-ReverseShell,README.md,48562db3bd7acf7b96dbf077d86b2bb2d95d05b0,CVE-2022-36804
+540400573,Chocapikk/CVE-2022-36804-ReverseShell,main.py,5d1cfbef140dedfdb07cff630ef88266c00d970c,CVE-2022-36804
+540400573,Chocapikk/CVE-2022-36804-ReverseShell,_GITHUB_REPO_METADATA_,,CVE-2022-36804

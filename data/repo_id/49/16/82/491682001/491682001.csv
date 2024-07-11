@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+491682001,tr3sp4ss3rexe/Windows-Kernel-Exploitation,PDFs/Windows7_pool_exp.pdf,a6c83300971eb38a054df94b1c1e16a4e7b220d0,CVE-2010-1893
+491682001,tr3sp4ss3rexe/Windows-Kernel-Exploitation,PDFs/Windows7_pool_exp.pdf,a6c83300971eb38a054df94b1c1e16a4e7b220d0,MS10-058
+491682001,tr3sp4ss3rexe/Windows-Kernel-Exploitation,PDFs/windows10_pool_overflow.pdf,ea4775128efd640f4dac2cfb8fd00fd5a50fd690,CVE-2017-6008

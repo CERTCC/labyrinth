@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+562209999,AkuCyberSec/WordPress-Plugin-WP-All-Import-up-to-3.6.7---Remote-Code-Execution-RCE-Authenticated-,README.md,33005458d68a665a2e5d03f4825769f86afce926,CVE-2022-1565
+562209999,AkuCyberSec/WordPress-Plugin-WP-All-Import-up-to-3.6.7---Remote-Code-Execution-RCE-Authenticated-,exploit.py,6d091f002d66e90b992214ae2bef201e74fb9836,CVE-2022-1565

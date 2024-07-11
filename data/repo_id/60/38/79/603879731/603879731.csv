@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+603879731,Azonium-MC/exploit,jdk1.8.0_20/db/lib/derby.jar,187c86ca2197c9cc94efe3c4407d91879ebf5807,VU#31
+603879731,Azonium-MC/exploit,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+603879731,Azonium-MC/exploit,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+603879731,Azonium-MC/exploit,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+603879731,Azonium-MC/exploit,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+603879731,Azonium-MC/exploit,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+603879731,Azonium-MC/exploit,jdk1.8.0_20/jre/lib/fonts/LucidaSansRegular.ttf,39cc8bcb8d4a71d4657fc92ef0b9f4e3e9e67add,VU#32
+603879731,Azonium-MC/exploit,poc.py,58764503cc9279dba4875e3f679cfcbe2fb9b9a3,CVE-2021-44228
+603879731,Azonium-MC/exploit,README.md,87b1803faa555ecd148c2c1444cfda99693186fe,CVE-2021-44228

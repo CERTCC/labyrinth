@@ -1,0 +1,38 @@
+repo_id,repo_full_name,file,file_sha1,match
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-42442-JumpServer/README.md,020b4638c225c4e7e37ba0597a06a42b8f04a5fa,CVE-2023-42442
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/target/classes/ExceptionResponsePoc.class,065f418b661ecbbbc4012bed2088bfd87099b257,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,README.md,189b59fbf4954af952ab7423c9aeb136eef778f1,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,README.md,189b59fbf4954af952ab7423c9aeb136eef778f1,CVE-2023-42820
+687790110,T0ngMystic/Vulnerability_List,README.md,189b59fbf4954af952ab7423c9aeb136eef778f1,CVE-2023-42442
+687790110,T0ngMystic/Vulnerability_List,README.md,189b59fbf4954af952ab7423c9aeb136eef778f1,CVE-2023-4357
+687790110,T0ngMystic/Vulnerability_List,README.md,189b59fbf4954af952ab7423c9aeb136eef778f1,CVE-2023-38831
+687790110,T0ngMystic/Vulnerability_List,README.md,189b59fbf4954af952ab7423c9aeb136eef778f1,CVE-2023-22515
+687790110,T0ngMystic/Vulnerability_List,README.md,189b59fbf4954af952ab7423c9aeb136eef778f1,CVE-2023-22527
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-38831-WINRAR/README.md,28c1268c67001b989995cb75e2febb8857124783,CVE-2023-38831
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-4357-Chrome XXE/tm.html,2932e2083134409905eab1b4a7ac9a1af5b26e3b,CVE-2023-4357
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/XmlWeb/poc.xml,328551013e099c9a69acd0d56823d7303e146f43,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/src/main/java/ConnectionErrorPoc.java,3a8c9b31344c5db16577fde0bbeaa2bf7ca374d8,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/target/classes/Demo.class,41d93cc6bbea028f2fe8ab79512f7fb719a90e72,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/src/main/java/Demo.java,4be942a76f68c99884228cc74b00923d246b5042,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-22515-Confluence/README.md,512d591c301530d6b41c3bbde096af15a2b565ff,CVE-2023-22515
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-38831-WINRAR/tmp/tmp123.txtB,568a02f1b829c0ec9e629a016e75184b8c5901e1,CVE-2023-38831
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-22527-Confluence/CVE-2023-22527-EXP.py,58f97caf2263965cefdecd0fac7b50c6c2348717,CVE-2023-22527
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-42442-JumpServer/CVE-2023-42442.py,5f1c249f0cb37be4fb10eb6c10044ab386b3c78d,CVE-2023-42442
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-38831-WINRAR/tmp/tmp123.txtA/tmp123.txtC/tmp123.txtA.cmd,67bd35f4e0d46c01211e579e2c880293befeb58b,CVE-2023-38831
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/target/classes/org/springframework/context/support/ClassPathXmlApplicationContext.class,6c5089f2ff908886a21b2f7b31bfed935b846d3f,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-42820-JumpServer/CVE-2023-42820.py,7301fd74eec0054ef30e9d55aa8d6e5835c0ccda,CVE-2023-42820
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-22527-Confluence/READAME.md,76968919ae9dee2eadc9f411030716c52556d8f5,CVE-2023-22527
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/src/main/java/ExceptionResponsePoc.java,7abee1ea0d6a64e1ab012090b3293c91a8583284,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/README.md,8022f84eeb2b7b9cd27b339ff194b4b5fa9b1c7f,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/pom.xml,840b6d5829bc8c0d9a90de59b1f6c27d8c5af6c2,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/src/main/java/MessageAckPoc.java,89acd52ab2772f7dd6731bf134d3bd54bf2bc2b2,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/target/classes/ConnectionErrorPoc.class,9b5b7c19468788c90828a8e870a272629e081a26,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-42820-JumpServer/README.md,a40e299c407549f3e792a9fa396fdbda1c8d59e5,CVE-2023-42820
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-4357-Chrome XXE/README.md,c2853942b04c59520e36caabaedd41575483ac61,CVE-2023-4357
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-4357-Chrome XXE/tm.svg,cae7191b3c80f20159a4d57757e4492c8961a104,CVE-2023-4357
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/target/classes/MessageAckPoc.class,d4d4c48e077e7371ff64d5cbbb3f47220f572072,CVE-2023-46604
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-4357-Chrome XXE/data.txt,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2023-4357
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-22515-Confluence/CVE-2023-22515-EXP.py,df3d69ca458060f763857ffa749229267d8288cf,CVE-2023-22515
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-38831-WINRAR/CVE-2023-38831-EXP.py,f167c597efc90c4b975159671c80183ced9e62ae,CVE-2023-38831
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-4357-Chrome XXE/CVE-2023-4357.py,f2557d13afb7adaaebfe23c1e6c1e702cfa6cf02,CVE-2023-4357
+687790110,T0ngMystic/Vulnerability_List,CVE-2023-46604-ActiveMQ/src/main/java/org/springframework/context/support/ClassPathXmlApplicationContext.java,f79e303f5b3bbced44968983387f07736ed84d16,CVE-2023-46604

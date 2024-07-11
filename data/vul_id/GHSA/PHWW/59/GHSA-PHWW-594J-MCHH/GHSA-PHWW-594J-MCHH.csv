@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-PHWW-594J-MCHH,0.50000000,https://github.com/PH03N1XSP/CVE-2023-5024,PH03N1XSP/CVE-2023-5024,697093590

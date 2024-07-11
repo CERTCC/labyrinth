@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.go,6dd27a6cc66afc72c83918f927b313df4642d29a,CVE-2006-5051
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.go,6dd27a6cc66afc72c83918f927b313df4642d29a,CVE-2008-4109
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.go,6dd27a6cc66afc72c83918f927b313df4642d29a,CVE-2024-6387
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.sh,7080eaff0e8bf000b7de4accaec368bd5a74edfd,CVE-2006-5051
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.sh,7080eaff0e8bf000b7de4accaec368bd5a74edfd,CVE-2008-4109
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.sh,7080eaff0e8bf000b7de4accaec368bd5a74edfd,CVE-2024-6387
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.dart,74b084193ae37c6c312fda58923bcc741dcf0d80,CVE-2006-5051
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.dart,74b084193ae37c6c312fda58923bcc741dcf0d80,CVE-2008-4109
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.dart,74b084193ae37c6c312fda58923bcc741dcf0d80,CVE-2024-6387
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,build_go.sh,b42b9908da930800a841ac0a2258d358d078124d,CVE-2024-6387
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.py,d9cbe852e6228c0eca13b693b65635762be6e100,CVE-2006-5051
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.py,d9cbe852e6228c0eca13b693b65635762be6e100,CVE-2008-4109
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,CVE-2024-6387-OpenSSH-Vulnerability-Checker.py,d9cbe852e6228c0eca13b693b65635762be6e100,CVE-2024-6387
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,README.md,dc004ae8958505fb9f4278b9bc230149fd19afe7,CVE-2024-6387
+823940931,turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker,_GITHUB_REPO_METADATA_,,CVE-2024-6387

@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+623295026,dwbzn/pentaho-exploits,cve-2022-43769.py,282bb1d442d1b4d6b67eac2165b58471ad8a09ad,CVE-2022-43769
+623295026,dwbzn/pentaho-exploits,cve-2022-43769.py,282bb1d442d1b4d6b67eac2165b58471ad8a09ad,CVE-2022-43939
+623295026,dwbzn/pentaho-exploits,cve-2022-43773.py,92ec5cb827b0fbc7a005832c5e51621cebdacca4,CVE-2022-43773
+623295026,dwbzn/pentaho-exploits,cve-2022-43938.py,a218be833b2dac3a0419ced0b66164c61f4ee73e,CVE-2022-43938
+623295026,dwbzn/pentaho-exploits,cve-2022-43771.py,bae414a01d4e240083acc506e9666f93866bb1a0,CVE-2022-43771
+623295026,dwbzn/pentaho-exploits,cve-2022-43941.py,c0139de8dffe206aa9a2efa0cd570f4cfee09cf5,CVE-2022-43941
+623295026,dwbzn/pentaho-exploits,cve-2022-43769-nuclei.yaml,e372209e992c128c796d3246f7a076077cd7ab4c,CVE-2022-43769

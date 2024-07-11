@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,0482be8388bb4d4779ab6b0f0a57ba4b8c90cc29,CVE-2012-2122
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,0482be8388bb4d4779ab6b0f0a57ba4b8c90cc29,CVE-2017-5689
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,0482be8388bb4d4779ab6b0f0a57ba4b8c90cc29,CVE-2018-10933
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,0482be8388bb4d4779ab6b0f0a57ba4b8c90cc29,CVE-2019-0708
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,0482be8388bb4d4779ab6b0f0a57ba4b8c90cc29,CVE-2020-0796
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,0482be8388bb4d4779ab6b0f0a57ba4b8c90cc29,MS12-020
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,0482be8388bb4d4779ab6b0f0a57ba4b8c90cc29,MS17-010

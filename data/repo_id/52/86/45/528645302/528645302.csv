@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+528645302,Fjowel/CVE-2022-37150,Online Diagnostic Lab Management System Stored XSS.docx,230182a1dc5d67e81eb811b619b689e428afc181,VU#77
+528645302,Fjowel/CVE-2022-37150,README.md,e54eb7ffcdbc7f592de1dd495e9d33b53e1bd0a2,CVE-2022-37150
+528645302,Fjowel/CVE-2022-37150,_GITHUB_REPO_METADATA_,,CVE-2022-37150

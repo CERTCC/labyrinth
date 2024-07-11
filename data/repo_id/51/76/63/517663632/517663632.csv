@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+517663632,achelabov/exploitDB,db/sqlite/storage.db,1cfcf5c32791bec3bcc8e67d31e5e816cbbb056a,CVE-2019-0708
+517663632,achelabov/exploitDB,db/sqlite/storage.db,1cfcf5c32791bec3bcc8e67d31e5e816cbbb056a,CVE-2020-1472

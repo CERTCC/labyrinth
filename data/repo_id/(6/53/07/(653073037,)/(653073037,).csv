@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+653073037,hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz,README.md,6dd538cd9ac7a4a4e081765cfa327d7e6f044504,CVE-2022-42475
+653073037,hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz,CVE-2023-27997.py,94ff4c26eea176464ed8d996f2acec44fbf08e6b,CVE-2023-27997
+653073037,hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz,_GITHUB_REPO_METADATA_,,CVE-2023-27997

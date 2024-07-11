@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+620590502,nice1st/CVE-2023-24998,build/test-results/test/binary/output.bin,11c78e1c7c65a04d28595e01d57fdc39c687f70f,CVE-2023-24998
+620590502,nice1st/CVE-2023-24998,settings.gradle.kts,3ca5160f781b44c561b8fed94172411163b53358,CVE-2023-24998
+620590502,nice1st/CVE-2023-24998,build/reports/tests/test/classes/com.example.cve202324998.controller.FileUploadControllerTest.html,889137a8fa6813d40dc827ec8a238f55310d4232,CVE-2023-24998
+620590502,nice1st/CVE-2023-24998,build/test-results/test/TEST-com.example.cve202324998.controller.FileUploadControllerTest.xml,ea21ba02f370182de690d27f295519b7d4eebf84,CVE-2023-24998
+620590502,nice1st/CVE-2023-24998,_GITHUB_REPO_METADATA_,,CVE-2023-24998

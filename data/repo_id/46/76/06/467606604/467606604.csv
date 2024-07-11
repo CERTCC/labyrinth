@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+467606604,p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce,CVE-2020-14144-GiTea-git-hooks-rce.py,930fbc1955048c9f3eb53979448871d2c34d58a7,CVE-2020-14144
+467606604,p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce,README.md,d300e539de0f446f9da862304d0ab619aac3173b,CVE-2020-14144
+467606604,p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce,_GITHUB_REPO_METADATA_,,CVE-2020-14144

@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-JHXP-CMCC-WRX8,0.07692308,https://github.com/dugisan3rd/exploit,dugisan3rd/exploit,575389175

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+476355522,FourCoreLabs/spring4shell-exploit-poc,README.md,712863bb5961e09d96c872f87566ca340ba1c2ea,CVE-2022-22965
+476355522,FourCoreLabs/spring4shell-exploit-poc,_GITHUB_REPO_METADATA_,,CVE-2022-22965

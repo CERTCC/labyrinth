@@ -46,6 +46,7 @@ repo_id,repo_full_name,file,file_sha1,match
 214463121,flankerhqd/vendor-android-cves,visiond-CVE-2018-9143/poc/gradlew.bat,cf68b95a4029e352fe1ee002bb367ac1b686f9ad,CVE-2018-9143
 214463121,flankerhqd/vendor-android-cves,SMT-CVE-2019-16253/solib/jni/libmstring/mstring.c,d101b75922014531f768f2c77c7e41fa514ecc85,CVE-2019-16253
 214463121,flankerhqd/vendor-android-cves,SMT-CVE-2019-16253/langpoc/app/src/main/res/values/strings.xml,d8dae8e626b596ab421999ff4c89b2453d8a9394,CVE-2019-16253
+214463121,flankerhqd/vendor-android-cves,AS-22-He-The-Hidden-RCE-Surfaces-That-Control-The-Droids.pdf,dd27c5dfbf8fc2991f293d748340638592872e73,VU#99
 214463121,flankerhqd/vendor-android-cves,SMT-CVE-2019-16253/langpoc/app/src/main/AndroidManifest.xml,e2c98830d8d92d101525637b3abaf7df027e88bb,CVE-2019-16253
 214463121,flankerhqd/vendor-android-cves,visiond-CVE-2018-9143/poc/app/src/main/res/layout/activity_main.xml,ef40bf24d2baee2cba067626456a210a0879a892,CVE-2018-9143
 214463121,flankerhqd/vendor-android-cves,visiond-CVE-2018-9143/poc/app/src/main/AndroidManifest.xml,f22f5c76a9b80338c29133b4e00466e1670d61a8,CVE-2018-9143

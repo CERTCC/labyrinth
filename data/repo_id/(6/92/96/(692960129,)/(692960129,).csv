@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+692960129,kzyo0t/webfuzz_rce,tests/test_html.html,7bd47b931b87604c29bdc21ce09f69e1ed3fdff9,CVE-2018-7280
+692960129,kzyo0t/webfuzz_rce,tests/test_html.html,7bd47b931b87604c29bdc21ce09f69e1ed3fdff9,CVE-2019-11843
+692960129,kzyo0t/webfuzz_rce,tests/test_html.html,7bd47b931b87604c29bdc21ce09f69e1ed3fdff9,CVE-2020-7104
+692960129,kzyo0t/webfuzz_rce,tests/test_html.html,7bd47b931b87604c29bdc21ce09f69e1ed3fdff9,CVE-2020-7107
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,CVE-2013-6420
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,VU#32
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,VU#33
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,VU#37
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,VU#396
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,VU#49
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,VU#65
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,VU#82
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,VU#84
+692960129,kzyo0t/webfuzz_rce,instrumentor/php/composer.phar,f0bd25ed36bef2e01ee2b1066b985968d60c8367,VU#85

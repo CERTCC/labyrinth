@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,01- Introducción completa para principiantes/01- Introduccion completa para principiantes.md,0b4a8a305ad54f9847bf9d70e71586b77c5fe94e,CVE-2007-0017
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,01- Introducción completa para principiantes/01- Introduccion completa para principiantes.md,0b4a8a305ad54f9847bf9d70e71586b77c5fe94e,CVE-2016-1240
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,01- Introducción completa para principiantes/01- Introduccion completa para principiantes.md,0b4a8a305ad54f9847bf9d70e71586b77c5fe94e,CVE-2019-18634
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,01- Introducción completa para principiantes/01- Introduccion completa para principiantes.md,0b4a8a305ad54f9847bf9d70e71586b77c5fe94e,CVE-2020-10385
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,06- Conceptos básicos de explotación de Windows/04- Blue.md,6c9d77919c45ea6d1bb0003854db798c95a2dcbc,MS08-067
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,06- Conceptos básicos de explotación de Windows/04- Blue.md,6c9d77919c45ea6d1bb0003854db798c95a2dcbc,MS17-010
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,03- Conceptos básicos de explotación de red/02- NMAP.md,90121cf7532d5fe5973a0c00dcc6066507486297,CVE-2017-7494
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,03- Conceptos básicos de explotación de red/02- NMAP.md,90121cf7532d5fe5973a0c00dcc6066507486297,MS06-025
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,03- Conceptos básicos de explotación de red/02- NMAP.md,90121cf7532d5fe5973a0c00dcc6066507486297,MS07-029
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,03- Conceptos básicos de explotación de red/02- NMAP.md,90121cf7532d5fe5973a0c00dcc6066507486297,MS08-067
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,03- Conceptos básicos de explotación de red/02- NMAP.md,90121cf7532d5fe5973a0c00dcc6066507486297,MS10-054
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,03- Conceptos básicos de explotación de red/02- NMAP.md,90121cf7532d5fe5973a0c00dcc6066507486297,MS10-061
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,03- Conceptos básicos de explotación de red/02- NMAP.md,90121cf7532d5fe5973a0c00dcc6066507486297,MS17-010

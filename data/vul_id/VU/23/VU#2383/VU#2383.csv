@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#2383,0.07142857,https://github.com/anyquestions69/attack-sploits,anyquestions69/attack-sploits,727411368
+VU#2383,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,717935231
+VU#2383,0.01470588,https://github.com/Gnza10/TPMvulnerabilities,Gnza10/TPMvulnerabilities,822570043

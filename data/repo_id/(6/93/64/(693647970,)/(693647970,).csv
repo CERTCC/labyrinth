@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,INSTALADOR.exe,678f1036813e5fc71e1ecd33b393969ec6a12cbf,VU#07
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,INSTALADOR.exe,678f1036813e5fc71e1ecd33b393969ec6a12cbf,VU#24
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,INSTALADOR.exe,678f1036813e5fc71e1ecd33b393969ec6a12cbf,VU#29
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,INSTALADOR.exe,678f1036813e5fc71e1ecd33b393969ec6a12cbf,VU#86
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,INSTALADOR.exe,678f1036813e5fc71e1ecd33b393969ec6a12cbf,VU#91
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,INSTALADOR.exe,678f1036813e5fc71e1ecd33b393969ec6a12cbf,VU#97
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,README.md,a19f99a15ce19257bf4b1f35c9326fdde3d28ed0,CVE-2023-38831
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,_GITHUB_REPO_METADATA_,,CVE-2023-38831

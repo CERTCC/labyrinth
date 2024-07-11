@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+529080254,caique-garbim/MS12-020_Esteemaudit,README.md,54c6025a45812e7d7e849de0b9ce34b99b965da0,CVE-2012-0002
+529080254,caique-garbim/MS12-020_Esteemaudit,README.md,54c6025a45812e7d7e849de0b9ce34b99b965da0,MS12-020
+529080254,caique-garbim/MS12-020_Esteemaudit,_GITHUB_REPO_METADATA_,,MS12-020

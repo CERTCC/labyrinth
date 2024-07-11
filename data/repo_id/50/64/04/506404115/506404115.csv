@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+506404115,electr0lulz/Mass-exploit-CVE-2022-29464,README.md,8d0576c68062a5c4bace23657a654ccc8c852598,CVE-2022-29464
+506404115,electr0lulz/Mass-exploit-CVE-2022-29464,exploit.py,fb11f9779e7ada8c43c2bc9759b9accbdb72b0aa,CVE-2022-29464
+506404115,electr0lulz/Mass-exploit-CVE-2022-29464,_GITHUB_REPO_METADATA_,,CVE-2022-29464

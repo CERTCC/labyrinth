@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+417803918,sha0coder/scemu,maps32/msvcrt_text.bin,412c51b31c16adaf49e743336c6c28e5a5e36a3d,VU#99
+417803918,sha0coder/scemu,maps32/wininet_text.bin,4a220a1b51abe3655cede8091adc079aa6ca5209,VU#73
+417803918,sha0coder/scemu,maps32/wininet_text.bin,4a220a1b51abe3655cede8091adc079aa6ca5209,VU#79
+417803918,sha0coder/scemu,maps32/ole32_text.bin,e622984e417b575c3d83a89d4936a7ca8516cb93,VU#39
+417803918,sha0coder/scemu,maps32/ole32_text.bin,e622984e417b575c3d83a89d4936a7ca8516cb93,VU#595
+417803918,sha0coder/scemu,maps32/ole32_text.bin,e622984e417b575c3d83a89d4936a7ca8516cb93,VU#69
+417803918,sha0coder/scemu,maps32/ole32_text.bin,e622984e417b575c3d83a89d4936a7ca8516cb93,VU#95

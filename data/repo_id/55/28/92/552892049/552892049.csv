@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+552892049,pizza-power/golang-webmin-CVE-2022-0824-revshell,README.md,c0853810da22e51843f0d6c16d4da8086aae3cc8,CVE-2022-0824
+552892049,pizza-power/golang-webmin-CVE-2022-0824-revshell,README.md,c0853810da22e51843f0d6c16d4da8086aae3cc8,CVE-2022-0829
+552892049,pizza-power/golang-webmin-CVE-2022-0824-revshell,cve-2022-0824.go,f2766d201daed71fe921318c7da3e5a17fc27b42,CVE-2022-0824
+552892049,pizza-power/golang-webmin-CVE-2022-0824-revshell,cve-2022-0824.go,f2766d201daed71fe921318c7da3e5a17fc27b42,CVE-2022-0829
+552892049,pizza-power/golang-webmin-CVE-2022-0824-revshell,_GITHUB_REPO_METADATA_,,CVE-2022-0824

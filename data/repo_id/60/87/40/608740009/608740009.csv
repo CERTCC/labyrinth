@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+608740009,1fabunicorn/SnakeYAML-CVE-2022-1471-POC,README.md,f0c620e576cd3ca96b387235b6fc755bbee8b03f,CVE-2022-1471
+608740009,1fabunicorn/SnakeYAML-CVE-2022-1471-POC,_GITHUB_REPO_METADATA_,,CVE-2022-1471

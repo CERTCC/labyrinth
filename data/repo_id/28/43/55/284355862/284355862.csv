@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_linux-x64.zip,8ebea13cc1b90c7ada3a51c4a50cf77f9ae4bc82,VU#05
+284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_win-x64.zip,ad1fcb3ffa64e2bc68aa2a5c79e0ad80a1035a4b,VU#90
+284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_win-x64.zip,ad1fcb3ffa64e2bc68aa2a5c79e0ad80a1035a4b,VU#97

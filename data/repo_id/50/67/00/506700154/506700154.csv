@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+506700154,Swipeify/BankID-EXPLOIT,shark-cable-1.2.0.bin,b9182d55e005a8b7a80e896aaaef6edc43f70832,VU#14
+506700154,Swipeify/BankID-EXPLOIT,shark-cable-1.2.0.bin,b9182d55e005a8b7a80e896aaaef6edc43f70832,VU#95

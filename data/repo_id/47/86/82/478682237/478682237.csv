@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+478682237,guilletmax/firmware-exploit,v2/firmware.bin,4afcdc924ac7c525e1a42afccd45f1e75e9165c9,VU#16
+478682237,guilletmax/firmware-exploit,v2/squashfs,541ea14bda236ac7aaea662eaa618c9c8d38f078,VU#16
+478682237,guilletmax/firmware-exploit,v1/squashfs,88d51b4edf97c8e6e887cfdb57fff2f6c20c5dae,VU#16
+478682237,guilletmax/firmware-exploit,v1/firmware.bin,f06b6afa728efdab037eef6490731f8198b5c8a7,VU#16

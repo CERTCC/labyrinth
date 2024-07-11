@@ -1,1 +1,7 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+225452554,rosvik/cve.248.no,src/pages/index.tsx,177d56ba13fe4258b5e8f1138543ecc86f44d7d4,CVE-0000-0000
+225452554,rosvik/cve.248.no,src/pages/index.tsx,177d56ba13fe4258b5e8f1138543ecc86f44d7d4,CVE-2021-30900
+225452554,rosvik/cve.248.no,src/pages/index.tsx,177d56ba13fe4258b5e8f1138543ecc86f44d7d4,CVE-2022-41099
+225452554,rosvik/cve.248.no,src/pages/index.tsx,177d56ba13fe4258b5e8f1138543ecc86f44d7d4,CVE-2023-24482
+225452554,rosvik/cve.248.no,yarn.lock,18f96a3924a5b1ca4b772393d22e9e5cdc8f8e0b,VU#05
+225452554,rosvik/cve.248.no,yarn.lock,18f96a3924a5b1ca4b772393d22e9e5cdc8f8e0b,VU#18

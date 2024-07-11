@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+764734826,jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc,exploit.py,1b916eb9e5a4c816022464e2c17ca94648298c0b,CVE-2023-39362
+764734826,jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc,README.md,d9b2664f98a7ff680fdeab0473e87c747b8ce7ca,CVE-2023-39362
+764734826,jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc,README.md,d9b2664f98a7ff680fdeab0473e87c747b8ce7ca,GHSA-G6FF-58CJ-X3CP
+764734826,jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc,_GITHUB_REPO_METADATA_,,CVE-2023-39362

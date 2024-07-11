@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZDI-15-155,0.01886792,https://github.com/rdomanski/Exploits_and_Advisories,rdomanski/Exploits_and_Advisories,254165166
-ZDI-15-155,0.00465116,https://github.com/pedrib/PoC,pedrib/PoC,13247147
+ZDI-15-155,0.01449275,https://github.com/rdomanski/Exploits_and_Advisories,rdomanski/Exploits_and_Advisories,254165166
+ZDI-15-155,0.00446429,https://github.com/pedrib/PoC,pedrib/PoC,13247147
+ZDI-15-155,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 ZDI-15-155,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 ZDI-15-155,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 ZDI-15-155,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
@@ -12,3 +13,8 @@ ZDI-15-155,0.00023646,https://github.com/RuZGaRBeY/metasploit-framework,RuZGaRBe
 ZDI-15-155,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZDI-15-155,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 ZDI-15-155,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
+ZDI-15-155,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+ZDI-15-155,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
+ZDI-15-155,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-15-155,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+ZDI-15-155,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

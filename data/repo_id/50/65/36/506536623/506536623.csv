@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+506536623,lele8/CVE-2020-1472,utils/__pycache__/__init__.cpython-39.pyc,02038a4f539d0d1330e5c4085e00bfa50e10e24b,CVE-2020-1472
+506536623,lele8/CVE-2020-1472,zerologon_exploit.py,180e838ac0e3ce5fd66df1b9db5106c14eb74227,CVE-2020-1472
+506536623,lele8/CVE-2020-1472,utils/__pycache__/secretsdump.cpython-39.pyc,211ad88647f84389d08a6b8e3ce2fbd18f29f1e4,CVE-2020-1472
+506536623,lele8/CVE-2020-1472,README.md,38b0bef26034cb0b1ef2bc803979f2d29e9a8147,CVE-2020-1472
+506536623,lele8/CVE-2020-1472,utils/__pycache__/restorepassword.cpython-39.pyc,9530d3a6d42816e77d06cd3edc9b72ef5914c4fa,CVE-2020-1472
+506536623,lele8/CVE-2020-1472,utils/__pycache__/wmiexec.cpython-39.pyc,bd15d283770a31e61c547201c2b84965902f56c8,CVE-2020-1472
+506536623,lele8/CVE-2020-1472,_GITHUB_REPO_METADATA_,,CVE-2020-1472

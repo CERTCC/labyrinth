@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+476398503,s9rA16Bf4/exploits,2019-13623/README.md,2f6abbfa3251e2f28c5573b68ee02f38e8879900,CVE-2019-13623
+476398503,s9rA16Bf4/exploits,2019-13623/code/exploit.go,ea8e032c0d4bbb01037480bb66b55661ddf1ab70,CVE-2019-13623

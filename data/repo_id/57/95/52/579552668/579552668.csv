@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+579552668,Exploitables/Gigabyte-Driver-Exploit,GDRV-Exploit/exploit.c,9c5047460c58b90d707144611501e7af18da397f,CVE-2018-19320

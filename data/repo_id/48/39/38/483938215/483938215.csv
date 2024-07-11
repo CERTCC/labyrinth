@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+483938215,tufanturhan/wso2-rce-cve-2022-29464,README.md,49be329e268550d58e85ff0e5ed914d05705820f,CVE-2022-29464
+483938215,tufanturhan/wso2-rce-cve-2022-29464,_GITHUB_REPO_METADATA_,,CVE-2022-29464

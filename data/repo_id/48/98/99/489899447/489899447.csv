@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+489899447,blind-intruder/CVE-2022-1388-RCE-checker-and-POC-Exploit,CVE-2022-1388.sh,236aaf07df40be17f9473a9fb119e79ebda74725,CVE-2022-1388
+489899447,blind-intruder/CVE-2022-1388-RCE-checker-and-POC-Exploit,README.md,3fb00cda63de53449fbe3a41edb86bdadfa50500,CVE-2022-1388
+489899447,blind-intruder/CVE-2022-1388-RCE-checker-and-POC-Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-1388

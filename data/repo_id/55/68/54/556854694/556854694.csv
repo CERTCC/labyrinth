@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+556854694,Ha-L0/Ha-L0.github.io,_posts/2022-11-21-[H4-L0]-HTB-Ambassador.md,12b9edcf7bff2074641c5a2718fe9ef41288a7ae,CVE-2021-43798
+556854694,Ha-L0/Ha-L0.github.io,_posts/2022-12-03-[H4]-Proving-Grounds-Play-VULNHUB-Sunset-Decoy.md,31fa736ad6d940894b23f2a7fa4f4b459363adff,CVE-2021-4034
+556854694,Ha-L0/Ha-L0.github.io,_posts/2022-11-19-[H4]-Proving-Grounds-Play-VULNHUB-driftingblues-6.md,709310e4ebeb32674db37cc7282d9f7165625e97,CVE-2013-0268
+556854694,Ha-L0/Ha-L0.github.io,_posts/2022-11-19-[H4]-Proving-Grounds-Play-VULNHUB-driftingblues-6.md,709310e4ebeb32674db37cc7282d9f7165625e97,CVE-2013-2094
+556854694,Ha-L0/Ha-L0.github.io,_posts/2022-11-19-[H4]-Proving-Grounds-Play-VULNHUB-driftingblues-6.md,709310e4ebeb32674db37cc7282d9f7165625e97,CVE-2016-5195
+556854694,Ha-L0/Ha-L0.github.io,_posts/2022-11-19-[H4]-Proving-Grounds-Play-VULNHUB-driftingblues-6.md,709310e4ebeb32674db37cc7282d9f7165625e97,CVE-2018-14665
+556854694,Ha-L0/Ha-L0.github.io,_posts/2022-11-18-[H4]-Proving-Grounds-Play-VULNHUB-vegeta-1.md,9c9dd8483797cd49dc0c332b405f4e13fe7f4feb,VU#29
+556854694,Ha-L0/Ha-L0.github.io,_posts/2022-11-14-[H4]-Proving-Grounds-Play-VULNHUB-blogger-1.md,fd54d8571e984cb5fe54382f1422fc5edeee4311,CVE-2020-24186

@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+588262722,MashyBasker/exploit,resources/apue.pdf,53b3afd08338a596e0e8caf61eb76cc72d28388a,VU#01
+588262722,MashyBasker/exploit,resources/apue.pdf,53b3afd08338a596e0e8caf61eb76cc72d28388a,VU#010
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#00
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#10
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#35
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#48
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#58
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#80
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#82
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#84
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#88
+588262722,MashyBasker/exploit,resources/hacking-the-art-of-exploitation.pdf,63187e6dffb2bd76f87b3bbacc801a329c5874f0,VU#98

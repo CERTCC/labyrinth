@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-437264961,Neo23x0/log4shell-detector,README.md,c9c3ec28c875c8c4f2c6dcdb3845b5795d87a94a,CVE-2021-44228
+437264961,Neo23x0/log4shell-detector,Log4ShellDetector/Log4ShellDetector.py,dee07c27c49e739d629f406eb8aa0bf0616d7c78,CVE-2021-44228
+437264961,Neo23x0/log4shell-detector,README.md,f1ff5f6f1e41b9d40370f6fcf34ca24f0911149a,CVE-2021-44228

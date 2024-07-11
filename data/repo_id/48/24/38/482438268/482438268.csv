@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+482438268,mcdulltii/CVE-2022-1329,exploit.py,0623dfa9f2fac383aab6fbe762efb03dcab20ebd,CVE-2022-1329
+482438268,mcdulltii/CVE-2022-1329,README.md,321d929921a0a47f601a5a43e599f98ac35cb585,CVE-2022-1329
+482438268,mcdulltii/CVE-2022-1329,_GITHUB_REPO_METADATA_,,CVE-2022-1329

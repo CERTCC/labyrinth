@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+476262258,zxzxz1/Exploit_Version.1.2.0,krnl.dll,bb887dc70f871cc9310bd41fb3bcf1f6202005a0,VU#13
+476262258,zxzxz1/Exploit_Version.1.2.0,krnl.dll,bb887dc70f871cc9310bd41fb3bcf1f6202005a0,VU#81
+476262258,zxzxz1/Exploit_Version.1.2.0,gayexe.exe,bbf82925bfdfacd0e15208b26ff4bfeb017959b2,VU#43

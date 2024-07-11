@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+477067906,drapl0n/dirtypipe,payload.txt,3fbb497ebef1f925e54b32f4bf166fa99e93c3ee,CVE-2022-0847
+477067906,drapl0n/dirtypipe,README.md,78ada0a7866a1a78c3135d8ac0f5074ac5ca759f,CVE-2022-0847
+477067906,drapl0n/dirtypipe,_GITHUB_REPO_METADATA_,,CVE-2022-0847

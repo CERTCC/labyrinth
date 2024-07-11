@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+439336714,post-cyberlabs/Exploits,poc_control_eip_firefox56-57_CVE-2018-5093.html,2c3f7af9c764c57344851fb601b43cc47fb16d2a,CVE-2018-5093
+439336714,post-cyberlabs/Exploits,CVE-2022-41140_d-link_pre_auth_bof.py,35bc08323e266daba3ee570223384661dfef2f64,CVE-2022-41140
+439336714,post-cyberlabs/Exploits,CVE-2018-5093_ff57.js,9139befa6de5131d2c4e959bf19e9abc26ad3df0,CVE-2018-5093
+439336714,post-cyberlabs/Exploits,CVE-2022-46527_MainActivity.java,98b7f00dad3657d5022e17b6b3adc6aaeea561f8,CVE-2022-46527
+439336714,post-cyberlabs/Exploits,CVE-2018-5093_ff57.html,b03407ce242e772347e2b8e7c5e64ec856a811a5,CVE-2018-5093
+439336714,post-cyberlabs/Exploits,CVE-2021-36100.py,e04e86a3d34bb6828b216160c49bad7076c09e4d,CVE-2021-36100

@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+238929660,0x48piraj/jiraffe,README.md,783d1f13e78cbbca1c6f1e3d7db92026ca6e82bb,CVE-2017-9506
+238929660,0x48piraj/jiraffe,README.md,783d1f13e78cbbca1c6f1e3d7db92026ca6e82bb,CVE-2019-11581
+238929660,0x48piraj/jiraffe,README.md,783d1f13e78cbbca1c6f1e3d7db92026ca6e82bb,CVE-2019-8449
+238929660,0x48piraj/jiraffe,README.md,783d1f13e78cbbca1c6f1e3d7db92026ca6e82bb,CVE-2019-8451
+238929660,0x48piraj/jiraffe,jiraffe/__main__.py,81b2d5cc90a70c55435b85c47df129f4b5f6e811,CVE-2017-9506
+238929660,0x48piraj/jiraffe,jiraffe/__main__.py,81b2d5cc90a70c55435b85c47df129f4b5f6e811,CVE-2019-11581
+238929660,0x48piraj/jiraffe,jiraffe/__main__.py,81b2d5cc90a70c55435b85c47df129f4b5f6e811,CVE-2019-8449
+238929660,0x48piraj/jiraffe,jiraffe/__main__.py,81b2d5cc90a70c55435b85c47df129f4b5f6e811,CVE-2019-8451
+238929660,0x48piraj/jiraffe,jiraffe/exploits.py,ab2f4505b8546fa350c22639dee8cf13a8994c5a,CVE-2017-9506
+238929660,0x48piraj/jiraffe,jiraffe/exploits.py,ab2f4505b8546fa350c22639dee8cf13a8994c5a,CVE-2019-11581
+238929660,0x48piraj/jiraffe,jiraffe/exploits.py,ab2f4505b8546fa350c22639dee8cf13a8994c5a,CVE-2019-8449
+238929660,0x48piraj/jiraffe,jiraffe/exploits.py,ab2f4505b8546fa350c22639dee8cf13a8994c5a,CVE-2019-8451

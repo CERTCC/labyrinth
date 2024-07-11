@@ -1,0 +1,10 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2021-33202,0.00314465,https://github.com/KayCHENvip/vulnerability-poc,KayCHENvip/vulnerability-poc,658037002
+CNVD-2021-33202,0.00306748,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
+CNVD-2021-33202,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2021-33202,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+CNVD-2021-33202,0.00184843,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+CNVD-2021-33202,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNVD-2021-33202,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+CNVD-2021-33202,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2021-33202,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

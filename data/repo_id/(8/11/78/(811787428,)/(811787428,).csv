@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+811787428,watchtowrlabs/CVE-2024-4577,watchTowr-vs-php_cve-2024-4577.py,070c87988a1488e09ee0b0c98606c352d89e4ded,CVE-2024-4577
+811787428,watchtowrlabs/CVE-2024-4577,README.md,8a8c2cf48d4647f55ae58dacbda5b2e7e4a7878a,CVE-2024-4577
+811787428,watchtowrlabs/CVE-2024-4577,_GITHUB_REPO_METADATA_,,CVE-2024-4577

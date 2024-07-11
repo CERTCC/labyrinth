@@ -1,0 +1,38 @@
+repo_id,repo_full_name,file,file_sha1,match
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CNVD-2020-10487
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2023-22527
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2022-26134
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2022-22963
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2022-22947
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2021-44228
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2021-42278
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2021-34527
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2021-22205
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2021-42287
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2020-1938
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2020-14882
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2020-1472
+456730436,Threekiii/Awesome-Redteam,README.md,2c5c30d52bf82b3cd3832c5ee278e07f1ab89f18,CVE-2021-1675
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2021-1675
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,VU#35
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,VU#319
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,VU#09
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,MS17-010
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,MS14-068
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,MS14-025
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,MS08-068
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2019-0686
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2022-33679
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2022-26925
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2019-0724
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2019-1040
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2020-0796
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2021-42287
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,VU#36
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2021-42278
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2020-1472
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2021-40469
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2021-36934
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2021-34527
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2022-26923
+456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,VU#82

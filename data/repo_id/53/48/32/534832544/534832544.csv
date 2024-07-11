@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+534832544,oppsec/pwnfaces,README.md,0cdebc2fe9b2da16f72a6bbc290f20be494fde4e,CVE-2017-1000486
+534832544,oppsec/pwnfaces,_GITHUB_REPO_METADATA_,,CVE-2017-1000486

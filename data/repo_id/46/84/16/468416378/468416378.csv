@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+468416378,michaelklaan/CVE-2022-22947-Spring-Cloud,README.md,5e346a1ec7748c2a0185b5ca10446c388656f65a,CVE-2022-22947
+468416378,michaelklaan/CVE-2022-22947-Spring-Cloud,exploit.py,7c255ee192c55c202e06e675758faeaaf3a01925,CVE-2022-22947
+468416378,michaelklaan/CVE-2022-22947-Spring-Cloud,_GITHUB_REPO_METADATA_,,CVE-2022-22947

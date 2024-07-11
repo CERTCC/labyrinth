@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+708713426,TakahiroHaruyama/VDR,result_firmware.org,b3f0a8c3b6c510c66e723bd11c7a63233f4d18e9,CVE-2023-20598
+708713426,TakahiroHaruyama/VDR,result_firmware.org,b3f0a8c3b6c510c66e723bd11c7a63233f4d18e9,CVE-2023-35841

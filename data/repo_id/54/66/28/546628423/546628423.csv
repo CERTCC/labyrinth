@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+546628423,Imeneallouche/Follina-attack-CVE-2022-30190-,__pycache__/config.cpython-310.pyc,025f67493f08fa772c34034ecfe22cc75bf3a096,CVE-2022-30190
+546628423,Imeneallouche/Follina-attack-CVE-2022-30190-,__pycache__/manip_args.cpython-310.pyc,4f2b0ab94b026ac9f0f9a6e74c0d6f30d8d0184d,CVE-2022-30190
+546628423,Imeneallouche/Follina-attack-CVE-2022-30190-,README.md,c3634a647556405ed02b3eaee84d75c50ee59563,CVE-2022-30190
+546628423,Imeneallouche/Follina-attack-CVE-2022-30190-,_GITHUB_REPO_METADATA_,,CVE-2022-30190

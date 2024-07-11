@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,CVE-2021-44531
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,CVE-2021-44532
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,VU#17
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,VU#32
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,VU#33
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,VU#396
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,VU#49
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,VU#53
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,VU#65
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,VU#82
+730428469,Holifkly/Holifkly,HolifklyLauncher-win.exe,89f6176de2aa9ec20932857198e1c20f3dabf1be,VU#85
+730428469,Holifkly/Holifkly,HolifklyDesktop.zip,b40fb7dbcd0fb48b8ff820385055564b0a025d71,VU#63
+730428469,Holifkly/Holifkly,HolifklyDesktop.zip,b40fb7dbcd0fb48b8ff820385055564b0a025d71,VU#65
+730428469,Holifkly/Holifkly,RetroBar.exe,cf60da5da0b3b4bd9600df9b705489963e202764,VU#5842

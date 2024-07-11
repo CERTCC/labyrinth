@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+659215011,cleypanw/prisma-cloud-exploitation-demo,exploit.sh,0b67f2751e0464b68d7522f05bf7902d91871c99,CVE-2022-22965
+659215011,cleypanw/prisma-cloud-exploitation-demo,code/README.md,fd3365a6457612584bf09e8d205dbf471c5b2a5e,CVE-2022-22965

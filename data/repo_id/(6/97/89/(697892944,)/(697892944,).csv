@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+697892944,jostaub/ghostscript-CVE-2023-43115,README.md,a882063eacba009239eb28bec424b072bca3ef90,CVE-2018-19475
+697892944,jostaub/ghostscript-CVE-2023-43115,README.md,a882063eacba009239eb28bec424b072bca3ef90,CVE-2023-43115
+697892944,jostaub/ghostscript-CVE-2023-43115,_GITHUB_REPO_METADATA_,,CVE-2023-43115

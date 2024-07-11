@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+482962996,sentinelblue/CVE-2022-29072,scripts/Remove-7ZipHelpFile.ps1,6c99ed6145ebf9cb07a59be90e128400534fabd0,CVE-2022-29072
+482962996,sentinelblue/CVE-2022-29072,Sentinel/cve-2022-29072_7-zip_priv_escalation.yaml,77fdeddea22a6710cdc4dd3c575915d7ee7268b2,CVE-2022-29072
+482962996,sentinelblue/CVE-2022-29072,README.md,842d5a3d6b69d38094b576ed06f325a529d561b7,CVE-2022-29072
+482962996,sentinelblue/CVE-2022-29072,Sentinel/readme.md,856a9d6cc342899915b5a73be8e9c0da77869fd7,CVE-2022-29072
+482962996,sentinelblue/CVE-2022-29072,_GITHUB_REPO_METADATA_,,CVE-2022-29072

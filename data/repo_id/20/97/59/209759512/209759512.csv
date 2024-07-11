@@ -1,3 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
+209759512,hackingyseguridad/nmap,CVE-2022-22965.nse,089671718f10630f4198b26c0e9e95a77698ff2d,CVE-2022-22965
 209759512,hackingyseguridad/nmap,CVE-2019-19781.nse,5d9ce033222ae987e65c04ebf401b09a62939a87,CVE-2019-19781
-209759512,hackingyseguridad/nmap,README.md,6021258bf94f512eaf85e365c1eeeade6bf003ee,CVE-2019-19781
+209759512,hackingyseguridad/nmap,cve-2022-40684.sh,5e4bd94d650e5ccf411f3b22bf5b662119b3d7c4,CVE-2022-40684
+209759512,hackingyseguridad/nmap,CVE-2021-41773.nse,7ae747bd8dfb5d4b439101d8b16292262062b303,CVE-2021-41773
+209759512,hackingyseguridad/nmap,CVE-2022-39952.nse,7c53b5e98d06abc5eebaec6435752b2540022056,CVE-2022-39952
+209759512,hackingyseguridad/nmap,README.md,9cde1ee1b0ea360ec8fc8a27ae4181da2e76d482,CVE-2021-41773

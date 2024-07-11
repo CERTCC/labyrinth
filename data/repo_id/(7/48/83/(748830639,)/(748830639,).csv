@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+748830639,BitDevelopersLLC/myexploitscanner,SCHEDULER/exploitscheduler/src/exploitscheduler.jar,3dc4e93f5965ff78cb0b6de8e1e273d11099b14e,VU#24
+748830639,BitDevelopersLLC/myexploitscanner,SCHEDULER/exploitscheduler/src/AllPlatforms-mysql-connector-j-8.3.0.zip,777749af0907b1d8c7c1b12c29a24f0fa6b34b84,VU#24

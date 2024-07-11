@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-W3PJ-WH35-FQ8W,0.33333333,https://github.com/Mr-xn/CVE-2024-36401,Mr-xn/CVE-2024-36401,824794128
+GHSA-W3PJ-WH35-FQ8W,0.00510204,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
+GHSA-W3PJ-WH35-FQ8W,0.00307692,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+GHSA-W3PJ-WH35-FQ8W,0.00184843,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+GHSA-W3PJ-WH35-FQ8W,0.00000929,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+GHSA-W3PJ-WH35-FQ8W,0.00000928,https://github.com/trickest/cve,trickest/cve,454015416

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+693078959,uf0o/exploit_dev,browsers/v8/CVE-2023-4069/exploit.js,0d5f8edbc3042a250ed901f5810d7e9fc5e3f1a5,CVE-2023-4069
+693078959,uf0o/exploit_dev,browsers/v8/CVE-2023-4069/universal_shellcode.py,4a9e7891dee602e3f5b05e76dc8d1830b53f6b5f,CVE-2023-4069
+693078959,uf0o/exploit_dev,kernel/CVE-2022-34718.py,b70997ef23768678f53ce3032f298267013799f3,CVE-2022-34718
+693078959,uf0o/exploit_dev,browsers/v8/CVE-2023-4069/shellcodegen.py,c3f8d2b3a605c0f4f052da55472434a638c01208,CVE-2023-4069

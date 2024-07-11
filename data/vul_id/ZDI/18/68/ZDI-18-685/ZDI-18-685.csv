@@ -2,3 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-18-685,0.25000000,https://github.com/DEMON-v2/virtualbox,DEMON-v2/virtualbox,389318569
 ZDI-18-685,0.25000000,https://github.com/niklasb/3dpwn,niklasb/3dpwn,147115931
 ZDI-18-685,0.16666667,https://github.com/Phantomn/VirtualBox_CVE-2019-2525-CVE-2019-2548,Phantomn/VirtualBox_CVE-2019-2525-CVE-2019-2548,200009594
+ZDI-18-685,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

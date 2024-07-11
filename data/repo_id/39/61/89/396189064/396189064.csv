@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+396189064,HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection,README.md,16c35ccfd10955df5fff19e428cf86724e9d89b6,CVE-2021-38817
+396189064,HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection,_GITHUB_REPO_METADATA_,,CVE-2021-38817

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+780688817,sashco-m/engl210e_final,engl210e_final/templates/tutorial.html,dd8a471b4e696d0c88bd25cacde891a46e1e3a90,CVE-2023-34362
+780688817,sashco-m/engl210e_final,engl210e_final/templates/tutorial.html,dd8a471b4e696d0c88bd25cacde891a46e1e3a90,CVE-2023-35036
+780688817,sashco-m/engl210e_final,engl210e_final/templates/tutorial.html,dd8a471b4e696d0c88bd25cacde891a46e1e3a90,CVE-2023-35708

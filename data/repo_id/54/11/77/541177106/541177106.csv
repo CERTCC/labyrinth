@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+541177106,tahtaciburak/cve-2022-36804,README.md,74d5fe98b5c0ef82a9c816bf424df2ed7ef50f3c,CVE-2022-36804
+541177106,tahtaciburak/cve-2022-36804,cve-2022-36804.py,ce622152104d57bd5a62a36ba14ce57cff5c394c,CVE-2022-36804
+541177106,tahtaciburak/cve-2022-36804,_GITHUB_REPO_METADATA_,,CVE-2022-36804

@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-9WQR-5JP4-MJMH,0.50000000,https://github.com/Rubikcuv5/cve-2023-30253,Rubikcuv5/cve-2023-30253,806179763

@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+824093061,xzx482/CVE-2024-1086,README.md,537c31c1b0b2b37214646d1118eab868769f5bce,CVE-2024-1086
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#101010
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#410
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#411
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#420
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#422
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#444
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#888
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#8888
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#410
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#411
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#420
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#422
+824093061,xzx482/CVE-2024-1086,include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#444
+824093061,xzx482/CVE-2024-1086,_GITHUB_REPO_METADATA_,,CVE-2024-1086

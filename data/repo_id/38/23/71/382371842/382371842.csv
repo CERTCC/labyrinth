@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+382371842,xfiftyone/seeyon-exploit,cmd/list.go,854c31290a5a25d8af7214c22885a003130cf4f7,CNVD-2020-62422
+382371842,xfiftyone/seeyon-exploit,README.md,9638b010334421ee3bb394352eba992db3a6b105,CNVD-2020-62422
+382371842,xfiftyone/seeyon-exploit,vulners/sy03.go,c64c8e686271d51296cc39af2acf8932589c3dab,CNVD-2020-62422

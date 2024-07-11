@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+591274063,t101804/sso-rce,WSO2.py,8ddcb009907edc5d771d10e63237a7247b2036b0,CVE-2022-29464

@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+719369149,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,apache-activemq-5.15.15-bin/apache-activemq-5.15.15/lib/activemq-openwire-legacy-5.15.15.jar,14fc63e92bc7152739b85b55f6449aff7d6c8623,VU#95
+719369149,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,apache-activemq-5.15.15-bin/apache-activemq-5.15.15/activemq-all-5.15.15.jar,3a43437b91e2b995e10f8face72416947f09c11a,VU#74
+719369149,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,apache-activemq-5.15.15-bin/apache-activemq-5.15.15/activemq-all-5.15.15.jar,3a43437b91e2b995e10f8face72416947f09c11a,VU#95
+719369149,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,apache-activemq-5.15.15-bin/apache-activemq-5.15.15/lib/camel/camel-core-2.25.2.jar,3d3e11ee64c0ba123400f990ef5ae2d2a72b5910,VU#74
+719369149,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,apache-activemq-5.15.15-bin/apache-activemq-5.15.15/lib/optional/leveldb-0.9.jar,4148b53fb4e7a799c880a49c7a3af5d8fe31a95e,VU#20
+719369149,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,apache-activemq-5.15.15-bin/apache-activemq-5.15.15/lib/web/ecj-3.17.0.jar,518834df2e8328bd957f0f0893f2727b73bfe5c6,VU#48
+719369149,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,_GITHUB_REPO_METADATA_,,CVE-2023-46604

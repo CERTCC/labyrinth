@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+160637103,xairy/vmware-exploitation,README.md,d842595d2e03e1d9d2d41a4b50e5c555f57328e3,CVE-2017-4901
+160637103,xairy/vmware-exploitation,README.md,d842595d2e03e1d9d2d41a4b50e5c555f57328e3,CVE-2018-6973
+160637103,xairy/vmware-exploitation,README.md,d842595d2e03e1d9d2d41a4b50e5c555f57328e3,CVE-2020-3947
+160637103,xairy/vmware-exploitation,README.md,d842595d2e03e1d9d2d41a4b50e5c555f57328e3,CVE-2022-31705
+160637103,xairy/vmware-exploitation,README.md,d842595d2e03e1d9d2d41a4b50e5c555f57328e3,CVE-2023-20869
+160637103,xairy/vmware-exploitation,README.md,d842595d2e03e1d9d2d41a4b50e5c555f57328e3,CVE-2023-2086920870
+160637103,xairy/vmware-exploitation,README.md,d842595d2e03e1d9d2d41a4b50e5c555f57328e3,ZDI-19-421

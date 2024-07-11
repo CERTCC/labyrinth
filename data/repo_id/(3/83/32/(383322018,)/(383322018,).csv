@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+383322018,danielcunn123/Security,Firewall/rules/README.md,0cd83778dc403a9ac026410122534c404f7c0af3,CVE-2022-35770
+383322018,danielcunn123/Security,Reports/Microsoft Windows File Explorer 'IconResource' Information Disclosure,2c5b11fccccfde386b33cd5e8b7633276688f32c,CVE-2022-35770
+383322018,danielcunn123/Security,README.md,6db3d270fe089977962639ab50bd1df9b878c9ea,CVE-2022-35770
+383322018,danielcunn123/Security,Reports/README.md,e9dd7c2030b16c0e9d6de55365b5bf8c5c137e0b,CVE-2022-35770

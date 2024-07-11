@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+706831359,alekos3/CVE_2023_20198_Remediator,CVE_2023_20198_remediator.py,09105c82e235fd97792dda4f3f65b7932e0c29fa,CVE-2023-20198
+706831359,alekos3/CVE_2023_20198_Remediator,_GITHUB_REPO_METADATA_,,CVE-2023-20198

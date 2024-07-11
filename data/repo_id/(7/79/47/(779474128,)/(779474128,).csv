@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+779474128,Hacker-Hermanos/CVE-2024-3094_xz_check,CVE-2024-3094_check.sh,21be64769d64e5ed63bbc37bd70de2b71f335fa2,CVE-2024-3094
+779474128,Hacker-Hermanos/CVE-2024-3094_xz_check,README.md,f6da4586f9e9cc96d93777eda7fec6c134978df4,CVE-2024-3094
+779474128,Hacker-Hermanos/CVE-2024-3094_xz_check,_GITHUB_REPO_METADATA_,,CVE-2024-3094

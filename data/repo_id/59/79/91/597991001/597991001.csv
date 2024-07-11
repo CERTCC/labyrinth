@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+597991001,fei9747/shellcode-resources,history/Shellcode_20200317135420.md,96da5310f013d0895e20044292679604d0ce4118,CVE-2006-2389
+597991001,fei9747/shellcode-resources,history/Shellcode_20200317135420.md,96da5310f013d0895e20044292679604d0ce4118,CVE-2010-1297
+597991001,fei9747/shellcode-resources,Readme.md,96da5310f013d0895e20044292679604d0ce4118,CVE-2014-0502
+597991001,fei9747/shellcode-resources,Readme.md,96da5310f013d0895e20044292679604d0ce4118,CVE-2017-11882
+597991001,fei9747/shellcode-resources,history/Shellcode_20200317135420.md,96da5310f013d0895e20044292679604d0ce4118,CVE-2018-8174
+597991001,fei9747/shellcode-resources,Readme.md,96da5310f013d0895e20044292679604d0ce4118,CVE-2018-8373
+597991001,fei9747/shellcode-resources,Readme.md,96da5310f013d0895e20044292679604d0ce4118,CVE-2018-9948
+597991001,fei9747/shellcode-resources,Readme.md,96da5310f013d0895e20044292679604d0ce4118,CVE-2018-9958
+597991001,fei9747/shellcode-resources,Readme_en.md,aaf6dc6d8c5b31805449121c1dae9b1fbcb2d89e,CVE-2006-2389
+597991001,fei9747/shellcode-resources,Readme_en.md,aaf6dc6d8c5b31805449121c1dae9b1fbcb2d89e,CVE-2010-1297
+597991001,fei9747/shellcode-resources,Readme_en.md,aaf6dc6d8c5b31805449121c1dae9b1fbcb2d89e,CVE-2014-0502
+597991001,fei9747/shellcode-resources,Readme_en.md,aaf6dc6d8c5b31805449121c1dae9b1fbcb2d89e,CVE-2017-11882
+597991001,fei9747/shellcode-resources,history/Shellcode_20200317135420_en.md,aaf6dc6d8c5b31805449121c1dae9b1fbcb2d89e,CVE-2018-8174
+597991001,fei9747/shellcode-resources,history/Shellcode_20200317135420_en.md,aaf6dc6d8c5b31805449121c1dae9b1fbcb2d89e,CVE-2018-8373
+597991001,fei9747/shellcode-resources,Readme_en.md,aaf6dc6d8c5b31805449121c1dae9b1fbcb2d89e,CVE-2018-9948
+597991001,fei9747/shellcode-resources,history/Shellcode_20200317135420_en.md,aaf6dc6d8c5b31805449121c1dae9b1fbcb2d89e,CVE-2018-9958

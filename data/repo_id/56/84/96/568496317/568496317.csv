@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+568496317,EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717,cve-2021-42717.sh,07c83c51a2b9189c8eb927ba0be9e4f5c43a9950,CVE-2021-42717
+568496317,EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717,README.md,a24dcc82f3327f474c5f1be7bef4b3c9f2a09395,CVE-2021-42717
+568496317,EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717,_GITHUB_REPO_METADATA_,,CVE-2021-42717

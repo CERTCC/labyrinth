@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+818198561,phanthibichtram12/CVE-2022-1329,README.md,3520cd8fb0d34320a5bbf3c479a44384553abeaa,CVE-2022-1329
+818198561,phanthibichtram12/CVE-2022-1329,exploit.py,aff6d8d7f6ce4b91b8793e5f3020872fcad78053,CVE-2022-1329
+818198561,phanthibichtram12/CVE-2022-1329,_GITHUB_REPO_METADATA_,,CVE-2022-1329

@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+306664684,thiagofigcosta/V-REx,core/src/mongo-c-driver/src/libmongoc/tests/x509gen/legacy-x509.pem,14d1f6b783b24564cb5ce9f70dd919958dc529ae,VU#55
+306664684,thiagofigcosta/V-REx,data-processor/res/corpora/wordnet.zip,20e5f47b91bdda30217ee3c554359d0fd674cb03,VU#831
 306664684,thiagofigcosta/V-REx,core/src/vrex/test.cpp,33138139478f2912f130912be9b1f4f5f9efd6c9,CVE-2017-0144

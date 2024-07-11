@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+665012852,CharonDefalt/printer-exploit,testpages/lorem.ps,5dccd792ebd5046d36332c1b030675a020b6c830,VU#33
+665012852,CharonDefalt/printer-exploit,testpages/cups.ps,77979e7865fb4accdfc1e99acbe4f5aa553fd3af,VU#33
+665012852,CharonDefalt/printer-exploit,lpd/README,a3a4b63f8b2592b9c3cc68f85024c22b922829ef,CVE-2014-6271
+665012852,CharonDefalt/printer-exploit,lpd/README,a3a4b63f8b2592b9c3cc68f85024c22b922829ef,CVE-2015-7547

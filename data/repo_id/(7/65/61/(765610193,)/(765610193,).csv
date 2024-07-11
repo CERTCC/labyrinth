@@ -1,0 +1,32 @@
+repo_id,repo_full_name,file,file_sha1,match
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.003,0642317762548c5f4b157c6e18086152a456fc09,VU#95
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.003,0642317762548c5f4b157c6e18086152a456fc09,VU#07
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.003,0642317762548c5f4b157c6e18086152a456fc09,VU#43
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.003,0642317762548c5f4b157c6e18086152a456fc09,VU#41
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.006,06d140562874f40d36faa44afcd1cafff903a728,VU#14
+765610193,Chw41/My-CTF-Challenges,HackTheBox/HackTheBox_ Codify Writeup.md,0c8bf62afff2a56e5e876bf2d9aceaafbf35df5d,CVE-2023-30547
+765610193,Chw41/My-CTF-Challenges,HackTheBox/HackTheBox_ Codify Writeup.md,0c8bf62afff2a56e5e876bf2d9aceaafbf35df5d,GHSA-CH3R-J5X3-6Q2M
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.001,0e663dc8c146a0d3a1bcf3c08a3bcbf24e229f68,VU#99
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.001,0e663dc8c146a0d3a1bcf3c08a3bcbf24e229f68,VU#97
+765610193,Chw41/My-CTF-Challenges,AIS3 Pre-exam CTF/2024/Topic/Web/Ebook Parser/static/fonts/icons.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+765610193,Chw41/My-CTF-Challenges,AIS3 Pre-exam CTF/2024/Topic/Web/Ebook Parser/static/tocas.css,1a4c4d45b937f9609b085f494070eddc9f44b122,VU#513
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.013,23adce3e5319332f823e03276b5086dc816d835c,VU#55
+765610193,Chw41/My-CTF-Challenges,AIS3 Pre-exam CTF/2024/Topic/Web/Ebook Parser/static/fonts/icons.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.004,3fd8d8db2417a2e080b6047909c392c179e2a276,VU#35
+765610193,Chw41/My-CTF-Challenges,HackTheBox/HackTheBox_ jscalc/challenge/yarn.lock,523735209b6d24da2b0817326a750de3097b1d3e,VU#211
+765610193,Chw41/My-CTF-Challenges,HackTheBox/HackTheBox_ jscalc/challenge/yarn.lock,523735209b6d24da2b0817326a750de3097b1d3e,VU#49
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.016,52c709f89a1df0b072911d415b8433d88cb39023,VU#34
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.016,52c709f89a1df0b072911d415b8433d88cb39023,VU#27
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.010,5f95af9a885e5e5a86e5421a29d2f68204bc5e5e,VU#91
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.010,5f95af9a885e5e5a86e5421a29d2f68204bc5e5e,VU#34
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.009,81ff920c197879edfa27bf31b633042c22ba2998,VU#35
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.009,81ff920c197879edfa27bf31b633042c22ba2998,VU#27
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.007,b219186894857a33c1b7882e3c1001101615217f,VU#84
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.008,b834c48a6bd23fbc1818d13a7edb490256d44fef,VU#22
+765610193,Chw41/My-CTF-Challenges,AIS3 Pre-exam CTF/2024/Topic/Pwn/EBH/challenge/bzImage,b862e55b46a39ec1f9012dda3c9a5b1fcf999c29,VU#12
+765610193,Chw41/My-CTF-Challenges,AIS3 Pre-exam CTF/2024/Topic/Pwn/EBH/challenge/bzImage,b862e55b46a39ec1f9012dda3c9a5b1fcf999c29,VU#17
+765610193,Chw41/My-CTF-Challenges,AIS3 Pre-exam CTF/2024/Topic/Pwn/EBH/challenge/bzImage,b862e55b46a39ec1f9012dda3c9a5b1fcf999c29,BID-8
+765610193,Chw41/My-CTF-Challenges,picoCTF/2024/Topic/Web Exploitation/elements/elements.tar.7z.011,cb9cc857d0cb4bf15c207e9bcc80f6369cd32bf6,VU#76
+765610193,Chw41/My-CTF-Challenges,AIS3 Pre-exam CTF/2024/Topic/Web/Ebook Parser/static/fonts/icons.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
+765610193,Chw41/My-CTF-Challenges,HackTheBox/HackTheBox_ Pilgrimage Writeup.md,e0d76bbc61a59786b5a2f1dc240ba6b7d0866f1e,CVE-2022-4510
+765610193,Chw41/My-CTF-Challenges,HackTheBox/HackTheBox_ Pilgrimage Writeup.md,e0d76bbc61a59786b5a2f1dc240ba6b7d0866f1e,CVE-2022-44268

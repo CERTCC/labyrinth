@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+725249255,ditekshen/ansible-cve-2023-49103,cve-2023-49103.yml,60dd40c7a1cf3fa524c901f3b1a4afef86afc000,CVE-2023-49103
+725249255,ditekshen/ansible-cve-2023-49103,README.md,baf6d093062bfa63a63b689d22352ffb05db8675,CVE-2013-49103
+725249255,ditekshen/ansible-cve-2023-49103,README.md,baf6d093062bfa63a63b689d22352ffb05db8675,CVE-2023-49103
+725249255,ditekshen/ansible-cve-2023-49103,_GITHUB_REPO_METADATA_,,CVE-2023-49103

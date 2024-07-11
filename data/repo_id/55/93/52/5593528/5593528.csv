@@ -22,3 +22,4 @@ repo_id,repo_full_name,file,file_sha1,match
 5593528,wireghoul/sploit-dev,browsersploits/heap-feng-shui/heap-feng-shui-code.zip,a3a4bebce7d52dba045825e900ca6ef5bd1cdf56,MS06-067
 5593528,wireghoul/sploit-dev,heartbleed/heartbleed.py,bad162c3617c9bd55068a29199cc238625f3889c,CVE-2014-0160
 5593528,wireghoul/sploit-dev,heartbleed/openssl_heartbleed.rb,c3f155e3aba9db2624eff27da8df039ab136a52b,CVE-2014-0160
+5593528,wireghoul/sploit-dev,Cryptohaze-Combined/dependencies/argtable2-13/doc/argtable2-intro.ps,fe41629064c718c42be3acc3477553014e8f7270,VU#29

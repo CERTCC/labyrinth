@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/ChangeLog-2015,07036619e2fa047bf554ce13fd8034aaaffd86fe,VU#10
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/ChangeLog-2015,07036619e2fa047bf554ce13fd8034aaaffd86fe,VU#12
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/ChangeLog-2015,07036619e2fa047bf554ce13fd8034aaaffd86fe,VU#14
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/ChangeLog-2015,07036619e2fa047bf554ce13fd8034aaaffd86fe,VU#15
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/pa/hp-milli.s,422449684c7c0dd9a936cc15e7b0c43c3cb01c9b,VU#10
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/pa/hp-milli.s,422449684c7c0dd9a936cc15e7b0c43c3cb01c9b,VU#12
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/pa/hp-milli.s,422449684c7c0dd9a936cc15e7b0c43c3cb01c9b,VU#14
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/pa/hp-milli.s,422449684c7c0dd9a936cc15e7b0c43c3cb01c9b,VU#15
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/pa/hp-milli.s,422449684c7c0dd9a936cc15e7b0c43c3cb01c9b,VU#17
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/include/opcode/np1.h,54ba83ee8821df850aaa8df88928654bad0d2667,BID-0
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/doc/porting.texi,850538059afc39437ad314e5e22f2fc1fcee7b44,VU#32
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/m68k/mvme.S,94fc85c0e42b46e3b35164b83b15a900e4aaf719,VU#32
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/include/opcode/pn.h,ca3522ea8f4dfa59a63f9c307078e9231601a05c,BID-0
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/newlib/libc/stdlib/mprec.c,ecc95764dbe1767445dc99707e426bc1a041dfbc,CVE-2009-0689
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/libgloss/m68k/cpu32bug.h,f588e51a99107e5838fbcfb92383aaedf1754698,VU#32
+724353108,ElectroBoy404NotFound/TinyiOS,newlib/src/newlib/ChangeLog-2015,f9a346746eee7c3bd33dfc139ff8e79998ae781e,CVE-2009-0689

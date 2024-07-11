@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+464299568,PaloAltoNetworks/can-ctr-escape-cve-2022-0492,Dockerfile,766361486dd762dee780ed482f8fe136583bfc3b,CVE-2022-0492
+464299568,PaloAltoNetworks/can-ctr-escape-cve-2022-0492,can-ctr-escape-cve-2022-0492.sh,a7120dc971b293a304a4321af12632c1d66f259c,CVE-2022-0492
+464299568,PaloAltoNetworks/can-ctr-escape-cve-2022-0492,README.md,e9b923271ebf373bd9c03c06a32af163b06afe01,CVE-2022-0492
+464299568,PaloAltoNetworks/can-ctr-escape-cve-2022-0492,_GITHUB_REPO_METADATA_,,CVE-2022-0492

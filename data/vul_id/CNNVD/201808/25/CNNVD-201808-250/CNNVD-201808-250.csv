@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNNVD-201808-250,0.00325733,https://github.com/wwl012345/Vuln-List,wwl012345/Vuln-List,464725675

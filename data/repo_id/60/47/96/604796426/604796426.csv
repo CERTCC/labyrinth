@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+604796426,rvermeulen/codeql-cve-2022-35737,cve-2022-35737-tests/qlpack.yml,283efb77a5c3b5519f8b4cbda213ccdf4febf11b,CVE-2022-35737
+604796426,rvermeulen/codeql-cve-2022-35737,sqlite-CVE-2022-35737.zip,39f7d31bd7583cef3e767fd1c7c216047ca27e6a,CVE-2022-35737
+604796426,rvermeulen/codeql-cve-2022-35737,sqlite-CVE-2022-35737.zip,39f7d31bd7583cef3e767fd1c7c216047ca27e6a,VU#87
+604796426,rvermeulen/codeql-cve-2022-35737,cve-2022-35737-tests/IncorrectBuffer/test.c,4d76beb994db79f0c4182ab9ea273b0693ed0309,CVE-2022-35737
+604796426,rvermeulen/codeql-cve-2022-35737,cve-2022-35737-tests/IncorrectBuffer/IncorrectBuffer.expected,594ed2ad348a756532ef0160053035f7dddf7b3a,CVE-2022-35737
+604796426,rvermeulen/codeql-cve-2022-35737,cve-2022-35737-queries/IncorrectBuffer.ql,61eca8cc32578a0a93d5b09d964bfd79543190ba,CVE-2022-35737
+604796426,rvermeulen/codeql-cve-2022-35737,cve-2022-35737-tests/IncorrectBuffer/IncorrectBuffer.qlref,be2aaefcd0aafd819083db66ee90d7dc6641ec22,CVE-2022-35737
+604796426,rvermeulen/codeql-cve-2022-35737,cve-2022-35737-queries/qlpack.yml,cf93c4a4c25f56cad4bc51ab0fd9c38c58941ba7,CVE-2022-35737
+604796426,rvermeulen/codeql-cve-2022-35737,cve-2022-35737-queries/codeql-pack.lock.yml,eb05d86e535a67a620a59ce596d2a583904e18bc,CVE-2022-35737
+604796426,rvermeulen/codeql-cve-2022-35737,_GITHUB_REPO_METADATA_,,CVE-2022-35737

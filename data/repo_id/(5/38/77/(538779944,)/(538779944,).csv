@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+538779944,benjaminhays/CVE-2022-36804-PoC-Exploit,README.md,90bedcdc8257913bc5f3f353f260f6dc136f5a51,CVE-2022-36804
+538779944,benjaminhays/CVE-2022-36804-PoC-Exploit,main.py,e73227d8e9e6ba15186435f8e3c863dd0cc7a6e2,CVE-2022-36804
+538779944,benjaminhays/CVE-2022-36804-PoC-Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-36804

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+520041322,Sitaras/eClass-Penetration-Testing,openeclass/include/phpmathpublisher/fonts/FreeSerif.ttf,2cce829fadb6e5959451957257b97ffabd8d521f,VU#99
+520041322,Sitaras/eClass-Penetration-Testing,openeclass/include/phpmathpublisher/fonts/FreeSerif.ttf,2cce829fadb6e5959451957257b97ffabd8d521f,VU#999
+520041322,Sitaras/eClass-Penetration-Testing,openeclass/modules/admin/mysql/libraries/core.lib.php,e77f74cb07896c10d125b7e6e825004c469778df,CVE-2006-1549

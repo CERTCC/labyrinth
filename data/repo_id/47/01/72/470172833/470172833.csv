@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+470172833,Dylbin/desc_race,README.md,451bec6f8b2e0271079cae705ddbcb65614e0402,CVE-2021-30955
+470172833,Dylbin/desc_race,exploit/README.md,5da396fce8fe61d26ddda6c5491ef9c9b9ade390,CVE-2021-30955
+470172833,Dylbin/desc_race,_GITHUB_REPO_METADATA_,,CVE-2021-30955

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+465686911,Vulnmachines/spring-cve-2022-22947,README.md,12e7ce2652a1db3f6045f3f79335bb5f19061527,CVE-2022-22947
+465686911,Vulnmachines/spring-cve-2022-22947,_GITHUB_REPO_METADATA_,,CVE-2022-22947

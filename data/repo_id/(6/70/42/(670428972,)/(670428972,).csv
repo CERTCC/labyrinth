@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+670428972,samphoerna/EvilTwin-ESP8266,ETF2/web_pages/settings.html,0ec89b767954a3d2aa64219ab4e599e1c3d59c61,VU#18
+670428972,samphoerna/EvilTwin-ESP8266,ETF2/web_pages/settings.html,0ec89b767954a3d2aa64219ab4e599e1c3d59c61,VU#48
+670428972,samphoerna/EvilTwin-ESP8266,ETF/web_pages/jade/whitehat.jade,30bc09793b7081518c2b1d2db4e7b6c39271f0f2,VU#25
+670428972,samphoerna/EvilTwin-ESP8266,ETF/web_converter/web_pages/main.css,33161e086c41bb66c98a5f2f3af1398aed0eab2a,VU#21
+670428972,samphoerna/EvilTwin-ESP8266,ETF/web_converter/web_pages/main.css,33161e086c41bb66c98a5f2f3af1398aed0eab2a,VU#74
+670428972,samphoerna/EvilTwin-ESP8266,ETF/web_pages/index.html,3cf0feafa241aa43dcb2f6bab2813b3274c5d9b8,VU#18
+670428972,samphoerna/EvilTwin-ESP8266,ETF/web_pages/index.html,3cf0feafa241aa43dcb2f6bab2813b3274c5d9b8,VU#48
+670428972,samphoerna/EvilTwin-ESP8266,ETF/web_pages/jade/index.jade,48a525e6ed077c0a22212a26b710b15fa6d4b93e,VU#25
+670428972,samphoerna/EvilTwin-ESP8266,ETF2/web_pages/scan.html,8e88f22ba8ae9fa76b796329e9bd736fdcfcfc69,VU#18
+670428972,samphoerna/EvilTwin-ESP8266,ETF2/web_pages/scan.html,8e88f22ba8ae9fa76b796329e9bd736fdcfcfc69,VU#48
+670428972,samphoerna/EvilTwin-ESP8266,ETF/web_pages/whitehat.html,c69e2609cda0fde52787638e1bff8cb0e83024fe,VU#25
+670428972,samphoerna/EvilTwin-ESP8266,ETF2/web_pages/ssids.html,da2a2e349f1b9cb4b33a3b3cd5eb4ee7a63d90f8,VU#18
+670428972,samphoerna/EvilTwin-ESP8266,ETF2/web_pages/ssids.html,da2a2e349f1b9cb4b33a3b3cd5eb4ee7a63d90f8,VU#48
+670428972,samphoerna/EvilTwin-ESP8266,ETF2/web_pages/attack.html,dbda2e45e4d7747eee52a693cda1cfde27b20a56,VU#18
+670428972,samphoerna/EvilTwin-ESP8266,ETF2/web_pages/attack.html,dbda2e45e4d7747eee52a693cda1cfde27b20a56,VU#48

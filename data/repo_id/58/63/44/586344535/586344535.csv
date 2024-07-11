@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+586344535,XiraSec210/HellXSploit,cve2020.py,2a6bd407d3a2f246de6b9613eba671b67172bf32,CVE-2020-5902

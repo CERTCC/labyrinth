@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-437037213,p0dalirius/CVE-2016-10956_mail_masta,README.md,25532c3f8dbd866c4f2f8c8338536a88bf6cc065,CVE-2016-10956
-437037213,p0dalirius/CVE-2016-10956_mail_masta,poc_environnement/Makefile,6688cd1fe43a3e56f77e00dd8733249fc824c8dc,CVE-2016-10956
-437037213,p0dalirius/CVE-2016-10956_mail_masta,CVE-2016-10956_mail_masta.py,a4f5d731272f7376bdaa6f956ad9c5fdc4fb3aa2,CVE-2016-10956
-437037213,p0dalirius/CVE-2016-10956_mail_masta,_GITHUB_REPO_METADATA_,,CVE-2016-10956
+437037213,p0dalirius/CVE-2016-10956-mail-masta,poc_environnement/Makefile,6688cd1fe43a3e56f77e00dd8733249fc824c8dc,CVE-2016-10956
+437037213,p0dalirius/CVE-2016-10956-mail-masta,CVE-2016-10956_mail_masta.py,7e10e4047626990d3cf9d53f6bba5c2e17cac82b,CVE-2016-10956
+437037213,p0dalirius/CVE-2016-10956-mail-masta,README.md,b0fffe6d5a26a3a6bfe3f846486f5e731fd0498e,CVE-2016-10956
+437037213,p0dalirius/CVE-2016-10956-mail-masta,_GITHUB_REPO_METADATA_,,CVE-2016-10956

@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+472963061,Mario-Kart-Felix/firewall-cve,README.md,3bc81770d28bd9f9dfd5803db57cca681c40859b,CVE-2021-41338
+472963061,Mario-Kart-Felix/firewall-cve,Multiple platforms,ab46a262b0e0527c4d934b4e1bcc7499e251bb4a,CVE-2019-15126
+472963061,Mario-Kart-Felix/firewall-cve,Multiple platforms,ab46a262b0e0527c4d934b4e1bcc7499e251bb4a,CVE-2020-0796
+472963061,Mario-Kart-Felix/firewall-cve,Multiple platforms,ab46a262b0e0527c4d934b4e1bcc7499e251bb4a,MS17-010
+472963061,Mario-Kart-Felix/firewall-cve,.github/workflows/Cve,d91bbe3e3199981414090ff5516ef5801bf5ac71,CVE-2020-8244
+472963061,Mario-Kart-Felix/firewall-cve,.github/workflows/Cve,d91bbe3e3199981414090ff5516ef5801bf5ac71,GHSA-PP7H-53GX-MX7R
+472963061,Mario-Kart-Felix/firewall-cve,_GITHUB_REPO_METADATA_,,CVE-2021-41338

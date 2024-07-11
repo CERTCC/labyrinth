@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-8H77-4Q3W-GFGV,0.50000000,https://github.com/JakobTheDev/cve-2024-32002-poc-aw,JakobTheDev/cve-2024-32002-poc-aw,805741257
+GHSA-8H77-4Q3W-GFGV,0.50000000,https://github.com/JakobTheDev/cve-2024-32002-poc-rce,JakobTheDev/cve-2024-32002-poc-rce,802465835
+GHSA-8H77-4Q3W-GFGV,0.50000000,https://github.com/amalmurali47/hook,amalmurali47/hook,802232904
+GHSA-8H77-4Q3W-GFGV,0.50000000,https://github.com/markuta/hooky,markuta/hooky,802139060
+GHSA-8H77-4Q3W-GFGV,0.50000000,https://github.com/markuta/CVE-2024-32002,markuta/CVE-2024-32002,802138178
+GHSA-8H77-4Q3W-GFGV,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

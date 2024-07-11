@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+729798547,Micky-Thongam/Internet-Explorer-UAF,win10.html,21cbe2f08181c7c8386ddc064884d7ec85a874e6,CVE-2020-0674
+729798547,Micky-Thongam/Internet-Explorer-UAF,win8_1.html,2706ea40b28f3346a42576c863e62c4910eb805f,CVE-2020-0674
+729798547,Micky-Thongam/Internet-Explorer-UAF,_GITHUB_REPO_METADATA_,,CVE-2020-0674

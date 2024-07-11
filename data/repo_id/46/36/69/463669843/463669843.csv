@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+463669843,janschejbal/raceread,writeups/microsoft_azure_cli_2.md,13cb1f931089ed2e2912fa77d1921ef567ed893a,CVE-2022-24302
+463669843,janschejbal/raceread,writeups/paramiko.md,95a7c55dc983aeeb57205998401c827a0c3b3367,CVE-2022-24302
+463669843,janschejbal/raceread,writeups/backblaze_b2.md,a1b446fab2e69a2b6b954295ae87b8935bc02b9b,CVE-2022-23651
+463669843,janschejbal/raceread,writeups/backblaze_b2.md,a1b446fab2e69a2b6b954295ae87b8935bc02b9b,CVE-2022-23653
+463669843,janschejbal/raceread,writeups/backblaze_b2.md,a1b446fab2e69a2b6b954295ae87b8935bc02b9b,GHSA-8WR4-2WM6-W3PR
+463669843,janschejbal/raceread,writeups/backblaze_b2.md,a1b446fab2e69a2b6b954295ae87b8935bc02b9b,GHSA-P867-FXFR-PH2W

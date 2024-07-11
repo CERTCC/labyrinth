@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+718906606,novitoll/linux-kernel-exploits,cve/CVE-2019-2215-research/README.md,a527b44ef583795c90fcab4f44411c1bf0f2af33,CVE-2019-2215

@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+726816567,Romanc9/Gui-poc-test,README.md,02fb4e89f2c2d02b850b057d5f3f2a5783b7cfaf,CVE-2022-39197
+726816567,Romanc9/Gui-poc-test,README.md,02fb4e89f2c2d02b850b057d5f3f2a5783b7cfaf,CVE-2023-21839
+726816567,Romanc9/Gui-poc-test,README.md,02fb4e89f2c2d02b850b057d5f3f2a5783b7cfaf,CVE-2023-21931
+726816567,Romanc9/Gui-poc-test,README.md,02fb4e89f2c2d02b850b057d5f3f2a5783b7cfaf,CVE-2023-28432
+726816567,Romanc9/Gui-poc-test,src/main/java/GuiDemo.java,0a034e7962e0d1e826cba10e017b77933782dcec,CVE-2022-39197
+726816567,Romanc9/Gui-poc-test,src/main/java/GuiDemo.java,0a034e7962e0d1e826cba10e017b77933782dcec,CVE-2023-21839
+726816567,Romanc9/Gui-poc-test,src/main/java/GuiDemo.java,0a034e7962e0d1e826cba10e017b77933782dcec,CVE-2023-28432
+726816567,Romanc9/Gui-poc-test,cve_2022_39197.py,2ecc1229504b3f4e1c8393c9af3070c1de826891,CVE-2022-39197
+726816567,Romanc9/Gui-poc-test,src/main/java/cs_rce.java,4d776e2c5b0d90a64b98e41fc934f8812c24690d,CVE-2022-39197
+726816567,Romanc9/Gui-poc-test,src/main/java/CVE_2023_21839.java,7e334ce4c74771446d1bfc1a1a375fd70f5562fb,CVE-2023-21839
+726816567,Romanc9/Gui-poc-test,_GITHUB_REPO_METADATA_,,CVE-2022-39197
+726816567,Romanc9/Gui-poc-test,_GITHUB_REPO_METADATA_,,CVE-2023-21839
+726816567,Romanc9/Gui-poc-test,_GITHUB_REPO_METADATA_,,CVE-2023-28432

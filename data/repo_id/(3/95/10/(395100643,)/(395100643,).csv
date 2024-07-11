@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+395100643,krastanoel/exploits,railsgoat/arbitrary-file-read-to-rce.rb,1d86c378a19c077421b1d50d9a7bd933ff5f56fc,CVE-2019-5420
+395100643,krastanoel/exploits,railsgoat/README.md,1e0d30f294e3615f4f00a0b157d324b5e2172c09,CVE-2019-5420
+395100643,krastanoel/exploits,phpmyadmin-4.8.1-remote-code-execution/exploit.py,3132daa75b271b0014058631a6cb2a434c2c3aee,CVE-2018-12613
+395100643,krastanoel/exploits,wordpress-4.9.6-arbitrary-file-delete/README.md,3421d082041ed53fe2d226b4e084bbd85a7f9e18,CVE-2018-12895
+395100643,krastanoel/exploits,zoneminder-1.36.12-remote-code-execution/exploit.py,c0ba8a9233c3b8bf2d2e063d1596da5b83d0403f,CVE-2022-29806
+395100643,krastanoel/exploits,phpmyadmin-4.8.1-remote-code-execution/README.md,c152e13706d7dc86401175c857b2631d1f5ccf63,CVE-2018-12613
+395100643,krastanoel/exploits,wordpress-4.9.6-arbitrary-file-delete/exploit.js,f0e410c9e126a85cbfaeebe71dfef3a955022b2e,CVE-2018-12895
+395100643,krastanoel/exploits,zoneminder-1.36.12-remote-code-execution/README.md,f2e13bf39a1b336e40f447c18ce51039ddbc9972,CVE-2022-29806

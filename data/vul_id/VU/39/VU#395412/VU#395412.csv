@@ -2,6 +2,10 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#395412,0.50000000,https://github.com/defensahacker/CVE-2006-3747,defensahacker/CVE-2006-3747,74795309
 VU#395412,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 VU#395412,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
+VU#395412,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#395412,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 VU#395412,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 VU#395412,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+VU#395412,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#395412,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#395412,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

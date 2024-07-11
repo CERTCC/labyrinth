@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+729425545,smokeintheshell/CVE-2023-20273,exploit.py,4f8e307f6cacfa0428198b4b97a7c5cea6d3a4aa,CVE-2023-20198
+729425545,smokeintheshell/CVE-2023-20273,exploit.py,4f8e307f6cacfa0428198b4b97a7c5cea6d3a4aa,CVE-2023-20273
+729425545,smokeintheshell/CVE-2023-20273,README.md,71b28d24fdd8aadbcdb9fba532c1098e492180af,CVE-2023-20273
+729425545,smokeintheshell/CVE-2023-20273,_GITHUB_REPO_METADATA_,,CVE-2023-20273

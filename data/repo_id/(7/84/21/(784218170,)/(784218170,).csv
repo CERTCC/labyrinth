@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+784218170,christophercaruso96/metasploit_telnet,README.txt,ad866c233a761c5c4ad248a4b8ce699a430f30fb,MS09-001
+784218170,christophercaruso96/metasploit_telnet,README.txt,ad866c233a761c5c4ad248a4b8ce699a430f30fb,MS17-010

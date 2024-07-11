@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+431152463,R3tr074/exploits,browser/v8/cve-2021-21220/pwn.html,0d6f18153b6098ae5236cacfcf5b20edf9ab6b32,CVE-2021-21220
+431152463,R3tr074/exploits,browser/README.md,77585cbaef86699b0c566b1a99c36ae5c07d66be,CVE-2021-21220
+431152463,R3tr074/exploits,browser/v8/cve-2021-21220/README.md,9278d6412ecd694deb0ab7855ec734b5ee8a80de,CVE-2021-21220

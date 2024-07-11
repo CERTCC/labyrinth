@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+781477807,Bella-Bc/xz-backdoor-CVE-2024-3094-Check,check_xz_utils_CVE-2024-3094.sh,b59980751524f86640fdea50363c8e2c032f63ea,CVE-2024-3094
+781477807,Bella-Bc/xz-backdoor-CVE-2024-3094-Check,README.md,d3d0f3053e80f5526d16fa63f68d4d01c88700a7,CVE-2024-3094
+781477807,Bella-Bc/xz-backdoor-CVE-2024-3094-Check,_GITHUB_REPO_METADATA_,,CVE-2024-3094

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+497387439,baharuddinzulkifli/CVE-Publications,2023/CVE-2023-0313.md,05bcb8f6ded45d2ea6e7f46ef2622904b1f9a970,CVE-2023-0313
+497387439,baharuddinzulkifli/CVE-Publications,2022/CVE-2022-41612.md,8828edaa4a980e4a0067c2c9ec079da3ddab2973,CVE-2022-41612
+497387439,baharuddinzulkifli/CVE-Publications,2022/CVE-2022-2589.md,c631379a6f60dd959c670967cadb49a11643071b,CVE-2022-2589
+497387439,baharuddinzulkifli/CVE-Publications,2022/CVE-2022-1719.md,e373a37342aaf1b5607e6e296e9db84ef43f7f3b,CVE-2022-1719

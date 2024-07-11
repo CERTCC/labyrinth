@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+474547570,warmachine-57/CVE-2021-44117,CSRF in FuelCMS,27a94cf6b19bc126df6acb80a8e767c45f8ac84d,CVE-2021-44117
+474547570,warmachine-57/CVE-2021-44117,_GITHUB_REPO_METADATA_,,CVE-2021-44117

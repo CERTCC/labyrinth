@@ -1,0 +1,11 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-8HFJ-J24R-96C4,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-24785,Live-Hack-CVE/CVE-2022-24785,595478846
+GHSA-8HFJ-J24R-96C4,0.20000000,https://github.com/1LiterCoffee/rceTest,1LiterCoffee/rceTest,625853794
+GHSA-8HFJ-J24R-96C4,0.16666667,https://github.com/SuprajaBaskaran/exploits-npm,SuprajaBaskaran/exploits-npm,576042689
+GHSA-8HFJ-J24R-96C4,0.12500000,https://github.com/Mithun1508/remote-code-execution-engine,Mithun1508/remote-code-execution-engine,596367907
+GHSA-8HFJ-J24R-96C4,0.11111111,https://github.com/bde574786/Sequelize-1day-CVE-2023-25813,bde574786/Sequelize-1day-CVE-2023-25813,789840283
+GHSA-8HFJ-J24R-96C4,0.06666667,https://github.com/MarceloAlejandroQuispe/RCeballos-Proyecto.Final-UTN,MarceloAlejandroQuispe/RCeballos-Proyecto.Final-UTN,699603248
+GHSA-8HFJ-J24R-96C4,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+GHSA-8HFJ-J24R-96C4,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-8HFJ-J24R-96C4,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-8HFJ-J24R-96C4,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+613500570,jasonjiiang/Log4Shell,README.md,64c8c93b519279e9d9743c985d9ed501f3984f5c,CVE-2021-44228
+613500570,jasonjiiang/Log4Shell,demo/target/demo-0.0.1-SNAPSHOT.jar,a76e12e4c438b367747ca4f4328b37ee48684b45,VU#45
+613500570,jasonjiiang/Log4Shell,demo/target/demo-0.0.1-SNAPSHOT.jar,a76e12e4c438b367747ca4f4328b37ee48684b45,VU#48
+613500570,jasonjiiang/Log4Shell,demo/target/demo-0.0.1-SNAPSHOT.jar,a76e12e4c438b367747ca4f4328b37ee48684b45,VU#63
+613500570,jasonjiiang/Log4Shell,demo/target/demo-0.0.1-SNAPSHOT.jar,a76e12e4c438b367747ca4f4328b37ee48684b45,VU#70

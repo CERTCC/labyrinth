@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+810854750,Hackhoven/wp-mail-masta-exploit,README.md,53fff9e8f91cc2d596582bf9b38e293a0e9b0f65,CVE-2016-10956
+810854750,Hackhoven/wp-mail-masta-exploit,mail-masta-exploit.py,943ebcc1e629160b2ce580cd4ce336200eb84968,CVE-2016-10956
+810854750,Hackhoven/wp-mail-masta-exploit,_GITHUB_REPO_METADATA_,,CVE-2016-10956

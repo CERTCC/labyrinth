@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+569296799,blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution,README.md,231856cfeac2589113d66a9bd5e77ac318f2d266,CVE-2021-41773
+569296799,blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution,README.md,231856cfeac2589113d66a9bd5e77ac318f2d266,CVE-2021-42013
+569296799,blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution,exploit.py,8da6d7fc1e78504111f97e2105475f479a1b0b30,CVE-2021-41773
+569296799,blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution,exploit.py,8da6d7fc1e78504111f97e2105475f479a1b0b30,CVE-2021-42013
+569296799,blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution,_GITHUB_REPO_METADATA_,,CVE-2021-41773
+569296799,blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution,_GITHUB_REPO_METADATA_,,CVE-2021-42013

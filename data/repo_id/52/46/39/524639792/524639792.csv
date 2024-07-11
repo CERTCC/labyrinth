@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+524639792,dubniczky/Kernel-Exploits,readme.md,295fa08947eecf06f690275019f5adc54d8ac551,CVE-2021-4034
+524639792,dubniczky/Kernel-Exploits,pkexec-0.105/readme.md,c155cecea37f59e29f223195cb46eab8b9b5b836,CVE-2021-4034

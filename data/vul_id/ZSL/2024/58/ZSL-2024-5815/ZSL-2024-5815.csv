@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+ZSL-2024-5815,0.00102881,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2024-5815,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580

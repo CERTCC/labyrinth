@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+527292145,Tomermk/AmtiSploit,api/dockers/vulnapp/README.md,659c4b828cfdcd0a0e89ab5b0978a1b7a304cbe1,CVE-2021-44228

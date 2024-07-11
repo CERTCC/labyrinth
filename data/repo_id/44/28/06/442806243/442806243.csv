@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+442806243,mutur4/Hacking-Scripts,CVE-2021-4034/pwnkit.c,25853f44cbcbc909e37254cc3cec0aeaa31472a1,CVE-2021-4034
+442806243,mutur4/Hacking-Scripts,CVE-2021-4034/pwnkit_version_2/pwnkit.c,314753261dfc5f0266324ea8602ecbabf04b8bef,CVE-2021-4034
+442806243,mutur4/Hacking-Scripts,CVE-2021-4034/pwnkit,4090fb7975b03ff84adb724b34e9b822dfdb9193,CVE-2021-4034
+442806243,mutur4/Hacking-Scripts,CVE-2021-4034/pwnkit_version_2/pwnkit,7f13b6316c4f8352cdf46ca706181ca5df82462d,CVE-2021-4034
+442806243,mutur4/Hacking-Scripts,CVE-2021-4034/pwnkit_version_2/README.md,8091bf6f4a8937db473bc87f1b7963b6b25fabd5,CVE-2021-4034
+442806243,mutur4/Hacking-Scripts,CVE-2021-4034/makefile,9aa61be714b4d3c55bc5b0239f57b2dc80993aa5,CVE-2021-4034
+442806243,mutur4/Hacking-Scripts,CVE-2022-0847/makefile,c0432abee1f698d604b260d5a97433db43976705,CVE-2022-0847
+442806243,mutur4/Hacking-Scripts,CVE-2022-0847/dpipe,ec4e32ca41978a1feb67a2ce1190aa9e885d32b6,CVE-2022-0847
+442806243,mutur4/Hacking-Scripts,CVE-2022-0847/dpipe.c,ed085f14b536e3308755c2821aabcb5ca95608bf,CVE-2022-0847
+442806243,mutur4/Hacking-Scripts,CVE-2022-0847/README.md,f7ff6bd826a531f7519fcc7746895a3e2fd0da57,CVE-2022-0847

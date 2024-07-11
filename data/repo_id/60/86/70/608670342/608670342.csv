@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+608670342,aliiikz/scan_and_patch_servers,results/1.2.3.4_parsed.txt,91d3ade6e420178ede22a2593e426b83d48d663d,CVE-2022-26373
+608670342,aliiikz/scan_and_patch_servers,results/1.2.3.4_parsed.txt,91d3ade6e420178ede22a2593e426b83d48d663d,CVE-2022-2964
+608670342,aliiikz/scan_and_patch_servers,results/1.2.3.4_parsed.txt,91d3ade6e420178ede22a2593e426b83d48d663d,CVE-2022-29900
+608670342,aliiikz/scan_and_patch_servers,results/1.2.3.4_parsed.txt,91d3ade6e420178ede22a2593e426b83d48d663d,CVE-2022-29901
+608670342,aliiikz/scan_and_patch_servers,results/5.6.7.8_parsed.txt,ad939024273b3f9f7b6ee3b6771c745df7d528d7,CVE-2021-26401
+608670342,aliiikz/scan_and_patch_servers,results/5.6.7.8_parsed.txt,ad939024273b3f9f7b6ee3b6771c745df7d528d7,CVE-2022-23816
+608670342,aliiikz/scan_and_patch_servers,results/5.6.7.8_parsed.txt,ad939024273b3f9f7b6ee3b6771c745df7d528d7,CVE-2022-23825

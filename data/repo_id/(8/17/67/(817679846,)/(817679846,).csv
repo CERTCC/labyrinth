@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+817679846,marcocarolasec/CVE-2016-2004-Exploit,CVE-2016-2004.py,2c9a2669f002cbc79333921f4c638c0128756eae,CVE-2016-2004
+817679846,marcocarolasec/CVE-2016-2004-Exploit,README.md,3aa14eb8a4a8b6f200e46cab8b140a7688fe2a2d,CVE-2011-0923
+817679846,marcocarolasec/CVE-2016-2004-Exploit,README.md,3aa14eb8a4a8b6f200e46cab8b140a7688fe2a2d,ZDI-11-055
+817679846,marcocarolasec/CVE-2016-2004-Exploit,_GITHUB_REPO_METADATA_,,CVE-2016-2004

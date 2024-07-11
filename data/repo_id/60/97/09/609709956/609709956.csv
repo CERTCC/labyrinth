@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+609709956,im-hanzou/fubucker,README.md,0f431fe93cffb8de615db9eb44fa03c9d77c6e43,CVE-2022-1386
+609709956,im-hanzou/fubucker,single-exploiter.sh,735d6220e91b2c8ada80343f32ab78bc7e7f784c,CVE-2022-1386
+609709956,im-hanzou/fubucker,fubucker.sh,d2c0d46ff6e2db5e31df35c113054007c69805be,CVE-2022-1386
+609709956,im-hanzou/fubucker,_GITHUB_REPO_METADATA_,,CVE-2022-1386

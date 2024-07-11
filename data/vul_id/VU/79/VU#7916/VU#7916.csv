@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#7916,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-java,727899845
+VU#7916,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
+VU#7916,0.05263158,https://github.com/julioarruda/poc-vuln-java-2,julioarruda/poc-vuln-java-2,662788989
+VU#7916,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vuln-java,659747151
+VU#7916,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
+VU#7916,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753

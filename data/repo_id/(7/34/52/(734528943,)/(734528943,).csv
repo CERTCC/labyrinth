@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+734528943,substing/CVE-2020-24186_reverse_shell_upload,README.md,c1d1415bbf08804d869542477ce2f7f0e7e4b04e,CVE-2020-24186
+734528943,substing/CVE-2020-24186_reverse_shell_upload,exploit.py,e8590b70e52e33cff3ac1090fa1f3dd33d5d2824,CVE-2020-24186
+734528943,substing/CVE-2020-24186_reverse_shell_upload,_GITHUB_REPO_METADATA_,,CVE-2020-24186

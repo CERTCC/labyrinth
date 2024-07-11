@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+590060116,merlinepedra/SpoolSploit,README.md,ae4a2305509fe3f56f90bfbf9faf6fe5b3ea164c,CVE-2021-1675
+590060116,merlinepedra/SpoolSploit,README.md,ae4a2305509fe3f56f90bfbf9faf6fe5b3ea164c,CVE-2021-34527

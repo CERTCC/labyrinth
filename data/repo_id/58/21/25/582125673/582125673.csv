@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+582125673,port9org/aws-nitro-ssh-rce,tools/socat/socat-1.7.4.4/CHANGES,0763b8f14d7bda7fa33056a0d49194203e52d21c,CVE-2004-1484
+582125673,port9org/aws-nitro-ssh-rce,tools/socat/socat-1.7.4.4/CHANGES,0763b8f14d7bda7fa33056a0d49194203e52d21c,CVE-2010-2799
+582125673,port9org/aws-nitro-ssh-rce,tools/socat/socat-1.7.4.4/CHANGES,0763b8f14d7bda7fa33056a0d49194203e52d21c,CVE-2012-0219
+582125673,port9org/aws-nitro-ssh-rce,tools/socat/socat-1.7.4.4/CHANGES,0763b8f14d7bda7fa33056a0d49194203e52d21c,CVE-2013-3571
+582125673,port9org/aws-nitro-ssh-rce,tools/socat/socat-1.7.4.4/CHANGES,0763b8f14d7bda7fa33056a0d49194203e52d21c,CVE-2014-0019
+582125673,port9org/aws-nitro-ssh-rce,tools/socat/socat-1.7.4.4/CHANGES,0763b8f14d7bda7fa33056a0d49194203e52d21c,CVE-2015-1379
+582125673,port9org/aws-nitro-ssh-rce,tools/ncat/certs/ca-bundle.crt,d3e75b9630bcd6a0077d29c920a8c8ef2d30c5a0,VU#33
+582125673,port9org/aws-nitro-ssh-rce,tools/ncat/certs/ca-bundle.crt,d3e75b9630bcd6a0077d29c920a8c8ef2d30c5a0,VU#37
+582125673,port9org/aws-nitro-ssh-rce,tools/ncat/certs/ca-bundle.crt,d3e75b9630bcd6a0077d29c920a8c8ef2d30c5a0,VU#396
+582125673,port9org/aws-nitro-ssh-rce,tools/ncat/certs/ca-bundle.crt,d3e75b9630bcd6a0077d29c920a8c8ef2d30c5a0,VU#49
+582125673,port9org/aws-nitro-ssh-rce,tools/ncat/certs/ca-bundle.crt,d3e75b9630bcd6a0077d29c920a8c8ef2d30c5a0,VU#65
+582125673,port9org/aws-nitro-ssh-rce,tools/ncat/certs/ca-bundle.crt,d3e75b9630bcd6a0077d29c920a8c8ef2d30c5a0,VU#82
+582125673,port9org/aws-nitro-ssh-rce,tools/ncat/certs/ca-bundle.crt,d3e75b9630bcd6a0077d29c920a8c8ef2d30c5a0,VU#84
+582125673,port9org/aws-nitro-ssh-rce,tools/ncat/certs/ca-bundle.crt,d3e75b9630bcd6a0077d29c920a8c8ef2d30c5a0,VU#85

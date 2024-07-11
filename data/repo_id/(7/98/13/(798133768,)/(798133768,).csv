@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+798133768,yyl-github-1896/CodeTAE,CodeBERT/Defect-detection/preprocess/dataset/test_subs_1200_1600.jsonl,0f4c687ac984d164584a6b2f4a7de85f9b9ed632,VU#12
+798133768,yyl-github-1896/CodeTAE,GraphCodeBERT/Defect-detection/preprocess/dataset/test_subs_2400_2800.jsonl,2278a28f7ec1c5c9b46d8e9dd4ecc20aadcf71c1,VU#047
+798133768,yyl-github-1896/CodeTAE,CodeBERT/Defect-detection/preprocess/dataset/test_subs_gan_0_400.jsonl,3163822586cb2e805063ca9fa1340c72d3611304,VU#36
+798133768,yyl-github-1896/CodeTAE,CodeBERT/Defect-detection/preprocess/dataset/valid.jsonl,4522c7f575e250194437394e2a4d7850ede02d58,CVE-2013-0249
+798133768,yyl-github-1896/CodeTAE,CodeBERT/Defect-detection/preprocess/dataset/valid.jsonl,4522c7f575e250194437394e2a4d7850ede02d58,VU#12
+798133768,yyl-github-1896/CodeTAE,GraphCodeBERT/Defect-detection/preprocess/dataset/test_subs_1200_1600.jsonl,55dc685daaa4c97a07d48766d67963d2cd804604,VU#12
+798133768,yyl-github-1896/CodeTAE,GraphCodeBERT/AuthorshipAttribution/dataset/data_folder/processed_gcjpy/valid_subs_nsga.jsonl,585eede8c9df85445f14f6ee20ec4284c6d5f7a3,VU#03
+798133768,yyl-github-1896/CodeTAE,CodeT5/Defect-detection/preprocess/dataset/test.jsonl,6018277bdb8d04fdd058ab5d8d08d519070d02b5,VU#12
+798133768,yyl-github-1896/CodeTAE,CodeBERT/Authorship-Attribution/dataset/data_folder/processed_gcjpy/valid_subs_nsga.jsonl,94a055a412c20e593357dc26116f3316216e09c6,VU#34
+798133768,yyl-github-1896/CodeTAE,GraphCodeBERT/clonedetection/dataset/data.jsonl,9c78534b295d2015c15604986b8c676bacb2f686,VU#01
+798133768,yyl-github-1896/CodeTAE,CodeBERT/Defect-detection/preprocess/dataset/train.jsonl,bbc8da9fdb59b11e8c0d2133b1e39f976f713727,CVE-2013-0249
+798133768,yyl-github-1896/CodeTAE,CodeT5/Defect-detection/preprocess/dataset/train.jsonl,bbc8da9fdb59b11e8c0d2133b1e39f976f713727,VU#12
+798133768,yyl-github-1896/CodeTAE,CodeBERT/Defect-detection/preprocess/dataset/train.jsonl,bbc8da9fdb59b11e8c0d2133b1e39f976f713727,VU#410
+798133768,yyl-github-1896/CodeTAE,CodeBERT/Defect-detection/preprocess/dataset/train.jsonl,bbc8da9fdb59b11e8c0d2133b1e39f976f713727,VU#420
+798133768,yyl-github-1896/CodeTAE,GraphCodeBERT/Defect-detection/preprocess/dataset/test_subs_400_800.jsonl,d67417e42acef3e15f8afa50dcfad975ce4880da,VU#047
+798133768,yyl-github-1896/CodeTAE,GraphCodeBERT/Defect-detection/preprocess/dataset/test_subs_400_800.jsonl,d67417e42acef3e15f8afa50dcfad975ce4880da,VU#11

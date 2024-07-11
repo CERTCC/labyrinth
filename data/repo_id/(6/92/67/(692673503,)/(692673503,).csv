@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+692673503,asahilina/agx-exploit,slides/index.html,5722430403573e65abddc2d617bfc89a3855e812,CVE-2022-32947
+692673503,asahilina/agx-exploit,slides/js/memory.js,5ee6a19aa2ef6468d67d7e94d1885be0af02b3e3,VU#25
+692673503,asahilina/agx-exploit,slides/js/memory.js,5ee6a19aa2ef6468d67d7e94d1885be0af02b3e3,VU#57
+692673503,asahilina/agx-exploit,slides/js/memory.js,5ee6a19aa2ef6468d67d7e94d1885be0af02b3e3,VU#79
+692673503,asahilina/agx-exploit,README.md,a48a470f48d23a65d369a85e69cd75477fc91420,CVE-2022-32947
+692673503,asahilina/agx-exploit,slides/js/unicorn-aarch64.min.js,c5c203f1f569cfc59d4dcf5306c1e0bd96899bd0,VU#21
+692673503,asahilina/agx-exploit,slides/js/unicorn-aarch64.min.js,c5c203f1f569cfc59d4dcf5306c1e0bd96899bd0,VU#25
+692673503,asahilina/agx-exploit,slides/js/unicorn-aarch64.min.js,c5c203f1f569cfc59d4dcf5306c1e0bd96899bd0,VU#29
+692673503,asahilina/agx-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-32947

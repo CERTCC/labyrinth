@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+822527996,TheSysRat/Publisher--THM,exploit.py,da8bce0310fe3ec09fdcd49c17ca09908758dc20,CVE-2023-27372
+822527996,TheSysRat/Publisher--THM,README.md,dff9127faecb525871ecf6c96540f61a1f693569,CVE-2023-27372

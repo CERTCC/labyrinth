@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+501104717,redhuntlabs/ConfluentPwn,README.md,5a4f9ad5da241c39524085d11292221811cf716d,CVE-2022-26134
+501104717,redhuntlabs/ConfluentPwn,_GITHUB_REPO_METADATA_,,CVE-2022-26134

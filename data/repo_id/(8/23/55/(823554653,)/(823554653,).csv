@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+823554653,VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL,README.md,b16c19072bb7c9e04312dc2edacfc9118e165ece,CVE-2024-5655
+823554653,VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL,_GITHUB_REPO_METADATA_,,CVE-2024-5655

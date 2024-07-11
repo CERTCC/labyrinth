@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
 417676162,nam3lum/exploits,Wordpress Plugin Duplicator 1.3.26 - Unauthenticated Arbitrary File Read/CVE-2020-11738.py,cb759d0835815b722c3d2797fb468524275eee37,CVE-2020-11738
+417676162,nam3lum/exploits,Akmail XSS-CSRF-RCE chain/exploit.py,da908000c620f18816a6b8c23b4cc042ce753b7c,VU#63

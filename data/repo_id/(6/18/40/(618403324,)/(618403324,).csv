@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+618403324,Acceis/exploit-CVE-2023-23752,README.md,12080eccdce79e391712496adb1334831f1746ec,CVE-2023-23752
+618403324,Acceis/exploit-CVE-2023-23752,exploit.rb,6f0c6f6c30a9eeec37dcbf95a6bb3b77acc552cb,CVE-2023-23752
+618403324,Acceis/exploit-CVE-2023-23752,_GITHUB_REPO_METADATA_,,CVE-2023-23752

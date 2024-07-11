@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+592036305,demining/Twist-Attack,README.md,1d40c1c248b1600514b5bb1aeee68a68b9841405,CVE-2020-28498
+592036305,demining/Twist-Attack,Twist Attack example perform a series of ECC operations to get the value of Private Key to the Bitcoin Wallet - CRYPTO DEEP TECH_files/main(1).css,24754b04ff40041cb056f251ebde936118476269,VU#300
+592036305,demining/Twist-Attack,Twist Attack example perform a series of ECC operations to get the value of Private Key to the Bitcoin Wallet - CRYPTO DEEP TECH_files/saved_resource.html,66dcd98d38d0d99da5b63903ce2cf473d1f302cc,VU#300
+592036305,demining/Twist-Attack,Twist Attack example perform a series of ECC operations to get the value of Private Key to the Bitcoin Wallet - CRYPTO DEEP TECH_files/main.css,9b16ae64ff1b890c620a931245c8ed01b004d7c4,VU#300

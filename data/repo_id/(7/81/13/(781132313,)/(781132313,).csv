@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+781132313,r0binak/xzk8s,README.md,0e91ef97cc33eaa769db3b20ea529b78b97b455e,CVE-2024-3094
+781132313,r0binak/xzk8s,pod.yaml,2cce1ba49c5efe5e51ac7ff71d3dedc5b196d9d4,CVE-2024-3094
+781132313,r0binak/xzk8s,_GITHUB_REPO_METADATA_,,CVE-2024-3094

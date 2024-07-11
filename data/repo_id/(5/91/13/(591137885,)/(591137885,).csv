@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/postcss/lib/previous-map.js,1024fa510c2a5d03b6f0a844aac3290b05646830,VU#29
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/object.assign/test.html,117f0814087eaa78a5413c17f5256230cceb8075,VU#25
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/object.assign/test.html,117f0814087eaa78a5413c17f5256230cceb8075,VU#29
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/object.assign/test.html,117f0814087eaa78a5413c17f5256230cceb8075,VU#291
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/postcss/lib/parser.js,42fb3020645310438e6cb03800e98bc71b1b88ad,VU#25
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/prettier/esm/parser-flow.mjs,43aed23117f52c098888803045a9383280555afa,VU#8206
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/snapdragon/node_modules/source-map/dist/source-map.debug.js,a26c8de3235c7942b54c8bad310347d54300fd90,VU#29
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/snapdragon/node_modules/source-map/dist/source-map.debug.js,a26c8de3235c7942b54c8bad310347d54300fd90,VU#291
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/source-map/dist/source-map.debug.js,a6bfe62f20aae6db6d91a21cd26493ec318050d4,VU#29
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/source-map/dist/source-map.debug.js,a6bfe62f20aae6db6d91a21cd26493ec318050d4,VU#291
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/postcss/lib/container.js,b8bdcfc223000743967bdb4cb743242db4c07827,VU#25
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/gulp-cli/node_modules/yargs-parser/CHANGELOG.md,d0ebccbcbae2680fd096cdee95bc9d8e0d921f5f,GHSA-P9PC-299P-VXGP
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/@types/node/tls.d.ts,d6cb6e64c3e36e6798d3cccfbaa2b991f1dcb9a1,CVE-2021-44531
+591137885,mysurvive/pf2e-thaum-vuln,node_modules/prettier/parser-flow.js,f9b21fc03a0362d5dbb71ce758fd56ee934ebf30,VU#8206

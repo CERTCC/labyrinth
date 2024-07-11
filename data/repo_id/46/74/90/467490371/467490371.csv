@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+467490371,febinrev/dirtypipez-exploit,dirtypipez.c,373d6b84023a8bc2f90c67c6d1e1f27fdb349307,CVE-2022-0847
+467490371,febinrev/dirtypipez-exploit,README.md,f590d7aeb48924c1fc84c2cb08e14e749663f141,CVE-2022-0847
+467490371,febinrev/dirtypipez-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-0847

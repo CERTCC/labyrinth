@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+472375921,tin-z/Stuff_and_POCs,ole32.dll/CVE-2019-1283/minimized,094fcb6a0cda838eff6ab02a7259f8cfefd79c89,CVE-2019-1283
+472375921,tin-z/Stuff_and_POCs,ole32.dll/CVE-2019-1283/ConsoleApplication1.cpp,0f1752b316ed79a9d45f67e7cbc8bb5794d72d8d,CVE-2019-1283
+472375921,tin-z/Stuff_and_POCs,README.md,2186e6129bf0fec6fb3fb900705757e5e361f0b9,CVE-2019-1283
+472375921,tin-z/Stuff_and_POCs,README.md,2186e6129bf0fec6fb3fb900705757e5e361f0b9,CVE-2021-35029
+472375921,tin-z/Stuff_and_POCs,README.md,2186e6129bf0fec6fb3fb900705757e5e361f0b9,CVE-2022-28487
+472375921,tin-z/Stuff_and_POCs,README.md,2186e6129bf0fec6fb3fb900705757e5e361f0b9,CVE-2022-28488
+472375921,tin-z/Stuff_and_POCs,README.md,2186e6129bf0fec6fb3fb900705757e5e361f0b9,CVE-2022-47502
+472375921,tin-z/Stuff_and_POCs,ole32.dll/CVE-2019-1283/ConsoleApplication1.exe,30f76cdb6446eba5006355bf8707e43a643d66c3,CVE-2019-1283
+472375921,tin-z/Stuff_and_POCs,poc_openoffice/CVE-2022-47502.md,3d2f1724e8f8eef729a6e36a28b121f9e25d346a,CVE-2022-47502
+472375921,tin-z/Stuff_and_POCs,ole32.dll/CVE-2019-1283/minidump.zip,6babc86f00b4f5af8dff5efa9edf896ee71835a3,CVE-2019-1283
+472375921,tin-z/Stuff_and_POCs,ole32.dll/CVE-2019-1283/minidump.zip,6babc86f00b4f5af8dff5efa9edf896ee71835a3,VU#46
+472375921,tin-z/Stuff_and_POCs,ole32.dll/CVE-2019-1283/bugidOutput.zip,ab24dd8da060284afc61465e3d0c0b08d73cc2f2,CVE-2019-1283
+472375921,tin-z/Stuff_and_POCs,ole32.dll/CVE-2019-1283/README.md,d5b351ce81939a7641de73f224be71611202a7f9,CVE-2019-1283
+472375921,tin-z/Stuff_and_POCs,poc_libwav/README.md,dc8556865538d3eaf4e67273a99ccd4e4692effb,CVE-2022-28488
+472375921,tin-z/Stuff_and_POCs,tcpreplay/README.md,fae430def6e74acb3b593f7f6b05a3c23ba6b276,CVE-2022-28487

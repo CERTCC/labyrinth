@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+251527491,PizzaWhisperer/HLLVuln,redis/src/module.c,0cea89e7cfe06acd8602aabed9289884b0464185,BID-1
+251527491,PizzaWhisperer/HLLVuln,redis/deps/hiredis/CHANGELOG.md,bd29415f85eac8173a1f393bbe9e57cde5baf193,CVE-2020-7105

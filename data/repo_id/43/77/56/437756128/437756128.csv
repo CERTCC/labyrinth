@@ -1,2 +1,13 @@
 repo_id,repo_full_name,file,file_sha1,match
-437756128,hupe1980/scan4log4shell,README.md,6d42c9dc7f75e1d7e319ad1f242afd4aada2ca08,CVE-2021-44228
+437756128,hupe1980/scan4log4shell,README.md,3aecf136f05346a09187904cde897e23aca379da,CVE-2021-44228
+437756128,hupe1980/scan4log4shell,README.md,3aecf136f05346a09187904cde897e23aca379da,CVE-2021-45046
+437756128,hupe1980/scan4log4shell,README.md,3aecf136f05346a09187904cde897e23aca379da,CVE-2021-45105
+437756128,hupe1980/scan4log4shell,internal/local.go,554d5e1ddc4dee3966a860f1570d0fb1aacfbb34,CVE-2021-44228
+437756128,hupe1980/scan4log4shell,internal/local.go,554d5e1ddc4dee3966a860f1570d0fb1aacfbb34,CVE-2021-45046
+437756128,hupe1980/scan4log4shell,internal/local.go,554d5e1ddc4dee3966a860f1570d0fb1aacfbb34,CVE-2021-45105
+437756128,hupe1980/scan4log4shell,cmd/remote.go,6d22b4c9030dfb242e18b54d425e0f765d6199ed,CVE-2021-45046
+437756128,hupe1980/scan4log4shell,internal/resource/cve_2021_45046.txt,8e90fe89c301d5e8447c8fc2461b43e9eec615eb,CVE-2021-45046
+437756128,hupe1980/scan4log4shell,cmd/root.go,a3209188e33c37b54e7010de5894ba616e3bed22,CVE-2021-44228
+437756128,hupe1980/scan4log4shell,cmd/local.go,bfc1a4f0f57f5642ef6a26daaa8124de80624400,CVE-2021-45046
+437756128,hupe1980/scan4log4shell,cmd/local.go,bfc1a4f0f57f5642ef6a26daaa8124de80624400,CVE-2021-45105
+437756128,hupe1980/scan4log4shell,internal/remote.go,f9eeba0ac44cee5a988f128e703aca7999196884,CVE-2021-45046

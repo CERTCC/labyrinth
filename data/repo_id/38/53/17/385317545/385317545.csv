@@ -1,1 +1,5 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+385317545,PaulNicolasHunter/That_Vulnerable_React_App,yarn.lock,acc65ceb7cf761023526085ba2e9ea3ee3a6bab7,VU#18
+385317545,PaulNicolasHunter/That_Vulnerable_React_App,yarn.lock,acc65ceb7cf761023526085ba2e9ea3ee3a6bab7,VU#43
+385317545,PaulNicolasHunter/That_Vulnerable_React_App,yarn.lock,acc65ceb7cf761023526085ba2e9ea3ee3a6bab7,VU#49
+385317545,PaulNicolasHunter/That_Vulnerable_React_App,yarn.lock,acc65ceb7cf761023526085ba2e9ea3ee3a6bab7,VU#62

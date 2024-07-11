@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+544397376,numanturle/CVE-2022-41040,README.md,1d3d6d3e58912e6ce93aa28be49db96aefdcc1e7,CVE-2022-41040
+544397376,numanturle/CVE-2022-41040,owa.yaml,dc67ecf7c32b77ab6b6965465fcc9bb1a8062a4b,CVE-2022-41040
+544397376,numanturle/CVE-2022-41040,_GITHUB_REPO_METADATA_,,CVE-2022-41040

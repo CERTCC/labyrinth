@@ -1,2 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#009,0.25000000,https://github.com/GiuseppeCerruto/Exploiting_Poker,GiuseppeCerruto/Exploiting_Poker,485116729
+VU#009,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
 VU#009,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
+VU#009,0.00689655,https://github.com/TimXiaTian/Quantitative-Trading-Project-Using-Binance-API,TimXiaTian/Quantitative-Trading-Project-Using-Binance-API,818114881
+VU#009,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
+VU#009,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
+VU#009,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
+VU#009,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
+VU#009,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685

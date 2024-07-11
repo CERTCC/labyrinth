@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+796846863,muhammedkayag/TryHackMe-0day-WriteUp,index.html,5909ae5d4ebde84c25b21fa0d64cf22417725132,CVE-2003-1418
+796846863,muhammedkayag/TryHackMe-0day-WriteUp,index.html,5909ae5d4ebde84c25b21fa0d64cf22417725132,CVE-2014-6271
+796846863,muhammedkayag/TryHackMe-0day-WriteUp,index.html,5909ae5d4ebde84c25b21fa0d64cf22417725132,CVE-2014-6278
+796846863,muhammedkayag/TryHackMe-0day-WriteUp,0day.md,65bc9dcf3cf6593c6d13418a58b7d806c3e0b466,CVE-2003-1418
+796846863,muhammedkayag/TryHackMe-0day-WriteUp,0day.md,65bc9dcf3cf6593c6d13418a58b7d806c3e0b466,CVE-2014-6271
+796846863,muhammedkayag/TryHackMe-0day-WriteUp,0day.md,65bc9dcf3cf6593c6d13418a58b7d806c3e0b466,CVE-2014-6278

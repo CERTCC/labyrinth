@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+497314878,trhacknon/Exploit-F5-CVE-2022-1388,CVE-2022-1388-multi-ips.sh,12ec767f7f6667e9cf763c34403c4db2dee0f969,CVE-2022-1388
+497314878,trhacknon/Exploit-F5-CVE-2022-1388,CVE-2022-1388-single-ip.sh,b8849be6ff5e80d3390cdd2fbd86d1ba60fb6672,CVE-2022-1388
+497314878,trhacknon/Exploit-F5-CVE-2022-1388,README.md,cca03f76aedcc7841bc0d148954ff2993ff0a46f,CVE-2022-1388
+497314878,trhacknon/Exploit-F5-CVE-2022-1388,_GITHUB_REPO_METADATA_,,CVE-2022-1388

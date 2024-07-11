@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-PWJ4-RF62-P224,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22740,Live-Hack-CVE/CVE-2023-22740,593918411
+GHSA-PWJ4-RF62-P224,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

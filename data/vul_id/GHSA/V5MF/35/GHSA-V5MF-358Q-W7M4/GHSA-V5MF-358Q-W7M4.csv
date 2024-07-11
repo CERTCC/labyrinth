@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-V5MF-358Q-W7M4,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-39380,Live-Hack-CVE/CVE-2022-39380,594242722
+GHSA-V5MF-358Q-W7M4,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
+GHSA-V5MF-358Q-W7M4,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

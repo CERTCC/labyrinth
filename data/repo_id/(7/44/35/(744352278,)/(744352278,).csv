@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+744352278,febinrev/slippy-book-exploit,README.md,9574e1d67d84ad3d86d00edddd103bedfb72c2f3,CVE-2023-44451
+744352278,febinrev/slippy-book-exploit,README.md,9574e1d67d84ad3d86d00edddd103bedfb72c2f3,CVE-2023-52076
+744352278,febinrev/slippy-book-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-44451
+744352278,febinrev/slippy-book-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-52076

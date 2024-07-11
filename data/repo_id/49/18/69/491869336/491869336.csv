@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+491869336,timkanbur/Log4j_Exploit_Paper,README.md,173b75172f9394a5b9ac572cfe02b45cb365a320,CVE-2021-44228

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+614400219,jaypatel34/Exploit,test.sh,cf02a59bed1403f4454d2da8f06675a912fa3827,CVE-2017-0358
+614400219,jaypatel34/Exploit,test.sh,cf02a59bed1403f4454d2da8f06675a912fa3827,CVE-2017-0359

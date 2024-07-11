@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+756055310,CraigDonkin/Microsoft-CVE-Lookup,ms-cve-lookup.py,b9049c4bc7b3af58f26028f8354cc3cac82d25c1,CVE-2024-1234
+756055310,CraigDonkin/Microsoft-CVE-Lookup,README.md,f63b86b92cb474cd8b1db799f475aff613e823e1,CVE-2020-1446
+756055310,CraigDonkin/Microsoft-CVE-Lookup,README.md,f63b86b92cb474cd8b1db799f475aff613e823e1,CVE-2023-36033
+756055310,CraigDonkin/Microsoft-CVE-Lookup,README.md,f63b86b92cb474cd8b1db799f475aff613e823e1,CVE-2024-1234

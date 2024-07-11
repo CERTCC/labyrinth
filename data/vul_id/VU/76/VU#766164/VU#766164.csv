@@ -1,3 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#766164,0.50000000,https://github.com/0xAbbarhSF/UEFI-RootKit,0xAbbarhSF/UEFI-RootKit,572090340
+VU#766164,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
+VU#766164,0.00055432,https://github.com/ibojanova/BF,ibojanova/BF,477905329
+VU#766164,0.00053792,https://github.com/ibojanova/BF,ibojanova/BF,517767839
+VU#766164,0.00053792,https://github.com/ibojanova/BF,ibojanova/BF,517732216
 VU#766164,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 VU#766164,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
+VU#766164,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+VU#766164,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

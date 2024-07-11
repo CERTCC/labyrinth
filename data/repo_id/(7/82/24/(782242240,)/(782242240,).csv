@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+782242240,chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc,README.md,6a282074685a9b6e753f62a55dc9a2860c0db354,CVE-2024-27198
+782242240,chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc,README.md,6a282074685a9b6e753f62a55dc9a2860c0db354,CVE-2024-27199
+782242240,chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc,README.md,6a282074685a9b6e753f62a55dc9a2860c0db354,CVE-2024-30851
+782242240,chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc,exploit.py,ecd46e77f535b82b027e6a4a2f9758751b65cac8,CVE-2024-30851
+782242240,chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc,_GITHUB_REPO_METADATA_,,CVE-2024-30851

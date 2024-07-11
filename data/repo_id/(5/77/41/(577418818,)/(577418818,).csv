@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+577418818,kitabisa/teler-waf,teler_test.go,9678a1fe39122e4ca87abf1525a7814f00544720,CVE-2022-22972

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+471043684,MASDXI/malicious-crowdsale-contract,yarn.lock,b7781d8213933bf213b35b5edabb2d12783173d2,VU#137
+471043684,MASDXI/malicious-crowdsale-contract,yarn.lock,b7781d8213933bf213b35b5edabb2d12783173d2,VU#18
+471043684,MASDXI/malicious-crowdsale-contract,yarn.lock,b7781d8213933bf213b35b5edabb2d12783173d2,VU#62

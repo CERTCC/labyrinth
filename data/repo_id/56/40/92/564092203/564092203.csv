@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/scapy/modules/krack/__init__.py,1b0e0d012eb6c4cb9da5804616d883b5c3bbed6f,CVE-2017-13077
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/scapy/modules/krack/__init__.py,1b0e0d012eb6c4cb9da5804616d883b5c3bbed6f,CVE-2017-13080
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#32
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#33
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#396
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#49
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#53
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#65
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#82
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#84
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,1b1a84804f896b7085924f8bf0431721f3b5bdbe,VU#85
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/scapy/modules/krack/automaton.py,1db47ee373f45d2f8a30586bca75659a6580c321,CVE-2017-13077
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/scapy/modules/krack/automaton.py,1db47ee373f45d2f8a30586bca75659a6580c321,CVE-2017-13080
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/pip-21.0.1.dist-info/RECORD,4f6cda5a6a926aeeb7909157fff756dcf87bc27e,VU#33271
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/scapy/contrib/pfcp.py,e0a4c7fdfff310c952fb00df43fb74fa80646bd8,BID-0
+564092203,AllOuttaWasabi/ApplicationLayerExploitation,venv/Lib/site-packages/scapy/contrib/homeplugav.py,ede8eb7fd78ca288f790138b1c8b973135314dff,BID-0

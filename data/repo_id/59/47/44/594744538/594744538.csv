@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+594744538,Cyb3rtus/keepass_CVE-2023-24055_yara_rule,keepass_cve_2023_24055.yar,7cf76034d7ad98068aebc9c0c872e13d1987d071,CVE-2023-24055
+594744538,Cyb3rtus/keepass_CVE-2023-24055_yara_rule,README.md,eabd68417b25f118c3327552474f9c58c0c39e5f,CVE-2023-24055
+594744538,Cyb3rtus/keepass_CVE-2023-24055_yara_rule,_GITHUB_REPO_METADATA_,,CVE-2023-24055

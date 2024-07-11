@@ -1,0 +1,7 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2018-24942,0.00934579,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
+CNVD-2018-24942,0.00909091,https://github.com/youki992/VscanPlus,youki992/VscanPlus,763934320
+CNVD-2018-24942,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
+CNVD-2018-24942,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+CNVD-2018-24942,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2018-24942,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

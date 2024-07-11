@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+810347515,GhostFrankWu/SAEG,assets/bof_aeg_challenges/cve-2012-4409_mcrypt,5de4cbbdee360ad53974aa772addc49ab32a72d9,CVE-2012-4409
+810347515,GhostFrankWu/SAEG,assets/bof_aeg_challenges/cve-2004-1257_abc2mtex,9210c0bc968ea6a15cf34157031f9eae1465e7b0,CVE-2004-1257
+810347515,GhostFrankWu/SAEG,assets/bof_aeg_challenges/cve-2013-2028_nginx,b88ad27e65d6dd2b7d61764e552aeae8b9ecbf1e,CVE-2013-2028
+810347515,GhostFrankWu/SAEG,assets/bof_aeg_challenges/cve-2017-13089_wget,d186e35c7ded3f64485445c52f039cea0ed93cc5,CVE-2017-13089
+810347515,GhostFrankWu/SAEG,assets/bof_aeg_challenges/cve-2011-1938_php,d61363f3f0250b65aac828b6bcfb9d3f8b14813d,CVE-2011-1938

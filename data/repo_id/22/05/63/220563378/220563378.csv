@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+220563378,Alekseyyy/InfoSec,exploits/CVE-2019-9053/README.md,37c270b0b269409e7aaae974973669c5bfbf414d,CVE-2019-9053
+220563378,Alekseyyy/InfoSec,exploits/CVE-2019-9053/exploit.zip,89f4d8b81c332d180a9b5270dd4f80f6854bb5e5,CVE-2019-9053
+220563378,Alekseyyy/InfoSec,exploits/CVE-2019-6714.cs,966efbaa2e16459f2c5f2dbc81d9beb14957d85d,CVE-2019-6714

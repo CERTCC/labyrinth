@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+772512207,Sk3pper/CVE-2024-21626,deb/containerd.io_1.6.4-1_amd64.deb,429078ba4948395ab88cd06c6ef49ea37c965273,VU#03
+772512207,Sk3pper/CVE-2024-21626,deb/containerd.io_1.6.4-1_amd64.deb,429078ba4948395ab88cd06c6ef49ea37c965273,VU#34
+772512207,Sk3pper/CVE-2024-21626,deb/docker-ce-cli_24.0.6-1~ubuntu.22.04~jammy_amd64.deb,6b9483d4feb6e87630ae4dfd515448b733f36940,VU#27
+772512207,Sk3pper/CVE-2024-21626,deb/docker-ce-cli_24.0.6-1~ubuntu.22.04~jammy_amd64.deb,6b9483d4feb6e87630ae4dfd515448b733f36940,VU#54
+772512207,Sk3pper/CVE-2024-21626,deb/docker-ce_24.0.6-1~ubuntu.22.04~jammy_amd64.deb,844f9ac3dcb22b45479514378ddcd7eb3cdf2539,VU#03
+772512207,Sk3pper/CVE-2024-21626,deb/docker-ce_24.0.6-1~ubuntu.22.04~jammy_amd64.deb,844f9ac3dcb22b45479514378ddcd7eb3cdf2539,VU#18
+772512207,Sk3pper/CVE-2024-21626,deb/docker-ce_24.0.6-1~ubuntu.22.04~jammy_amd64.deb,844f9ac3dcb22b45479514378ddcd7eb3cdf2539,VU#19
+772512207,Sk3pper/CVE-2024-21626,deb/docker-ce_24.0.6-1~ubuntu.22.04~jammy_amd64.deb,844f9ac3dcb22b45479514378ddcd7eb3cdf2539,VU#35
+772512207,Sk3pper/CVE-2024-21626,deb/docker-ce_24.0.6-1~ubuntu.22.04~jammy_amd64.deb,844f9ac3dcb22b45479514378ddcd7eb3cdf2539,VU#47
+772512207,Sk3pper/CVE-2024-21626,deb/docker-ce_24.0.6-1~ubuntu.22.04~jammy_amd64.deb,844f9ac3dcb22b45479514378ddcd7eb3cdf2539,VU#66
+772512207,Sk3pper/CVE-2024-21626,testOpenat2/testOpenat2,916e87c9e2377733543040e62f99a2ecda4be210,CVE-2024-21626
+772512207,Sk3pper/CVE-2024-21626,README.md,d4e28518a75fb017e8dc9c0c61d7fda094d7dd09,CVE-2024-21626
+772512207,Sk3pper/CVE-2024-21626,deb/docker-buildx-plugin_0.10.2-1~ubuntu.22.04~jammy_amd64.deb,e50c71c0df1e9cb413372b5bdc1c41aaa1b71e7e,VU#00
+772512207,Sk3pper/CVE-2024-21626,deb/docker-buildx-plugin_0.10.2-1~ubuntu.22.04~jammy_amd64.deb,e50c71c0df1e9cb413372b5bdc1c41aaa1b71e7e,VU#01
+772512207,Sk3pper/CVE-2024-21626,deb/docker-buildx-plugin_0.10.2-1~ubuntu.22.04~jammy_amd64.deb,e50c71c0df1e9cb413372b5bdc1c41aaa1b71e7e,VU#33
+772512207,Sk3pper/CVE-2024-21626,_GITHUB_REPO_METADATA_,,CVE-2024-21626

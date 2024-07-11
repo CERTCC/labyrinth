@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+482013810,aeyesec/CVE-2021-31805,README.md,8d6608f6cdee8de43e1983ffbc41b7d9b241dacd,CVE-2021-31805
+482013810,aeyesec/CVE-2021-31805,webapps/struts2-showcase-2.5.29.war,da4fad94ba2a3a7fcd64bb69c1359a5a16d3df64,VU#62
+482013810,aeyesec/CVE-2021-31805,webapps/struts2-showcase-2.5.29.war,da4fad94ba2a3a7fcd64bb69c1359a5a16d3df64,VU#70
+482013810,aeyesec/CVE-2021-31805,webapps/struts2-showcase-2.5.29.war,da4fad94ba2a3a7fcd64bb69c1359a5a16d3df64,VU#84
+482013810,aeyesec/CVE-2021-31805,_GITHUB_REPO_METADATA_,,CVE-2021-31805

@@ -1,2 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2017-03561,0.01694915,https://github.com/pen4uin/awesome-java-security,pen4uin/awesome-java-security,425515141
+CNVD-2017-03561,0.01298701,https://github.com/codeyso/CodeTest,codeyso/CodeTest,465011945
 CNVD-2017-03561,0.01041667,https://github.com/pen4uin/Poc-Exp,pen4uin/Poc-Exp,324937157
+CNVD-2017-03561,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2017-03561,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNVD-2017-03561,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2017-03561,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

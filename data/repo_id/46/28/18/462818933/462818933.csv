@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+462818933,random-robbie/cve-2022-23131-exp,README.md,b9288615575b90c62b2b6afdc5b42615a0ccae86,CVE-2022-23131
+462818933,random-robbie/cve-2022-23131-exp,zabbix.py,d7d25fdb344734201d8414bf4795982fc37b7195,CVE-2022-23131
+462818933,random-robbie/cve-2022-23131-exp,_GITHUB_REPO_METADATA_,,CVE-2022-23131

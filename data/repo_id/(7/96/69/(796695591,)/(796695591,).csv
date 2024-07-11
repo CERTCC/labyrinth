@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+796695591,jakabakos/vm2-sandbox-escape-exploits,README.md,211ff50e3d4f83dce82779537a9224e9b5c6d432,CVE-2023-29017
+796695591,jakabakos/vm2-sandbox-escape-exploits,README.md,211ff50e3d4f83dce82779537a9224e9b5c6d432,CVE-2023-29199
+796695591,jakabakos/vm2-sandbox-escape-exploits,README.md,211ff50e3d4f83dce82779537a9224e9b5c6d432,CVE-2023-30547
+796695591,jakabakos/vm2-sandbox-escape-exploits,README.md,211ff50e3d4f83dce82779537a9224e9b5c6d432,CVE-2023-32313
+796695591,jakabakos/vm2-sandbox-escape-exploits,README.md,211ff50e3d4f83dce82779537a9224e9b5c6d432,CVE-2023-32314
+796695591,jakabakos/vm2-sandbox-escape-exploits,CVE-2023-32313.js,21f7edb8a7ba0116ba68741bc11893f624457275,CVE-2023-32313
+796695591,jakabakos/vm2-sandbox-escape-exploits,CVE-2023-29199.js,29d09abed0ef9fe0b0981c9cbae2bf433ee30ded,CVE-2023-29199
+796695591,jakabakos/vm2-sandbox-escape-exploits,CVE-2023-32314.js,4803320a603b7ea08755b6d10832491c769c5e92,CVE-2023-32314
+796695591,jakabakos/vm2-sandbox-escape-exploits,CVE-2023-29017.js,9ef9244da9ec0ff475f9bf80d784072be43a6554,CVE-2023-29017
+796695591,jakabakos/vm2-sandbox-escape-exploits,CVE-2023-30547.js,f9f5bc43e70ae6804302ec92ea57f3b047d786ec,CVE-2023-30547

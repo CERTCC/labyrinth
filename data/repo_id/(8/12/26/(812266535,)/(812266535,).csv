@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+812266535,mofaal1/eternalblue-exploitation,README.md,010c0b94ab544e8d76515c4865b46be5464bbeab,MS08-067
+812266535,mofaal1/eternalblue-exploitation,README.md,010c0b94ab544e8d76515c4865b46be5464bbeab,MS11-003
+812266535,mofaal1/eternalblue-exploitation,README.md,010c0b94ab544e8d76515c4865b46be5464bbeab,MS17-010

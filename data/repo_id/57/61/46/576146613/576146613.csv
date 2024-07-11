@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+576146613,0xlilith/exploits,tmp/pwnkit.c,af8c0a59415136a7859881b7286d411e0d661e23,CVE-2021-4034
+576146613,0xlilith/exploits,index.html,b3d4b21ddcfa129fe5f4b1dda753c069457d71dc,CVE-2021-4034

@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZDI-20-729,0.01886792,https://github.com/rdomanski/Exploits_and_Advisories,rdomanski/Exploits_and_Advisories,254165166
-ZDI-20-729,0.00465116,https://github.com/pedrib/PoC,pedrib/PoC,13247147
+ZDI-20-729,0.01449275,https://github.com/rdomanski/Exploits_and_Advisories,rdomanski/Exploits_and_Advisories,254165166
+ZDI-20-729,0.00446429,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 ZDI-20-729,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
+ZDI-20-729,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+ZDI-20-729,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

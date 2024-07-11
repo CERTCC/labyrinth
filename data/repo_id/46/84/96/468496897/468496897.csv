@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+468496897,terabitSec/dirtyPipe-automaticRoot,README.md,6921ea8ba144fb27e8a368ecec3772c7b7e5b4cc,CVE-2022-0847
+468496897,terabitSec/dirtyPipe-automaticRoot,_GITHUB_REPO_METADATA_,,CVE-2022-0847

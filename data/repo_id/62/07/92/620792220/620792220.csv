@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+620792220,w1s3m4n/tinyfilemanager_2.4.3_RCE_v2,exploit.sh,79d3f0b57451cf6d96f4e19818d702a3afa27d1a,CVE-2021-45010

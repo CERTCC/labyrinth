@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+596567126,heikanet/Microsoft-Exchange-RCE,README.md,3b388f778d8043531971efbac5cd2de6c54331b3,CVE-2021-26855
+596567126,heikanet/Microsoft-Exchange-RCE,README.md,3b388f778d8043531971efbac5cd2de6c54331b3,CVE-2021-27065
+596567126,heikanet/Microsoft-Exchange-RCE,exchange.py,91d3434fd260ff83355bfb58948db8996d095e0e,CVE-2021-26855
+596567126,heikanet/Microsoft-Exchange-RCE,exchange.py,91d3434fd260ff83355bfb58948db8996d095e0e,CVE-2021-27065
+596567126,heikanet/Microsoft-Exchange-RCE,_GITHUB_REPO_METADATA_,,CVE-2021-26855
+596567126,heikanet/Microsoft-Exchange-RCE,_GITHUB_REPO_METADATA_,,CVE-2021-27065

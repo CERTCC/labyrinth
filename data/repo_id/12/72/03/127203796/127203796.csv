@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-127203796,tmenochet/WinUtils,Get-ShadowHiveDump.ps1,dbf263b9f8aedcfbede853b2d3a2b46d64d127b7,CVE-2021-36934
+127203796,tmenochet/PowerUtils,New-RogueAccount.ps1,02a7ee37eec6b26e1f4259f2c89272eb0b960df2,CVE-2021-34470

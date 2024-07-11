@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+503944049,Cerebrovinny/follina-CVE-2022-30190,README.md,762a85ed7ed790d96ee97ff6c0674d30dada75b4,CVE-2022-30190
+503944049,Cerebrovinny/follina-CVE-2022-30190,follina.py,978a3937bd0489987e3e4a4e439b9a028a6dd19d,CVE-2022-30190
+503944049,Cerebrovinny/follina-CVE-2022-30190,_GITHUB_REPO_METADATA_,,CVE-2022-30190

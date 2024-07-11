@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+669208837,crankyyash/Citrix-Gateway-Reflected-Cross-Site-Scripting-XSS,README.md,705813fb916d099c8003ec98bf295fa531fb5aa2,CVE-2023-24487
+669208837,crankyyash/Citrix-Gateway-Reflected-Cross-Site-Scripting-XSS,README.md,705813fb916d099c8003ec98bf295fa531fb5aa2,CVE-2023-24488

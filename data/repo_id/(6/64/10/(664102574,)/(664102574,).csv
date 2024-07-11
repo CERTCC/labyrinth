@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+664102574,cxdxnt/CVE-2022-24715,exploit.py,bed96c66445ef989edcf125ede75913cc52a044f,CVE-2022-24715
+664102574,cxdxnt/CVE-2022-24715,_GITHUB_REPO_METADATA_,,CVE-2022-24715

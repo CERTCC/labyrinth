@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+775354972,Lilly-dox/RCE-to-XSS-Electron-8.0.0,README.md,916cdf41da1da8b2ba5175691dfb6bac5758ffd1,CVE-2023-22518

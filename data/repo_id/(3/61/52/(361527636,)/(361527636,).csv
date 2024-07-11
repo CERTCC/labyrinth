@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+361527636,farazsth98/virtualbox-qemu-vuln-research-notes,qemu-build/exploit/exploit.h,35921319ed9d0c9944c0f3c4f0f55958c4dceca2,CVE-2018-2844
+361527636,farazsth98/virtualbox-qemu-vuln-research-notes,qemu-build/vmlinuz-5.8.0-50-generic,4e5b5317750c305455987feb996a708a427dd91f,VU#02
+361527636,farazsth98/virtualbox-qemu-vuln-research-notes,qemu-build/vmlinuz-5.8.0-50-generic,4e5b5317750c305455987feb996a708a427dd91f,VU#38
+361527636,farazsth98/virtualbox-qemu-vuln-research-notes,templates/README.md,c0b998f4e275a797b6b852a7c816ab7abc851899,CVE-2023-22098

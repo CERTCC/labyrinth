@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-174772426,khast3x/Redcloud,templates/templates.yml,871e736f93d97cbe4ab2235a8af439643a263ba4,CVE-2014-6271
-174772426,khast3x/Redcloud,templates/templates.yml,871e736f93d97cbe4ab2235a8af439643a263ba4,CVE-2017-7494
+174772426,khast3x/Redcloud,templates/templates.yml,b7cbde57660013bde49d54e8fd327b719d903874,CVE-2014-6271
+174772426,khast3x/Redcloud,templates/templates.yml,b7cbde57660013bde49d54e8fd327b719d903874,CVE-2017-7494

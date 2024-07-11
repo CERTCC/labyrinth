@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+125527207,0daylabs/0daylabs.github.io,_posts/2024/java/2024-05-27-jetbrains-teamcity-auth-bypass.md,7ed1b3e1584576a4c614eb03c219a8dc1641d64a,CVE-2024-23917
+125527207,0daylabs/0daylabs.github.io,_posts/2016/BugBounty/2016-02-15-stored-xss-on-zendesk.md,ac8e42476eb930e9d3adc518bd545df11024853c,CVE-2014-5144
+125527207,0daylabs/0daylabs.github.io,_posts/2024/java/2024-02-26-apache-ofbiz-authbypass-rce.md,e31e946da7cd0c800fe593576d6cfb65225d836c,CVE-2023-51467

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+597283448,Ashifcoder/CVE-2022-44268-automated-poc,CVE-2022-44268_poc.sh,67fd2c67a832007ee8fabf337c8304e2f3bdc4d7,CVE-2022-44268
+597283448,Ashifcoder/CVE-2022-44268-automated-poc,README.md,f9e283375b741554508dec88a2f15e0fdcc8500b,CVE-2022-44268
+597283448,Ashifcoder/CVE-2022-44268-automated-poc,_GITHUB_REPO_METADATA_,,CVE-2022-44268

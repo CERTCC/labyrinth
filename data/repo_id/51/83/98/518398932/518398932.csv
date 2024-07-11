@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+518398932,bobbyjameswilliams/Secret-Agent-PWA,MongoDB Server/node_modules/mquery/History.md,619a232d099fca3b7f9db872fb3769cd9c31734b,CVE-2020-35149
+518398932,bobbyjameswilliams/Secret-Agent-PWA,MongoDB Server/node_modules/swagger-ui-dist/swagger-ui-bundle.js,8a5fbbdcdc56288155cab59047c36d64774971e7,VU#861
+518398932,bobbyjameswilliams/Secret-Agent-PWA,MongoDB Server/node_modules/swagger-ui-dist/swagger-ui-bundle.js,8a5fbbdcdc56288155cab59047c36d64774971e7,VU#88
+518398932,bobbyjameswilliams/Secret-Agent-PWA,MongoDB Server/node_modules/swagger-ui-dist/swagger-ui-es-bundle.js,bd157e6bf022c2e336fc30c79c6f367754fac475,VU#861
+518398932,bobbyjameswilliams/Secret-Agent-PWA,MongoDB Server/node_modules/swagger-ui-dist/swagger-ui-es-bundle.js,bd157e6bf022c2e336fc30c79c6f367754fac475,VU#88

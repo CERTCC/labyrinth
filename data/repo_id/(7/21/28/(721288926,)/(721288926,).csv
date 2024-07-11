@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+721288926,b3pwn3d/CVE-2017-7921,exploit_detect.py,5976ecba7b6ebd856a28b93ef58d55b94bdb5bd6,CVE-2017-7921
+721288926,b3pwn3d/CVE-2017-7921,_GITHUB_REPO_METADATA_,,CVE-2017-7921

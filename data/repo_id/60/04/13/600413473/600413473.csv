@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+600413473,Virgil-UNSC/Jexboss-CE-2023,_exploits.py,242fc3bce7a4182d6392ed84aa74da0c5196820b,CVE-2016-8735
+600413473,Virgil-UNSC/Jexboss-CE-2023,_exploits.py,242fc3bce7a4182d6392ed84aa74da0c5196820b,CVE-2017-5638
+600413473,Virgil-UNSC/Jexboss-CE-2023,jexboss.py,791672a0ccdbdd271e25da3c09fbc85c3e23e590,CVE-2015-5317
+600413473,Virgil-UNSC/Jexboss-CE-2023,jexboss.py,791672a0ccdbdd271e25da3c09fbc85c3e23e590,CVE-2016-3427
+600413473,Virgil-UNSC/Jexboss-CE-2023,jexboss.py,791672a0ccdbdd271e25da3c09fbc85c3e23e590,CVE-2016-8735
+600413473,Virgil-UNSC/Jexboss-CE-2023,jexboss.py,791672a0ccdbdd271e25da3c09fbc85c3e23e590,CVE-2017-5638

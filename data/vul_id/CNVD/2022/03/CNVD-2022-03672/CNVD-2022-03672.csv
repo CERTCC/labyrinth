@@ -1,0 +1,17 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2022-03672,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-48323,Live-Hack-CVE/CVE-2022-48323,601004649
+CNVD-2022-03672,0.50000000,https://github.com/Wrin9/sunflower_RCE_POC,Wrin9/sunflower_RCE_POC,460306906
+CNVD-2022-03672,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2022-03672,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
+CNVD-2022-03672,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
+CNVD-2022-03672,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
+CNVD-2022-03672,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
+CNVD-2022-03672,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
+CNVD-2022-03672,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+CNVD-2022-03672,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+CNVD-2022-03672,0.00003960,https://github.com/adminlove520/cnvd,adminlove520/cnvd,531908311
+CNVD-2022-03672,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2022-03672,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
+CNVD-2022-03672,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+CNVD-2022-03672,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+CNVD-2022-03672,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

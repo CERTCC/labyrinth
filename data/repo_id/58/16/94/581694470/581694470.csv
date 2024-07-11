@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/Werkzeug-2.2.2.dist-info/RECORD,2b515d39ba94befd583686f4295485dfdba8c9a9,VU#4847
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/packaging-22.0.dist-info/RECORD,82ccbb0dacb6064128c02a82709b76245f3ecda0,VU#948
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#17
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#20
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#32
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#33
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#396
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#49
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#53
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#65
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#82
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#84
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,edc6158964acc5999ed5413575dd9a650a6bcdb2,VU#85
+581694470,SusanaSoledo/miproyecto,lib/python3.10/site-packages/greenlet-2.0.1.dist-info/RECORD,fd441a490cae6b64bc294df8a1babcd12f3d2bd4,VU#1340

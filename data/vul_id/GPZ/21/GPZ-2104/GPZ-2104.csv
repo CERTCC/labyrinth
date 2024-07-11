@@ -1,5 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-2104,1.00000000,https://github.com/TinToSer/CVE2020-17087,TinToSer/CVE2020-17087,309818753
-GPZ-2104,0.50000000,https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation,vp777/Windows-Non-Paged-Pool-Overflow-Exploitation,382397170
+GPZ-2104,0.20000000,https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation,vp777/Windows-Non-Paged-Pool-Overflow-Exploitation,382397170
 GPZ-2104,0.01010101,https://github.com/SleepTheGod/0days,SleepTheGod/0days,417917134
-GPZ-2104,0.00934579,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
+GPZ-2104,0.00581395,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
+GPZ-2104,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GPZ-2104,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

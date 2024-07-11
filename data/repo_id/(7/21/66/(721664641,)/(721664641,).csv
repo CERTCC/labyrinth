@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+721664641,flxnzz/UniXploit,vendor/swiftmailer/swiftmailer/CHANGES,2ef955dda06a42c7a21e7c651b38c79309f8f631,CVE-2016-10074
+721664641,flxnzz/UniXploit,README.md,9c1194252ea7a4268c97f88f8310c7a44d5abed7,CVE-2019-3129
+721664641,flxnzz/UniXploit,README.md,9c1194252ea7a4268c97f88f8310c7a44d5abed7,CVE-2021-3129
+721664641,flxnzz/UniXploit,vendor/guzzlehttp/guzzle/CHANGELOG.md,bf81e31bdd5a9f9e885182a8a9dafb6d0e43951a,CVE-2016-5385
+721664641,flxnzz/UniXploit,vendor/league/commonmark/CHANGELOG-0.x.md,f8c1d678731542457f74f251a17ca32e2acb0f50,CVE-2018-20583

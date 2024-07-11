@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNNVD-202203-1539,0.33333333,https://github.com/antx-code/CVE-2022-24990,antx-code/CVE-2022-24990,480629331

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+797429500,BitcoinChatGPT/DeserializeSignature-Vulnerability-Algorithm,README.md,b3911c04ceeac666887c7c27175c5bbccee1d3fd,CVE-2017-9785
+797429500,BitcoinChatGPT/DeserializeSignature-Vulnerability-Algorithm,BitcoinChatGPT_№2_DeserializeSignature_Vulnerability_Algorithm.ipynb,ba7e3809bf8db23aebc7e1fbfb390fddc923909d,CVE-2017-9785

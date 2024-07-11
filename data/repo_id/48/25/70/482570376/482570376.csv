@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+482570376,ClockW-TheROOT/exploits,mysmb.py,4cae385f1ab56fb9fe6402045c812ec18b993f62,MS17-010
+482570376,ClockW-TheROOT/exploits,eternalscan.py,705bce56fd8752075445bca1fa9c1bb505a3ce37,MS17-010

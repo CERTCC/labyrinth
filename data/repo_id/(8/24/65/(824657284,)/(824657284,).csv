@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,poc/x64/Release/poc.iobj,08e66658c3a0c4e2105cb68431801b956359b112,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,poc/x64/Release/poc.log,23dd2acb53c9a77877644149813b53e5eebd9a03,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,poc/x64/Release/poc.tlog/poc.lastbuildstate,24a9e8467a13e077b19513a30fe8ca1abc1a0869,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,README.md,56e70e81668c38894565d577a87f9fbcd9e820cf,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,poc/x64/Release/poc.tlog/link.secondary.1.tlog,6ef6e0e3b60460d45a812956c3b22c9c2683b17f,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,x64/Release/poc.exe,6fb491a6292aa9575d5034a041316f0abdee1a4d,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,poc/x64/Release/vc143.pdb,86be8428a743efc3a7b93c4fb3f7a0c00381600b,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,poc/x64/Release/main.obj,a4cb9bb91e8fb2927dc7d265d0e5449be8d4afcf,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,poc/x64/Release/poc.exe.recipe,cdf0aadbdf5d50d7bad9e9417c0fa4f99dda9049,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,poc/x64/Release/poc.tlog/Cl.items.tlog,d21aafb16b42d7c4d19107b3fe1a5ff3373a3fc0,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,x64/Release/poc.pdb,e7d4478efabe6dfbe3153c23359368b1be80b9db,CVE-2024-30088
+824657284,Zombie-Kaiser/CVE-2024-30088-Windows-poc,_GITHUB_REPO_METADATA_,,CVE-2024-30088

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+707103505,barilo-egor/rce-web,src/main/resources/static/extJS/theme-triton/resources/fonts/OpenSans-Regular.ttf,3564ed0b5363df5cf277c16e0c6bedc5a682217f,VU#62
+707103505,barilo-egor/rce-web,src/main/resources/static/extJS/ext-all-debug.js,8e70ba571f91c2a47913ceda91740a020bc9e14d,VU#78

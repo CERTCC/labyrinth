@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+475999799,tweedge/springcore-0day-en,README.md,4c880c54aea5cb05454ded0fd504f101e690e164,CVE-2010-1622
+475999799,tweedge/springcore-0day-en,README.md,4c880c54aea5cb05454ded0fd504f101e690e164,CVE-2022-22963
+475999799,tweedge/springcore-0day-en,README.md,4c880c54aea5cb05454ded0fd504f101e690e164,CVE-2022-22965

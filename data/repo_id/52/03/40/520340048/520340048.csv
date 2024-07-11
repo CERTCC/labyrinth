@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+520340048,Dimples1337/NewSilenceFix-opensources,src/main/resources/assets/minecraft/fdpclient/font/PoppinsSemiBold.ttf,20b39c8b480c946b084d6aa09f12bf10b2ec5aa6,VU#7887
+520340048,Dimples1337/NewSilenceFix-opensources,src/main/resources/assets/minecraft/fdpclient/font/misans.ttf,27b06dd7a75f402206f68abf302f8f7fb0f2d25c,VU#41
+520340048,Dimples1337/NewSilenceFix-opensources,src/main/resources/assets/minecraft/fdpclient/font/baloo.ttf,4a1fc0d6f7607f9595d9f3b1b89abbd342c7c25b,VU#32
+520340048,Dimples1337/NewSilenceFix-opensources,src/main/resources/assets/minecraft/fdpclient/font/SFTHIN.ttf,71803a7f84fbdd995ffe45e19447de4f3f4dd06a,VU#34
+520340048,Dimples1337/NewSilenceFix-opensources,src/main/resources/assets/minecraft/fdpclient/font/sans.ttf,babe8dce93a3e48b6c3c79720a0c048e88dd1fe7,VU#62
+520340048,Dimples1337/NewSilenceFix-opensources,README.adoc,c32be3fbf4be53c1ea3f7ab7787c5abb5525a66d,VU#58
+520340048,Dimples1337/NewSilenceFix-opensources,src/main/resources/assets/minecraft/fdpclient/font/SFBOLD.ttf,ecf7c418b904df81948f7306fdad0fbeb3a0b664,VU#77
+520340048,Dimples1337/NewSilenceFix-opensources,src/main/resources/assets/minecraft/fdpclient/font/SFBOLD.ttf,ecf7c418b904df81948f7306fdad0fbeb3a0b664,VU#9889

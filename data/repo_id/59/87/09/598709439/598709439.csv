@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+598709439,h1bAna/exploit,heap4.rar,1c333fc441fb6aaf758eb480b916c11175386a99,VU#32
+598709439,h1bAna/exploit,Exploitation.rar,a3e1a7c5a5d040deb14e8a3f3084a14094fc885a,VU#29
+598709439,h1bAna/exploit,Exploitation.rar,a3e1a7c5a5d040deb14e8a3f3084a14094fc885a,VU#32
+598709439,h1bAna/exploit,Exploitation.rar,a3e1a7c5a5d040deb14e8a3f3084a14094fc885a,VU#65
+598709439,h1bAna/exploit,heap6.rar,c7574f551082046861e6776f88f57d17d33efd63,VU#29
+598709439,h1bAna/exploit,WindowsExploitation-HeapCorruption2/HEAP2.exe,e693792af3f8c4c53825c642655bc5061c6d0a71,CVE-2017-8465
+598709439,h1bAna/exploit,heap3.rar,ea8b150a6f32be301c87138cc2a1f552d44607f9,VU#32
+598709439,h1bAna/exploit,heap3.rar,ea8b150a6f32be301c87138cc2a1f552d44607f9,VU#65
+598709439,h1bAna/exploit,heap5.rar,f407af506bf55b106dce374ad9d82445da698cf8,VU#32

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+822703198,kuffsit/check_cve_2024_6387,check_cve_2024_6387.py,0a1ca15364dba9cc15ed2db21a79d2bd895498da,CVE-2024-6387
+822703198,kuffsit/check_cve_2024_6387,README.md,d406fe1e2ac3a40ee264ceaa907c5c2226e78e76,CVE-2024-6387
+822703198,kuffsit/check_cve_2024_6387,_GITHUB_REPO_METADATA_,,CVE-2024-6387

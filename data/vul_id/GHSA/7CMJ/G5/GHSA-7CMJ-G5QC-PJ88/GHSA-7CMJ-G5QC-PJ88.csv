@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-7CMJ-G5QC-PJ88,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
+GHSA-7CMJ-G5QC-PJ88,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-7CMJ-G5QC-PJ88,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+GHSA-7CMJ-G5QC-PJ88,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

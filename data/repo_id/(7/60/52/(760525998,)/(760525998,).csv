@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+760525998,pulentoski/CVE-2024-23897-Arbitrary-file-read,CVE-2024-23897-B-DOCKER-scaner.py,56af59eafa2caa33b8364b67164cbf914aa0fe21,CVE-2024-23897
+760525998,pulentoski/CVE-2024-23897-Arbitrary-file-read,README.md,a6955e59c7657ce5db43ed4297d39513e05caa05,CVE-2024-23897
+760525998,pulentoski/CVE-2024-23897-Arbitrary-file-read,CVE-2024-23897-A-scaner.py,e2fce9c507ef45c5118d13f58a135ce46727c97f,CVE-2024-23897
+760525998,pulentoski/CVE-2024-23897-Arbitrary-file-read,_GITHUB_REPO_METADATA_,,CVE-2024-23897

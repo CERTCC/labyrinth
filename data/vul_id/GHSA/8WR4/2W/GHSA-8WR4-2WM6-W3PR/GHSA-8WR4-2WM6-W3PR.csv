@@ -1,0 +1,6 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-8WR4-2WM6-W3PR,0.20000000,https://github.com/janschejbal/raceread,janschejbal/raceread,463669843
+GHSA-8WR4-2WM6-W3PR,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+GHSA-8WR4-2WM6-W3PR,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-8WR4-2WM6-W3PR,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-8WR4-2WM6-W3PR,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

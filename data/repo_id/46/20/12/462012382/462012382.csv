@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+462012382,p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML,README.md,4ca16c68ebac4c75d6dac2f2948fb14b3a2a658a,CVE-2022-26159
+462012382,p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML,CVE-2022-26159-Ametys-Autocompletion-XML.py,b622d7578b78a8f267c404e86a7148e08ed6f37f,CVE-2022-26159
+462012382,p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML,nuclei-template/CVE-2022-26159.yaml,d3019d1e8dbc6cb5bbe1a7aca69f689cbc0e7c12,CVE-2022-26159
+462012382,p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML,_GITHUB_REPO_METADATA_,,CVE-2022-26159

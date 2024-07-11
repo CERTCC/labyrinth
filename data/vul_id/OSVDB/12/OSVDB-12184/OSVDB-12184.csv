@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-12184,0.33333333,https://github.com/Olagold-hackxx/metasploitable2-pentest,Olagold-hackxx/metasploitable2-pentest,664106176
+OSVDB-12184,0.20000000,https://github.com/chaithanyam123/metasploitable2.0-,chaithanyam123/metasploitable2.0-,804360568
 OSVDB-12184,0.16666667,https://github.com/ddmoitra/Cybersecurity_Infrastructure_Sample_Attack_Step_Details_Walkthrough-Dmitry_Nikto_Metasploit,ddmoitra/Cybersecurity_Infrastructure_Sample_Attack_Step_Details_Walkthrough-Dmitry_Nikto_Metasploit,361279773
 OSVDB-12184,0.14285714,https://github.com/TBernard97/Pwning-Metasploitable,TBernard97/Pwning-Metasploitable,360011430
 OSVDB-12184,0.10000000,https://github.com/Nadim120/metasploitHackinginfoFromKali,Nadim120/metasploitHackinginfoFromKali,363375904

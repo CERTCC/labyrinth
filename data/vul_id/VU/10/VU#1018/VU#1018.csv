@@ -1,2 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#1018,0.16666667,https://github.com/secureITmania/2021-cve-animes,secureITmania/2021-cve-animes,443393178
+VU#1018,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
+VU#1018,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
+VU#1018,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
+VU#1018,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685

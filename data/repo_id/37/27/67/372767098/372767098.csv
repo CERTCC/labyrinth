@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+372767098,shxdow/exploits,CVE-2018-1160.py,9e3758a915fc43c941d1a38ee56846ff03de79b2,CVE-2018-1160
+372767098,shxdow/exploits,CVE-2020-9802.js,a15946c139285a19de0a28bd6b62c16b06439575,CVE-2020-9802

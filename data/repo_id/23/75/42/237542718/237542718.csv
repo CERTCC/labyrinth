@@ -1,9 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
+237542718,Mili-NT/exploits,net/Nagios-Exploit-Chain.py,127b3219dede50393c3ee4eae32dba54521b564f,CVE-2018-8733
+237542718,Mili-NT/exploits,net/Nagios-Exploit-Chain.py,127b3219dede50393c3ee4eae32dba54521b564f,CVE-2018-8734
+237542718,Mili-NT/exploits,net/Nagios-Exploit-Chain.py,127b3219dede50393c3ee4eae32dba54521b564f,CVE-2018-8735
+237542718,Mili-NT/exploits,net/Nagios-Exploit-Chain.py,127b3219dede50393c3ee4eae32dba54521b564f,CVE-2018-8736
 237542718,Mili-NT/exploits,net/cve-2020-8515.py,1d59b9fda9d965c51eaf65f32db713c8268e7e18,CVE-2020-8515
 237542718,Mili-NT/exploits,web/cve-2019-15107.py,961b966971fbb9090b873a43295edea24c981949,CVE-2019-15107
-237542718,Mili-NT/exploits,net/Nagios-Exploit-Chain.py,aeee222bff77e7af8cabc48eff2d051f68762929,CVE-2018-8733
-237542718,Mili-NT/exploits,net/Nagios-Exploit-Chain.py,aeee222bff77e7af8cabc48eff2d051f68762929,CVE-2018-8734
-237542718,Mili-NT/exploits,net/Nagios-Exploit-Chain.py,aeee222bff77e7af8cabc48eff2d051f68762929,CVE-2018-8735
-237542718,Mili-NT/exploits,net/Nagios-Exploit-Chain.py,aeee222bff77e7af8cabc48eff2d051f68762929,CVE-2018-8736
 237542718,Mili-NT/exploits,web/cve-2019-16920.py,c12f550d567236b6575ba042e55762291f2e63e9,CVE-2019-16920
 237542718,Mili-NT/exploits,local/cve-2019-1378.py,f9ede52a9a89ce5395b7fd9dc1907e2a89f7d753,CVE-2019-1378

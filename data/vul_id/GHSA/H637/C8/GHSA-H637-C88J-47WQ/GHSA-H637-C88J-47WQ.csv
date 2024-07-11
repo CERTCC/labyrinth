@@ -1,0 +1,6 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-H637-C88J-47WQ,0.06250000,https://github.com/sgxgsx/bluetoothexploits,sgxgsx/bluetoothexploits,800055748
+GHSA-H637-C88J-47WQ,0.00534759,https://github.com/khanhdz191/linux-kernel-exploitation,khanhdz191/linux-kernel-exploitation,606387984
+GHSA-H637-C88J-47WQ,0.00423729,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740
+GHSA-H637-C88J-47WQ,0.00406504,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
+GHSA-H637-C88J-47WQ,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

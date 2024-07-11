@@ -1,2 +1,17 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#055,1.00000000,https://github.com/emanuelepicas/UsefulExploits,emanuelepicas/UsefulExploits,512015496
+VU#055,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#055,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
+VU#055,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,300973882
+VU#055,0.00581395,https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650,hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650,649814822
+VU#055,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971,nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971,616797867
+VU#055,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,616793748
+VU#055,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
+VU#055,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#055,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
+VU#055,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#055,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
+VU#055,0.00222222,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
+VU#055,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
+VU#055,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
+VU#055,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685

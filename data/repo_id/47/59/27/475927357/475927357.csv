@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+475927357,io-poc/poc-88,Dockerfile,0717b4c55e64fd07692f3f0ccc28efbfadb297a4,CVE-2021-44228
+475927357,io-poc/poc-88,src/main/webapp/resources/fonts/ionicons.ttf,ab7fee0664a4d80c78519f49f190ab1d3d48f113,VU#76542

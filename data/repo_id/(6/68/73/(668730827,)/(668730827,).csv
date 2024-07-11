@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+668730827,telekom-security/cve-2023-3519-citrix-scanner,README.md,1daf5b33f6ba5c2a5cf8159a4a115c3ee2c7a401,CVE-2023-3519
+668730827,telekom-security/cve-2023-3519-citrix-scanner,CVE-2023-3519-checker.py,3cc057ffd0fabe6536046d0fd1bdb5ea96abef6d,CVE-2023-3519
+668730827,telekom-security/cve-2023-3519-citrix-scanner,_GITHUB_REPO_METADATA_,,CVE-2023-3519

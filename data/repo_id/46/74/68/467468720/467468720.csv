@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+467468720,cspshivam/CVE-2022-0847-dirty-pipe-exploit,exploit.c,a0ecc50b7441bb7af725408a344e14d920425b8e,CVE-2022-0847
+467468720,cspshivam/CVE-2022-0847-dirty-pipe-exploit,README.md,dd8518961c9932e761ef76129f35516e1da643f4,CVE-2022-0847
+467468720,cspshivam/CVE-2022-0847-dirty-pipe-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-0847

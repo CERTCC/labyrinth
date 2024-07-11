@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+487706267,HatCS/metasploit-payloads,java/javapayload/index.html,3514e58213dd2cf26be746016e88e860d8034737,CVE-2008-5353
+487706267,HatCS/metasploit-payloads,c/meterpreter/source/extensions/python/Modules/_ssl.c,e266908302bd3fdd0ac0d2e4862707d487164350,CVE-2013-4238

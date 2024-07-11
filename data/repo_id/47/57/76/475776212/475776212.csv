@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+475776212,BobTheShoplifter/Spring4Shell-POC,README.md,5e6d883c39fe30ad9464fabd01f201492063f0ff,CVE-2022-22965
+475776212,BobTheShoplifter/Spring4Shell-POC,vulnerable-tomcat/spring-form.war,8445e8fb48af282225c0552861ae69a8ff8bfe14,VU#45
+475776212,BobTheShoplifter/Spring4Shell-POC,_GITHUB_REPO_METADATA_,,CVE-2022-22965

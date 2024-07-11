@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+99529309,basicinfosecurity/exploits,CVE-2023-51467/test.properties,1f4200f097066565d1956a7a706dcafa792d1209,CVE-2023-51467
+99529309,basicinfosecurity/exploits,CVE-2014-5301/exploit_mes.py,6971b2663077af2d7033ed166f201e2fe29e0b5c,CVE-2014-5301
+99529309,basicinfosecurity/exploits,CVE-2023-51467/LICENSE,6a682e072426c8c45091429f89573226131c371f,CVE-2023-51467
+99529309,basicinfosecurity/exploits,CVE-2023-51467/poc.py,8e084aa81b2fbafffa8fa8948f3b973af74db9bf,CVE-2023-51467
+99529309,basicinfosecurity/exploits,CVE-2023-51467/README.md,a298906b06a2ac44bc52eb0480a052c2d8edad79,CVE-2023-51467
+99529309,basicinfosecurity/exploits,README.md,ffccf6aab769d6637d2e642b5852bf8a2e1e9f75,CVE-2014-5301
+99529309,basicinfosecurity/exploits,README.md,ffccf6aab769d6637d2e642b5852bf8a2e1e9f75,CVE-2023-51467

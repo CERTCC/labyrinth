@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+723685053,elsvital/cve-2022-33891-fix,spark-3.2.0-no-patch/core/src/test/scala/org/apache/spark/storage/ShuffleBlockFetcherIteratorSuite.scala,4052b6de6e2c777347d8bcf3356fd7a429679f56,BID-1
+723685053,elsvital/cve-2022-33891-fix,spark-3.2.0-no-patch/core/src/test/scala/org/apache/spark/storage/ShuffleBlockFetcherIteratorSuite.scala,4052b6de6e2c777347d8bcf3356fd7a429679f56,BID-2
+723685053,elsvital/cve-2022-33891-fix,spark-3.2.0-no-patch/core/src/test/scala/org/apache/spark/storage/ShuffleBlockFetcherIteratorSuite.scala,4052b6de6e2c777347d8bcf3356fd7a429679f56,BID-3
+723685053,elsvital/cve-2022-33891-fix,README.md,7d0e924a19b8bf7aaf5e4cb647c147a4a73d966f,CVE-2022-33891
+723685053,elsvital/cve-2022-33891-fix,spark-3.2.0-no-patch/core/src/main/scala/org/apache/spark/scheduler/DAGScheduler.scala,9a12fc2491162771989140e153088c198e77ce03,BID-0
+723685053,elsvital/cve-2022-33891-fix,spark-3.2.0-no-patch/core/src/main/scala/org/apache/spark/scheduler/DAGScheduler.scala,9a12fc2491162771989140e153088c198e77ce03,BID-1
+723685053,elsvital/cve-2022-33891-fix,spark-3.2.0-no-patch/core/src/test/scala/org/apache/spark/scheduler/EventLoggingListenerSuite.scala,acf4249c81f6e8992ae0a9104853e73a032369b9,BID-0
+723685053,elsvital/cve-2022-33891-fix,_GITHUB_REPO_METADATA_,,CVE-2022-33891

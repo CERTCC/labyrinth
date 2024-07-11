@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+554968542,securekomodo/text4shell-poc,README.md,2a01c68596d10370fa86cf228d10028be0db25df,CVE-2022-42889
+554968542,securekomodo/text4shell-poc,_GITHUB_REPO_METADATA_,,CVE-2022-42889

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+668103738,marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,tools/exp.go,1ba19265d54df382e2cf8da2832189d989737ce4,VU#29
+668103738,marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,PLUS.exe,9749d6341f5c392310b3e542deabb38f9608510d,VU#29

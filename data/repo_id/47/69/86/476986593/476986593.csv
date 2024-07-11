@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+476986593,mikaelkall/Spring4Shell,spring4shell.py,2b9a0231f4951624435f585b7c5197aadf132578,CVE-2022-22965
+476986593,mikaelkall/Spring4Shell,README.md,8107e38d0b036c8fec332286ca00d8cf4972215d,CVE-2010-1622
+476986593,mikaelkall/Spring4Shell,README.md,8107e38d0b036c8fec332286ca00d8cf4972215d,CVE-2022-22965

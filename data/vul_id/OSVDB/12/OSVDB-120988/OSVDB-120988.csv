@@ -1,3 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-120988,0.04761905,https://github.com/espreto/wpsploit,espreto/wpsploit,34707448
-OSVDB-120988,0.00026420,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+OSVDB-120988,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
+OSVDB-120988,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
+OSVDB-120988,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209

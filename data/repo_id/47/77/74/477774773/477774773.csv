@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+477774773,anair-it/springshell-vuln-POC,springshell-boot-zeroday/README.md,2d04ba1b487d2d1ce459bdff038b937c7449bab4,CVE-2022-22965
+477774773,anair-it/springshell-vuln-POC,springshell-mvc-zeroday/pom.xml,926598e32ff6c38cd246ed93d2beb292b84b8277,CVE-2022-22965
+477774773,anair-it/springshell-vuln-POC,springshell-mvc-zeroday/README.md,bb4875809f095975285b2592ac4564519f0a822b,CVE-2022-22965
+477774773,anair-it/springshell-vuln-POC,README.md,ee910278b2f2b0d65f58db0d8895ff4a54416b3e,CVE-2022-22965
+477774773,anair-it/springshell-vuln-POC,springshell-boot-zeroday/pom.xml,f958fe229c721d8049ec6bb881dde0852590d0b8,CVE-2022-22965

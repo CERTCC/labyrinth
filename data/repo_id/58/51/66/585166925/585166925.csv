@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+585166925,leobargiotti/News-Classifier,dataset/AG News/test.csv,1b4bd2ee554c649809f90e2a093c9bd5d8431b94,MS04-039
+585166925,leobargiotti/News-Classifier,dataset/AG News/train.csv,42a01e63f965c5f733f1182118eccaf02b71332b,BID-2
+585166925,leobargiotti/News-Classifier,dataset/AG News/train.csv,42a01e63f965c5f733f1182118eccaf02b71332b,MS04-028
+585166925,leobargiotti/News-Classifier,dataset/AG News/train.csv,42a01e63f965c5f733f1182118eccaf02b71332b,MS04-038
+585166925,leobargiotti/News-Classifier,models_saved/TfidfLogReg.pk,97141b8d5635687138b6a0cbb8a3228c9961f758,VU#29
+585166925,leobargiotti/News-Classifier,Documentation.pdf,b6ba76ab6e020562a4bbf713d1004a4c24778cf3,VU#74
+585166925,leobargiotti/News-Classifier,dataset/AG News/train_predictions.csv,cf1a45887e2b5957f7a7de36fdbc539f0a70da45,BID-2
+585166925,leobargiotti/News-Classifier,dataset/AG News/train_predictions.csv,cf1a45887e2b5957f7a7de36fdbc539f0a70da45,MS04-028
+585166925,leobargiotti/News-Classifier,dataset/AG News/train_predictions.csv,cf1a45887e2b5957f7a7de36fdbc539f0a70da45,MS04-038
+585166925,leobargiotti/News-Classifier,dataset/AG News/test_predictions.csv,f937a9889e02de35d899a2d7f246cc405de64dba,MS04-039

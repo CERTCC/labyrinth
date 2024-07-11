@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+806359654,xuewuyinhe/AutoOS,optimized_result/fedora_config _optimized.txt,08cc51ff92616b1caaeedc6a2a533a11d90e3ff9,VU#300
+806359654,xuewuyinhe/AutoOS,optimized_result/ubuntu22_04_config _optimized.txt,4b88c512df0044fed59b1580d6549b5ce60fc80b,VU#300
+806359654,xuewuyinhe/AutoOS,optimized_result/fedora_config_origin.txt,a14b7c3fe03a83e4cc42874332ecdf876ab4a267,VU#300
+806359654,xuewuyinhe/AutoOS,optimized_result/ubuntu22_04_config_origin.txt,ed9cd674259a7e62a662835e95a4a07edef084ed,VU#300

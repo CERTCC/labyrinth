@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+788459467,neuralinhibitor/xzwhy,README.md,37c09bcc60e392a12c325f35dcf49ca374e2f3d4,CVE-2024-3094
+788459467,neuralinhibitor/xzwhy,xzwhy.yml,562414a1c034f0cfa6b430825240ea0fb15dad96,CVE-2024-3094
+788459467,neuralinhibitor/xzwhy,_GITHUB_REPO_METADATA_,,CVE-2024-3094

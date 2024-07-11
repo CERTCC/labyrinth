@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-446328026,doudoudedi/DIR-846_Command_Injection,DIR-846_Command_Injection1.md,d5ff216831a7a4b2e69d066a730b1303bf6baf8f,CVE-2019-17509
-446328026,doudoudedi/DIR-846_Command_Injection,DIR-846_Command_Injection1.md,d5ff216831a7a4b2e69d066a730b1303bf6baf8f,CVE-2019-17510
+446328026,doudoudedi/DIR-846_Command_Injection,DIR-846_Command_Injection1.md,2ef064d1589db49f05f79f2b33a4f8691e60e59d,CVE-2019-17509
+446328026,doudoudedi/DIR-846_Command_Injection,DIR-846_Command_Injection1.md,2ef064d1589db49f05f79f2b33a4f8691e60e59d,CVE-2019-17510
+446328026,doudoudedi/DIR-846_Command_Injection,DIR-846_Command_Injection1.md,2ef064d1589db49f05f79f2b33a4f8691e60e59d,CVE-2021-46314
+446328026,doudoudedi/DIR-846_Command_Injection,DIR-846_Command_Injection1.md,2ef064d1589db49f05f79f2b33a4f8691e60e59d,CVE-2021-46315

@@ -1,3 +1,15 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-64758,0.33333333,https://github.com/Live-Hack-CVE/CVE-2013-5891,Live-Hack-CVE/CVE-2013-5891,583524228
+BID-64758,0.33333333,https://github.com/Live-Hack-CVE/CVE-2014-0386,Live-Hack-CVE/CVE-2014-0386,583509308
+BID-64758,0.33333333,https://github.com/Live-Hack-CVE/CVE-2014-0412,Live-Hack-CVE/CVE-2014-0412,583504273
+BID-64758,0.33333333,https://github.com/Live-Hack-CVE/CVE-2014-0420,Live-Hack-CVE/CVE-2014-0420,582121647
+BID-64758,0.25000000,https://github.com/Live-Hack-CVE/CVE-2013-1620,Live-Hack-CVE/CVE-2013-1620,582627577
+BID-64758,0.25000000,https://github.com/Live-Hack-CVE/CVE-2013-1620,Live-Hack-CVE/CVE-2013-1620,581085537
 BID-64758,0.00709220,https://github.com/samaujs/CVE-2011-1475,samaujs/CVE-2011-1475,156348204
 BID-64758,0.00169492,https://github.com/audioscavenger/exploit,audioscavenger/exploit,123531727
+BID-64758,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
+BID-64758,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-64758,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+BID-64758,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-64758,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-64758,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

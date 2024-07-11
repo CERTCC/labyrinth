@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+730682886,namto908/CVE-20186892,ImmunityDebugger_1_85_setup.exe,e01a72a487ac0e2ec02ddfc20fd2994919ef1e9a,VU#45
+730682886,namto908/CVE-20186892,ImmunityDebugger_1_85_setup.exe,e01a72a487ac0e2ec02ddfc20fd2994919ef1e9a,VU#564
+730682886,namto908/CVE-20186892,ImmunityDebugger_1_85_setup.exe,e01a72a487ac0e2ec02ddfc20fd2994919ef1e9a,VU#62
+730682886,namto908/CVE-20186892,ImmunityDebugger_1_85_setup.exe,e01a72a487ac0e2ec02ddfc20fd2994919ef1e9a,VU#76

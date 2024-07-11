@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+554981542,RIP-Network/cve-2022-42889-scanner,README.md,4e989bede5282377fc9093abce43b1a5e77aa5ae,CVE-2022-42889
+554981542,RIP-Network/cve-2022-42889-scanner,_GITHUB_REPO_METADATA_,,CVE-2022-42889

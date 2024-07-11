@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+711157442,certat/citrix-logchecker,v4table.gz,4bbcfe7f23b4dbd36663cee65cf513c6e0eb84e4,VU#76
+711157442,certat/citrix-logchecker,README.md,a331278c9f8432ba411e6a0db9076cb3931fe56c,CVE-2023-4966
+711157442,certat/citrix-logchecker,citrix-anomaly.pl,f527638c0821da175aa7116f069e4055b2270dfa,CVE-2023-4966
+711157442,certat/citrix-logchecker,_GITHUB_REPO_METADATA_,,CVE-2023-4966

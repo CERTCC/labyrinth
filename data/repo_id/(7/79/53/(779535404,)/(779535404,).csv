@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+779535404,Ksars22/ShellcodeGenerator,bin/Hostx64/x86/clang_rt.asan_dynamic-i386.pdb,348460206739f99ea996909f924fbee50fb9bd5a,CVE-2016-2143
+779535404,Ksars22/ShellcodeGenerator,bin/Hostx64/x64/clang_rt.asan_dbg_dynamic-x86_64.pdb,46234554920f52749ecc4e4b4fc2da660152ae0b,CVE-2016-2143
+779535404,Ksars22/ShellcodeGenerator,bin/Hostx64/x86/clang_rt.asan_dbg_dynamic-i386.pdb,81582beb612f9999ef7dba3690f81cab2982be7f,CVE-2016-2143
+779535404,Ksars22/ShellcodeGenerator,Includes/suppress.h,992b81782a1e7a4f0331b8bad16c91a63b9b6bb6,MS03-026
+779535404,Ksars22/ShellcodeGenerator,bin/Hostx64/x64/clang_rt.asan_dynamic-x86_64.pdb,eb2ebc154e487cc18367818b33f3967f778c3962,CVE-2016-2143
+779535404,Ksars22/ShellcodeGenerator,Includes/winerror.h,ed495b2b8e3c7facb94336583b924eda5a841f5e,MS13-098

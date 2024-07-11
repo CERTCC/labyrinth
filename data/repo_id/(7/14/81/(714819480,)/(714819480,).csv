@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+714819480,3mpir3Albert/HTB_Nibbles,pwned.py,c495a1bfa562260559a754f09bfc42b2539e94c8,CVE-2015-6967
+714819480,3mpir3Albert/HTB_Nibbles,Informe Tecnico.pdf,c761807f76bbeda3386a32675bb460ce57a5c553,VU#37
+714819480,3mpir3Albert/HTB_Nibbles,autopwn.py,d27d7554495ac2c6d30b1979013277e3cfbb329f,CVE-2015-6967
+714819480,3mpir3Albert/HTB_Nibbles,README.md,e1e3b5e049b28f0cd623c71bfe07dd732ad61f3c,CVE-2015-6967
+714819480,3mpir3Albert/HTB_Nibbles,_GITHUB_REPO_METADATA_,,CVE-2015-6967

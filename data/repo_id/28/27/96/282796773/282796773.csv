@@ -1,2 +1,10 @@
 repo_id,repo_full_name,file,file_sha1,match
-282796773,MainDabRblx/MainDabUISource,MainDab/packages/System.IO.Compression.4.3.0/runtimes/win/lib/net46/System.IO.Compression.dll,629ce95c12b21678d877359ec4552d431c1cfbab,VU#60
+282796773,MainDabRblx/MainDabUISource,packages/System.Runtime.CompilerServices.Unsafe.6.0.0/System.Runtime.CompilerServices.Unsafe.6.0.0.nupkg,0eabb7759a4124139faec3d8ee75c5bb4e6440ba,VU#603
+282796773,MainDabRblx/MainDabUISource,MainDab/bin/Debug/kernel64.sys.dll,2200e8c8cd10a4ca26a23e04f7bdb357b8ddde80,VU#40
+282796773,MainDabRblx/MainDabUISource,packages/System.IO.Compression.4.3.0/ref/net46/System.IO.Compression.dll,629ce95c12b21678d877359ec4552d431c1cfbab,VU#60
+282796773,MainDabRblx/MainDabUISource,packages/System.Reactive.5.0.0/System.Reactive.5.0.0.nupkg,6ede772d8627531f69085537c1d4c87681559c8b,VU#10
+282796773,MainDabRblx/MainDabUISource,packages/System.Reactive.5.0.0/System.Reactive.5.0.0.nupkg,6ede772d8627531f69085537c1d4c87681559c8b,VU#50
+282796773,MainDabRblx/MainDabUISource,MainDab/bin/Debug/finj.exe,963d5db60b32d132a0d7cdad8dc2dec8fa891381,VU#88
+282796773,MainDabRblx/MainDabUISource,MainDab/bin/Debug/finj.exe,963d5db60b32d132a0d7cdad8dc2dec8fa891381,VU#92
+282796773,MainDabRblx/MainDabUISource,MainDab/bin/Debug/exploit-main.dll,b509a351f3d3e3afc40ffaf87db5f4462301e7ca,VU#34
+282796773,MainDabRblx/MainDabUISource,packages/System.Text.Json.6.0.5/System.Text.Json.6.0.5.nupkg,fad65437319ad0ec92fb829347c5d9da22387cff,VU#10

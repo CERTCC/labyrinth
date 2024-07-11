@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+758657821,AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777,exploit.py,8b2dbb0ef67f5fa4675f0f8bd3eab933bfde9e84,CVE-2023-48777
+758657821,AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777,_GITHUB_REPO_METADATA_,,CVE-2023-48777

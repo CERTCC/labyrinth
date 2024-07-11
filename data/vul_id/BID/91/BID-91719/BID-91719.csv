@@ -1,0 +1,12 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+BID-91719,0.08333333,https://github.com/Live-Hack-CVE/CVE-2016-4226,Live-Hack-CVE/CVE-2016-4226,593682290
+BID-91719,0.08333333,https://github.com/Live-Hack-CVE/CVE-2016-4227,Live-Hack-CVE/CVE-2016-4227,593409435
+BID-91719,0.08333333,https://github.com/Live-Hack-CVE/CVE-2016-4228,Live-Hack-CVE/CVE-2016-4228,593409420
+BID-91719,0.08333333,https://github.com/Live-Hack-CVE/CVE-2016-4229,Live-Hack-CVE/CVE-2016-4229,593409403
+BID-91719,0.08333333,https://github.com/Live-Hack-CVE/CVE-2016-4248,Live-Hack-CVE/CVE-2016-4248,593409377
+BID-91719,0.08333333,https://github.com/Live-Hack-CVE/CVE-2016-4231,Live-Hack-CVE/CVE-2016-4231,593409358
+BID-91719,0.07692308,https://github.com/Live-Hack-CVE/CVE-2016-4230,Live-Hack-CVE/CVE-2016-4230,593409393
+BID-91719,0.07692308,https://github.com/Live-Hack-CVE/CVE-2016-4222,Live-Hack-CVE/CVE-2016-4222,593409343
+BID-91719,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-91719,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-91719,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

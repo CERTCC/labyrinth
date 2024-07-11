@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+490631750,Nosferatuvjr/Samba-Usermap-exploit,README.md,6480c11b5f4222b68ebe70884786d9ee2f69f49a,CVE-2007-2447
+490631750,Nosferatuvjr/Samba-Usermap-exploit,exploit.py,b3aa30492c135738767a3ec5890430c97001b0d4,CVE-2007-2447
+490631750,Nosferatuvjr/Samba-Usermap-exploit,_GITHUB_REPO_METADATA_,,CVE-2007-2447

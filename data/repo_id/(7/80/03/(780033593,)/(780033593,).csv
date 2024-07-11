@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+780033593,Simplifi-ED/CVE-2024-3094-patcher,README.md,104ceee49261546477c9f3811174d03f9ac79eff,CVE-2024-3094
+780033593,Simplifi-ED/CVE-2024-3094-patcher,roles/xz_utils_patch/meta/main.yml,45753c02f8401feb5dcd5556febbcaa25d47bb1c,CVE-2024-3094
+780033593,Simplifi-ED/CVE-2024-3094-patcher,_GITHUB_REPO_METADATA_,,CVE-2024-3094

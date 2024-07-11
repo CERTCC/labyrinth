@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+786162983,mbadanoiu/MAL-004,README.md,9e19a57034fdf603743ae616c0358c86f3541ecb,CVE-2020-12641
+786162983,mbadanoiu/MAL-004,_GITHUB_REPO_METADATA_,,CVE-2020-12641

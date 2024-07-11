@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+506148812,trevormalesike/wyze-cam-exploit,jffs2,287b0879db3706b6fb2c489415ab54cf0042d7de,VU#73
+506148812,trevormalesike/wyze-cam-exploit,demo.bin,3057ebdeeab58db2f3f7c386fa2f7e89eb22d930,VU#73
+506148812,trevormalesike/wyze-cam-exploit,wyze/squashfs_1_out/thirdlib/libmbedx509.so.0,8d548aec90262003e99718097f9b9b343f42efea,VU#63
+506148812,trevormalesike/wyze-cam-exploit,wyze/demo_backdoored.bin,bb76893f439c24fde5b376262a20d7803008b9f9,VU#73

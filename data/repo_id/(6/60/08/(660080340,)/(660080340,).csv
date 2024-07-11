@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+660080340,MrHarshvardhan/PY-Log4j-RCE-Scanner,README.md,fc013ca9e19ee85ee13136af9a1136a86930a93f,CVE-2021-44228
+660080340,MrHarshvardhan/PY-Log4j-RCE-Scanner,_GITHUB_REPO_METADATA_,,CVE-2021-44228

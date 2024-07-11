@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-236845131,ioncodes/Curveball,README.md,2031302f666bda67f4f49a285e19dcb6ec80f61b,CVE-2020-0601
+236845131,ioncodes/Curveball,README.md,62c7d347b4e925986216f5ab28d286f4436fa795,CVE-2020-0601
 236845131,ioncodes/Curveball,Curveball/Curveball.cpp,a24fa63a8625ed9ecef8547751b4721ff8c41895,CVE-2020-0601
 236845131,ioncodes/Curveball,Curveball/include/openssl/ssl.h,f42e258d55548ab1341200f246623bdba5fb22d2,CVE-2010-4180
 236845131,ioncodes/Curveball,_GITHUB_REPO_METADATA_,,CVE-2020-0601

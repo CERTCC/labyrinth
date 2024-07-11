@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2016_10045.pm,086469a3c634a5822e1b15a813acaa88c3d75d23,CVE-2016-10033
+63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2016_10045.pm,086469a3c634a5822e1b15a813acaa88c3d75d23,CVE-2016-10045
+63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2020_9377.pm,506e400c3ea68c8b6f9f0af620a75e04fe459c0a,CVE-2020-9376
+63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2020_9377.pm,506e400c3ea68c8b6f9f0af620a75e04fe459c0a,CVE-2020-9377
+63075519,htrgouvea/spellbook,README.md,899854afb403055925361ba9f9bb761eca7120f8,CVE-2006-3392
+63075519,htrgouvea/spellbook,README.md,899854afb403055925361ba9f9bb761eca7120f8,CVE-2017-5487
+63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2017_5487.pm,91ba3ff73031a31a499e0199fa27a894c155fa7d,CVE-2017-5487
+63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2021_41773.pm,b381def93ab9d872a93bbeee85784e04ecdf76ca,CVE-2021-41773
+63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2006_3392.pm,b404abf8975c7cb2e3067ee3901e3044dbb1690d,CVE-2006-3392
+63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2020_9376.pm,eb8b83298bd764b406fe9bff182eae739449396a,CVE-2020-9376

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+524815430,oppsec/zaber,src/interface/ui.go,c3dff4313f6ed418e3f6b6939b5e937f92792926,CVE-2019-9670
+524815430,oppsec/zaber,README.md,dfb5126af656499fabbb8c6c2865bead3c98b79d,CVE-2019-9670
+524815430,oppsec/zaber,_GITHUB_REPO_METADATA_,,CVE-2019-9670

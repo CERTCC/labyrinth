@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+486636223,realrodri/ExploiteameEsta,multicast_bytecopy/exploit/IOSurfaceRoot.c,15c994492ab2718940f3a99218018f5764a858a1,GPZ-1986
+486636223,realrodri/ExploiteameEsta,README.md,7f56798feee875535b3a6ca30996b3b993062616,CVE-2021-30937
+486636223,realrodri/ExploiteameEsta,_GITHUB_REPO_METADATA_,,CVE-2021-30937

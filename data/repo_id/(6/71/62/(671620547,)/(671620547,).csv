@@ -1,0 +1,23 @@
+repo_id,repo_full_name,file,file_sha1,match
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/CVE-2022-4510-Binwalk v2.3.2-RCE.py,179060b88936fb2cbcd2407cf2574550ce92be88,CVE-2022-4510
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2002-1614
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,VU#01
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2020-2696
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2019-7304
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2019-5736
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2019-5021
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2019-3010
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,VU#09
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2019-19726
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2019-13139
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2019-12181
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2019-0211
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2018-14665
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2017-3622
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2016-1580
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2011-1496
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2011-1485
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,CVE-2019-13272
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/linpeas.sh,4ba0d68ebd057b1ab2ef2071ef0f56dae11d9f3b,VU#25
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/CVE-2022-44268-ImageMagick 7.1.0-49.zip,8ab6aa9de32f14086e879aea65653812c2c87780,CVE-2022-44268
+671620547,Tr1sm3gist0/HTB-Exploits,Scripts/ms08_067-RCE.py,e45741e4897650a75c81bce7d846d8082f524063,MS08-067

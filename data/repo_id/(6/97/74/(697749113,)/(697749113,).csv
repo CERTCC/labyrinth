@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+697749113,zycoder0day/CVE-2022-1386-Mass_Vulnerability,exploit.py,ef21d093245fbb57aaf788b2510e334e5400826f,CVE-2022-1386
+697749113,zycoder0day/CVE-2022-1386-Mass_Vulnerability,_GITHUB_REPO_METADATA_,,CVE-2022-1386

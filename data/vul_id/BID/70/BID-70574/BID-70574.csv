@@ -1,4 +1,15 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-70574,0.07142857,https://github.com/sandoche/Terminhack,sandoche/Terminhack,290534663
+BID-70574,0.01923077,https://github.com/paRaade/Vulnerability-Assessment-and-Exploitation-Lab,paRaade/Vulnerability-Assessment-and-Exploitation-Lab,749258290
+BID-70574,0.00833333,https://github.com/ZielinskiNorbert/Metasploitable,ZielinskiNorbert/Metasploitable,818732446
+BID-70574,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/PhoneSploitPro,758471479
+BID-70574,0.00434783,https://github.com/DCFBGFSDTHFSD/Exploit,DCFBGFSDTHFSD/Exploit,692458402
 BID-70574,0.00427350,https://github.com/bdvazquez17/P2_SSI_metasploit,bdvazquez17/P2_SSI_metasploit,329994289
+BID-70574,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
 BID-70574,0.00380228,https://github.com/alichtman/writeups,alichtman/writeups,196810793
+BID-70574,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
+BID-70574,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
+BID-70574,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
+BID-70574,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-70574,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-70574,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

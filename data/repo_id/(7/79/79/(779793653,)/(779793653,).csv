@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+779793653,Horizon-Software-Development/CVE-2024-3094,README.md,8fcca3c4e8f3595c0dac7598a5b54eb716d7126c,CVE-2024-3094
+779793653,Horizon-Software-Development/CVE-2024-3094,xz_check.sh,df81ab0a360899fd3e2b9a22cdf58d9da39f5213,CVE-2024-3094
+779793653,Horizon-Software-Development/CVE-2024-3094,_GITHUB_REPO_METADATA_,,CVE-2024-3094

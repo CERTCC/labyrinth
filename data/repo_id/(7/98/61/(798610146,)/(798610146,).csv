@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+798610146,qweblessed/sushi-swap-attack-poc,yarn.lock,1051d52ac36894b6c12d31197c1adaf3d3934544,VU#167
+798610146,qweblessed/sushi-swap-attack-poc,yarn.lock,1051d52ac36894b6c12d31197c1adaf3d3934544,VU#18
+798610146,qweblessed/sushi-swap-attack-poc,yarn.lock,1051d52ac36894b6c12d31197c1adaf3d3934544,VU#62
+798610146,qweblessed/sushi-swap-attack-poc,yarn.lock,1051d52ac36894b6c12d31197c1adaf3d3934544,VU#85
+798610146,qweblessed/sushi-swap-attack-poc,yarn.lock,1051d52ac36894b6c12d31197c1adaf3d3934544,VU#88

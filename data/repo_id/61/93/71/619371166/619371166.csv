@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+619371166,JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion,README.md,3d29a158733fb1a3a28a19e800013c5411ede336,CVE-2022-47909
+619371166,JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion,README.md,3d29a158733fb1a3a28a19e800013c5411ede336,CVE-2022-48321
+619371166,JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion,exploit.py,cf04ac9ce77e4e7dac576ebf1777b82e62257263,CVE-2022-47909
+619371166,JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion,_GITHUB_REPO_METADATA_,,CVE-2022-47909

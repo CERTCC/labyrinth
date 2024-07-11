@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+595911320,AlrikRr/Cisco-Smart-Exploit,README.md,66e05a9d3481eb813b2faa3df882b1032f9f9106,CVE-2018-0171
+595911320,AlrikRr/Cisco-Smart-Exploit,_GITHUB_REPO_METADATA_,,CVE-2018-0171

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+715506669,mmezirard/cve-2018-9276,README.md,679e6a673e0e3cc0315e6ad5fc9651845ec1f22e,CVE-2018-9276
+715506669,mmezirard/cve-2018-9276,exploit.py,cbe5442d96b601ab6e0a6a670ffd75a7c9c9bc2d,CVE-2018-9276
+715506669,mmezirard/cve-2018-9276,_GITHUB_REPO_METADATA_,,CVE-2018-9276

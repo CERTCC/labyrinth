@@ -1,1 +1,7 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+331038031,FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,References/skeletonBased_AR/skeletonBased_ar3.pdf,0a8196cd5905812dbdfb87096bcb7d2433ede93e,VU#556
+331038031,FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,References/skeletonBased_AR/skeletonBased_ar.pdf,7402305b4996734f67320e12aed141a63cf00b60,VU#82
+331038031,FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,References/Activity Recognition/Acitivity_Recognition.pdf,c24452eaff47d5ec3e55ec0f07137d8fbf6bf281,VU#82
+331038031,FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,References/Activity Recognition/Skeleton_Estimation.pdf,f54cd9c30869aad2ab73eb457c30689fab5ea6ac,VU#09
+331038031,FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,References/Activity Recognition/Skeleton_Estimation.pdf,f54cd9c30869aad2ab73eb457c30689fab5ea6ac,VU#54
+331038031,FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,References/Activity Recognition/Skeleton_Estimation.pdf,f54cd9c30869aad2ab73eb457c30689fab5ea6ac,VU#655

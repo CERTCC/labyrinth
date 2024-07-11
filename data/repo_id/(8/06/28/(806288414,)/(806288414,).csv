@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+806288414,imooaaz/exploit,exploit.py,9a8af2cab72a477d9640515b8d7a32a2ebb55299,CVE-2024-34102
+806288414,imooaaz/exploit,README.md,ac78f1fefc5c962adf06a61dd856957fc592299b,CVE-2024-34102

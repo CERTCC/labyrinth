@@ -2,5 +2,10 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-15104,0.12500000,https://github.com/yehgdotnet/YEHG-Core-Exploits,yehgdotnet/YEHG-Core-Exploits,120400706
 BID-15104,0.12500000,https://github.com/cxr37/yehg-core-exploits,cxr37/yehg-core-exploits,42462700
 BID-15104,0.00598802,https://github.com/pwnwiki/q,pwnwiki/q,5940002
-BID-15104,0.00026420,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+BID-15104,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
+BID-15104,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
+BID-15104,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-15104,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
+BID-15104,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-15104,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+BID-15104,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

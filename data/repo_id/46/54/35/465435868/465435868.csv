@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+465435868,ellietoulabi/Dirty-Cow,README.md,91a996435e993a4b08dc9c1142d97c6ade4fcdbf,CVE-2016-5195
+465435868,ellietoulabi/Dirty-Cow,Dirty cow (CVE-2016-5195).pdf,a09a8d52af1e715af8f5d12438c7bd7685ce3a90,CVE-2016-5195
+465435868,ellietoulabi/Dirty-Cow,_GITHUB_REPO_METADATA_,,CVE-2016-5195

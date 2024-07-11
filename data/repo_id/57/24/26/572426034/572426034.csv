@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+572426034,risesecurity/exploits,lsa_transnames_heap_linux.rb,490de4add24054e1f96d7f95d0ab934ddd01b365,CVE-2007-2446
+572426034,risesecurity/exploits,_data/exploits.yml,a456bd6ded9d6fd9bc1bf4ec987abe8ff0765a1f,CVE-2006-4655
+572426034,risesecurity/exploits,_data/exploits.yml,a456bd6ded9d6fd9bc1bf4ec987abe8ff0765a1f,CVE-2009-2692
+572426034,risesecurity/exploits,lsa_transnames_heap_solaris.rb,a49559ec2239f31fdd5fa6fbf199614fb21172de,CVE-2007-2446
+572426034,risesecurity/exploits,lsa_transnames_heap_osx.rb,ff3bd3168479a01bd625079472aa17805598898d,CVE-2007-2446

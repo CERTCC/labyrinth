@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+463710936,Dir0x/Simple-Subscription-Website-Exploits,CVE-2022-26285.py,b596c1a72bb6cb46f96e6362a7e86f4314b927a0,CVE-2021-43418
+463710936,Dir0x/Simple-Subscription-Website-Exploits,CVE-2022-26285.py,b596c1a72bb6cb46f96e6362a7e86f4314b927a0,CVE-2022-26285
+463710936,Dir0x/Simple-Subscription-Website-Exploits,CVE-2022-26283.py,f990db00c684961c0b6893a2e94bda7fb52700ae,CVE-2021-43417
+463710936,Dir0x/Simple-Subscription-Website-Exploits,CVE-2022-26283.py,f990db00c684961c0b6893a2e94bda7fb52700ae,CVE-2022-26283

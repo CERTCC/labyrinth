@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+786234440,Joemoma1337/Metasploitable3,elasticsearch-1.1.1.zip,0386da9c74f5443feac4069800410064eb3e75bd,VU#15
+786234440,Joemoma1337/Metasploitable3,elasticsearch-1.1.1.zip,0386da9c74f5443feac4069800410064eb3e75bd,VU#75
+786234440,Joemoma1337/Metasploitable3,elasticsearch-1.1.1.zip,0386da9c74f5443feac4069800410064eb3e75bd,VU#96
+786234440,Joemoma1337/Metasploitable3,axis2-1.6.0-war.zip,abb30285f82146646163ad8bd2ab59d32880bff0,VU#04
+786234440,Joemoma1337/Metasploitable3,axis2-1.6.0-war.zip,abb30285f82146646163ad8bd2ab59d32880bff0,VU#49

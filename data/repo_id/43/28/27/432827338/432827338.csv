@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 432827338,clstauffer/rcemip,examples/midlevel.ipynb,3eb4397dcb23c421936226b65de835bcc6f2a2ca,VU#89
+432827338,clstauffer/rcemip,archive/data/midlevel_profiles_3D-derived.tar.gz,6854298ad836848cdcdc1a754e4f5ae18864c83b,VU#31
 432827338,clstauffer/rcemip,examples/cloudfraction.ipynb,ac9272dd782ae9018c7b619acce865cd6443eac7,VU#44
 432827338,clstauffer/rcemip,examples/cloudfraction.ipynb,ac9272dd782ae9018c7b619acce865cd6443eac7,VU#50
 432827338,clstauffer/rcemip,examples/cloudfraction.ipynb,ac9272dd782ae9018c7b619acce865cd6443eac7,VU#91

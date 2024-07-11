@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-9H6G-PR28-7CQP,1.00000000,https://github.com/NotReallyJustin/Email-Spoof,NotReallyJustin/Email-Spoof,779797660
+GHSA-9H6G-PR28-7CQP,0.20000000,https://github.com/MaiWittawat/RCE,MaiWittawat/RCE,816437584

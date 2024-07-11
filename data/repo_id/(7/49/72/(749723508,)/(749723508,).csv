@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+749723508,diegaccio/Craft-CMS-Exploit,README.md,f4a89ed4bb94ddc305b5f3f4634ee516699a70f1,CVE-2023-41892
+749723508,diegaccio/Craft-CMS-Exploit,_GITHUB_REPO_METADATA_,,CVE-2023-41892

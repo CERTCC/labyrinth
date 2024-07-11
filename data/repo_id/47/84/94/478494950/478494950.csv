@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+478494950,Ha0Liu/CVE-2022-22947,CVE-2022-22947 SpringCloud-Gateway-Spel-RCE.pdf,7acef940ecea0620456fbedf4402ec7a64063ff7,CVE-2022-22947
+478494950,Ha0Liu/CVE-2022-22947,CVE-2022-22947 SpringCloud-Gateway-Spel-RCE.pdf,7acef940ecea0620456fbedf4402ec7a64063ff7,VU#89
+478494950,Ha0Liu/CVE-2022-22947,target/spring-gateway-rce-0.0.1.jar,a3d9bc7bd27031a2057676998181d934e3d2cc14,VU#45
+478494950,Ha0Liu/CVE-2022-22947,target/spring-gateway-rce-0.0.1.jar,a3d9bc7bd27031a2057676998181d934e3d2cc14,VU#59
+478494950,Ha0Liu/CVE-2022-22947,target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,dcd117ed664d6c7ff824489d333e7b34d52c87e8,CVE-2022-22947
+478494950,Ha0Liu/CVE-2022-22947,target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,e2a8b9592d7184de441a9cb8134c184f7484ec54,CVE-2022-22947
+478494950,Ha0Liu/CVE-2022-22947,README.md,f8d4b5b1e94dd7d5add79f5d9ce4325c7a3d2823,CVE-2022-22947
+478494950,Ha0Liu/CVE-2022-22947,_GITHUB_REPO_METADATA_,,CVE-2022-22947

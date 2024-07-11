@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+786051025,zerodays/react-native-template,assets/fonts/Inter-Medium.ttf,e76f580811e031813e7150131a0724811cdd737a,VU#559
+786051025,zerodays/react-native-template,yarn.lock,fe7f4e41ccc3c86c0e200c1c098c5dace81f3d80,VU#18
+786051025,zerodays/react-native-template,yarn.lock,fe7f4e41ccc3c86c0e200c1c098c5dace81f3d80,VU#62
+786051025,zerodays/react-native-template,yarn.lock,fe7f4e41ccc3c86c0e200c1c098c5dace81f3d80,VU#69

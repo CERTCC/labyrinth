@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+825127006,mrhunter7/Shellcode,DATABASE/0day.today/DATABASE/Cisco Security Agent Management Console st_upload RCE Exploit.txt,afd01d757ebd383ba1b118e2e2539c1b52035788,CVE-2011-0364
+825127006,mrhunter7/Shellcode,DATABASE/0day.today/DATABASE/win32 write-to-file Shellcode 278 bytes.txt,bc0dcb1223e817f45d83ae9ee6dff20e74c3d90b,CVE-2010-0425

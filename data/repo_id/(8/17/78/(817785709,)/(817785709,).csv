@@ -1,0 +1,111 @@
+repo_id,repo_full_name,file,file_sha1,match
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1453/wsdk-driverExploit/wsdk-driverExploit.vcxproj.filters,10857a930ef22687c926a77d67f2a94221ba72eb,CVE-2023-1453
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1491/MaxCryptMonExploit.vcxproj.filters,1166463515c42bcfa6e5e00b33c25ba25e8a17d4,CVE-2023-1491
+817785709,hsheric0210/SharpKernel,SharpKernelLib/KernelCodeExecution/ZemanaAM_CVE2021_31728.cs,12695009f3821d3bcb5c45995dd83f3956ef27df,CVE-2021-31728
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1489/WiseHDInfo64Exploit/WiseHDInfo64Exploit.vcxproj,1394631d2ee8f63327a33f10cfd2022e7406d791,CVE-2023-1489
+817785709,hsheric0210/SharpKernel,SharpKernelLib/KernelCodeExecution/ZemanaAM_CVE2022_42045.cs,14199c7b77b76cf5522e68734057334e1342efb8,CVE-2022-42045
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1007/filmfdExploit.vcxproj,163694216f8edee9587174056343fdfaf37e9586,CVE-2023-1007
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1490/SDActMonExploit/SDActMonExploit.vcxproj.filters,24163d6eb6bec43a7bfd9d182f190aad9e2831b4,CVE-2023-1490
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/VulnerableDriverBlockList/SiPolicy_Enforced_Server2016.xml,25036a81675b854dac6f352cd7895eb0a7553a5e,CVE-2018-5701
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1679/README.md,252194c8c0bb31325dc110a90d4ade7cecbc48dc,CVE-2023-1679
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/VulnerableDriverBlockList/SiPolicy_Enforced.xml,27399af59b32469730cf27705afdcb37de4fa832,CVE-2018-5701
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1048/README.md,2d71b3584b6ec8162674f093f4d716b401ab9a79,CVE-2023-1048
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1646/IMFCameraProtectExploit/IMFCameraProtectExploit.cpp,2d91238f1a39c0ae95713fa54448ce4f368ec946,CVE-2023-1646
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/cve-2017-14961/src/cve-2017-14961.c,308af125ca64d1a111d9a45007fb7aa5e056f2d8,CVE-2017-14961
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1453/wsdk-driverExploit/wsdk-driverExploit.cpp,31eb679a256d5d76baafe73a33f93a6669d47dce,CVE-2023-1453
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1629/kvcoreExploit.vcxproj.filters,33b357899bad78a3d40093a5008a8c0a61050913,CVE-2023-1629
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/cve-2017-14961/ntguard.sys,353d44a3a84a85d86a7c2676802a0a11c6cfb521,CVE-2017-14961
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1490/SDActMonExploit/SDActMonExploit.cpp,3819a4e5dc0a4395374c6d8e52d47535da3ddae9,CVE-2023-1490
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/VulnerableDriverBlockList/SiPolicy_Audit.xml,389a0606fc288c5ff95d5ac4eeab6cea5538ec3c,CVE-2018-5701
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1646/IMFCameraProtectExploit/IMFCameraProtectExploit.vcxproj.filters,396e9282b297a0aebf2a60cf1f01264c136f3f42,CVE-2023-1646
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1486/WiseUnlock64Exploit/WiseUnlock64Exploit.vcxproj,399d27ea71194d81d93d3be6e7e2e825c35c2f62,CVE-2023-1486
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1491/MaxCryptMonExploit.sln,3ce23cea03b8619fa9c625b536064339a1084d39,CVE-2023-1491
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1646/README.md,3d9649acf8f3dcf861bf7c4669c0fac1e49f0a77,CVE-2023-1646
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1445/README.md,3dfd2805ee7bc2ad62842956c6756e13351436d2,CVE-2023-1445
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1679/mydrivers64Exploit.vcxproj.filters,3fa0e6d1ad5d2ac5ec0f0944cd950a42cc5a79a8,CVE-2023-1679
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2022-22516
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2021-36276
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2022-3699
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2022-42045
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2023-1679
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2023-1646
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2023-1047
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2024-36054
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2021-31728
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2023-20598
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2023-38817
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2023-32673
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2024-36055
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2021-31727
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2018-18537
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2018-18536
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2023-41444
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2019-12280
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2019-16098
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2019-18845
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2018-18535
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2017-9769
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2024-33222
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2020-12446
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2020-12928
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2019-8372
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2015-2291
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2021-28685
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2021-21551
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2020-36603
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2020-14979
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2020-15480
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2024-33224
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2018-19320
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2020-15368
+817785709,hsheric0210/SharpKernel,provider-list.md,4480aae135dce37a6e01fa2ce13476b0c7bf6c4d,CVE-2020-15479
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1445/filddsExploit/filddsExploit.vcxproj,4b6d88f704d662acc8523e2d90d28d5f89226464,CVE-2023-1445
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/cve-2017-14961/ntguard_x64.sys,4b833500285fc359e2eb99def781fae435a4aac5,CVE-2017-14961
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1489/WiseHDInfo64Exploit/WiseHDInfo64Exploit.cpp,4be82bb657ab4563425fae52b48e982843d71e5d,CVE-2023-1489
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-2873/filppdExploit.vcxproj,4c701ea62afe9ddc0457cf98f528179f5e1db5fd,CVE-2023-2873
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2018-6593.url,4c8d3bf79bc4096e96ba390a1b74fadcb41d9eb6,CVE-2018-6593
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1491/README.md,55e999385b5bacbfcd250f24760ace478094a50e,CVE-2023-1491
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1007/filmfdExploit.vcxproj.filters,5a1630d57703025dfaa0185a0b80cb9cbf6baea6,CVE-2023-1007
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-2873/filppdExploit.cpp,5e3118ab8c5db5bab5083ffe1c31f38662c54264,CVE-2023-2873
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-2873/filppdExploit.vcxproj.filters,64070b069350302d5826d8aba729620d7584a670,CVE-2023-2873
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1679/mydrivers64Exploit.sln,64b25f59af67e4ed2ff9a8192f407582edede77e,CVE-2023-1679
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1490/SDActMonExploit.sln,70ddf25f163602581bf5ade250ec08459d12580d,CVE-2023-1490
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1486/WiseUnlock64Exploit.sln,75406be7b704227009e987c83d8a81df59ea6c51,CVE-2023-1486
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-2873/filppdExploit.sln,7c9a95f583f53e31b89f4fb4e5e3e00172736d74,CVE-2023-2873
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1047/README.md,7df07f346c89fe1ada61e949f8e62d9c1089c351,CVE-2023-1047
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1007/filmfdExploit.cpp,801f5d29906e92d36982c57ef2df99693c4231d3,CVE-2023-1007
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1629/kvcoreExploit.vcxproj,85173a72abbb5b9252af1969581bff4d4c8a57ed,CVE-2023-1629
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1679/mydrivers64Exploit.vcxproj,8b59a0ec48444028a326571709d2743406960885,CVE-2023-1679
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1490/SDActMonExploit/SDActMonExploit.vcxproj,8bcc8fb4522a38b9b69aaed2106ae3b9eaebc474,CVE-2023-1490
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1489/WiseHDInfo64Exploit.sln,8ed69fee2b5de4b3ad4dbdc3a0f82cdee48b05be,CVE-2023-1489
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1453/README.md,8eda8c12671ae9880feb82fcefe052fad64d3998,CVE-2023-1453
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2021-31728.url,8fbcaacffc842d560f9bb0bb293fceef9acd7edb,CVE-2021-31728
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1445/filddsExploit.sln,96c00833c774dc3791312d42f1c09da9723271a0,CVE-2023-1445
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1445/filddsExploit/filddsExploit.cpp,9ec7f9bfa2b93f2f7d2a2ff40cfdf07de27d13d2,CVE-2023-1445
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1486/WiseUnlock64Exploit/WiseUnlock64Exploit.vcxproj.filters,a130a165f028f5e43bc4b845b0d7aad7f2dde148,CVE-2023-1486
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1491/MaxCryptMonExploit.cpp,a59c006a2cf75e9c3c1b412074cac63ee4d4c0f4,CVE-2023-1491
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1007/README.md,a8ed04bdf64ac289ed2ecb438e99cc88dcd1accc,CVE-2023-1007
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1629/kvcoreExploit.sln,ae5544fc53674650ab49915eb556a0a27360e9cc,CVE-2023-1629
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1489/WiseHDInfo64Exploit/WiseHDInfo64Exploit.vcxproj.filters,af6bd5ac45a2602f10939c49c42b1b0818e77d0b,CVE-2023-1489
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1486/README.md,b3dc7f949c1997531b611b53357c3569bfe5655e,CVE-2023-1486
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1489/README.md,b82ce67efab4902ea22401dffed7b607a00e7ba5,CVE-2023-1489
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1646/IMFCameraProtectExploit/IMFCameraProtectExploit.vcxproj,bb6dea31c760a7281f4acdfb5b38121a15ccfc4d,CVE-2023-1646
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1453/wsdk-driverExploit.sln,bc0c07147c8cc5f1451df0ec29e6b00593565510,CVE-2023-1453
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1679/mydrivers64Exploit.cpp,bcee50242b813cd40ecdb51c0c7e3e40e0b1dae0,CVE-2023-1679
+817785709,hsheric0210/SharpKernel,SharpKernelLib/SessionProviders/Core/IntelNal.cs,bec5a055cb10b048ac5024dc385911d599d14165,CVE-2015-2291
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/VulnerableDriverBlockList/SiPolicy_Audit_Server2016.xml,c4bb560796397d71ac329384cd73e0a69cd93e2f,CVE-2018-5701
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/cve-2017-14961/src/cve-2017-14961.exe,ca5d907d819f5b58b36d12ef8c4efe89201751ee,CVE-2017-14961
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/30681.txt,cbf05f5cc676131121d4a50617387fe8b23b2397,BID-26123
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-2873/README.md,d2406af5efe15773327502c13235d91351a82376,CVE-2023-2873
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1646/IMFCameraProtectExploit.sln,d5f6e6ab295750c429fc680ccefd4d8bb1fd9d8a,CVE-2023-1646
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1490/README.md,d6ba0ad065584c994a5453b9bcd1c1f1ec4dfa83,CVE-2023-1490
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2018-6606.url,df2f11e2391bea8289a6760fadbfcc1d633b1191,CVE-2018-6606
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/cve-2017-14961/usage.url,df46cf1339b854d1cb1c564112c727e147dac8ac,CVE-2017-14961
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1007/filmfdExploit.sln,df6da6a0ad7abccefca6365e1ce8f9a70776d7a4,CVE-2023-1007
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1486/WiseUnlock64Exploit/WiseUnlock64Exploit.cpp,df8e036a3186f0def59d53d6158e67d12bff9da4,CVE-2023-1486
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1629/README.md,ef899e3cd17ce192f85deb01a92129f932e41110,CVE-2023-1629
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1629/kvcoreExploit.cpp,f2f2624181fb2024ad55c6f7fda826cb3e5092df,CVE-2023-1629
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/34333.rb,f3fa251cea158a7cbd22cbd4e40596a27450ea35,CVE-2014-2477
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1445/filddsExploit/filddsExploit.vcxproj.filters,f507a7bc3c024a46318734467436d06ce5c9f7f9,CVE-2023-1445
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1491/MaxCryptMonExploit.vcxproj,f5986833c480c3204516bf438af8adc06ea82f4f,CVE-2023-1491
+817785709,hsheric0210/SharpKernel,More vulnerable drivers/CVE-2023-1453/wsdk-driverExploit/wsdk-driverExploit.vcxproj,f949f3bac65be2f0a193941f0b88808e3a030b08,CVE-2023-1453

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+587907586,leRoderic/gitlab_exploit,ransomware/UFF,30df87ee7d38a79964dfa994852f003b67c71ab3,VU#56
+587907586,leRoderic/gitlab_exploit,pkexec/blasty-vs-pkexec.c,e80c97936a11da29c638927b3cb386f01c9b30f9,CVE-2021-4034
+587907586,leRoderic/gitlab_exploit,ransomware/RansomWare,eaf2039d20be7810bf0723ad4e4f8d6083199127,VU#56

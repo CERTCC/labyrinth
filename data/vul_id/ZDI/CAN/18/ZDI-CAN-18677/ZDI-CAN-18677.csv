@@ -1,0 +1,6 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-CAN-18677,0.33333333,https://github.com/Live-Hack-CVE/CVE-2022-42418,Live-Hack-CVE/CVE-2022-42418,594315535
+ZDI-CAN-18677,0.00006261,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+ZDI-CAN-18677,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-CAN-18677,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+ZDI-CAN-18677,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

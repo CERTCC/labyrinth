@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+773284524,jakabakos/CVE-2023-37679-mirth-connect-rce-poc,CVE-2023-37679.py,32f3afe635f585ae67d223cc3b74fe6b944608ee,CVE-2023-37679
+773284524,jakabakos/CVE-2023-37679-mirth-connect-rce-poc,CVE-2023-37679.py,32f3afe635f585ae67d223cc3b74fe6b944608ee,CVE-2023-43208
+773284524,jakabakos/CVE-2023-37679-mirth-connect-rce-poc,README.md,4c49f6e7fb950ecef43dea3c3c6d6c1feefc2b99,CVE-2023-37679
+773284524,jakabakos/CVE-2023-37679-mirth-connect-rce-poc,README.md,4c49f6e7fb950ecef43dea3c3c6d6c1feefc2b99,CVE-2023-43208
+773284524,jakabakos/CVE-2023-37679-mirth-connect-rce-poc,CVE-2023-43208.py,7abade4853bf7f07703a8267e9fcca854feb3fc1,CVE-2023-37679
+773284524,jakabakos/CVE-2023-37679-mirth-connect-rce-poc,CVE-2023-43208.py,7abade4853bf7f07703a8267e9fcca854feb3fc1,CVE-2023-43208
+773284524,jakabakos/CVE-2023-37679-mirth-connect-rce-poc,detection.py,f340dfec713d36c3cce8a8a250a2122a3735cae6,CVE-2023-37679
+773284524,jakabakos/CVE-2023-37679-mirth-connect-rce-poc,detection.py,f340dfec713d36c3cce8a8a250a2122a3735cae6,CVE-2023-43208
+773284524,jakabakos/CVE-2023-37679-mirth-connect-rce-poc,_GITHUB_REPO_METADATA_,,CVE-2023-37679

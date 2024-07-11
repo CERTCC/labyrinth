@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+632782908,xanhacks/OffensiveWeb,content/docs/getting-started/vulnerability-reports.md,2e44894ab511a66417db1eb7543f562dc78c2792,CVE-2024-23724
+632782908,xanhacks/OffensiveWeb,content/docs/framework/apache.md,42ec33a343bdf045e6d106a911c28b1dc406192a,CVE-2021-41773
+632782908,xanhacks/OffensiveWeb,content/docs/framework/apache.md,42ec33a343bdf045e6d106a911c28b1dc406192a,CVE-2023-25690
+632782908,xanhacks/OffensiveWeb,content/docs/others/browser-exploit.md,a9b4cf2df047559e28fb91f295c2bea6cade0d10,CVE-2024-4367

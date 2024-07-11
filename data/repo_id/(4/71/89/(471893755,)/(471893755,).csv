@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+471893755,battleoverflow/apache-traversal,README.md,1a04545f2b4d140afd18146f258a9cf809b78452,CVE-2021-41773
+471893755,battleoverflow/apache-traversal,README.md,1a04545f2b4d140afd18146f258a9cf809b78452,CVE-2021-42013
+471893755,battleoverflow/apache-traversal,exploit.py,acaa152263d075569db121ff560da13c1c1b0283,CVE-2021-41773
+471893755,battleoverflow/apache-traversal,exploit.py,acaa152263d075569db121ff560da13c1c1b0283,CVE-2021-42013

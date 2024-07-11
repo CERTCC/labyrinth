@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+711985399,vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911-,README.md,1a14ee73a3ea60284c1d1f55ab8b67dc7a0fa399,CVE-2021-22911
+711985399,vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911-,CVE-2021-22911.py,33dcfc524689520be064c6c683f6a3b22ac22b4d,CVE-2021-22911
+711985399,vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911-,_GITHUB_REPO_METADATA_,,CVE-2021-22911

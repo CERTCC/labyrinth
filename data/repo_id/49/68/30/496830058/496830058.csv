@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+496830058,dummersoul/Android-webview-inject-shell,app/release/app-release.apk,1c3f6be8311d18ca447f25d7390603d6dcfb31f3,VU#75

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+472232983,Fajar-NS/ExploitDb,README.md,c6dcc86d50c7e0f08d9d055adf059b4565acd2d0,MS08-066
+472232983,Fajar-NS/ExploitDb,README.md,c6dcc86d50c7e0f08d9d055adf059b4565acd2d0,MS11-046
+472232983,Fajar-NS/ExploitDb,README.md,c6dcc86d50c7e0f08d9d055adf059b4565acd2d0,MS11-080
+472232983,Fajar-NS/ExploitDb,README.md,c6dcc86d50c7e0f08d9d055adf059b4565acd2d0,MS14-040

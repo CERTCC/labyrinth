@@ -1,75 +1,183 @@
 repo_id,repo_full_name,file,file_sha1,match
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.obj,0401fa30f23365fe1d46bb9b8d855fc75c42b839,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.log,04e66d85e3ec187a7aad1486437aee5e2707a6d3,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.log,04e66d85e3ec187a7aad1486437aee5e2707a6d3,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/link.command.1.tlog,06da3d5cf63298455ca46f2a896ee894fedac19a,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/link.command.1.tlog,06da3d5cf63298455ca46f2a896ee894fedac19a,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.tlog/CL.command.1.tlog,078303ac0f9ff5b0270e8664a73ff1e6342832ae,CVE-2015-1674
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956.sln,0873b4dbfa48b0db8494c783c05f83e22fc48fe7,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.pch,0937f01d21c4af32675e0b255ca67ea97d4be7db,CVE-2015-1674
-178699315,sickn3ss/exploits,CVE-2021-1732/Windows_20H2_TagWND.txt,0b70782b55ddb4dd62051ed053ed19f0d488e821,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/Browse.VC.opendb,0d039e1523d48301b34c010b0298787167b6af6b,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/Browse.VC.opendb,0d039e1523d48301b34c010b0298787167b6af6b,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/vc142.idb,0ef3d32bc163eb0fabd91fc75d6fdb44492a4995,CVE-2021-1732
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/CVE-2021-1732.cpp,135d4fc9a27ae40aa00174fad9f6fdb6803f541b,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/x64/Release/CVE-2021-1732.exe,0f75b946de8a600ab94692e94b36f9f30b50a8f7,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/CVE-2015-2433.tlog/CL.write.1.tlog,0fe8d40100200f0e1eedbb49bf1cd973c3971669,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.tlog/link.read.1.tlog,108ddeaaae1ae29a53ba9b3eec113ba716442bef,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.tlog/CL.write.1.tlog,150e24446ae267e94e27ee711fc968f5cb25c3f6,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.tlog/CL.read.1.tlog,15def581bffb38b61374daaa5b56921eb9423a4c,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-2433/.vs/CVE-2015-2433/v15/ipch/58534cd2ce7195bb.ipch,174457bc7afa7bd4eb472b2b7bafbd22fcb57b7a,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.tlog/CL.command.1.tlog,1a8826ee402da32d9160abf4954172dbb6f27825,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/CVE-2013-3956.vcxproj.filters,1b8ba5287559af4136770ac0f801320fa8b3cbaf,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/CVE-2015-2433.vcxproj.filters,1be943a5d3024f07759731bdb1be54e1a3e500f4,CVE-2015-2433
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/CVE-2013-3956.vcxproj,1c3058dd2259be01d37b0aac41f793dd1f2fa0ca,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.tlog/CL.write.1.tlog,25716df7c5c7d745c49df74ad92cd915cd8c8441,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.obj,27a27c6fba8ad74cea5f6fa9521401ecce1bd031,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.obj,27a27c6fba8ad74cea5f6fa9521401ecce1bd031,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/vc141.idb,298ec5410e1f5bca82c4b17a81dd9a43557a0d22,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/forticlient_win10_x64_creators.vcxproj,2a6b404b809cf35e3b5aa2caaabd58890bae1a03,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/forticlient_win10_x64_creators.vcxproj,2a6b404b809cf35e3b5aa2caaabd58890bae1a03,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2013-3956/Debug/CVE-2013-3956.pdb,2b551ce73ff922bc3378cef380707a7da52b3f65,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/ipch/80f7f69f24354621.ipch,2cd250b34dff35ee8c7522c11e1df6b6ba0d97b4,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/ipch/80f7f69f24354621.ipch,2cd250b34dff35ee8c7522c11e1df6b6ba0d97b4,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.tlog/CL.write.1.tlog,302c63b1bd64833e0a13c4c279a3ec34b5347c88,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.log,338f6b2186d513e60f3b3481549b023e72583f12,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.tlog/CL.read.1.tlog,367a41123c330b824c7bfa27c06ce925b336b6db,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/CVE-2015-2433.tlog/CL.command.1.tlog,3683dff08ac0517a3d4bc67d510360b7e01eccef,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/CVE-2015-2433.vcxproj.user,37a32fc6a073eb33d970a77bec4c6cfdbe7e6463,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/forticlient_win10_x64_creators.vcxproj.user,37a32fc6a073eb33d970a77bec4c6cfdbe7e6463,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/CVE-2013-3956.vcxproj.user,37a32fc6a073eb33d970a77bec4c6cfdbe7e6463,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/CVE-2015-1674.vcxproj.user,37a32fc6a073eb33d970a77bec4c6cfdbe7e6463,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/forticlient_win10_x64_creators.vcxproj.user,37a32fc6a073eb33d970a77bec4c6cfdbe7e6463,CVE-2015-4077
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.tlog/CVE-2021-1732.lastbuildstate,3933abc257eaae78090cff2930c88d5157970897,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/CVE-2021-1732.h,3964e1f16a932973f52cb4b2bd420b9c5aae7687,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/CVE-2015-2433.tlog/CL.read.1.tlog,3ac66051724c27754c582e7ea73a4699c843740e,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.tlog/link.command.1.tlog,3af7ae1182c114c547d27dadf0eb591a6d64d406,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.pch,3cfd7f46c9c687fdbac8ccbbe489ce8d44193b5f,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.pch,3cfd7f46c9c687fdbac8ccbbe489ce8d44193b5f,CVE-2015-4077
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.Build.CppClean.log,3e4a6182ccb15b0e03d58ef0a8d4531897e342d3,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2013-3956/.vs/CVE-2013-3956/v15/ipch/91bac1f0ad300fce.ipch,3f48bb8460832ab3d319a48ce07b37b84579b8d2,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.tlog/CL.command.1.tlog,3febc0c0d4ddcb568ca9c682023e27d4a4f4ed27,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/vc141.pdb,4252bb0412bd79f05284bf23be3b754a6bdc3326,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/CVE-2015-1674.vcxproj.filters,4364a6624b0cc240479a2ad6ca959626e3416bc6,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.tlog/link.read.1.tlog,4614d394f7cc49538eec4622423673436573fdd7,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64/static_rop/forticlient_exploit.c,4cb6ff22d90793f6032bb8f4eaa2ad5602924da8,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64/static_rop/forticlient_exploit.c,4cb6ff22d90793f6032bb8f4eaa2ad5602924da8,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.tlog/link.read.1.tlog,50e67a1aeb19984529d373c333aa700f1b789d8a,CVE-2015-1674
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.tlog/CVE-2021-1732.lastbuildstate,51ab49bb1a5c76ff1d1f8dbea938c101e7d23a35,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/pch.obj,5596e1a9fed2d2fe73a1662c43d1ef67f41902ab,CVE-2015-1674
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/CVE-2015-2433.log,57757a23f3e9eec8676a41cf6e386c358641163b,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.tlog/link.write.1.tlog,57a1bfdf7b3a029fa692917845dd99c2f0e79fb3,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators.sln,57c66a148bb484602bf5c4d0add2d4346f5cea28,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators.sln,57c66a148bb484602bf5c4d0add2d4346f5cea28,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/targetver.h,57c8c0f47d2168b6955706ef677c467b7368a98b,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/targetver.h,57c8c0f47d2168b6955706ef677c467b7368a98b,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/ipch/5062c4858a4ae064.ipch,582cfc03532b9206d26c1279baf86b8f7cd1b4ba,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/ipch/5062c4858a4ae064.ipch,582cfc03532b9206d26c1279baf86b8f7cd1b4ba,CVE-2015-4077
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/CVE-2015-2433.obj,5833c706d3664ab41d9de8c8fe3864ff23276f5b,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.tlog/link.write.1.tlog,5a029c3c8f9f5a4c90c9f9df359bcf995413cf7b,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/CVE-2015-2433.pch,5d9ab541bc2576f7406d9cafb7eace2418d6beb1,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/vc142.pdb,60d85fcd6494946041f6101561f0160418653ea2,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/forticlient_win10_x64_creators.cpp,610911e8fc1b2bbe052a3d05507702583e72fb1d,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/forticlient_win10_x64_creators.cpp,610911e8fc1b2bbe052a3d05507702583e72fb1d,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/vc141.idb,61a351a7b5edb0a4c1db4e10f0bdb7c6428b44fc,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.tlog/CL.read.1.tlog,648b4ff166feae5b1c0df06e330583d642301d99,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2015-1674/.vs/CVE-2015-1674/v15/.suo,655004133304fba442ef7c4cbd3606b924f93c30,CVE-2015-1674
 178699315,sickn3ss/exploits,CVE-2013-3956/.vs/CVE-2013-3956/v15/.suo,66fd86d0882b1860725c5e47abf7660d88d61229,CVE-2013-3956
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/vc142.pdb,692f904c761e11fb46d1562690fecd9a77b4fcee,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_anniversary/forticlient_exploit.c,6c18221e411534dd6404741d9ecccf27ed5782e3,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_anniversary/forticlient_exploit.c,6c18221e411534dd6404741d9ecccf27ed5782e3,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/ipch/AutoPCH/f19bf2a109d88975/CVE-2021-1732.ipch,6cf8ad20b44e19a325effa041f211115b1bc1716,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.ipdb,6d341a41a82ba27dc1077e5ade8d8feb743f466e,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.tlog/link.read.1.tlog,6e434a41361f9ad6ababb528bac607579648dc57,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2013-3956/Debug/CVE-2013-3956.exe,712664f9ca9d73af605b4cc6faa58074f12eda72,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/.suo,749b33c4956e94cb5a3f0d2467240138149d16e0,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/.suo,749b33c4956e94cb5a3f0d2467240138149d16e0,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/CL.read.1.tlog,7532811ae320d224c17b81f813e33b9857e3b2cc,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/CL.read.1.tlog,7532811ae320d224c17b81f813e33b9857e3b2cc,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/CVE-2021-1732.cpp,75c35471c540757ffa98a6aded982f6edeb24122,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2015-2433/.vs/CVE-2015-2433/v15/ipch/da467ab87e3ec7fe.ipch,77692a81a23832016c66a42c8a4585bb81f86858,CVE-2015-2433
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/CVE-2015-1674.vcxproj,78ad23b764d817760c4557a48a6eae0ab6e919e1,CVE-2015-1674
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.iobj,79cc37e507d83fd0961c0a4e41f2f6cd7c5b60b1,CVE-2021-1732
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/Browse.VC.db,7ee51357f21a25edb520349de4a23afe1ca9b6d3,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64/dynamic_rop/forticlient_exploit.c,7e407e1f908ac881103f7bc7e7e8bd5bbe7983ff,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64/dynamic_rop/forticlient_exploit.c,7e407e1f908ac881103f7bc7e7e8bd5bbe7983ff,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.tlog/CVE-2013-3956.lastbuildstate,810dffa8403a2d6774875a646303ecdbd1c1b6fc,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/pch.obj,820f5308c84220aa9c507f21b98f8b254b459306,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/link.read.1.tlog,82108fe599ff64bf08a6f0dbd3db03fe505545b4,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/link.read.1.tlog,82108fe599ff64bf08a6f0dbd3db03fe505545b4,CVE-2015-4077
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/vc141.pdb,8526fcec09ede5d14752786ead078e42778fb391,CVE-2015-2433
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/CVE-2015-2433.vcxproj,85878ec04d8ce719d8a9c759979b6ebd14e02742,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.tlog/link.command.1.tlog,85c7358d145a6baef985521b97e48c88d126cee8,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/stdafx.h,86bfbf2b3aae1ef89b68301fd7a6782cfe111604,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/stdafx.h,86bfbf2b3aae1ef89b68301fd7a6782cfe111604,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2015-2433/.vs/CVE-2015-2433/v15/Browse.VC.db,86d73384d6ff0c809785c93012e0db2b7af73418,CVE-2015-2433
 178699315,sickn3ss/exploits,CVE-2013-3956/.vs/CVE-2013-3956/v15/Browse.VC.db,8a59cd79744be1f08b0acd94b277f2b836113ab8,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.obj,8af95b2115019d9909d8fed96872d07a66391922,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/vc141.idb,8d074062a4e246a7ac50c34e1c96378260a422d9,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/vc141.idb,8d074062a4e246a7ac50c34e1c96378260a422d9,CVE-2015-4077
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/ipch/AutoPCH/b228dafcaa8114e7/CVE-2021-1732.ipch,8d47f94132e1606b4f139ae14551aae0b0c7c269,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/pch.h,8d5cf353025872750f321b0f1dbce00d67074204,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/pch.h,8d5cf353025872750f321b0f1dbce00d67074204,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/pch.h,8d5cf353025872750f321b0f1dbce00d67074204,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.tlog/CL.read.1.tlog,8e4ea74ba05822a5ad603f7f9383fadf7678e6eb,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/stdafx.obj,8ef62dead3935b34255ddb3f282f03334bda8662,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/stdafx.obj,8ef62dead3935b34255ddb3f282f03334bda8662,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/CVE-2021-1732.vcxproj,8fb3fb3557356ffd0b8b4572339db3494f654421,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/CL.write.1.tlog,9099e746105a763b53cef4731d847457ffb0afa9,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/CL.write.1.tlog,9099e746105a763b53cef4731d847457ffb0afa9,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/Browse.VC.db,93224d9ca20eb221d965470cd980ede48f3693fe,VU#32
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/Browse.VC.db,93224d9ca20eb221d965470cd980ede48f3693fe,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/Browse.VC.db,93224d9ca20eb221d965470cd980ede48f3693fe,VU#16
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.tlog/link.write.1.tlog,94be1b96b36ab241d770a099aa0a20b58af7d231,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2013-3956/.vs/CVE-2013-3956/v15/Browse.VC.opendb,96d7c3e49918df4131f9ed1e7bd2e7fa9d730e7b,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/CVE-2021-1732.vcxproj.filters,97b03121c1d5f320ebea2fd50c6140056d2b41a3,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.exe.recipe,9a90098e68b80921657220b9cb8ed3336aa91244,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.obj,9eb8c8959994d0f05b164d4dadf7fd02f4495e44,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433.sln,a075204f820a5ef09391181f201d4d1dbd01f4f2,CVE-2015-2433
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/x64/Release/CVE-2021-1732.exe,a196b94ea65d91b4ea2edc0294955d0f345bd559,CVE-2021-1732
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/x64/Release/CVE-2021-1732.pdb,a20b6ac047a0262cc32082cedf8f0f2239eb77c5,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.ilk,a08ef232e892e4bb50a4c6f69c46a3302b177edd,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.ilk,a08ef232e892e4bb50a4c6f69c46a3302b177edd,CVE-2015-4077
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.ilk,a24cb825594c58cd9cca0aa85b89108122fbc725,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.log,a2785d2bd3a2e33dd9d79a402ea35b03d4793c2b,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/CVE-2013-3956.cpp,a2e2c653121a17ecd6c065f2fa1e68cba6a56492,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/vc141.pdb,a5fd5d24c3c2142f8cabc52a0ea4882e1495f242,CVE-2015-1674
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732.sln,a6a8d47048214814c20f8fc1270892c87f2926b8,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/stdafx.cpp,af512c3d6c71fc3d3fdcf94c12ccde16cb446c74,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/stdafx.cpp,af512c3d6c71fc3d3fdcf94c12ccde16cb446c74,CVE-2015-4077
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.obj,af9c0df7703f3bc233e800fd8df8f0a5ed162a0b,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.log,afa413a0ec081a79d128dd53e5baea23d12af85a,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674.sln,b754a2a4a59c543e56b6eec106f65b76d5a8b0d1,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/vc141.pdb,b94214d889b9c845920453d316d763a711274cde,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/vc141.pdb,b94214d889b9c845920453d316d763a711274cde,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/ipch/AutoPCH/5e6c8941a8ee6f24/CVE-2021-1732.ipch,bb10c8c4e74e8d159a7f6726b016bc28430d65dc,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.iobj,c291a92ac1ccaf59c796392f52066de87ab59148,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2015-2433/.vs/CVE-2015-2433/v15/.suo,c3b0674edf81c6f4e0fa851fd6a2245ec9de6220,CVE-2015-2433
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.pch,c8c924a8322e8b5c39910631b1d5b9b9961cdbc4,CVE-2013-3956
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/.suo,cc4ec35a781562fa539d627493a49285c9ae4bfe,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/forticlient_win10_x64_creators.lastbuildstate,cdff3e7a0ce372cb76fe00ca7b911934fae509c8,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/forticlient_win10_x64_creators.lastbuildstate,cdff3e7a0ce372cb76fe00ca7b911934fae509c8,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.log,d2605ccb169721a4338a1edf3160f638d4215db4,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/x64/Release/CVE-2021-1732.pdb,d3e224ef56ead95a1b04ec23f9484b544cb2fe86,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/CVE-2015-2433.tlog/CVE-2015-2433.lastbuildstate,d440042c06a42f3502e33b5fcac38f49251224f2,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.exe,d5231ffef911a982cbe090162217013b242f32ce,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.exe,d5231ffef911a982cbe090162217013b242f32ce,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/CVE-2015-2433.tlog/link.read.1.tlog,d62636d8caec13f04e28442a0a6fa1afeb024bbb,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.tlog/CL.write.1.tlog,d65d4b1320864b33a38bbcca98bf4bd3acd2d00f,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/CL.command.1.tlog,d9127662f4c3256d782dfcdfe497d1247a6204d1,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/CL.command.1.tlog,d9127662f4c3256d782dfcdfe497d1247a6204d1,CVE-2015-4077
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/CVE-2015-1674.cpp,d974bce88f61337e71ecba3199e8ea5daa0ef5e6,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/Browse.VC.db,d9aa3680e47db91850adcbda674eea779feeef03,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/.vs/forticlient_win10_x64_creators/v15/Browse.VC.db,d9aa3680e47db91850adcbda674eea779feeef03,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.vcxproj.FileListAbsolute.txt,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/CVE-2015-2433.tlog/unsuccessfulbuild,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2015-2433
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/ipch/AutoPCH/3255512a915a771/CVE-2021-1732.ipch,da9767077fbdfd67107b2903cf0a508aecd76857,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2015-1674/.vs/CVE-2015-1674/v15/ipch/4b4b05986a7b38be.ipch,dab8583a96664a3049c6985c26df5c8afd81f772,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/forticlient_win10_x64_creators.vcxproj.filters,daca0d6b4ec9209c683b16a0dec7dde0a4f8bdd1,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/forticlient_win10_x64_creators.vcxproj.filters,daca0d6b4ec9209c683b16a0dec7dde0a4f8bdd1,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/pch.cpp,dc225bbe3b379a8074ae669f00c651c714f3b698,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/pch.cpp,dc225bbe3b379a8074ae669f00c651c714f3b698,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/pch.cpp,dc225bbe3b379a8074ae669f00c651c714f3b698,CVE-2015-2433
 178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/vc141.idb,dc9d27c781f6aaa05d4b9028cb595fb9024d2961,CVE-2013-3956
+178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.tlog/link.command.1.tlog,dca5f7fc4cd48a6eb439a1cae4efc55fac866431,CVE-2015-1674
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.obj,e4b35519492e9e3cc8394c61ab634651ccf2e0c4,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.tlog/CL.command.1.tlog,e6a5e94f976c299493603690c7fbee86311ad0cf,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2013-3956/Debug/CVE-2013-3956.ilk,e70ab9edb62f287035e6255def164bfaa4dd5b6d,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-1674/CVE-2015-1674/Debug/CVE-2015-1674.tlog/CVE-2015-1674.lastbuildstate,e8050364c942f017b3278843f3021266db7c12a2,CVE-2015-1674
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/ipch/AutoPCH/a8adb6550553229a/CVE-2021-1732.ipch,ea31b87a71146b3db1dd4029f2aba71f235c9a89,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.tlog/link.write.1.tlog,eaac58e48782f5a8c6276010a49e7674fafbaa76,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2013-3956/CVE-2013-3956/Debug/CVE-2013-3956.tlog/link.command.1.tlog,ec28ab538b6c8bcf393515875735a7c7e0969a61,CVE-2013-3956
 178699315,sickn3ss/exploits,CVE-2015-1674/.vs/CVE-2015-1674/v15/Browse.VC.db,ec8b1fc36b8cef4a2d457ed3b4900b610e100c61,CVE-2015-1674
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/CVE-2021-1732.exe.recipe,edb9579220e87bbdfe336126d2e4470b0a85a72e,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/x64/Debug/pch.obj,ef6f4034d2e39b3b2f34e7b46c1b76df5e19938e,CVE-2015-2433
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/ipch/AutoPCH/3255512a915a771/CVE-2021-1732.ipch,f1c6bbcf3e9d55f46a17572822a9f41d4fb50455,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.pdb,f6bd5e699e8d6db561860e9a0153461a122cf0f9,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/x64/Debug/forticlient_win10_x64_creators.pdb,f6bd5e699e8d6db561860e9a0153461a122cf0f9,CVE-2015-5736
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/CVE-2021-1732.vcxproj.user,f75316dc9ee719d300a59bcb8a0f92b26c66b6ba,CVE-2021-1732
 178699315,sickn3ss/exploits,CVE-2015-2433/CVE-2015-2433/CVE-2015-2433.cpp,f8c704e8366ed40471f53afe19c5fe5c756ac8fe,CVE-2015-2433
-178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/x64/Release/CVE-2021-1732.log,fe7b6985efa6bbe3abaa0ee73f5c3321c9a635f9,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/.vs/CVE-2021-1732/v16/.suo,fb41dc580dbe4eb71df6afb786f533e9d98c086b,CVE-2021-1732
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/link.write.1.tlog,fede4f3b765d0b4f3a9da977f6d83152809a702c,CVE-2015-4077
+178699315,sickn3ss/exploits,CVE-2015-5736 & CVE-2015-4077/forticlient_win10_x64_creators/forticlient_win10_x64_creators/x64/Debug/forticli.9150250C.tlog/link.write.1.tlog,fede4f3b765d0b4f3a9da977f6d83152809a702c,CVE-2015-5736
 178699315,sickn3ss/exploits,CVE-2021-1732/CVE-2021-1732_20H2/CVE-2021-1732/Debug/vc142.pdb,ffbfd64ac14fdca3d4e39ac1a3c9aea1f69913e4,CVE-2021-1732

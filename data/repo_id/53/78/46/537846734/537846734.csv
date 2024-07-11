@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+537846734,OgulcanUnveren/th3d1gger-0day,gila_cms_shell_upload_vuln.rb,79391680d22e112b55e638ad48888f55898f65e8,CVE-2020-5515

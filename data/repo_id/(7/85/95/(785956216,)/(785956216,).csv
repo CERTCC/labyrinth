@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+785956216,zzcentury/FortiGate-CVE-2024-21762,sslvpn_CVE-2024-21762.py,3256a69564c2c2d300edc0e65527f86dedc5f40a,CVE-2024-21762
+785956216,zzcentury/FortiGate-CVE-2024-21762,_GITHUB_REPO_METADATA_,,CVE-2024-21762

@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+800457140,jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit,exploit.py,9a541f5756df857070f3f6c9f18561f2d5e1ba0b,CVE-2023-26359
+800457140,jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit,exploit.py,9a541f5756df857070f3f6c9f18561f2d5e1ba0b,CVE-2023-26360
+800457140,jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit,README.md,b170d5259d51fa499f956578f9d2d62f8e9098f6,CVE-2023-26359
+800457140,jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit,README.md,b170d5259d51fa499f956578f9d2d62f8e9098f6,CVE-2023-26360
+800457140,jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit,README.md,b170d5259d51fa499f956578f9d2d62f8e9098f6,CVE-2023-26361
+800457140,jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-26360

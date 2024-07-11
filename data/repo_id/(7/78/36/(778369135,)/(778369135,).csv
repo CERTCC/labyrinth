@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+778369135,x3rz/HP_Device_Manager_Exploit,HP_Device_Manager_RCE/HPDeviceManagerExploit.java,782e39d1c4536d634e6f0a952783558e1d2423a5,CVE-2020-6925
+778369135,x3rz/HP_Device_Manager_Exploit,HP_Device_Manager_RCE/HPDeviceManagerExploit.java,782e39d1c4536d634e6f0a952783558e1d2423a5,CVE-2020-6926
+778369135,x3rz/HP_Device_Manager_Exploit,HP_Device_Manager_RCE/HPDeviceManagerExploit.java,782e39d1c4536d634e6f0a952783558e1d2423a5,CVE-2020-6927

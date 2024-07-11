@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+569263975,msuiche/elegant-bouncer,src/main.rs,10312aad871c372c74c9affbd1b7db9a6cda5291,CVE-2021-30860
+569263975,msuiche/elegant-bouncer,src/main.rs,10312aad871c372c74c9affbd1b7db9a6cda5291,CVE-2023-41064
+569263975,msuiche/elegant-bouncer,src/main.rs,10312aad871c372c74c9affbd1b7db9a6cda5291,CVE-2023-41990
+569263975,msuiche/elegant-bouncer,src/main.rs,10312aad871c372c74c9affbd1b7db9a6cda5291,CVE-2023-4863
+569263975,msuiche/elegant-bouncer,README.md,6899e6b7736d737a4420946c7f07ed17f090adca,CVE-2021-30860
+569263975,msuiche/elegant-bouncer,README.md,6899e6b7736d737a4420946c7f07ed17f090adca,CVE-2023-41064
+569263975,msuiche/elegant-bouncer,README.md,6899e6b7736d737a4420946c7f07ed17f090adca,CVE-2023-41990
+569263975,msuiche/elegant-bouncer,README.md,6899e6b7736d737a4420946c7f07ed17f090adca,CVE-2023-4863
+569263975,msuiche/elegant-bouncer,src/jbig2.rs,7b1e01c00e8007d60ef83e862e80f7cc5a2f377f,CVE-2021-30860
+569263975,msuiche/elegant-bouncer,documentation/BLASTPASS.md,9e4f6314e2c384a93d03c419c8551b219faa6a7e,CVE-2023-41064
+569263975,msuiche/elegant-bouncer,documentation/BLASTPASS.md,9e4f6314e2c384a93d03c419c8551b219faa6a7e,CVE-2023-4863
+569263975,msuiche/elegant-bouncer,documentation/Triangulation.md,a538965d94a873b4aa1fba15da48d1c7f39d5123,CVE-2023-41990
+569263975,msuiche/elegant-bouncer,documentation/FORCEDENTRY.md,ea147e05cf21ffb9a7e01bd05d91d2ceebcf6be2,CVE-2021-30860

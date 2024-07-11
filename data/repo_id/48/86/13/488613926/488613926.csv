@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+488613926,dongnthe130428/WordPress-RCE,PhanTich/WordPress Image CROP RCE 571295df40e44671af50c5dfa4155a6a.md,6e045175493af612f2b6916a3da2b9f61c9e3c41,CVE-2019-8942
+488613926,dongnthe130428/WordPress-RCE,PhanTich/WordPress Image CROP RCE 571295df40e44671af50c5dfa4155a6a.md,6e045175493af612f2b6916a3da2b9f61c9e3c41,CVE-2019-8943

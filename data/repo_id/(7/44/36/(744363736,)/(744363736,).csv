@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+744363736,Yhdar798/security_study,POC/zeit-nodejs-cve-2020-5284-directory-traversal.yml,48aa4201ee1834aa4ebc4cf4f3f3709daa0e3f05,CNNVD-202003-1728
+744363736,Yhdar798/security_study,POC/zeit-nodejs-cve-2020-5284-directory-traversal.yml,48aa4201ee1834aa4ebc4cf4f3f3709daa0e3f05,CVE-2020-5284
+744363736,Yhdar798/security_study,POC/zeroshell-cve-2019-12725-rce.yml,58c500a834e9902daa6b127b85bb88263355a9aa,CVE-2019-12725
+744363736,Yhdar798/security_study,POC/zimbra-cve-2019-9670-xxe.yml,619bb130c0d0433ac0e37e18a5e9d0a0b2341c1a,CVE-2019-9670

@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 17001~18000.epub,01136aff8baf0418eb04bb73e2b301c245f1b18d,VU#70
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 2001~3000.epub,2b449e8a86d22fe17c2d84855589147f23aac9d4,VU#05
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 49001~50000.epub,2ed6bcf702d5866fa9aa884495018bb8f7291ab8,VU#863
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 20001~21000.epub,385321230dc9e80b3a27dbaa474e8dac141c2d50,VU#33
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 25001~26000.epub,4866622e81fb370b071eef281d4e29e28bd98771,VU#86
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 42001~43000.epub,4af83d6e9ef801c3474715d22bcb7b3ccadaa55f,VU#94
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 42001~43000.epub,4af83d6e9ef801c3474715d22bcb7b3ccadaa55f,VU#98
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 1001~2000.epub,6a4a79bbfa8d352cf758cb86310323b24316cee4,VU#21
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 46001~47000.epub,b1f5b32c7b8e0e857ce005f2f6cb58f3e8bb5709,VU#32
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 18001~19000.epub,d4ad136d795be988c2793695b91548bb9f87cd28,VU#67
+480205104,it-ebooks-0/exploitdb-epub,ExploitDB 47001~48000.epub,ff8c35ae14095dbd0d669b8ea59f4475581ac540,VU#72

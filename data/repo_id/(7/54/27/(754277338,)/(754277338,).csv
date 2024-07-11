@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+754277338,justaCasualCoder/G900A-TWRP-ROM,twrp.img,126bd796becae2f2b6677320c68e7e8ab1fa15a2,VU#64
+754277338,justaCasualCoder/G900A-TWRP-ROM,boot_sdcard.img,65ff01e64e0b27c46c1ce39708a739b1dd5a07c4,VU#98
+754277338,justaCasualCoder/G900A-TWRP-ROM,boot_usb.img.gz,7d180d06ed46d0649fca764344791fde96c696de,VU#18

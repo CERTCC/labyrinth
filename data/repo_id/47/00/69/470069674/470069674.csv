@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+470069674,githublihaha/DirtyPIPE-CVE-2022-0847,dirty.c,4b64a0cffb62e046c9dbbcba6a64a8ea6a2ac2b0,CVE-2022-0847
+470069674,githublihaha/DirtyPIPE-CVE-2022-0847,README.md,5f97507ab32f36826ec0a850a90e8899affe3c7e,CVE-2022-0847
+470069674,githublihaha/DirtyPIPE-CVE-2022-0847,_GITHUB_REPO_METADATA_,,CVE-2022-0847

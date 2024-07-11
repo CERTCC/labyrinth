@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-6XFF-P329-9PGF,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-23616,Live-Hack-CVE/CVE-2023-23616,594265972
+GHSA-6XFF-P329-9PGF,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
+GHSA-6XFF-P329-9PGF,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

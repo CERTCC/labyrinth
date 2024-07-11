@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+481353213,AkuCyberSec/CVE-2017-8917-Joomla-370-SQL-Injection,cve2017-8917 joomla370 error-based sql injection exploit.py,7d7a89c3d7cca462e62d72e194e6fb052e33352c,CVE-2017-8917
+481353213,AkuCyberSec/CVE-2017-8917-Joomla-370-SQL-Injection,_GITHUB_REPO_METADATA_,,CVE-2017-8917

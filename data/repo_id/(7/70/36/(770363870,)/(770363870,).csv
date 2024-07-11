@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+770363870,cleverg0d/CVE-2024-21762-Checker,README.md,757db42dd3d4baffd4dd95f65620cfb5066b052f,CVE-2024-21762
+770363870,cleverg0d/CVE-2024-21762-Checker,check-cve-2024-21762.py,87b8a06f34c79063f85c0162cb50f3bc2bcdfb57,CVE-2024-21762
+770363870,cleverg0d/CVE-2024-21762-Checker,_GITHUB_REPO_METADATA_,,CVE-2024-21762

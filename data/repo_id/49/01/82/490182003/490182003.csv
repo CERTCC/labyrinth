@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+490182003,sherlocksecurity/CVE-2022-1388-Exploit-POC,README.md,0f6067826ee3d542e80c280213b36c383935e5e1,CVE-2022-1388
+490182003,sherlocksecurity/CVE-2022-1388-Exploit-POC,_GITHUB_REPO_METADATA_,,CVE-2022-1388

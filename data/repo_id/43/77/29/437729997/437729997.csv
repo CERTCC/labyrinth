@@ -1,6 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-437729997,fullhunt/log4j-scan,log4j-scan.py,22cfa4fa70b73d75084493d282996dd9ced137c4,CVE-2021-44228
-437729997,fullhunt/log4j-scan,log4j-scan.py,22cfa4fa70b73d75084493d282996dd9ced137c4,CVE-2021-45046
-437729997,fullhunt/log4j-scan,README.md,9eba9a9fb5f950005893271e98bd1e4898dc3c1a,CVE-2021-44228
-437729997,fullhunt/log4j-scan,README.md,9eba9a9fb5f950005893271e98bd1e4898dc3c1a,CVE-2021-45046
+437729997,fullhunt/log4j-scan,README.md,690bbf9c89460a316aa2b4d369d037cf9a629ba2,CVE-2021-44228
+437729997,fullhunt/log4j-scan,README.md,690bbf9c89460a316aa2b4d369d037cf9a629ba2,CVE-2021-45046
+437729997,fullhunt/log4j-scan,README.md,690bbf9c89460a316aa2b4d369d037cf9a629ba2,CVE-2022-42889
+437729997,fullhunt/log4j-scan,log4j-scan.py,7ce5efe667b6cb4546f23c49513e934e3fca7722,CVE-2021-44228
+437729997,fullhunt/log4j-scan,log4j-scan.py,7ce5efe667b6cb4546f23c49513e934e3fca7722,CVE-2021-45046
+437729997,fullhunt/log4j-scan,log4j-scan.py,7ce5efe667b6cb4546f23c49513e934e3fca7722,CVE-2022-42889
 437729997,fullhunt/log4j-scan,_GITHUB_REPO_METADATA_,,CVE-2021-44228

@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+664374674,nuts7/nuts7.github.io,_posts/2021-03-01-htb-inception.md,1e6110cfcabc9ef2934cbfb3f41426a9b6cdf9e4,CVE-2014-2383
+664374674,nuts7/nuts7.github.io,_posts/2023-07-10-zerologon.md,4958f20b12ef690f9b7e486c808553ec433120fc,CVE-2020-1472
+664374674,nuts7/nuts7.github.io,_posts/2023-09-19-htb-snoopy.md,b1a31f84ecbe0541d0e7a478122d7b8aa5810a6d,CVE-2023-20052
+664374674,nuts7/nuts7.github.io,_posts/2023-09-19-htb-snoopy.md,b1a31f84ecbe0541d0e7a478122d7b8aa5810a6d,CVE-2023-23946
+664374674,nuts7/nuts7.github.io,_posts/2023-09-19-htb-snoopy.md,b1a31f84ecbe0541d0e7a478122d7b8aa5810a6d,GHSA-GW92-X3FM-3G3Q
+664374674,nuts7/nuts7.github.io,_posts/2023-09-19-htb-snoopy.md,b1a31f84ecbe0541d0e7a478122d7b8aa5810a6d,GHSA-R87M-V37R-CWFH
+664374674,nuts7/nuts7.github.io,_posts/2023-09-19-htb-snoopy.md,b1a31f84ecbe0541d0e7a478122d7b8aa5810a6d,VU#93

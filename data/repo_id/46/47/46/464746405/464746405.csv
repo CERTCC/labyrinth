@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+464746405,wenlianggg/pwnkit-exploit,exploit.py,0c07f6e3d2a825f17f7f981395a5036187c673d4,CVE-2021-4034
+464746405,wenlianggg/pwnkit-exploit,README.md,332a5f8f320f6c13f57977386648d9e70dab88a4,CVE-2021-4034

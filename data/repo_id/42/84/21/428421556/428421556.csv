@@ -1,1 +1,10 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+428421556,hansmach1ne/MyExploits,RCE_GLPI_addressing_plugin/README.md,2b124af360916500a56eeef90d175678aed769b1,CVE-2021-43779
+428421556,hansmach1ne/MyExploits,RCE_GLPI_addressing_plugin/README.md,2b124af360916500a56eeef90d175678aed769b1,GHSA-Q5FP-XPR8-77JH
+428421556,hansmach1ne/MyExploits,Path Traversal in GLPI Barcode plugin/poc.py,2bf023ed84a9fb106e0c1b118060ced676bb6b5d,CVE-2021-43778
+428421556,hansmach1ne/MyExploits,LFI_in_CuppaCMS_templates/README.md,58a64882372e189db8596f38cf2a0c54b9e5e372,CVE-2022-34121
+428421556,hansmach1ne/MyExploits,RCE_PluXml_Static_Page_Sanitisation_Bypass/Readme.md,9fa22f16bea8dba92024f607741dbdf12215fcac,CVE-2022-25018
+428421556,hansmach1ne/MyExploits,Multiple_LFIs_in_CuppaCMS_alerts/README.md,e43734aba5d6d085a923de7c0125034e15327ade,CVE-2022-25485
+428421556,hansmach1ne/MyExploits,Multiple_LFIs_in_CuppaCMS_alerts/README.md,e43734aba5d6d085a923de7c0125034e15327ade,CVE-2022-25486
+428421556,hansmach1ne/MyExploits,Path Traversal in GLPI Barcode plugin/README.md,ff5faa55a4259d54140dbc5dad37199ba35a4fee,CVE-2021-43778
+428421556,hansmach1ne/MyExploits,Path Traversal in GLPI Barcode plugin/README.md,ff5faa55a4259d54140dbc5dad37199ba35a4fee,GHSA-2PJH-H828-WCW9

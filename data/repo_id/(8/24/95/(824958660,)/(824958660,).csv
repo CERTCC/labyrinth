@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+824958660,KillerClownAD/SQLClean,doc/THANKS.md,336f5f590c279c8e2ae416e1d771317056b98a9d,MS09-004
+824958660,KillerClownAD/SQLClean,procs/oracle/dns_request.sql,4d7391841be668df79bb462a29c1635ab0c4ae01,CVE-2014-6577
+824958660,KillerClownAD/SQLClean,doc/CHANGELOG.md,90b2f95a7af624361365752198bbefde7bf0a0ed,MS09-004
+824958660,KillerClownAD/SQLClean,sqlmap.conf,f1fbcf2e186acd47e8b72fbb5d07630c8e114b78,MS09-004

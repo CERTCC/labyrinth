@@ -1,2 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-357628827,jopraveen/exploit-development,README.md,3ba4b9874a650462b4941ab63ccef43d40dc7bbf,CVE-2017-11176
+357628827,jopraveen/exploit-development,README.md,0260f32437d8fc8f520d3a55cef2495cf2b919f5,CVE-2017-11176
+357628827,jopraveen/exploit-development,STACK BASED EXPLOITATION.pdf,ac5ca8f79f043a4f73571628f792769766707c76,VU#05
+357628827,jopraveen/exploit-development,Advanced Stack based Binary exploitation for CTFs.pdf,b0e0011093001bd28490425832dfc60ab221c3f7,VU#38
+357628827,jopraveen/exploit-development,pwn 101  TamilCTF session.pdf,e420fa24967091d7ad94c2b5b15e84fadf3551b3,VU#88

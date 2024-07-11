@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+564802579,0x36/weightBufs,README.md,4907b60c427fe09e4463b746ee33329bddbff3b9,CVE-2022-32845
+564802579,0x36/weightBufs,README.md,4907b60c427fe09e4463b746ee33329bddbff3b9,CVE-2022-32899
+564802579,0x36/weightBufs,README.md,4907b60c427fe09e4463b746ee33329bddbff3b9,CVE-2022-32948
+564802579,0x36/weightBufs,README.md,4907b60c427fe09e4463b746ee33329bddbff3b9,CVE-2022-42805
+564802579,0x36/weightBufs,exploit/exploit.m,a24ab022dfc0cf18391629ea843ca64f5da794c3,CVE-2022-32845
+564802579,0x36/weightBufs,exploit/exploit.m,a24ab022dfc0cf18391629ea843ca64f5da794c3,CVE-2022-32899
+564802579,0x36/weightBufs,exploit/exploit.m,a24ab022dfc0cf18391629ea843ca64f5da794c3,CVE-2022-32948
+564802579,0x36/weightBufs,exploit/exploit.m,a24ab022dfc0cf18391629ea843ca64f5da794c3,CVE-2022-42805
+564802579,0x36/weightBufs,attacking_ane_poc2022.pdf,f2770ef3e0ef12a17a6521ddaf1bdaa36aeac3b4,VU#372
+564802579,0x36/weightBufs,attacking_ane_poc2022.pdf,f2770ef3e0ef12a17a6521ddaf1bdaa36aeac3b4,VU#44

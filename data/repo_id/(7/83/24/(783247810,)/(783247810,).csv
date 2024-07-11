@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+783247810,Dev-AviSingh/metadataviewer-ctfchallenge,exiftool.exe,39c0d22e1cc4ec3737a07b2f91993abf43edec9d,CVE-2002-0435
+783247810,Dev-AviSingh/metadataviewer-ctfchallenge,exiftool.exe,39c0d22e1cc4ec3737a07b2f91993abf43edec9d,VU#17
+783247810,Dev-AviSingh/metadataviewer-ctfchallenge,exiftool.exe,39c0d22e1cc4ec3737a07b2f91993abf43edec9d,VU#49

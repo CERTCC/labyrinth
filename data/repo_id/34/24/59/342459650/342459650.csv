@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+342459650,hansmach1ne/lfimap,exploits/reverse_shell_win.php,b45dc2f36f34f6e827bcc14bfb3330942d4c4bd3,VU#58
+342459650,hansmach1ne/lfimap,exploits/reverse_shell_win.php,b45dc2f36f34f6e827bcc14bfb3330942d4c4bd3,VU#87

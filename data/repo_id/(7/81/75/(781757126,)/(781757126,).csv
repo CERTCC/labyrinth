@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,Barebones POC/addresses.txt,0acfd6fa13b3fb897b876ff34958e9afaeba3fbc,CVE-2021-38297
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,Barebones POC/main2.wasm,1edce46dafadbd0e825261fa98a6abe9d0fb6709,CVE-2021-38297
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,README.md,2dafc92d9094f48033b7eb6ebb76522f68cfcd5f,CVE-2021-38297
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,GOWASM.pptx.pdf,37f07e7730822066c3ce8f4b9454285256385b69,CVE-2021-38297
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,vuln-twitter/public/wordprocessor.wasm,48002e51b19faf246dc2323e3fb0b91b3f67d247,VU#01
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,Barebones POC/main.wat,d0ffe171cde089569f37fefe559965a51969660d,VU#00
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,Barebones POC/main.wat,d0ffe171cde089569f37fefe559965a51969660d,VU#01
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,Barebones POC/main.wat,d0ffe171cde089569f37fefe559965a51969660d,VU#03
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,Barebones POC/main.wat,d0ffe171cde089569f37fefe559965a51969660d,VU#05
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,Barebones POC/main.wat,d0ffe171cde089569f37fefe559965a51969660d,VU#08
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,Barebones POC/main.wat,d0ffe171cde089569f37fefe559965a51969660d,VU#15
+781757126,paras98/CVE-2021-38297-Go-wasm-Replication,_GITHUB_REPO_METADATA_,,CVE-2021-38297

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+669073745,sussystuff/apple,mixed/urls.txt,cb795ca82f7498873aac6687cee909a20cf85f7e,CVE-2019-12259
+669073745,sussystuff/apple,mixed/urls.txt,cb795ca82f7498873aac6687cee909a20cf85f7e,CVE-2019-12265

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+460092266,febinrev/tinyfilemanager-2.4.6-exploit,README.md,172b201d7c37e6771f0fcdee14c3e932da6784b7,CVE-2021-45010
+460092266,febinrev/tinyfilemanager-2.4.6-exploit,exploit.sh,4e2c2bbafa6d99d7b0ca0572f7e5fc93fc8eed04,CVE-2021-40964
+460092266,febinrev/tinyfilemanager-2.4.6-exploit,exploit.sh,4e2c2bbafa6d99d7b0ca0572f7e5fc93fc8eed04,CVE-2021-45010

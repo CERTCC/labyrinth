@@ -1,0 +1,319 @@
+repo_id,repo_full_name,file,file_sha1,match
+465634788,Threekiii/Vulhub-Reproduce,Drupal  7.32 “Drupalgeddon” SQL注入漏洞 CVE-2014-3704.md,019ed9a41802eb6ae3496c8285528a5c1303c716,CVE-2014-3704
+465634788,Threekiii/Vulhub-Reproduce,PHP-FPM 远程代码执行漏洞 CVE-2019-11043.md,022ef82e12414485c646f1bcc24b4035d49b72a5,CVE-2019-11043
+465634788,Threekiii/Vulhub-Reproduce,GitLab 任意文件读取漏洞 CVE-2016-9086.md,03fe3d03c50a8232b9276fd98781f668c2433229,CVE-2016-9086
+465634788,Threekiii/Vulhub-Reproduce,XStream 反序列化命令执行漏洞 CVE-2021-21351.md,051631d20f6a6f305650b055b286e1488cb0a5aa,CVE-2021-21351
+465634788,Threekiii/Vulhub-Reproduce,Apache ActiveMQ 任意文件写入漏洞 CVE-2016-3088.md,06330b14747bb9c4d04da909381c67e56d101504,CVE-2016-3088
+465634788,Threekiii/Vulhub-Reproduce,GIT-SHELL 沙盒绕过 CVE-2017-8386.md,06a18ef215c0f7ea5bb6de30b8fc92b4ab575a55,CVE-2017-8386
+465634788,Threekiii/Vulhub-Reproduce,Apache HTTP Server 2.4.50 路径穿越漏洞 CVE-2021-42013.md,06d2da5e384fc298be7e2e6f2bcab95672acb9dc,CVE-2021-42013
+465634788,Threekiii/Vulhub-Reproduce,Apache HTTP Server 2.4.50 路径穿越漏洞 CVE-2021-42013.md,06d2da5e384fc298be7e2e6f2bcab95672acb9dc,CVE-2021-41773
+465634788,Threekiii/Vulhub-Reproduce,Apache Solr Velocity 注入远程命令执行漏洞 CVE-2019-17558.md,07e0be3d1ad77a00c91d9b58fce2470a429c2864,CVE-2019-17558
+465634788,Threekiii/Vulhub-Reproduce,XStream 反序列化命令执行漏洞 CVE-2021-29505.md,07e7bc43b00fda46981ceaa53154fe64abf1e9e5,CVE-2021-29505
+465634788,Threekiii/Vulhub-Reproduce,Apache HTTP Server 2.4.49 路径穿越漏洞 CVE-2021-41773.md,0874d9c3a6025384c853278ba927780d99239acf,CVE-2021-41773
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-032 远程代码执行漏洞 CVE-2016-3081.md,0f0422ec0a3c77325640372072d9fb1240329482,CVE-2016-3081
+465634788,Threekiii/Vulhub-Reproduce,AppWeb认证绕过漏洞 CVE-2018-8715.md,1260a1713bd3fe12b60e51c0e7d8050dc2166f47,CVE-2018-8715
+465634788,Threekiii/Vulhub-Reproduce,OpenSSH 用户名枚举漏洞 CVE-2018-15473.md,153a4734b77a890f90efc721462f09a7293aafd9,CVE-2018-15473
+465634788,Threekiii/Vulhub-Reproduce,Nginx越界读取缓存漏洞 CVE-2017-7529.md,18f3d1e0b96fc0f44df1da4d3c7a6c95137dc72d,CVE-2017-7529
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-052 远程代码执行漏洞 CVE-2017-9805.md,1a3a85a0128f7ebafa3214078a0749d04a9ed5a7,CVE-2017-9805
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-052 远程代码执行漏洞 CVE-2017-9805.md,1a3a85a0128f7ebafa3214078a0749d04a9ed5a7,VU#29
+465634788,Threekiii/Vulhub-Reproduce,Apache HTTP Server 2.4.48 mod_proxy SSRF漏洞 CVE-2021-40438.md,1e242ad6a5e7c9254e7a5abfb1bf8646df57c764,CVE-2021-40438
+465634788,Threekiii/Vulhub-Reproduce,zabbix latest.php SQL注入漏洞 CVE-2016-10134.md,1e7962be61df1d3c93b9fa2285f04b167cb5a862,CVE-2016-10134
+465634788,Threekiii/Vulhub-Reproduce,Drupal Core 8 PECL YAML 反序列化任意代码执行漏洞 CVE-2017-6920.md,1ffe3fe7ae785d15e8f2ef4e3ac3a3f9876123e3,CVE-2017-6920
+465634788,Threekiii/Vulhub-Reproduce,Drupal XSS漏洞 CVE-2019-6341.md,24e6ab5f01eca437e016f98cadfed76ce0d62138,CVE-2019-6341
+465634788,Threekiii/Vulhub-Reproduce,Drupal XSS漏洞 CVE-2019-6341.md,24e6ab5f01eca437e016f98cadfed76ce0d62138,ZDI-19-291
+465634788,Threekiii/Vulhub-Reproduce,Spring WebFlow 远程代码执行漏洞 CVE-2017-4971.md,262459274a643aac1739cf4aa73423b56ff5db3e,CVE-2017-4971
+465634788,Threekiii/Vulhub-Reproduce,Spring Data Rest 远程命令执行漏洞 CVE-2017-8046.md,2650dc75ea1cf99223f0cb4882919f14f37a3ff9,CVE-2017-8046
+465634788,Threekiii/Vulhub-Reproduce,Nginx 配置错误漏洞.md,2b31e71ed0dc7699cd3c33567511a2cbd14aae1f,CVE-2016-9964
+465634788,Threekiii/Vulhub-Reproduce,Django GIS SQL注入漏洞 CVE-2020-9402.md,2eba6036216153e9733ff2784ff824185dec0705,CVE-2020-9402
+465634788,Threekiii/Vulhub-Reproduce,Zabbix Server trapper命令注入漏洞 CVE-2017-2824.md,328d2e0073f81ae8c9d448993d771959f1159eda,CVE-2017-2824
+465634788,Threekiii/Vulhub-Reproduce,Cacti 前台命令注入漏洞 CVE-2022-46169.md,32f71a1f8bbe36d30867f0f300cf97e7f68ecc04,GHSA-6P93-P743-35GF
+465634788,Threekiii/Vulhub-Reproduce,Cacti 前台命令注入漏洞 CVE-2022-46169.md,32f71a1f8bbe36d30867f0f300cf97e7f68ecc04,CVE-2022-46169
+465634788,Threekiii/Vulhub-Reproduce,Apache Shiro 认证绕过漏洞 CVE-2020-1957.md,3390afd3134ed800cda97ba760d2c7a34df03763,CVE-2020-1957
+465634788,Threekiii/Vulhub-Reproduce,GitLab 远程命令执行漏洞 CVE-2021-22205.md,36fc48319d092818b973dcaebaa53c94b6e2f4a7,CVE-2021-22204
+465634788,Threekiii/Vulhub-Reproduce,GitLab 远程命令执行漏洞 CVE-2021-22205.md,36fc48319d092818b973dcaebaa53c94b6e2f4a7,CVE-2021-22205
+465634788,Threekiii/Vulhub-Reproduce,Kibana 原型链污染导致任意代码执行漏洞 CVE-2019-7609.md,3d48726bd097ee86c3af98d5c9b2be0629322ea6,CVE-2019-7609
+465634788,Threekiii/Vulhub-Reproduce,Django QuerySet.order_by() SQL注入漏洞 CVE-2021-35042.md,3fe266e46f2a0eeb8bafb1cbbc864bbb11b8528f,CVE-2021-35042
+465634788,Threekiii/Vulhub-Reproduce,Apache OfBiz 反序列化命令执行漏洞 CVE-2020-9496.md,43e339fb04a71212aeef5b49d00b7cd604059d70,CVE-2020-9496
+465634788,Threekiii/Vulhub-Reproduce,Nexus Repository Manager 3 远程命令执行漏洞 CVE-2020-10199.md,4537b5f6646fd7b42fdfeab8ef4ed949a44a41fd,CVE-2020-10199
+465634788,Threekiii/Vulhub-Reproduce,GoAhead Server 环境变量注入 CVE-2021-42342.md,453cf24234ba43a9b39a998cb63510446f9cd2f1,CVE-2021-42342
+465634788,Threekiii/Vulhub-Reproduce,GoAhead Server 环境变量注入 CVE-2021-42342.md,453cf24234ba43a9b39a998cb63510446f9cd2f1,CVE-2017-17562
+465634788,Threekiii/Vulhub-Reproduce,Apache Airflow 默认密钥导致的权限绕过 CVE-2020-17526.md,4575f3ac6bf28b1d1e60aff2210d001dab3b1b96,CVE-2020-17526
+465634788,Threekiii/Vulhub-Reproduce,Apache Unomi 远程表达式代码执行漏洞 CVE-2020-13942.md,469d6c9fdcc56d84b60cd19f8d4932ff2ceb63ee,CVE-2020-13942
+465634788,Threekiii/Vulhub-Reproduce,Nexus Repository Manager 3 远程命令执行漏洞 CVE-2019-7238.md,483ab5b5c624a286fbfcedb0853b72cc15f50633,CVE-2019-7238
+465634788,Threekiii/Vulhub-Reproduce,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-34429.md,4d3bbbeee28cad563ea5bd6c2ee80e1e13807bf5,CVE-2021-28164
+465634788,Threekiii/Vulhub-Reproduce,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-34429.md,4d3bbbeee28cad563ea5bd6c2ee80e1e13807bf5,GHSA-VJV5-GP2W-65VM
+465634788,Threekiii/Vulhub-Reproduce,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-34429.md,4d3bbbeee28cad563ea5bd6c2ee80e1e13807bf5,CVE-2021-34429
+465634788,Threekiii/Vulhub-Reproduce,SaltStack 水平权限绕过漏洞 CVE-2020-11651.md,4d6017d679a114d6da655301c70824639edee601,CVE-2020-11652
+465634788,Threekiii/Vulhub-Reproduce,SaltStack 水平权限绕过漏洞 CVE-2020-11651.md,4d6017d679a114d6da655301c70824639edee601,CVE-2020-11651
+465634788,Threekiii/Vulhub-Reproduce,Django  2.0.8 任意URL跳转漏洞 CVE-2018-14574.md,4da6fab60e8198fc33bc3ddf0e0557a674dd5c15,CVE-2018-14574
+465634788,Threekiii/Vulhub-Reproduce,Apache Tomcat PUT方法任意写文件漏洞 CVE-2017-12615.md,4e8563e2f0466ffb414f3c3a2ae23ce418f16343,CVE-2017-12615
+465634788,Threekiii/Vulhub-Reproduce,Nginx 文件名逻辑漏洞 CVE-2013-4547.md,4ed6407719917f9b89040bd17c410d9abccb5eee,CVE-2013-4547
+465634788,Threekiii/Vulhub-Reproduce,Apache APISIX 默认密钥漏洞 CVE-2020-13945.md,518789c8d5638d35d217cda31c4f7f8c64bdacd3,CVE-2020-13945
+465634788,Threekiii/Vulhub-Reproduce,OpenSSL 心脏出血漏洞 CVE-2014-0160.md,526f0265890db27b410db5631f0baba279cee22c,CVE-2014-0160
+465634788,Threekiii/Vulhub-Reproduce,Adobe ColdFusion 反序列化漏洞 CVE-2017-3066.md,56707205418937c7041038b310d1438b06fa6c95,CVE-2017-3066
+465634788,Threekiii/Vulhub-Reproduce,JBoss JMXInvokerServlet 反序列化漏洞 CVE-2015-7501.md,5a09dfa1d20fd9288eeef482c6ab47f95e006a2c,CVE-2017-12149
+465634788,Threekiii/Vulhub-Reproduce,JBoss JMXInvokerServlet 反序列化漏洞 CVE-2015-7501.md,5a09dfa1d20fd9288eeef482c6ab47f95e006a2c,CVE-2015-7501
+465634788,Threekiii/Vulhub-Reproduce,Libssh 服务端权限认证绕过漏洞 CVE-2018-10933.md,5b259c7beb04f7c52f70b13ba572e0e8da9c7324,CVE-2018-10933
+465634788,Threekiii/Vulhub-Reproduce,ImageMagick任意文件读取漏洞 CVE-2022-44268.md,5d62e8a0701c5709ab7f28afd7cf1f19be6a3658,CVE-2022-44268
+465634788,Threekiii/Vulhub-Reproduce,Apache Solr 远程命令执行漏洞 CVE-2017-12629.md,5e1ca05fc160f69143afae8516723be6cced832c,CVE-2017-12629
+465634788,Threekiii/Vulhub-Reproduce,Couchdb 垂直权限绕过漏洞 CVE-2017-12635.md,5e35992cd8e5ec5f7e905a52766ea01a9a1052f7,CVE-2017-12635
+465634788,Threekiii/Vulhub-Reproduce,Couchdb 垂直权限绕过漏洞 CVE-2017-12635.md,5e35992cd8e5ec5f7e905a52766ea01a9a1052f7,CVE-2017-12636
+465634788,Threekiii/Vulhub-Reproduce,Apache Tomcat AJP 文件包含漏洞 CVE-2020-1938.md,5f3898c1e38782119e636a9944416e888682278a,CVE-2020-1938
+465634788,Threekiii/Vulhub-Reproduce,Apache Tomcat AJP 文件包含漏洞 CVE-2020-1938.md,5f3898c1e38782119e636a9944416e888682278a,CNVD-2020-10487
+465634788,Threekiii/Vulhub-Reproduce,Django JSONField  HStoreField SQL注入漏洞 CVE-2019-14234.md,60fcecfb3c4a2b1fedd7f6b7719500e98b7172e0,CVE-2019-14234
+465634788,Threekiii/Vulhub-Reproduce,Redis Lua沙盒绕过命令执行 CVE-2022-0543.md,65fc9f464ca360fb9bbe936b44792323e2d5452a,CVE-2022-0543
+465634788,Threekiii/Vulhub-Reproduce,Apache Airflow 示例DAG中的命令注入 CVE-2020-11978.md,681ea140e56e584705d818fa1a86e345ee9adc7d,CVE-2020-11978
+465634788,Threekiii/Vulhub-Reproduce,Apache Dubbo Java反序列化漏洞 CVE-2019-17564.md,6d4085e550964e10838d5f2373a8b697cea46cbf,CVE-2019-17564
+465634788,Threekiii/Vulhub-Reproduce,Metabase任意文件读取漏洞 CVE-2021-41277.md,6e0bb6772d88fff2dad297be9f45f2b508d5966d,GHSA-W73V-6P7P-FPFR
+465634788,Threekiii/Vulhub-Reproduce,Metabase任意文件读取漏洞 CVE-2021-41277.md,6e0bb6772d88fff2dad297be9f45f2b508d5966d,CVE-2021-41277
+465634788,Threekiii/Vulhub-Reproduce,PostgreSQL 高权限命令执行漏洞 CVE-2019-9193.md,6f1ad89454d55ed60f0c67fed730df1ba4f0a40b,CVE-2019-9193
+465634788,Threekiii/Vulhub-Reproduce,Spring Messaging 远程命令执行漏洞 CVE-2018-1270.md,70146dcefe35ecc495b0c2d3cc37e5d917fbcb45,CVE-2018-1270
+465634788,Threekiii/Vulhub-Reproduce,Neo4j Shell Server 反序列化漏洞 CVE-2021-34371.md,7044d13985a3eff303dd296fa3c1b78cca463c92,CVE-2021-34371
+465634788,Threekiii/Vulhub-Reproduce,Liferay Portal CE 反序列化命令执行漏洞 CVE-2020-7961.md,70c108abab13ddc155dc4e8be29b99c11bc381e8,CVE-2020-7961
+465634788,Threekiii/Vulhub-Reproduce,uWSGI PHP目录穿越漏洞 CVE-2018-7490.md,73ff0439fe520fb0226e577a81e08d84ea9486a8,CVE-2018-7490
+465634788,Threekiii/Vulhub-Reproduce,Python PIL 远程命令执行漏洞 CVE-2017-8291.md,7533101bc4febe85c1f1773863d8c17f3f09a2f4,CVE-2017-8291
+465634788,Threekiii/Vulhub-Reproduce,Drupal 远程代码执行漏洞 CVE-2019-6339.md,780fe46a6b86d8f636d2badcaabb5c9db7019554,CVE-2019-6339
+465634788,Threekiii/Vulhub-Reproduce,JBoss 5.x6.x 反序列化漏洞 CVE-2017-12149.md,78d310ba12aa606335c21c83ac346f6587a674b3,CVE-2017-12149
+465634788,Threekiii/Vulhub-Reproduce,Tomcat PUT方法任意写文件漏洞 CVE-2017-12615.md,79eb502a481dec887381bebf71b6c0106dbcf6ea,CVE-2017-12615
+465634788,Threekiii/Vulhub-Reproduce,Apache ActiveMQ 反序列化漏洞 CVE-2015-5254.md,7afa17bff31732858ef6c5e38349150bbd9acc3c,CVE-2015-5254
+465634788,Threekiii/Vulhub-Reproduce,Confluence OGNL表达式注入命令执行漏洞 CVE-2022-26134.md,800d25257604b3a4269d12f4bbf38f2fec6b2e4f,CVE-2022-26134
+465634788,Threekiii/Vulhub-Reproduce,Confluence OGNL表达式注入命令执行漏洞 CVE-2022-26134.md,800d25257604b3a4269d12f4bbf38f2fec6b2e4f,CVE-2019-3396
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-061 远程代码执行漏洞 CVE-2020-17530.md,8088605522e60a5132e84374b97ab2f8704c92bd,CVE-2020-17530
+465634788,Threekiii/Vulhub-Reproduce,Apache Log4j2 lookup JNDI 注入漏洞 CVE-2021-44228.md,812bdf85b7c21baef9dfc2991a8f07a913e0697f,CVE-2021-44228
+465634788,Threekiii/Vulhub-Reproduce,Apache Solr XML 实体注入漏洞 CVE-2017-12629.md,81f2148ae4ddbd97a2af063127c73b3019c126d9,CVE-2017-12629
+465634788,Threekiii/Vulhub-Reproduce,SaltStack 命令注入漏洞 CVE-2020-16846.md,892232a3573745c1a0929eb4193ce0495d6c4e7e,CVE-2020-16846
+465634788,Threekiii/Vulhub-Reproduce,SaltStack 命令注入漏洞 CVE-2020-16846.md,892232a3573745c1a0929eb4193ce0495d6c4e7e,CVE-2020-25592
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-046 远程代码执行漏洞 CVE-2017-5638.md,896b5bb3014fe2ec9b92085da286fbc3d4ec8f85,CVE-2017-5638
+465634788,Threekiii/Vulhub-Reproduce,Spring Cloud Gateway Actuator API SpEL表达式注入命令执行 CVE-2022-22947.md,89e98ae11f768fca1403a53e9ce14e186aee4848,CVE-2022-22947
+465634788,Threekiii/Vulhub-Reproduce,Jmeter RMI 反序列化命令执行漏洞 CVE-2018-1297.md,89f24a384e48b45c7e857c446eddd6af85f1dcef,CVE-2018-1297
+465634788,Threekiii/Vulhub-Reproduce,Imagemagick PDF密码位置命令注入漏洞 CVE-2020-29599.md,8b3a060de082d428dec354928a6f8adc94fe5cc9,CVE-2020-29599
+465634788,Threekiii/Vulhub-Reproduce,GoAhead 远程命令执行漏洞 CVE-2017-17562.md,8b49c2b6cc18cfdc1671dc019720090549b819ba,CVE-2017-17562
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-14883
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-16846
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-15906
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-17564
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-6341
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-17526
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-17519
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2016-10134
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-17558
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-17530
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2016-4437
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-17518
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-14882
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2016-1897
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-13942
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-7238
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-7609
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-6339
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-9193
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-6116
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2016-3081
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-10199
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-10204
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-11651
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-1938
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2016-1898
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-11652
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-11800
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-5418
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-11978
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-3396
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-11981
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-13945
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-12636
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2015-5254
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-1957
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-41773
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-42013
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2013-2251
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-42342
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-44228
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-45232
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2022-0543
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2022-22947
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-41277
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2022-22963
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2022-24706
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2022-26134
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2022-34265
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2012-2122
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2022-44268
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2022-46169
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2023-21839
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2010-2861
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2022-22965
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-40438
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2013-4547
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-35042
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-29599
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-7247
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-7961
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-9402
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2020-9496
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-21351
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2015-3337
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-22205
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-26084
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-28073
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2014-6271
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-28164
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-28169
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-29441
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-29505
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2014-3704
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-34371
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2021-34429
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2014-0160
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2015-7501
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-15107
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2016-3088
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-1000861
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-5638
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-14574
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-10271
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-15473
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-4971
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-3066
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-1297
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-12629
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-17562
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-16509
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-12635
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-7529
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-17485
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-17246
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-2824
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-1273
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-1270
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-11776
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-12149
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-8291
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-12615
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-8386
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-7525
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-7504
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-7494
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-8917
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-9805
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-6920
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-1000533
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-5645
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-14234
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-11610
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-10933
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-18778
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-19475
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-8046
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-2628
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-11043
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2016-4977
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-10758
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-12794
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-0230
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2019-0193
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-8715
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2016-9086
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-14849
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-15715
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-7600
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-16082
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-7490
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-7602
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2017-17405
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-2894
+465634788,Threekiii/Vulhub-Reproduce,README.md,8db5222faed7a7d8723cd5ba2b3d4a9959121e66,CVE-2018-3760
+465634788,Threekiii/Vulhub-Reproduce,Drupal 远程代码执行漏洞 CVE-2018-7602.md,8f8c46c553e1a05924a4ef50632590aba9fbeeab,CVE-2018-7600
+465634788,Threekiii/Vulhub-Reproduce,Drupal 远程代码执行漏洞 CVE-2018-7602.md,8f8c46c553e1a05924a4ef50632590aba9fbeeab,CVE-2018-7602
+465634788,Threekiii/Vulhub-Reproduce,Wordpress 4.6 任意命令执行漏洞 PwnScriptum.md,912374680c043f6aa547228c6cef405afbe62dc4,CVE-2016-10033
+465634788,Threekiii/Vulhub-Reproduce,Spring Cloud Function SpEL表达式命令注入 CVE-2022-22963.md,94bc331f3d794acb58e1839fc00a3acc8f68b82a,CVE-2022-22963
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-057 远程代码执行漏洞 CVE-2018-11776.md,97d28644d5a046f48726643ae348c76c0f926387,CVE-2018-11776
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-057 远程代码执行漏洞 CVE-2018-11776.md,97d28644d5a046f48726643ae348c76c0f926387,CVE-2017-5638
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-057 远程代码执行漏洞 CVE-2018-11776.md,97d28644d5a046f48726643ae348c76c0f926387,CVE-2013-2251
+465634788,Threekiii/Vulhub-Reproduce,FFmpeg 任意文件读取漏洞SSRF漏洞 CVE-2016-1897+CVE-2016-1898.md,9ab25d3270200377cee56e616d98466db490038d,CVE-2016-1897
+465634788,Threekiii/Vulhub-Reproduce,FFmpeg 任意文件读取漏洞SSRF漏洞 CVE-2016-1897+CVE-2016-1898.md,9ab25d3270200377cee56e616d98466db490038d,CVE-2016-1898
+465634788,Threekiii/Vulhub-Reproduce,Apache Flink 目录遍历漏洞 CVE-2020-17519.md,9d5a8a3ed98c72ed0e09a82a7cfb6c4efaa62563,CVE-2020-17519
+465634788,Threekiii/Vulhub-Reproduce,Apache Flink 目录遍历漏洞 CVE-2020-17519.md,9d5a8a3ed98c72ed0e09a82a7cfb6c4efaa62563,CVE-2020-17518
+465634788,Threekiii/Vulhub-Reproduce,OpenSMTPD 远程命令执行漏洞 CVE-2020-7247.md,9e3615fe3548fd7dc66ea7488c097e24b90d5cc7,CVE-2020-7247
+465634788,Threekiii/Vulhub-Reproduce,SaltStack 任意文件读写漏洞 CVE-2020-11652.md,9f9090e1c99689a74ccba4b53d370d6a250318d8,CVE-2020-11652
+465634788,Threekiii/Vulhub-Reproduce,SaltStack 任意文件读写漏洞 CVE-2020-11652.md,9f9090e1c99689a74ccba4b53d370d6a250318d8,CVE-2020-11651
+465634788,Threekiii/Vulhub-Reproduce,mongo-express 远程代码执行漏洞 CVE-2019-10758.md,a0801ba784e5cfeb4f23b01c5e25f45b2e35ce5b,CVE-2019-10758
+465634788,Threekiii/Vulhub-Reproduce,Nexus Repository Manager 3 远程命令执行漏洞 CVE-2020-10204.md,a1557ef110cb3f397da7c303a518774441c46bb8,CVE-2018-16621
+465634788,Threekiii/Vulhub-Reproduce,Nexus Repository Manager 3 远程命令执行漏洞 CVE-2020-10204.md,a1557ef110cb3f397da7c303a518774441c46bb8,CVE-2020-10199
+465634788,Threekiii/Vulhub-Reproduce,Nexus Repository Manager 3 远程命令执行漏洞 CVE-2020-10204.md,a1557ef110cb3f397da7c303a518774441c46bb8,CVE-2020-10204
+465634788,Threekiii/Vulhub-Reproduce,Spring Security OAuth2 远程命令执行漏洞 CVE-2016-4977.md,a2acc5291e6397de129773f298833bf98f568acb,CVE-2016-4977
+465634788,Threekiii/Vulhub-Reproduce,node-postgres 代码执行漏洞 CVE-2017-16082.md,a37c30495bd08e4068e5a394018044e6cec7794e,CVE-2017-16082
+465634788,Threekiii/Vulhub-Reproduce,ImageMagick 命令执行漏洞 CVE-2016–3714.md,a3c9d7622a73a3eed4dfc11c10df9c3092cde6bd,CVE-2016-3714
+465634788,Threekiii/Vulhub-Reproduce,Gitlist 0.6.0 远程命令执行漏洞 CVE-2018-1000533.md,a5fcf98dde5dc9dacc9a0122785ed70587964503,CVE-2018-1000533
+465634788,Threekiii/Vulhub-Reproduce,CouchDB Erlang 分布式协议代码执行 CVE-2022-24706.md,acfe4bff16a66c02ac58d4627ae6bc17881f7817,CVE-2022-24706
+465634788,Threekiii/Vulhub-Reproduce,Zabbix Server trapper命令注入漏洞 CVE-2020-11800.md,ad282f97ea2bf2fd4401e2ab00d1536fe5b5b364,CVE-2020-11800
+465634788,Threekiii/Vulhub-Reproduce,Zabbix Server trapper命令注入漏洞 CVE-2020-11800.md,ad282f97ea2bf2fd4401e2ab00d1536fe5b5b364,CVE-2017-2824
+465634788,Threekiii/Vulhub-Reproduce,mini_httpd任意文件读取漏洞 CVE-2018-18778.md,b0819c7dd91a3c9d16b0a8674f41a833787fcd53,CVE-2018-18778
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-059 远程代码执行漏洞 CVE-2019-0230.md,b0a96bb8fa93551b6b098a0b10ab7e34e5bf7ea4,CVE-2018-11776
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-059 远程代码执行漏洞 CVE-2019-0230.md,b0a96bb8fa93551b6b098a0b10ab7e34e5bf7ea4,CVE-2019-0230
+465634788,Threekiii/Vulhub-Reproduce,ElasticSearch 目录穿越漏洞 CVE-2015-3337.md,b0d1951165216e878b977e00f688e2363cf722f9,CVE-2015-3337
+465634788,Threekiii/Vulhub-Reproduce,Spring Data Commons 远程命令执行漏洞 CVE-2018-1273.md,b14edde715eaea5234cab34a4adfc9153abe0136,CVE-2018-1273
+465634788,Threekiii/Vulhub-Reproduce,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2019-6116.md,b1c2bba162ba9e334de35d808485986d0a70a74b,GPZ-1729
+465634788,Threekiii/Vulhub-Reproduce,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2019-6116.md,b1c2bba162ba9e334de35d808485986d0a70a74b,CVE-2019-6116
+465634788,Threekiii/Vulhub-Reproduce,Weblogic 任意文件上传漏洞 CVE-2018-2894.md,b2fddafbf1c3eaf043c715bb3e47523cb6a58dd1,CVE-2018-2894
+465634788,Threekiii/Vulhub-Reproduce,Shellshock 破壳漏洞 CVE-2014-6271.md,b3c12e4c7f9439b30079b3c6a5919e390647afa5,CVE-2014-6271
+465634788,Threekiii/Vulhub-Reproduce,ntopng权限绕过漏洞 CVE-2021-28073.md,b49e80ce2e9312ad85ee66c1715869a7e6c814ba,CVE-2021-28073
+465634788,Threekiii/Vulhub-Reproduce,Django debug page XSS漏洞 CVE-2017-12794.md,b54b7e241bc8461b431e9f94aabb58b13c866488,CVE-2017-12794
+465634788,Threekiii/Vulhub-Reproduce,Joomla 3.7.0 SQL注入漏洞 CVE-2017-8917).md,b57b2c288d73a1066f5a47a31e53fbaafc33e108,CVE-2017-8917
+465634788,Threekiii/Vulhub-Reproduce,Node.js 目录穿越漏洞 CVE-2017-14849.md,b691cbc0173bd8006a75f1c4e552b586c3151b4c,CVE-2017-14849
+465634788,Threekiii/Vulhub-Reproduce,Apache Airflow Celery 消息中间件命令执行 CVE-2020-11981.md,b7071cf75faa822c381341e1e80af9f409ed9a22,CVE-2020-11981
+465634788,Threekiii/Vulhub-Reproduce,Webmin 远程命令执行漏洞 CVE-2019-15107.md,b738f5c90ac682b874986b0206aa420f6598e128,CVE-2019-15107
+465634788,Threekiii/Vulhub-Reproduce,Mysql 身份认证绕过漏洞 CVE-2012-2122.md,b8b8a9c58ee21eee4198c2453ceece5650bb2a59,CVE-2012-2122
+465634788,Threekiii/Vulhub-Reproduce,Supervisord 远程命令执行漏洞 CVE-2017-11610.md,b99f849e65940f6f093b646b94ff31e322dfb26c,CVE-2017-11610
+465634788,Threekiii/Vulhub-Reproduce,Apache Flink 小于1.9.1远程代码执行 CVE-2020-17518.md,be3dd60d83eff92b55fce9c687797a3f04ebd340,CVE-2020-17518
+465634788,Threekiii/Vulhub-Reproduce,Django Trunc(kind) and Extract(lookup_name) SQL注入漏洞 CVE-2022-34265.md,bee94517cb3a2de43caa1180b4fad40cc5ab262a,CVE-2022-34265
+465634788,Threekiii/Vulhub-Reproduce,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-19475.md,c03fa76a3e6bb24edf94753bbed529af217fccba,CVE-2018-19475
+465634788,Threekiii/Vulhub-Reproduce,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-19475.md,c03fa76a3e6bb24edf94753bbed529af217fccba,CVE-2018-16509
+465634788,Threekiii/Vulhub-Reproduce,Weblogic未授权远程代码执行漏洞 CVE-2023-21839.md,c2b9b52fc41476e0be431160c5f5d08dc4903a5e,CVE-2023-21839
+465634788,Threekiii/Vulhub-Reproduce,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-16509.md,c3cb355f43c454818d9388e625c979f4ef2b04e0,CVE-2018-16509
+465634788,Threekiii/Vulhub-Reproduce,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-16509.md,c3cb355f43c454818d9388e625c979f4ef2b04e0,GPZ-1640
+465634788,Threekiii/Vulhub-Reproduce,Couchdb 任意命令执行漏洞 CVE-2017-12636.md,c4a28ade42c18f76ca671481ddee5693c25c6536,CVE-2017-12636
+465634788,Threekiii/Vulhub-Reproduce,Couchdb 任意命令执行漏洞 CVE-2017-12636.md,c4a28ade42c18f76ca671481ddee5693c25c6536,CVE-2017-12635
+465634788,Threekiii/Vulhub-Reproduce,Ruby On Rails 路径穿越与任意文件读取漏洞 CVE-2019-5418.md,c503087a6bbaafc7b6ead9ad9b69d08a31e7d933,CVE-2019-5418
+465634788,Threekiii/Vulhub-Reproduce,Apache Log4j Server 反序列化命令执行漏洞 CVE-2017-5645.md,c6a6bd7c6cb3615aacfdc0b51b1dd3fdefb8028c,CVE-2017-5645
+465634788,Threekiii/Vulhub-Reproduce,Drupal Drupalgeddon 2 远程代码执行漏洞 CVE-2018-7600.md,c6b485ae35e8ae05d3f92adbaa57218d453312b4,CVE-2014-3704
+465634788,Threekiii/Vulhub-Reproduce,Drupal Drupalgeddon 2 远程代码执行漏洞 CVE-2018-7600.md,c6b485ae35e8ae05d3f92adbaa57218d453312b4,CVE-2018-7600
+465634788,Threekiii/Vulhub-Reproduce,Tiki Wiki CMS Groupware 认证绕过漏洞 CVE-2020-15906.md,ce11991b93d305bb0754648387f7cbbcc11f9077,CVE-2021-26119
+465634788,Threekiii/Vulhub-Reproduce,Tiki Wiki CMS Groupware 认证绕过漏洞 CVE-2020-15906.md,ce11991b93d305bb0754648387f7cbbcc11f9077,CVE-2021-26120
+465634788,Threekiii/Vulhub-Reproduce,Tiki Wiki CMS Groupware 认证绕过漏洞 CVE-2020-15906.md,ce11991b93d305bb0754648387f7cbbcc11f9077,CVE-2020-15906
+465634788,Threekiii/Vulhub-Reproduce,Nacos 认证绕过漏洞 CVE-2021-29441.md,ce23548d437b4514b4d249da4aad52ea90b5ef1a,CVE-2021-29441
+465634788,Threekiii/Vulhub-Reproduce,Nacos 认证绕过漏洞 CVE-2021-29441.md,ce23548d437b4514b4d249da4aad52ea90b5ef1a,GHSA-36HP-JR8H-556F
+465634788,Threekiii/Vulhub-Reproduce,Weblogic 管理控制台未授权远程命令执行漏洞 CVE-2020-14882+CVE-2020-14883.md,cef414ad8e77198d6e4024291d288a2316895b69,CVE-2020-14882
+465634788,Threekiii/Vulhub-Reproduce,Weblogic 管理控制台未授权远程命令执行漏洞 CVE-2020-14882+CVE-2020-14883.md,cef414ad8e77198d6e4024291d288a2316895b69,CVE-2020-14750
+465634788,Threekiii/Vulhub-Reproduce,Weblogic 管理控制台未授权远程命令执行漏洞 CVE-2020-14882+CVE-2020-14883.md,cef414ad8e77198d6e4024291d288a2316895b69,CVE-2019-2725
+465634788,Threekiii/Vulhub-Reproduce,Weblogic 管理控制台未授权远程命令执行漏洞 CVE-2020-14882+CVE-2020-14883.md,cef414ad8e77198d6e4024291d288a2316895b69,CVE-2020-14883
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-016 远程代码执行漏洞 CVE-2013-2251.md,d18b8fdfd79b9c8cca4425fa9da24eeb356292c9,CVE-2013-2251
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-016 远程代码执行漏洞 CVE-2013-2251.md,d18b8fdfd79b9c8cca4425fa9da24eeb356292c9,CVE-2018-11776
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-016 远程代码执行漏洞 CVE-2013-2251.md,d18b8fdfd79b9c8cca4425fa9da24eeb356292c9,CVE-2017-5638
+465634788,Threekiii/Vulhub-Reproduce,Apache Solr 远程命令执行漏洞 CVE-2019-0193.md,d2356ad8a67d3ea0663fe254ffce2f4d8fd1cac4,CVE-2019-0193
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-045 远程代码执行漏洞 CVE-2017-5638.md,d36a9ba9bc8c8e45d6d88f1588d686c0e990469a,CVE-2018-11776
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-045 远程代码执行漏洞 CVE-2017-5638.md,d36a9ba9bc8c8e45d6d88f1588d686c0e990469a,CVE-2013-2251
+465634788,Threekiii/Vulhub-Reproduce,Struts2 S2-045 远程代码执行漏洞 CVE-2017-5638.md,d36a9ba9bc8c8e45d6d88f1588d686c0e990469a,CVE-2017-5638
+465634788,Threekiii/Vulhub-Reproduce,Apache APISIX Dashboard API权限绕过导致RCE CVE-2021-45232.md,d7210bec34bb381ca741ce8cd0cc20fd4916f139,CVE-2021-45232
+465634788,Threekiii/Vulhub-Reproduce,Apache HTTPd 换行解析漏洞 CVE-2017-15715.md,d8cf23d9bef00416718144cd9f0b1fef0e5236e2,CVE-2017-15715
+465634788,Threekiii/Vulhub-Reproduce,Samba 远程命令执行漏洞 CVE-2017-7494.md,da9e724ed478cad9ed3a9cdd099a848f14435ed0,CVE-2017-7494
+465634788,Threekiii/Vulhub-Reproduce,Atlassian Confluence 路径穿越与命令执行漏洞 CVE-2019-3396.md,dbb78d13413f1953bba65de00b3e0353b8e08ceb,CVE-2019-3396
+465634788,Threekiii/Vulhub-Reproduce,Jackson-databind 反序列化漏洞 CVE-2017-7525+CVE-2017-17485.md,dce53ac531fee824d124b1e494df4bc67fdc932e,CVE-2017-7525
+465634788,Threekiii/Vulhub-Reproduce,Jackson-databind 反序列化漏洞 CVE-2017-7525+CVE-2017-17485.md,dce53ac531fee824d124b1e494df4bc67fdc932e,CVE-2017-17485
+465634788,Threekiii/Vulhub-Reproduce,Jenkins远程命令执行漏洞 CVE-2018-1000861.md,e21d039a525117efe1cd8a0e9343b46ce019bacc,CVE-2018-1000861
+465634788,Threekiii/Vulhub-Reproduce,Apache Shiro 1.2.4 反序列化漏洞 CVE-2016-4437.md,e359e51389cd0a0ace15f01bd014458db2d90a34,CVE-2016-4437
+465634788,Threekiii/Vulhub-Reproduce,Python PIL 远程命令执行漏洞 CVE-2018-16509.md,e3ea0f52432843bcfd3a6b7d75f0e22d57d04b3c,CVE-2018-16509
+465634788,Threekiii/Vulhub-Reproduce,Adobe ColdFusion 文件读取漏洞 CVE-2010-2861.md,e446058590c46c23234dae777f1672cf3421ac7d,CVE-2010-2861
+465634788,Threekiii/Vulhub-Reproduce,Spring框架Data Binding与JDK 9+导致的远程代码执行漏洞 CVE-2022-22965.md,e4eca54a4f9dff20b088e61f2a644b8228d91b4a,CVE-2022-22965
+465634788,Threekiii/Vulhub-Reproduce,Weblogic WLS Core Components 反序列化命令执行漏洞 CVE-2018-2628.md,e65da194201947e751443a4952b60134a7715100,CVE-2018-2628
+465634788,Threekiii/Vulhub-Reproduce,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-28164.md,e7c123a2aa040535e7938b40ecebcd202346594d,GHSA-V7FF-8WCX-GMC5
+465634788,Threekiii/Vulhub-Reproduce,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-28164.md,e7c123a2aa040535e7938b40ecebcd202346594d,CVE-2021-28164
+465634788,Threekiii/Vulhub-Reproduce,Weblogic  10.3.6 'wls-wsat' XMLDecoder 反序列化漏洞 CVE-2017-10271.md,ea6f9e333b4fad6cec6f4457d29853e22c3d9ebe,CVE-2017-10271
+465634788,Threekiii/Vulhub-Reproduce,Atlassian Confluence OGNL表达式注入代码执行漏洞 CVE-2021-26084.md,ec9da74f6afddb1e4988c931350826705c9542f3,CVE-2021-26084
+465634788,Threekiii/Vulhub-Reproduce,Atlassian Confluence OGNL表达式注入代码执行漏洞 CVE-2021-26084.md,ec9da74f6afddb1e4988c931350826705c9542f3,CVE-2019-3396
+465634788,Threekiii/Vulhub-Reproduce,Ruby On Rails 路径穿越漏洞 CVE-2018-3760.md,efd749369095d2f630e44c53474442a97554954c,CVE-2018-3760
+465634788,Threekiii/Vulhub-Reproduce,JBoss 4.x JBossMQ JMS 反序列化漏洞 CVE-2017-7504.md,f5e99e9a128635fc75d097501897a2d42add6099,CVE-2017-7504
+465634788,Threekiii/Vulhub-Reproduce,Jetty 通用 Servlets 组件 ConcatServlet 信息泄露漏洞 CVE-2021-28169.md,f6c1e36df6e429af5e4108e50c3e6578219a63af,GHSA-GWCR-J4WH-J3CQ
+465634788,Threekiii/Vulhub-Reproduce,Jetty 通用 Servlets 组件 ConcatServlet 信息泄露漏洞 CVE-2021-28169.md,f6c1e36df6e429af5e4108e50c3e6578219a63af,CVE-2021-28169
+465634788,Threekiii/Vulhub-Reproduce,Kibana 本地文件包含漏洞 CVE-2018-17246.md,fad6ebd2b5a5a048f8582523ec3595cb91b52c0c,CVE-2018-17246
+465634788,Threekiii/Vulhub-Reproduce,Ruby NetFTP 模块命令注入漏洞 CVE-2017-17405.md,fcbde61954ccae86d3f78e77621a4a251593ab14,CVE-2017-17405

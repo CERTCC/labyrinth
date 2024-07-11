@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+611628366,HarveyGW/VulnExec,VulnExec.js [v2]/nmap.txt,2bc12683062d64fba0111d271105083e5801b57a,CVE-2011-1002
+611628366,HarveyGW/VulnExec,VulnExec.js [v2]/nmap.txt,2bc12683062d64fba0111d271105083e5801b57a,CVE-2017-0143
+611628366,HarveyGW/VulnExec,VulnExec.js [v2]/nmap.txt,2bc12683062d64fba0111d271105083e5801b57a,MS10-054
+611628366,HarveyGW/VulnExec,VulnExec.js [v2]/nmap.txt,2bc12683062d64fba0111d271105083e5801b57a,MS10-061
+611628366,HarveyGW/VulnExec,VulnExec.js [v2]/nmap.txt,2bc12683062d64fba0111d271105083e5801b57a,MS17-010
+611628366,HarveyGW/VulnExec,VulnExec.js/index.js,7ffcdfeedc130ff5537aedfbe4abe7f84f31ea34,CVE-2017-0143
+611628366,HarveyGW/VulnExec,VulnExec.js/index.js,7ffcdfeedc130ff5537aedfbe4abe7f84f31ea34,MS12-345

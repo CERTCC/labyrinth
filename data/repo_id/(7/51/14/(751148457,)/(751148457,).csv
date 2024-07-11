@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+751148457,cintagram/ScreenTimeRemover,screentime/Exploit/fun/grant_full_disk_access.m,534f8fc6f699e01f9a1fdd617462f23aa97c3b2c,CVE-2022-46689
+751148457,cintagram/ScreenTimeRemover,screentime/Exploit/fun/vm_unaligned_copy_switch_race.h,7512d9922e4dffc9c9718857bee6ba46b9fbbb10,CVE-2022-46689

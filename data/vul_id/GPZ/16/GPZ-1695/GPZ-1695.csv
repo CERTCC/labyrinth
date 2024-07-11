@@ -1,3 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GPZ-1695,0.14285714,https://github.com/ZZY3312/CVE-2023-32434,ZZY3312/CVE-2023-32434,671740352
 GPZ-1695,0.12500000,https://github.com/jiayy/expwiki,jiayy/expwiki,255836675
-GPZ-1695,0.00714286,https://github.com/jiayy/android_vuln_poc-exp,jiayy/android_vuln_poc-exp,67602977
+GPZ-1695,0.00549451,https://github.com/jiayy/android_vuln_poc-exp,jiayy/android_vuln_poc-exp,67602977
+GPZ-1695,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+GPZ-1695,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GPZ-1695,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GPZ-1695,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GPZ-1695,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

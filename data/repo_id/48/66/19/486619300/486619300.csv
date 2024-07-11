@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+486619300,timekillerj/JNDI-Injection-Exploit,target/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,3533f8ec66c773c594165e7795cc7c574b0055fe,VU#23
+486619300,timekillerj/JNDI-Injection-Exploit,target/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,3533f8ec66c773c594165e7795cc7c574b0055fe,VU#74
+486619300,timekillerj/JNDI-Injection-Exploit,target/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,3533f8ec66c773c594165e7795cc7c574b0055fe,VU#83

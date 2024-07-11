@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+599394994,digital-dev/KeePass-TriggerLess,README.md,242b8e31f7d7d597fe48808f7d659ed7978f3d9c,CVE-2023-24055
+599394994,digital-dev/KeePass-TriggerLess,KeePass-2.53.1-Source-TriggerLess/Backup/KeePass/Plugins/PlgxCache.cs,7bc9d06605ff6556286d220813afed3c9ed93e59,BID-0
+599394994,digital-dev/KeePass-TriggerLess,KeePass-2.53.1-Source-TriggerLess/Docs/Chm/help/base/faq_tech.html,ed7708754cf5287472d7869925c7a9d4baed8123,MS05-026
+599394994,digital-dev/KeePass-TriggerLess,_GITHUB_REPO_METADATA_,,CVE-2023-24055

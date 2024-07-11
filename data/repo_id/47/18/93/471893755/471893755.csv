@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+471893755,azazelm3dj3d/apache-traversal,exploit.py,8098266e1cda852adb198bbcde8df3f33266bed3,CVE-2021-41773
+471893755,azazelm3dj3d/apache-traversal,exploit.py,8098266e1cda852adb198bbcde8df3f33266bed3,CVE-2021-42013
+471893755,azazelm3dj3d/apache-traversal,README.md,b8aace609da66a3afd28432ca0b7f164d2bda3ce,CVE-2021-41773
+471893755,azazelm3dj3d/apache-traversal,README.md,b8aace609da66a3afd28432ca0b7f164d2bda3ce,CVE-2021-42013

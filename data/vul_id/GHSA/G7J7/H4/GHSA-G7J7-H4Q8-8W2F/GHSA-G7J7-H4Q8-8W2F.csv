@@ -1,0 +1,11 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-G7J7-H4Q8-8W2F,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-36782,Live-Hack-CVE/CVE-2021-36782,582169673
+GHSA-G7J7-H4Q8-8W2F,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+GHSA-G7J7-H4Q8-8W2F,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
+GHSA-G7J7-H4Q8-8W2F,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-G7J7-H4Q8-8W2F,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+GHSA-G7J7-H4Q8-8W2F,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+GHSA-G7J7-H4Q8-8W2F,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-G7J7-H4Q8-8W2F,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-G7J7-H4Q8-8W2F,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-G7J7-H4Q8-8W2F,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

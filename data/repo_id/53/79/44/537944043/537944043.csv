@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+537944043,touchmycrazyredhat/CVE-2022-27925-Revshell,exp.py,7ce099df92e0647f5f3fe33968e3abd92f23fb20,CVE-2022-27925
+537944043,touchmycrazyredhat/CVE-2022-27925-Revshell,README.md,8099bcafb9dffd6293241cb6d980187f4b96fe5d,CVE-2022-27925
+537944043,touchmycrazyredhat/CVE-2022-27925-Revshell,_GITHUB_REPO_METADATA_,,CVE-2022-27925

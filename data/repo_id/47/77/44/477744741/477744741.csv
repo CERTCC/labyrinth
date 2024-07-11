@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+477744741,simonis/spring-rce-repro,Readme.md,0904b57fe683d12c47eeaa8eb5ca094a9e9cdfdb,CVE-2022-22965

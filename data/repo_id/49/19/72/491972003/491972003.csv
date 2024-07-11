@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+491972003,secudotnet/exploit_win10,CVE-2022-21882-main.zip,e141e77dd0581e6237be3a80bde58d8a816ad3bc,CVE-2021-1732
+491972003,secudotnet/exploit_win10,CVE-2022-21882-main.zip,e141e77dd0581e6237be3a80bde58d8a816ad3bc,CVE-2022-21882
+491972003,secudotnet/exploit_win10,CVE-2021-1732.exe,f6352d4bb7f04643d9e31345139fdaf375e88bd0,CVE-2021-1732
+491972003,secudotnet/exploit_win10,CVE-2021-1732.exe,f6352d4bb7f04643d9e31345139fdaf375e88bd0,CVE-2022-21882

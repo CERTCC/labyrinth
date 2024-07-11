@@ -4,12 +4,23 @@ file: repo_processor_2
 author: adh
 created_at: 9/3/21 9:56 AM
 """
+#  Copyright (c) 2023 Carnegie Mellon University.
+#  Labyrinth Repository Search
+#  Licensed under a MIT (SEI)-style license, please see license.txt or contact permission@sei.cmu.edu for full terms.
+#  [DISTRIBUTION STATEMENT A] This material has been approved for public release and unlimited distribution.  Please see Copyright notice for non-US Government use and distribution.
+#  Carnegie Mellon®, CERT® and CERT Coordination Center® are registered in the U.S. Patent and Trademark Office by Carnegie Mellon University.
+#  This Software includes and/or makes use of Third-Party Software subject to its own license, see license.txt file for more information.
+#  DM23-0717
+#
+
 import logging
 import os
+import shutil
 import time
-import datetime
+from datetime import datetime, timezone
 import glob
 import tempfile
+import pytz
 
 import dateutil.parser
 import pandas as pd
@@ -44,6 +55,8 @@ def process_git_url(clone_from, workdir):
         )
     except git.exc.GitCommandError as e:
         logger.warning(f"Skipping git repo at {clone_from} due to GitCommandError: {e}")
+        logger.info(f"Removing {workdir} before proceeding")
+        shutil.rmtree(workdir,ignore_errors=True)
         return pd.DataFrame()
 
     df = process_dir(workdir, workdir)
@@ -54,7 +67,7 @@ def _check_repo_newer(ts, repo_name):
     """
     True if Github has more recent data than repofile
     """
-    m_ts = datetime.datetime.fromtimestamp(ts)
+    m_ts = datetime.fromtimestamp(ts, tz=timezone.utc)
 
     gh = Github(login_or_token=labyrinth.GH_TOKEN)
     check_rl_core(gh)
@@ -148,7 +161,7 @@ def process_row(row):
         _df = process_git_url(clone_url, workdir)
 
     if len(_df):
-        df = df.append(_df)
+        df = pd.concat([df,_df])
 
     if not len(df):
         return pd.DataFrame()
@@ -165,7 +178,7 @@ def process_row(row):
     # write the timestamp file for this repo
     with open(tsfile, "w") as fp:
         # we don't need subsecond resolution for this
-        now = datetime.datetime.now().replace(microsecond=0)
+        now = datetime.now().replace(microsecond=0)
         fp.write(f"{now.isoformat()}\n")
 
     return df

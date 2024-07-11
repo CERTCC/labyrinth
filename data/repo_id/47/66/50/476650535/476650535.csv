@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+476650535,XiaoliChan/Invoke-sAMSpoofing,README.md,8afc5d1183085ef3c0f011f1ec9e22de9d7135ce,CVE-2021-42278
+476650535,XiaoliChan/Invoke-sAMSpoofing,README.md,8afc5d1183085ef3c0f011f1ec9e22de9d7135ce,CVE-2021-42287
+476650535,XiaoliChan/Invoke-sAMSpoofing,Invoke-sAMSpoofing.ps1,b47adceb3f2d9d16adc46296ecfdbbb8f06a3965,VU#24
+476650535,XiaoliChan/Invoke-sAMSpoofing,Invoke-sAMSpoofing.ps1,b47adceb3f2d9d16adc46296ecfdbbb8f06a3965,VU#34
+476650535,XiaoliChan/Invoke-sAMSpoofing,Invoke-sAMSpoofing.ps1,b47adceb3f2d9d16adc46296ecfdbbb8f06a3965,VU#498
+476650535,XiaoliChan/Invoke-sAMSpoofing,Invoke-sAMSpoofing.ps1,b47adceb3f2d9d16adc46296ecfdbbb8f06a3965,VU#53
+476650535,XiaoliChan/Invoke-sAMSpoofing,Invoke-sAMSpoofing.ps1,b47adceb3f2d9d16adc46296ecfdbbb8f06a3965,VU#65
+476650535,XiaoliChan/Invoke-sAMSpoofing,Invoke-sAMSpoofing.ps1,b47adceb3f2d9d16adc46296ecfdbbb8f06a3965,VU#84775
+476650535,XiaoliChan/Invoke-sAMSpoofing,Invoke-sAMSpoofing.ps1,b47adceb3f2d9d16adc46296ecfdbbb8f06a3965,VU#93
+476650535,XiaoliChan/Invoke-sAMSpoofing,Invoke-sAMSpoofing.ps1,b47adceb3f2d9d16adc46296ecfdbbb8f06a3965,VU#94
+476650535,XiaoliChan/Invoke-sAMSpoofing,_GITHUB_REPO_METADATA_,,CVE-2021-42278
+476650535,XiaoliChan/Invoke-sAMSpoofing,_GITHUB_REPO_METADATA_,,CVE-2021-42287

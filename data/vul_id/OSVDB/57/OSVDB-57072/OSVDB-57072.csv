@@ -1,0 +1,16 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-57072,0.00001598,https://github.com/leesinz/crush,leesinz/crush,751271973
+OSVDB-57072,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
+OSVDB-57072,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
+OSVDB-57072,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
+OSVDB-57072,0.00001429,https://github.com/fooster1337/searchxploit,fooster1337/searchxploit,726528344
+OSVDB-57072,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
+OSVDB-57072,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
+OSVDB-57072,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
+OSVDB-57072,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
+OSVDB-57072,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,757653051
+OSVDB-57072,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
+OSVDB-57072,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
+OSVDB-57072,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+OSVDB-57072,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+OSVDB-57072,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580

@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+438690819,Chal13W1zz/Log4jExploitDemo,README.md,b1aaa277f7ae050fdc7df741b697a52d7a59706d,CVE-2021-44228
+438690819,Chal13W1zz/Log4jExploitDemo,src/main/java/App.java,b29974ddb7e7b724c0fd66ecc7d1ad3c2b00bffb,CVE-2021-44228

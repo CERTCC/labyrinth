@@ -1,10 +1,10 @@
 repo_id,repo_full_name,file,file_sha1,match
 439418936,HenryFBP/JNDI-Exploit-Server,src/main/java/com/feihong/ldap/template/JBossMemshellTemplate.java,152ac7b661978dc61e0cbafbb256517397e281d3,VU#21
 439418936,HenryFBP/JNDI-Exploit-Server,src/main/java/com/feihong/ldap/template/TomcatMemshellTemplate1.java,1dcd79eb786b6e65a14dfd50033cb5056a57a589,VU#21
+439418936,HenryFBP/JNDI-Exploit-Server,README.md,3b57c14cd0c946a073a5147bd35d9c07d86dd479,CVE-2021-44228
 439418936,HenryFBP/JNDI-Exploit-Server,README_OG.md,51820abdeaf61e9c920ae1ee4815105a8851d0e9,CVE-2020-2551
 439418936,HenryFBP/JNDI-Exploit-Server,README_OG.md,51820abdeaf61e9c920ae1ee4815105a8851d0e9,CVE-2020-2555
 439418936,HenryFBP/JNDI-Exploit-Server,README_OG.md,51820abdeaf61e9c920ae1ee4815105a8851d0e9,CVE-2020-2883
-439418936,HenryFBP/JNDI-Exploit-Server,README.md,70d365e4624aea1227e05d128d929250c85b2dd4,CVE-2021-44228
 439418936,HenryFBP/JNDI-Exploit-Server,src/main/java/com/feihong/ldap/template/WebsphereMemshellTemplate.java,743dea8a99119768ecf6f3cc7e8bd407701960a4,VU#21
 439418936,HenryFBP/JNDI-Exploit-Server,src/main/java/com/feihong/ldap/controllers/SerializedDataController.java,7ef39b3ab2c1ff52a1e53df61bd0b60d64e5ee66,CVE-2020-2555
 439418936,HenryFBP/JNDI-Exploit-Server,src/main/java/com/feihong/ldap/controllers/SerializedDataController.java,7ef39b3ab2c1ff52a1e53df61bd0b60d64e5ee66,CVE-2020-2883

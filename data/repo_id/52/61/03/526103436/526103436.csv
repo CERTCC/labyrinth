@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+526103436,tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228,README.md,c284ee4244b04023617586d367a18e18d4b65225,CVE-2021-44228
+526103436,tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228,IT20059354_SSS.pdf,ed3a099d94c30e0db3bf29d71b1932969839e099,CVE-2021-44228
+526103436,tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228

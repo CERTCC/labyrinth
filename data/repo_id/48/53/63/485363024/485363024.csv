@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+485363024,testivy/springboot-actuator-spring-cloud-function-rce,README.md,38319a59570747fdfef8401d73374284f84d93c0,CVE-2022-22947

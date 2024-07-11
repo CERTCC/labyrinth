@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-327987283,gbrsh/exploits,swordfutexing.c,ae1795f631f0716b7a72bbf2e3771818f2cde786,CVE-2014-3153
-327987283,gbrsh/exploits,README.md,f2469dec9e11f1b6fa36b155546de7fea5fd7711,CVE-2014-3153
+327987283,gbrsh/kernel_exploits,swordfutexing.c,ae1795f631f0716b7a72bbf2e3771818f2cde786,CVE-2014-3153
+327987283,gbrsh/kernel_exploits,README.md,c5076973cd25a50bf272f885ef3bbfdadb56b258,CVE-2014-3153

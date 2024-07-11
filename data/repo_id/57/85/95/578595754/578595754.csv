@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+578595754,SwiftGlitxh/Exploits-How-To,Samba-Exploitation.md,00e9530fb59b7f1b114de18c42b7bf2f33b04ba6,MS17-010
+578595754,SwiftGlitxh/Exploits-How-To,BlueKeep Exploit.md,c756f80cdf2457bcfad9aed2bc82beaba022e901,CVE-2019-0708
+578595754,SwiftGlitxh/Exploits-How-To,Eternalblue-exploit.md,eb63ef32913543cdd1a372ca390279981f66af4f,MS17-010

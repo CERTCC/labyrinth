@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter05/firmware/openwrt-ar300m16-3.215-0921-1663732630.bin,241ced6c45678dbd0e2f1f5efaf81cef302e97b0,VU#27
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter03/vulnerablesp/yogiSP/vulnsp.py,547e06476bda74cff254d183279982badbd42639,CVE-2017-11427
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter03/vulnerablesp/yogiSP/jsonparse.py,5be6aeaa81a881ebe273d49caa16bb2ae0472d43,CVE-2017-11427
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter03/vulnerablesp/yogiSP/templates/settings.html,96dc1beb97af1fb1011f7ae65bf6bf5f5b1145b1,CVE-2017-11427
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#03
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#04
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#13
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#251
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#36
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#64
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#74
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#85
+669084766,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#97

@@ -1,4 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-352652841,davidshares/Lightning-Network,README.md,bb85eea11922bcfb5ffe7657820fe940c1d429f2,CVE-2019-12998
-352652841,davidshares/Lightning-Network,README.md,bb85eea11922bcfb5ffe7657820fe940c1d429f2,CVE-2019-12999
-352652841,davidshares/Lightning-Network,README.md,bb85eea11922bcfb5ffe7657820fe940c1d429f2,CVE-2019-13000
+352652841,davidshares/Lightning-Network,README.md,7ad10a8ac9ae1f3ae5e98360e8df030eac8d2065,CVE-2019-12998
+352652841,davidshares/Lightning-Network,README.md,7ad10a8ac9ae1f3ae5e98360e8df030eac8d2065,CVE-2019-12999
+352652841,davidshares/Lightning-Network,README.md,7ad10a8ac9ae1f3ae5e98360e8df030eac8d2065,CVE-2019-13000
+352652841,davidshares/Lightning-Network,README.md,7ad10a8ac9ae1f3ae5e98360e8df030eac8d2065,CVE-2021-41591
+352652841,davidshares/Lightning-Network,README.md,7ad10a8ac9ae1f3ae5e98360e8df030eac8d2065,CVE-2021-41592
+352652841,davidshares/Lightning-Network,README.md,7ad10a8ac9ae1f3ae5e98360e8df030eac8d2065,CVE-2021-41593

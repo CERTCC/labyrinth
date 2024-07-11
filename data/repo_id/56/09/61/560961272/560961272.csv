@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+560961272,RobertDEVx/Silent-Doc-Exploit-Python,SilentDoc.py,5c4753e06521c809b9bb71eca9dd7a847136ea40,CVE-2017-8750
+560961272,RobertDEVx/Silent-Doc-Exploit-Python,python-2.7.amd64.msi,7b3ebd423a93c930426198ac65e9441ae6e869df,VU#34
+560961272,RobertDEVx/Silent-Doc-Exploit-Python,python-2.7.amd64.msi,7b3ebd423a93c930426198ac65e9441ae6e869df,VU#38
+560961272,RobertDEVx/Silent-Doc-Exploit-Python,python-2.7.amd64.msi,7b3ebd423a93c930426198ac65e9441ae6e869df,VU#63

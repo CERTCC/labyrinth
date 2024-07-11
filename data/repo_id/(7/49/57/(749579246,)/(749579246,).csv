@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+749579246,Sic4rio/-zFTPServer-Suite-6.0.0.52---rmdir-Directory-Traversal,zFTPServer.py,cf9c6084436c9f40e4b7a138de0c40b6c02c3574,CVE-2011-4717

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+653564138,tangxiaofeng7/CVE-2023-32315-Openfire-Bypass,scan_all/main.go,418e16fa0befcb34f8efe4e4c7f5d096fa96a189,CVE-2023-32315
+653564138,tangxiaofeng7/CVE-2023-32315-Openfire-Bypass,README.md,9685176a702881786ff2320e206e8b3597dc0f4f,CVE-2023-32315
+653564138,tangxiaofeng7/CVE-2023-32315-Openfire-Bypass,_GITHUB_REPO_METADATA_,,CVE-2023-32315

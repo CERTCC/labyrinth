@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+717712143,martinvks/CVE-2022-45059-poc,docker-compose.yml,54593a0a2cea0d6cb82978709732ea219a5a411c,CVE-2022-45059
+717712143,martinvks/CVE-2022-45059-poc,backend/src/main/resources/static/static/js/main.de449dc4.js.map,871c249b277545949b0d408c14140ea2e23a7805,VU#70
+717712143,martinvks/CVE-2022-45059-poc,README.md,ad17f1b4fed3befe335551ef99d99723c3cd6977,CVE-2022-45059
+717712143,martinvks/CVE-2022-45059-poc,_GITHUB_REPO_METADATA_,,CVE-2022-45059

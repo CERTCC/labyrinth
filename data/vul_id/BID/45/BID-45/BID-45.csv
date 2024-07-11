@@ -1,2 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-45,0.20000000,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
+BID-45,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
+BID-45,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-45,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+BID-45,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

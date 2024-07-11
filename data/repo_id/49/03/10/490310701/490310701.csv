@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+490310701,cve-hunter/CVE-2022-1388-mass,README.md,a2381c2ec74df7d5a27635e80ff20db7c709183f,CVE-2022-1388
+490310701,cve-hunter/CVE-2022-1388-mass,_GITHUB_REPO_METADATA_,,CVE-2022-1388

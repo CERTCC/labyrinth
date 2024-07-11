@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+729065658,jmussmann/cve-2023-4966-iocs,README.md,42bfec94e0cfc0b148115e7b8432d4ae72eaea02,CVE-2023-4966
+729065658,jmussmann/cve-2023-4966-iocs,check-cve-2023-4966.py,470df0ad769460cda198ee9b995e8ddb53733ba8,CVE-2023-4966
+729065658,jmussmann/cve-2023-4966-iocs,_GITHUB_REPO_METADATA_,,CVE-2023-4966

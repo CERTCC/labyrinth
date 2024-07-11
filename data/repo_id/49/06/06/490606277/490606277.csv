@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+490606277,iveresk/cve-2022-1388-1veresk,README.md,65269f7070e2a686c0a9c6d7ec05a67c43f0ab57,CVE-2022-1388
+490606277,iveresk/cve-2022-1388-1veresk,cve-2022-1388.sh,dddcfce1041b765766b8f783657161704d7f20a0,CVE-2022-1388
+490606277,iveresk/cve-2022-1388-1veresk,_GITHUB_REPO_METADATA_,,CVE-2022-1388

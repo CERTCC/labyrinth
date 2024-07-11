@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+583289521,otsmr/internet-of-vulnerable-things,exploits/CVE-2022-48194.py,cb0498535abb9c0143b1c3ee899c54dd5a04bdd6,CVE-2022-48194
+583289521,otsmr/internet-of-vulnerable-things,README.md,d9d68912c94732b1ae75e0149a1b9b501ecdb10c,CVE-2022-48194
+583289521,otsmr/internet-of-vulnerable-things,exploits/CVE-2022-48194.pdf,fe792e5df2a1852c1c38b601dea157419ed80c72,CVE-2022-48194
+583289521,otsmr/internet-of-vulnerable-things,_GITHUB_REPO_METADATA_,,CVE-2022-48194

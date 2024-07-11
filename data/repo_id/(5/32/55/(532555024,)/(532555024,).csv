@@ -1,0 +1,31 @@
+repo_id,repo_full_name,file,file_sha1,match
+532555024,SaintsConnor/Exploits,Exploit Database/2024/CVE-2024-21413/cred-taker/exploit.py,03214957fe7c3c725920bf9a4c9d8185787a174f,CVE-2024-21413
+532555024,SaintsConnor/Exploits,Exploit Database/2024/CVE-2024-21413/cred-taker/test.html,0c8cbc1bfacb86b62965f0fa6121b235cd2f6dc3,CVE-2024-21413
+532555024,SaintsConnor/Exploits,Exploit Database/README.MD,15a2f7f0381caabad41af21edc2049852f8358a3,CVE-2017-0144
+532555024,SaintsConnor/Exploits,Exploit Database/README.MD,15a2f7f0381caabad41af21edc2049852f8358a3,MS17-010
+532555024,SaintsConnor/Exploits,Exploit Database/README.MD,15a2f7f0381caabad41af21edc2049852f8358a3,CVE-2021-34527
+532555024,SaintsConnor/Exploits,Exploit Database/README.MD,15a2f7f0381caabad41af21edc2049852f8358a3,CVE-2022-22817
+532555024,SaintsConnor/Exploits,Exploit Database/README.MD,15a2f7f0381caabad41af21edc2049852f8358a3,CVE-2022-32221
+532555024,SaintsConnor/Exploits,Exploit Database/2022/CVE-2022-22817/CVE-2022-22817.py,1f73512500189ff1c8a36bb5833501a5b43e4499,CVE-2022-22817
+532555024,SaintsConnor/Exploits,Exploit Database/2017/CVE-2017-0144 (EternalBlue)/Scanner.py,467a737fa670ec7a7f299b26afa71d3eb81f024d,CVE-2017-0144
+532555024,SaintsConnor/Exploits,Exploit Database/2017/CVE-2017-0144 (EternalBlue)/Scanner.py,467a737fa670ec7a7f299b26afa71d3eb81f024d,MS17-010
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/printnightmare.ps1,4833a9ea2de1cd485efa8ec50a9500d5ab398451,VU#66
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/printnightmare.ps1,4833a9ea2de1cd485efa8ec50a9500d5ab398451,VU#63
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/printnightmare.ps1,4833a9ea2de1cd485efa8ec50a9500d5ab398451,VU#596
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/printnightmare.ps1,4833a9ea2de1cd485efa8ec50a9500d5ab398451,VU#240
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/printnightmare.ps1,4833a9ea2de1cd485efa8ec50a9500d5ab398451,VU#71
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/printnightmare.ps1,4833a9ea2de1cd485efa8ec50a9500d5ab398451,CVE-2021-34527
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/printnightmare.ps1,4833a9ea2de1cd485efa8ec50a9500d5ab398451,CVE-2021-1675
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/printnightmare.ps1,4833a9ea2de1cd485efa8ec50a9500d5ab398451,VU#69
+532555024,SaintsConnor/Exploits,README.md,52e8ba901687303266a2ad7e25b0cac7b28082da,CVE-2022-22817
+532555024,SaintsConnor/Exploits,README.md,52e8ba901687303266a2ad7e25b0cac7b28082da,CVE-2022-32221
+532555024,SaintsConnor/Exploits,README.md,52e8ba901687303266a2ad7e25b0cac7b28082da,CVE-2021-1675
+532555024,SaintsConnor/Exploits,README.md,52e8ba901687303266a2ad7e25b0cac7b28082da,CVE-2017-0144
+532555024,SaintsConnor/Exploits,Exploit Database/2022/CVE-2022-32221/CVE-2022-32221_Checker.py,5ec9621ca2146e50fe499a4e2803dc065742f5af,CVE-2022-32221
+532555024,SaintsConnor/Exploits,Exploit Database/2022/README.md,6519d808a5f16fa11629446c8a40651ec085cafe,CVE-2022-32221
+532555024,SaintsConnor/Exploits,Exploit Database/2022/README.md,6519d808a5f16fa11629446c8a40651ec085cafe,CVE-2022-22817
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/README.md,85350b18d759ab4caae18ef26a99257d06cff3f0,CVE-2021-34527
+532555024,SaintsConnor/Exploits,Exploit Database/2021/PrintNightmare (CVE-2021-34527)/README.md,85350b18d759ab4caae18ef26a99257d06cff3f0,CVE-2021-1675
+532555024,SaintsConnor/Exploits,Exploit Database/2023/CVE-2023-39967,8a7ec3098d487ba61f89c38c0581b50f31f1947a,CVE-2023-39967
+532555024,SaintsConnor/Exploits,Exploit Database/2022/CVE-2022-32221/CVE-2022-32221_PoC.sh,b0abc9fd0bb7aaff57faff9c5aad4ce2f4bd75b6,CVE-2022-32221
+532555024,SaintsConnor/Exploits,Exploit Database/2021/README.md,f5070671b6b54df1194969c14e167ffafbfeb42f,CVE-2021-34527

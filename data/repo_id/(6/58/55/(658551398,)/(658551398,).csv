@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+658551398,zhaoyumi/WeaverExploit_All,main.go,3ca3b5fe2f694aa050c498839c2189c324b51cdc,CVE-2023-2523
+658551398,zhaoyumi/WeaverExploit_All,main.go,3ca3b5fe2f694aa050c498839c2189c324b51cdc,CVE-2023-2648
+658551398,zhaoyumi/WeaverExploit_All,poc/CVE_2023_2523.go,7d89f3c4270c29e83ef48b1ae563159f7884ab90,CVE-2023-2523
+658551398,zhaoyumi/WeaverExploit_All,README.md,a83c21739581c37e4aebc77ab4737a1ed7d5aa7d,CVE-2023-2523
+658551398,zhaoyumi/WeaverExploit_All,README.md,a83c21739581c37e4aebc77ab4737a1ed7d5aa7d,CVE-2023-2648
+658551398,zhaoyumi/WeaverExploit_All,poc/CVE_2023_2648.go,ce2210b2dd278bee6c69af48a61aae198ed0b9fd,CVE-2023-2648

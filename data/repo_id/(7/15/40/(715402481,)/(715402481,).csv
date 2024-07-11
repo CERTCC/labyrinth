@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+715402481,s4m98/winrar-cve-2023-38831-poc-gen,cve-2023-38831-exp-gen.py,9fdd54d0861105dc0b25285190a2ca5378479c97,CVE-2023-38831
+715402481,s4m98/winrar-cve-2023-38831-poc-gen,README.md,c8c5ce650165707e7420ef5c188b98efde12d353,CVE-2023-38831
+715402481,s4m98/winrar-cve-2023-38831-poc-gen,_GITHUB_REPO_METADATA_,,CVE-2023-38831

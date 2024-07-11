@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-FW3G-2H3J-QMM7,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-23627,Live-Hack-CVE/CVE-2023-23627,594266023
+GHSA-FW3G-2H3J-QMM7,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

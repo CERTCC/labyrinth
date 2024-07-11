@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+692230555,im-hanzou/UPGer,upger.sh,236920097f1ebb8216f5216a834b6155eeb9056d,CVE-2022-4060
+692230555,im-hanzou/UPGer,README.md,e044ee783dfda543802adf405deef5cb1d090ceb,CVE-2022-4060
+692230555,im-hanzou/UPGer,README.md,e044ee783dfda543802adf405deef5cb1d090ceb,GHSA-G823-9XXV-PX4Q
+692230555,im-hanzou/UPGer,_GITHUB_REPO_METADATA_,,CVE-2022-4060

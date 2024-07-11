@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+539365000,Caihuar/Joomla-cve-2015-8562,Joomla_CMS/libraries/joomla/http/transport/cacert.pem,2682f19ec329a97d7d694d6bd6370da232f3cb78,VU#32
+539365000,Caihuar/Joomla-cve-2015-8562,Joomla_CMS/libraries/joomla/http/transport/cacert.pem,2682f19ec329a97d7d694d6bd6370da232f3cb78,VU#37
+539365000,Caihuar/Joomla-cve-2015-8562,Joomla_CMS/libraries/joomla/http/transport/cacert.pem,2682f19ec329a97d7d694d6bd6370da232f3cb78,VU#65
+539365000,Caihuar/Joomla-cve-2015-8562,Joomla_CMS/libraries/joomla/http/transport/cacert.pem,2682f19ec329a97d7d694d6bd6370da232f3cb78,VU#82
+539365000,Caihuar/Joomla-cve-2015-8562,Joomla_CMS/media/editors/codemirror/theme/ambiance.css,6b6a1e97407447657a14a46352ee6fb19b4eae75,VU#72
+539365000,Caihuar/Joomla-cve-2015-8562,Joomla_CMS/media/editors/codemirror/theme/ambiance.css,6b6a1e97407447657a14a46352ee6fb19b4eae75,VU#74
+539365000,Caihuar/Joomla-cve-2015-8562,README.md,a30ab478f1eed7714d8887bb9aee1577f00f0da1,CVE-2015-8562
+539365000,Caihuar/Joomla-cve-2015-8562,exploit.py,e6c7f8e64598a788e1e75f24ad8acaa13d120960,CVE-2015-8562
+539365000,Caihuar/Joomla-cve-2015-8562,exploit.py,e6c7f8e64598a788e1e75f24ad8acaa13d120960,CVE-2015-8652
+539365000,Caihuar/Joomla-cve-2015-8562,_GITHUB_REPO_METADATA_,,CVE-2015-8562

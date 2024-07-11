@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+802533707,safebuffer/CVE-2024-32002,README.md,f251ba0b7b44b738a8f14da1f3ae4ba2f36050be,CVE-2024-32002
+802533707,safebuffer/CVE-2024-32002,_GITHUB_REPO_METADATA_,,CVE-2024-32002

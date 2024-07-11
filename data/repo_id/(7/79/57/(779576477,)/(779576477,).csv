@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+779576477,wgetnz/CVE-2024-3094-check,CVE-2024-3094-check.sh,ca55ea6de8f7f395f1b5b668c474d3951e5fd3fd,CVE-2024-3094
+779576477,wgetnz/CVE-2024-3094-check,README.md,ccf9cea990cc92b3cdfa1f5d6349f57034eddd47,CVE-2024-3094
+779576477,wgetnz/CVE-2024-3094-check,_GITHUB_REPO_METADATA_,,CVE-2024-3094

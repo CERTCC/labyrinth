@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+769491666,ispanakadamx/exploit,argonexp.py,61e99c92878b235d5821c2cb1a3c2273f3f262ec,CVE-2021-21086
+769491666,ispanakadamx/exploit,argonexp.py,61e99c92878b235d5821c2cb1a3c2273f3f262ec,CVE-2021-40444
+769491666,ispanakadamx/exploit,argonexp.py,61e99c92878b235d5821c2cb1a3c2273f3f262ec,CVE-2023-21608
+769491666,ispanakadamx/exploit,argonexp.py,61e99c92878b235d5821c2cb1a3c2273f3f262ec,CVE-2023-2255
+769491666,ispanakadamx/exploit,argonexp.py,61e99c92878b235d5821c2cb1a3c2273f3f262ec,CVE-2023-38831

@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+507903540,MouadBouharoun/CVE-SMBGhost-Windows-10,cve-2020-0796-scanner.py,1c126d74f876a1dfe1870c862d4fe2d46c41953e,CVE-2020-0796
+507903540,MouadBouharoun/CVE-SMBGhost-Windows-10,cve-2020-0796.py,bbde00126d0266eb49663a0e0f1583287a190256,CVE-2020-0796
+507903540,MouadBouharoun/CVE-SMBGhost-Windows-10,SMBleedingGhost.py,eee6efe6fb18bf5f46eccee8f9f16c78a6e4374c,CVE-2019-11708
+507903540,MouadBouharoun/CVE-SMBGhost-Windows-10,SMBleedingGhost.py,eee6efe6fb18bf5f46eccee8f9f16c78a6e4374c,CVE-2020-0796

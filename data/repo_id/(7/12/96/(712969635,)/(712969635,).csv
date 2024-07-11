@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+712969635,NukingDragons/gitlab-cve-2021-22205,README.md,627416c31fc006a55bacd4379e98169952f7e6a3,CVE-2021-22205
+712969635,NukingDragons/gitlab-cve-2021-22205,cve-2021-22205.sh,fc9ccb21349cf9c51dd994869202035695ed83ee,CVE-2021-22205
+712969635,NukingDragons/gitlab-cve-2021-22205,_GITHUB_REPO_METADATA_,,CVE-2021-22205

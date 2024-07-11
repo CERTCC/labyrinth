@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+437888133,irgoncalves/f5-waf-quick-patch-cve-2021-44228,README.md,3039887f43a05394e64443fb2c081a9ac3ccdf50,CVE-2021-44228
+437888133,irgoncalves/f5-waf-quick-patch-cve-2021-44228,README.md,3039887f43a05394e64443fb2c081a9ac3ccdf50,CVE-2021-4428
 437888133,irgoncalves/f5-waf-quick-patch-cve-2021-44228,f5-waf-quick-patch-cve-2021-44228.py,8bf37a0c3cca9a947931c01999e6c53bca2d10d0,CVE-2021-4228
 437888133,irgoncalves/f5-waf-quick-patch-cve-2021-44228,f5-waf-quick-patch-cve-2021-44228.py,8bf37a0c3cca9a947931c01999e6c53bca2d10d0,CVE-2021-44228
-437888133,irgoncalves/f5-waf-quick-patch-cve-2021-44228,README.md,ea733820288b78524bc437e3deadce9128580f94,CVE-2021-42428
-437888133,irgoncalves/f5-waf-quick-patch-cve-2021-44228,README.md,ea733820288b78524bc437e3deadce9128580f94,CVE-2021-4428
 437888133,irgoncalves/f5-waf-quick-patch-cve-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228

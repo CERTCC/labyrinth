@@ -1,0 +1,8 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-8R25-68WM-JW35,0.03333333,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
+GHSA-8R25-68WM-JW35,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
+GHSA-8R25-68WM-JW35,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+GHSA-8R25-68WM-JW35,0.00000929,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+GHSA-8R25-68WM-JW35,0.00000928,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-8R25-68WM-JW35,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-8R25-68WM-JW35,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

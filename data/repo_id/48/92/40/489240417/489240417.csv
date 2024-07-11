@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+489240417,MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed,README.md,e159db8b5f98decc9b721c2c725d5ce005090d36,CVE-2022-1388
+489240417,MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed,CVE-2022-1388.yaml,e614220e99b117565aafc6bf9d067d411a1960f5,CVE-2022-1388
+489240417,MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed,_GITHUB_REPO_METADATA_,,CVE-2022-1388

@@ -1,2 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+308476501,cylaris/awesomekql,ProxyNotShell/CylarisTRG-ProxyNotShell-Exploit-W3CIISLog-Indicators-KQL,79a4ac8a5086967b87fd3803231781adb783b771,CVE-2022-40140
+308476501,cylaris/awesomekql,ProxyNotShell/CylarisTRG-ProxyNotShell-Exploit-W3CIISLog-Indicators-KQL,79a4ac8a5086967b87fd3803231781adb783b771,CVE-2022-41082
+308476501,cylaris/awesomekql,ProxyNotShell/CylarisTRG-ProxyNotShell-Exploit-Sysmon-Indicators-KQL,7c07aa826dd6cd8a8f8e9a42ae7e92867dad38fb,CVE-2022-40140
+308476501,cylaris/awesomekql,ProxyNotShell/CylarisTRG-ProxyNotShell-Exploit-Sysmon-Indicators-KQL,7c07aa826dd6cd8a8f8e9a42ae7e92867dad38fb,CVE-2022-41082
 308476501,cylaris/awesomekql,dwm-cve-disclosed-apr-23.txt,b3aacb70ff9bbceb0401f59406d8720d741c7a74,CVE-2021-28310

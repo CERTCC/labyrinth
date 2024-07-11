@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+740157385,imhunterand/CVE-2022-1386,README.md,4c1cd90ab4a0112278665e3f77ac0705a9c14400,CVE-2022-1386
+740157385,imhunterand/CVE-2022-1386,exploit.py,bdd5576a49f99afb15167f9b81aaffbdbabf9642,CVE-2022-1386
+740157385,imhunterand/CVE-2022-1386,_GITHUB_REPO_METADATA_,,CVE-2022-1386

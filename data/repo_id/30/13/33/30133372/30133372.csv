@@ -1,1 +1,6 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+30133372,xsscx/Commodity-Injection-Signatures,rbl/youtube-url-ad-cdn-potential-domain-click-fraud-sample-001.txt,0f0e67f6f129b6ed35cf556d15b2514a837839e8,VU#28
+30133372,xsscx/Commodity-Injection-Signatures,rbl/youtube-url-ad-cdn-potential-domain-click-fraud-sample-001.txt,0f0e67f6f129b6ed35cf556d15b2514a837839e8,VU#40
+30133372,xsscx/Commodity-Injection-Signatures,rbl/mobile-application-block-list-sample-url-001.txt,3637c4199fa1afab0150d6b4ce29b2384eca038b,VU#28
+30133372,xsscx/Commodity-Injection-Signatures,rbl/mobile-application-block-list-sample-url-001.txt,3637c4199fa1afab0150d6b4ce29b2384eca038b,VU#40
+30133372,xsscx/Commodity-Injection-Signatures,callback/Readme.md,890d5e5bd715b2c8adeed3c5ec0abcede9421732,CVE-2017-14620

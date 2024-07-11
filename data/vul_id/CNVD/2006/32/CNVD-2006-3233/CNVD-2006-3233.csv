@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2006-3233,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
+CNVD-2006-3233,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
+CNVD-2006-3233,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547

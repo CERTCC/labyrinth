@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+819385498,huseyinstif/CVE-2024-32030-Nuclei-Template,README.md,241b003b822b681c5a5efa73fe931eb0a3dd7ed2,CVE-2024-32030
+819385498,huseyinstif/CVE-2024-32030-Nuclei-Template,CVE-2024-32030.yaml,55e64b441c572b49c67e6a32a1c6c61975a5c22a,CVE-2024-32030
+819385498,huseyinstif/CVE-2024-32030-Nuclei-Template,_GITHUB_REPO_METADATA_,,CVE-2024-32030

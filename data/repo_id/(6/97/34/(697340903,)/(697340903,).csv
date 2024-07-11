@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+697340903,sherlocksecurity/CVE-2023-4762-Code-Review,README.md,0afba349eff2e3a787b281a4397fcfe3d788caaf,CVE-2023-4762
+697340903,sherlocksecurity/CVE-2023-4762-Code-Review,poc.js,f188db78c65336dbb87f0c9643838c4f65ccb51e,CVE-2023-3079
+697340903,sherlocksecurity/CVE-2023-4762-Code-Review,poc.js,f188db78c65336dbb87f0c9643838c4f65ccb51e,CVE-2023-4762
+697340903,sherlocksecurity/CVE-2023-4762-Code-Review,_GITHUB_REPO_METADATA_,,CVE-2023-4762

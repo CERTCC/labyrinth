@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+476738410,wshon/spring-framework-rce,README.md,676864a93e16fffaecdf7a8ae09e9706f7fc4bcd,CVE-2022-22965
+476738410,wshon/spring-framework-rce,_GITHUB_REPO_METADATA_,,CVE-2022-22965

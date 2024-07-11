@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+592657918,t3l3machus/CVE-2023-22960,lexmark-brute-force-login.py,7bd8cdc32b64669de9e794cd5bf8e4ebd080bbc7,CVE-2023-22960
+592657918,t3l3machus/CVE-2023-22960,lexmark-brute-force-pins.py,b63977ac6e55dfe45b13ac3d172b222cbdd0f8fd,CVE-2023-22960
+592657918,t3l3machus/CVE-2023-22960,README.md,daa182ce0c151db6ce68b13558c2c4519df686b8,CVE-2023-22960
+592657918,t3l3machus/CVE-2023-22960,_GITHUB_REPO_METADATA_,,CVE-2023-22960

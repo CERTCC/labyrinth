@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+470632168,zyylhn/redis_rce,main.go,80dd2eb5867dbef8cfc161ce8fdb0913b1aae097,CVE-2022-0543
+470632168,zyylhn/redis_rce,README.md,fbded5cb025646b00bae3337524da2da60e3bfa4,CVE-2022-0543

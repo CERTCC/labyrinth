@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+737010050,rich98/Metasploitable2,Cybersecurity Degree Module 5.docx,0c96372d833a5b991e7f13c2ac8038d5a693aeca,VU#08
+737010050,rich98/Metasploitable2,Cybersecurity Degree Module 5.docx,0c96372d833a5b991e7f13c2ac8038d5a693aeca,VU#58
+737010050,rich98/Metasploitable2,8572.c,b937b75c7b69e134de40f5d1773cd047d955b693,CVE-2009-1185
+737010050,rich98/Metasploitable2,Port 3632 DistCC RCE Vulnerability (CVE-2004-2687).mp4,defe12b57cdfef10620c05c08606c3d634665f8a,CVE-2004-2687

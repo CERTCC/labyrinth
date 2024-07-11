@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+818382309,waspthebughunter/zerodays,README.md,1635b90f9a945137c4ef5e12d36ff67935a398d1,CVE-2022-47873
+818382309,waspthebughunter/zerodays,README.md,1635b90f9a945137c4ef5e12d36ff67935a398d1,CVE-2024-38379
+818382309,waspthebughunter/zerodays,CVE-2022-47873.md,738dc2cf2f4a162d8b62b495cab69331eba5da8c,CVE-2022-47873
+818382309,waspthebughunter/zerodays,CVE-2024-38379.md,83c4681a11f9eff3bce380ee730d315a83d81f6a,CVE-2024-38379

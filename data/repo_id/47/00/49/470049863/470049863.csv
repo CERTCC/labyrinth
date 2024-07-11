@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+470049863,Mani1325/ka-cve-2021-21341,README.md,43508c4560648c5c248eb449172001ca21139538,CVE-2021-21341
+470049863,Mani1325/ka-cve-2021-21341,target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,6aa950108cfacbb089a77ac6930c885e9c74e336,CVE-2021-21341
+470049863,Mani1325/ka-cve-2021-21341,_GITHUB_REPO_METADATA_,,CVE-2021-21341

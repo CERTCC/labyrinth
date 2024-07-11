@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+812117929,Cappricio-Securities/CVE-2009-0347,cve20090347/includes/filereader.py,1db07ebae8a20a2d13e604107dcfddf10fbfdf21,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,setup.py,2982a5519d203ed6ea789069b8fb9996642bc826,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,cve20090347/utils/const.py,5af7a033f67fd82d9c2239ac6c5dcdf38534e996,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,cve20090347/includes/writefile.py,68caa09acf03f9f79da5471159806769ffda42ac,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,cve20090347/utils/helpers.py,b1649299003d1654e709b2d7e00317d0e3e711f1,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,cve20090347/utils/configure.py,b43027e66c1e50b269557b34d18df5c7c3c1db11,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,cve20090347/includes/bot.py,d6688d9254b19d1205f63809ef935e4b00fd5a6d,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,cve20090347/includes/scan.py,e2f70fd0dc5860685c1e2bbed702f1ef2a2e3409,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,cve20090347/main.py,f6a9c06f5b3dc1dbd349100293fefc882b69d6ea,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,README.md,f8da9c8437b2fe3b50227d0379013e3bfdd4b9da,CVE-2009-0347
+812117929,Cappricio-Securities/CVE-2009-0347,_GITHUB_REPO_METADATA_,,CVE-2009-0347

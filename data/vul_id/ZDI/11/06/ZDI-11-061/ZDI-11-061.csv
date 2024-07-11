@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-11-061,0.01086957,https://github.com/danlapko/darkweb_classification,danlapko/darkweb_classification,488567745
 ZDI-11-061,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 ZDI-11-061,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 ZDI-11-061,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
@@ -11,3 +12,6 @@ ZDI-11-061,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaL
 ZDI-11-061,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 ZDI-11-061,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZDI-11-061,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
+ZDI-11-061,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-11-061,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+ZDI-11-061,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

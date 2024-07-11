@@ -1,0 +1,15 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GPZ-323,0.01204819,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
+GPZ-323,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
+GPZ-323,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
+GPZ-323,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
+GPZ-323,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+GPZ-323,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
+GPZ-323,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
+GPZ-323,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
+GPZ-323,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,757653051
+GPZ-323,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
+GPZ-323,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
+GPZ-323,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+GPZ-323,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+GPZ-323,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580

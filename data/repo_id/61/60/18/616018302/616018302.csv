@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+616018302,luxel-h/Bash-exploit-for-CVE-2022-0739,exploit.sh,bc92f550779572f6cab1bbfe66b7f7b76eb60262,CVE-2022-0739
+616018302,luxel-h/Bash-exploit-for-CVE-2022-0739,README.md,e1a4d8aa9ba629976c60659b42bd4dcec14fc704,CVE-2022-0739
+616018302,luxel-h/Bash-exploit-for-CVE-2022-0739,_GITHUB_REPO_METADATA_,,CVE-2022-0739

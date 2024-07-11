@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+741979679,tmenochet/ADTamper,ADTamper.ps1,07c5e03bad18564137f5e2923b08de963e957db6,CVE-2021-34470
+741979679,tmenochet/ADTamper,README.md,2cc957dbf7de60786a0b61f72d4eefdbe80f4bba,CVE-2021-34470

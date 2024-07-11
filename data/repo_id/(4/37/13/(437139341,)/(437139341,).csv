@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+437139341,kozmer/log4j-shell-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+437139341,kozmer/log4j-shell-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+437139341,kozmer/log4j-shell-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+437139341,kozmer/log4j-shell-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+437139341,kozmer/log4j-shell-poc,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+437139341,kozmer/log4j-shell-poc,poc.py,58764503cc9279dba4875e3f679cfcbe2fb9b9a3,CVE-2021-44228
+437139341,kozmer/log4j-shell-poc,README.md,87b1803faa555ecd148c2c1444cfda99693186fe,CVE-2021-44228
+437139341,kozmer/log4j-shell-poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228

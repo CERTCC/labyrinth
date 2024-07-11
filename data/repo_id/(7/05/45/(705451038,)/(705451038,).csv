@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+705451038,chucvv/POC-exploit-vulnerability,apks/app-release.apk,8a95ed195094be668f74b36ed12b3322e649237a,VU#46
+705451038,chucvv/POC-exploit-vulnerability,apks/app-release.apk,8a95ed195094be668f74b36ed12b3322e649237a,VU#93
+705451038,chucvv/POC-exploit-vulnerability,PermissionRequester/app/release/app-release.apk,d2c59c53b30defd05f933c05039f6715f6d37121,VU#46
+705451038,chucvv/POC-exploit-vulnerability,PermissionRequester/app/release/app-release.apk,d2c59c53b30defd05f933c05039f6715f6d37121,VU#93

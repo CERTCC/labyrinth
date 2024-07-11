@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+820711295,Fatalitysec/vsftpd_2.3.4_Backdoor,README.md,d92e6b58f45e54519f75b2da5e6c784f10008a6d,CVE-2011-2523
+820711295,Fatalitysec/vsftpd_2.3.4_Backdoor,_GITHUB_REPO_METADATA_,,CVE-2011-2523

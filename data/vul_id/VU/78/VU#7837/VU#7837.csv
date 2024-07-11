@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#7837,0.01282051,https://github.com/hupe1980/aisploit,hupe1980/aisploit,762676512
 VU#7837,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093

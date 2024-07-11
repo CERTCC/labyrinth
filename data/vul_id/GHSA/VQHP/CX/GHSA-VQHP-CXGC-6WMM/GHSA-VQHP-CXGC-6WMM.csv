@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-VQHP-CXGC-6WMM,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-6817,Live-Hack-CVE/CVE-2020-6817,602786582
+GHSA-VQHP-CXGC-6WMM,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-VQHP-CXGC-6WMM,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

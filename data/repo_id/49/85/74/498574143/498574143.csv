@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+498574143,SystemJargon/infosec-windows-2022,README.md,209b2115ba12f9e456a853272efc190cce0aaff4,CVE-2021-34527
+498574143,SystemJargon/infosec-windows-2022,README.md,209b2115ba12f9e456a853272efc190cce0aaff4,CVE-2022-30190
+498574143,SystemJargon/infosec-windows-2022,CVE-2021-34527/NoRestrictDriverInstallationToAdministrators.reg,54fa19f58f173465b52cf9a6e2b575383fdcc169,CVE-2021-34527
+498574143,SystemJargon/infosec-windows-2022,CVE-2021-34527/README.md,6bf45e97161dfc60d104f52a71aa666a8af5ca39,CVE-2021-34527
+498574143,SystemJargon/infosec-windows-2022,CVE-2021-34527/RestrictDriverInstallationToAdministrators.reg,ad434185f7b94e4747d1420996d399a7d22b7201,CVE-2021-34527
+498574143,SystemJargon/infosec-windows-2022,CVE-2022-30190/README.md,c87ac613c7fba258662ca9db619aa539cef978db,CVE-2022-30190
+498574143,SystemJargon/infosec-windows-2022,CVE-2022-30190/detect-mitigate-cve-2022-30190.ps1,d92bfcbf475aa3307fcb441c05a05665ecda8930,CVE-2022-30190
+498574143,SystemJargon/infosec-windows-2022,CVE-2022-30190/follina-GPO-mitigation.md,e108ef8947a7c8be5b79d0af9d442290c6813dae,CVE-2022-30190
+498574143,SystemJargon/infosec-windows-2022,CVE-2022-30190/observed-domains.txt,f93ce3b95ff1f43b0119d055fcd2d77f3b6d13ef,CVE-2022-30190

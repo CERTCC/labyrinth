@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+540200274,thekevinday/docker_lightman_exploit,README.md,0d029d36d74738574f5c995f65aa823c51f2294c,CVE-2022-37708
+540200274,thekevinday/docker_lightman_exploit,_GITHUB_REPO_METADATA_,,CVE-2022-37708

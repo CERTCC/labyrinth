@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+596623131,duc-nt/CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC,README.md,d8c9baf9039dc18e3fbd1187c9d07feb9741f40b,CVE-2022-44268
+596623131,duc-nt/CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC,_GITHUB_REPO_METADATA_,,CVE-2022-44268

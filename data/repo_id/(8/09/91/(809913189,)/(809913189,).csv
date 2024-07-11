@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+809913189,btar1gan/exploit_CVE-2022-24112,README.md,47b5f2b77c66fb77ad0c6842f664df62000dcc57,CVE-2022-24112
+809913189,btar1gan/exploit_CVE-2022-24112,_GITHUB_REPO_METADATA_,,CVE-2022-24112

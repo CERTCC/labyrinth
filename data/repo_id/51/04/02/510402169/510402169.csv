@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+510402169,r1skkam/TryHackMe-Atlassian-CVE-2022-26134,README.md,83d9da01c6a6bd9435c3217b9d1bd1310b65deb8,CVE-2022-26134
+510402169,r1skkam/TryHackMe-Atlassian-CVE-2022-26134,_GITHUB_REPO_METADATA_,,CVE-2022-26134

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+768508398,0x1x02/GLiNet-Router-Auth-Bypass,README.md,2e6f5c91eed580acf1f46bcdff74c8edf239a19d,CVE-2023-46453
+768508398,0x1x02/GLiNet-Router-Auth-Bypass,_GITHUB_REPO_METADATA_,,CVE-2023-46453

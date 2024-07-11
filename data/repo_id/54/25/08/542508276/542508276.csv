@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+542508276,tib36/Nokali-Kit,Module/Tomcat_PUT_RCE.java,b7aa02183843f74067969d09ec3d1e57c85ab270,CVE-2017-12615

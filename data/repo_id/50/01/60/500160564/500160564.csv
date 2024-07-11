@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+500160564,diurs/CVE-2020-24186-wordpress-wpDiscuz,README.md,1a275270715cd10d6817726c845247873efa909b,CVE-2020-24186
+500160564,diurs/CVE-2020-24186-wordpress-wpDiscuz,poc_wpdiscuz.py,23030c6acf5ae017dbe7dd75b57210392c256e9d,CVE-2020-24186
+500160564,diurs/CVE-2020-24186-wordpress-wpDiscuz,pocwp.py,a4decdf3ac7eb2aaad354ee79e2df49ca45e228a,CVE-2020-24186
+500160564,diurs/CVE-2020-24186-wordpress-wpDiscuz,_GITHUB_REPO_METADATA_,,CVE-2020-24186

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+562047152,yubhyper/Exploit-Version,inject1.dll,1c9cd60bf2761947730c5cfc0fd082883e691eff,VU#96
+562047152,yubhyper/Exploit-Version,kernel64.sys.dll,2200e8c8cd10a4ca26a23e04f7bdb357b8ddde80,VU#40
+562047152,yubhyper/Exploit-Version,inject2.dll,3fd3dfc74e1a8976b41a7ac10a954b6a6f8edff3,VU#34

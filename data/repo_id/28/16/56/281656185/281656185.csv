@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+281656185,smallkirby/kernelpwn,test/bzImage,72232944686e64b5f0ce9837ed58d56cb8d82b15,VU#22
+281656185,smallkirby/kernelpwn,test/bzImage,72232944686e64b5f0ce9837ed58d56cb8d82b15,VU#56
+281656185,smallkirby/kernelpwn,test/bzImage,72232944686e64b5f0ce9837ed58d56cb8d82b15,VU#62
+281656185,smallkirby/kernelpwn,test/bzImage,72232944686e64b5f0ce9837ed58d56cb8d82b15,VU#64
+281656185,smallkirby/kernelpwn,README.md,c8891c450d025338b27c080cc6b6031dad3caab3,ZDI-20-1440

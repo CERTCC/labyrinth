@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+778341084,Chocapikk/CVE-2024-31819,README.md,30cf63ee6610f4a5f4be6072a6d2d09c09c56e80,CVE-2024-31819
+778341084,Chocapikk/CVE-2024-31819,exploit.py,4764a2bb18de25a0eb2a9926e96af930d15e2a12,CVE-2024-31819
+778341084,Chocapikk/CVE-2024-31819,modules/exploits/multi/http/avideo_wwbnindex_unauth_rce.rb,4d410ecb385e4d5405f6b5e775d21600444c1c49,CVE-2024-31819
+778341084,Chocapikk/CVE-2024-31819,_GITHUB_REPO_METADATA_,,CVE-2024-31819

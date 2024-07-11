@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+475988297,lumalav/CAP6135_FinalProject,jndi-exploit/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#23
+475988297,lumalav/CAP6135_FinalProject,jndi-exploit/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#74
+475988297,lumalav/CAP6135_FinalProject,jndi-exploit/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#83
+475988297,lumalav/CAP6135_FinalProject,README.md,894668d13264726c6a4704517bb4997f256e640c,CVE-2021-44228

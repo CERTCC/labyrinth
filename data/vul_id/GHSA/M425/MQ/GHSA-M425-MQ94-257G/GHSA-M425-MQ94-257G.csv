@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-M425-MQ94-257G,0.14285714,https://github.com/bahe-msft/govuln-CVE-2023-47108,bahe-msft/govuln-CVE-2023-47108,819728794

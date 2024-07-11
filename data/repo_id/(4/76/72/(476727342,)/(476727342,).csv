@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+476727342,Decurity/semgrep-smart-contracts,solidity/security/openzeppelin-ecdsa-recover-malleable.yaml,e36d277f051fd5a0200b2a055f876a76cbe3dd20,GHSA-4H98-2769-GH6H

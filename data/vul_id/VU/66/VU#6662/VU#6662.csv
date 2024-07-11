@@ -1,3 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#6662,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#6662,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
-VU#6662,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
+VU#6662,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
+VU#6662,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#6662,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
+VU#6662,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
+VU#6662,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
+VU#6662,0.00222222,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090

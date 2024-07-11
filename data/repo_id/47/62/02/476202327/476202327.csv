@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+476202327,nanopathi/system_core_AOSP10_r33_CVE-2020-0421,libbacktrace/testdata/arm/libGLESv2_adreno.so,53c46badbe8334b5c0688c9bf707bb3231b44c70,VU#10
+476202327,nanopathi/system_core_AOSP10_r33_CVE-2020-0421,deprecated-adf/libadfhwc/include/adfhwc/adfhwc.h,e4ed44a8425b9a5248f04cbf3cad00ec037898be,VU#420
+476202327,nanopathi/system_core_AOSP10_r33_CVE-2020-0421,_GITHUB_REPO_METADATA_,,CVE-2020-0421

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+499581444,R3LI4NT/ctf-retos,1- Maquinas-Easy/Kioptix_1.md,321ab373e5524f3c2a43a7ebade71249b2f25481,CVE-2002-0082
+499581444,R3LI4NT/ctf-retos,3- Maquinas-Hard/Prime_1.md,d90d8917975e11af9c0e489095a7e678838fd3f5,CVE-2017-16995

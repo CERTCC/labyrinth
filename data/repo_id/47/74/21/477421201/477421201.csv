@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+477421201,netsentriesdev/spring4Shell-Safe-Exploit,README.md,3b4658bf5267af9e733001a23a50994197c0aa8b,CVE-2022-22965

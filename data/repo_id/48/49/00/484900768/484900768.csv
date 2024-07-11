@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+484900768,ExploitPwner/CVE-2021-20038-Mass-RCE-SonicWall,README.md,6d084353787a9d42fff5f17fad56f7e09b3172e2,CVE-2021-20038
+484900768,ExploitPwner/CVE-2021-20038-Mass-RCE-SonicWall,_GITHUB_REPO_METADATA_,,CVE-2021-20038

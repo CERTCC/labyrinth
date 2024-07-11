@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+533987858,digital-dev/Log4j-CVE-2021-44228-Remediation,Log4j-CVE-2021-44228-Remediation.ps1,4746f5bf5d8e7cb6a3887fe042bd4f4d26440743,CVE-2021-44228
+533987858,digital-dev/Log4j-CVE-2021-44228-Remediation,README.md,4aaf3c28f8a70600065d782e7560850c1240823e,CVE-2021-44228
+533987858,digital-dev/Log4j-CVE-2021-44228-Remediation,_GITHUB_REPO_METADATA_,,CVE-2021-44228

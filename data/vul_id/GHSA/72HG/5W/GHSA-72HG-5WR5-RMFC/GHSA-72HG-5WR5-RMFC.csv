@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-72HG-5WR5-RMFC,0.50000000,https://github.com/Cyber-Wo0dy/CVE-2023-47129,Cyber-Wo0dy/CVE-2023-47129,718117758
+GHSA-72HG-5WR5-RMFC,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

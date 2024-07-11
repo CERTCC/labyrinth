@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+188614466,Placidina/metasploit,vulnerabilities/cve-2019-19886/README.md,6c50a75db7a0ac3571d4a6330b73de0f56d01d24,CVE-2019-19886
+188614466,Placidina/metasploit,vulnerabilities/cve-2019-9516/README.md,756476bc30c8fa808685e5f4a1866dc450a895b7,CVE-2019-9516
+188614466,Placidina/metasploit,vulnerabilities/cve-2019-9516/files/certificate.crt,8533b15e7cf0910c007117bab2cc215176e60a00,CVE-2019-9516
+188614466,Placidina/metasploit,vulnerabilities/cve-2019-9516/files/nginx.conf,9ab5d4ba34dc5ad01d36f02853d5913e90b370e5,CVE-2019-9516
+188614466,Placidina/metasploit,vulnerabilities/cve-2019-19886/docker-compose.yaml,9d88c8776e1b3de1b2e004d9ef913a9f7f27e398,CVE-2019-19886
+188614466,Placidina/metasploit,modules/auxiliary/dos/http/http2_rapid_reset.rb,a146b741b47950f4fe0f2b7e039c92d6f676e0c5,CVE-2023-44487
+188614466,Placidina/metasploit,vulnerabilities/cve-2019-9516/docker-compose.yaml,a77c41055898aa7381117d85b9cd1d16644aacab,CVE-2019-9516
+188614466,Placidina/metasploit,vulnerabilities/cve-2019-9516/files/certificate.key,b4fe33f88ad63f22a1f83ed278bee6d231b89f85,CVE-2019-9516

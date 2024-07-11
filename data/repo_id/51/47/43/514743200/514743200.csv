@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+514743200,ooooooo-q/cve-2022-32224-rails,config/environments/production.rb,35d05a8c9a0ba309a46d71509b91960e7d3df6f6,CVE-2022-32224
+514743200,ooooooo-q/cve-2022-32224-rails,README.md,bdee8bb9a166ae065a66f656e7e408a80e2f3a09,CVE-2022-3222
+514743200,ooooooo-q/cve-2022-32224-rails,README.md,bdee8bb9a166ae065a66f656e7e408a80e2f3a09,CVE-2022-32224
+514743200,ooooooo-q/cve-2022-32224-rails,_GITHUB_REPO_METADATA_,,CVE-2022-32224

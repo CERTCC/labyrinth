@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2019-20835,0.02500000,https://github.com/360rce/360rce.github.io,360rce/360rce.github.io,694016480
+CNVD-2019-20835,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2019-20835,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

@@ -1,2 +1,16 @@
 repo_id,repo_full_name,file,file_sha1,match
+126197487,marcocesarato/PHP-Antimalware-Scanner,docs/yarn.lock,3ce7cb9262219681e24e7bcc92f9ffa7aab134e9,VU#18
+126197487,marcocesarato/PHP-Antimalware-Scanner,docs/yarn.lock,3ce7cb9262219681e24e7bcc92f9ffa7aab134e9,VU#49
+126197487,marcocesarato/PHP-Antimalware-Scanner,docs/yarn.lock,3ce7cb9262219681e24e7bcc92f9ffa7aab134e9,VU#62
+126197487,marcocesarato/PHP-Antimalware-Scanner,docs/yarn.lock,3ce7cb9262219681e24e7bcc92f9ffa7aab134e9,VU#67
+126197487,marcocesarato/PHP-Antimalware-Scanner,docs/yarn.lock,3ce7cb9262219681e24e7bcc92f9ffa7aab134e9,VU#85
 126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,CVE-2013-6420
+126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,VU#32
+126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,VU#33
+126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,VU#37
+126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,VU#396
+126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,VU#49
+126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,VU#65
+126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,VU#82
+126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,VU#84
+126197487,marcocesarato/PHP-Antimalware-Scanner,bin/composer,9af5d8f274be44c8487d05b3d1b7e7afaaa25774,VU#85

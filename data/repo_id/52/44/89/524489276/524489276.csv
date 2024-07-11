@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+524489276,BagmetDenis/exploits_scripts,README.md,538143dc1aeeaf8c47334c7c72bcca09c065ad47,CVE-2016-10033
+524489276,BagmetDenis/exploits_scripts,cve-2016-10033/README.md,e460987f83ee3eb1268c4ceb9d716ec4a4765cd5,CVE-2016-10033
+524489276,BagmetDenis/exploits_scripts,cve-2016-10033/main.py,f95f05ad30efcf1cdb561c0a94c9de2d2b0c41c7,CVE-2016-10033

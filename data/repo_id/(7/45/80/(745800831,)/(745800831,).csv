@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+745800831,michalbednarski/TheLastBundleMismatch,README.md,1a7e38b5feb629d85d79c0de3d2861362c36e10a,CVE-2023-20944
+745800831,michalbednarski/TheLastBundleMismatch,README.md,1a7e38b5feb629d85d79c0de3d2861362c36e10a,CVE-2023-21098
+745800831,michalbednarski/TheLastBundleMismatch,README.md,1a7e38b5feb629d85d79c0de3d2861362c36e10a,CVE-2023-35669
+745800831,michalbednarski/TheLastBundleMismatch,README.md,1a7e38b5feb629d85d79c0de3d2861362c36e10a,CVE-2023-45777
+745800831,michalbednarski/TheLastBundleMismatch,_GITHUB_REPO_METADATA_,,CVE-2023-45777

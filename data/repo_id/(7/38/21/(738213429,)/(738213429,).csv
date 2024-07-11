@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+738213429,CalegariMindSec/Exploit-CVE-2023-22515,xpl.sh,52da0b84e72f0a9cc0537242016039b4e1bf0cc8,CVE-2023-22515
+738213429,CalegariMindSec/Exploit-CVE-2023-22515,README.md,e9fdce07e5d47a62d12624c0ae07d2ff6503fab8,CVE-2023-22515
+738213429,CalegariMindSec/Exploit-CVE-2023-22515,_GITHUB_REPO_METADATA_,,CVE-2023-22515

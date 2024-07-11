@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+588582544,WellingtonEspindula/SSI-CVE-2022-21661,exploit.py,02718211304b16366c4d4c4b8efb9c917bd3e672,CVE-2022-21661
+588582544,WellingtonEspindula/SSI-CVE-2022-21661,README.md,d63dca43b761e9f9725bf9fe2ec36877ceddacb2,CVE-2022-21661
+588582544,WellingtonEspindula/SSI-CVE-2022-21661,_GITHUB_REPO_METADATA_,,CVE-2022-21661

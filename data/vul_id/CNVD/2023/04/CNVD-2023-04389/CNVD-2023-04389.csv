@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2023-04389,0.00307692,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+CNVD-2023-04389,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+CNVD-2023-04389,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

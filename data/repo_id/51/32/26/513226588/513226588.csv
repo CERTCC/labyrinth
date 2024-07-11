@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+513226588,0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736,Nuclei-Templates/CVE-2017-17736.yaml,097ea843c12da79062e1b9d783bd1b795f4dff30,CVE-2017-1773
+513226588,0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736,Nuclei-Templates/CVE-2017-17736.yaml,097ea843c12da79062e1b9d783bd1b795f4dff30,CVE-2017-17736
+513226588,0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736,README.md,a4c3bee7261ac8ed45ea3d8df0f73fc0d4c0cb8a,CVE-2017-17736
+513226588,0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736,_GITHUB_REPO_METADATA_,,CVE-2017-17736

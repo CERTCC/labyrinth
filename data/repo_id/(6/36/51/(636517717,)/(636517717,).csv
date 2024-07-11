@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+636517717,xkaneiki/CVE-2023-0386,test/mnt.c,66d11f6e54ab600889e20f0a617a49a28d2315bd,CVE-2023-0386
+636517717,xkaneiki/CVE-2023-0386,_GITHUB_REPO_METADATA_,,CVE-2023-0386

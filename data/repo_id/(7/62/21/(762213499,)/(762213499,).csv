@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+762213499,7scripts7/exploits,Web/CVE-2024-25600_wp_exploit.py,3cb65afd15efa94780d2bf53753fc0e028f693ad,CVE-2024-25600
+762213499,7scripts7/exploits,Web/CVE-2024-27198.py,4a89c06463a8ca3bb6d594e0ebdef28d3e9449a9,CVE-2024-27198
+762213499,7scripts7/exploits,Web/watchtowr-vs-ConnectWise_CVE-2024-1709.py,597bdc4efe39e1869751a90654ecf2fa6c161982,CVE-2024-1709

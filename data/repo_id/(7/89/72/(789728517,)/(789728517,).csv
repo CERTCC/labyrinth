@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+789728517,sftp-nik/ExploitEclipse,script.py,1901fbba0145ed4e8951a36f0358a89d9f6ed4a4,CVE-2020-1234
+789728517,sftp-nik/ExploitEclipse,script.py,1901fbba0145ed4e8951a36f0358a89d9f6ed4a4,MS17-010
+789728517,sftp-nik/ExploitEclipse,README.md,563b2a37c7189b63c03412a3a0e638b91c17d95e,CVE-2020-1234
+789728517,sftp-nik/ExploitEclipse,README.md,563b2a37c7189b63c03412a3a0e638b91c17d95e,MS17-010

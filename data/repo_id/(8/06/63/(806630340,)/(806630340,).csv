@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+806630340,nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253,README.md,1b95db3ba74a55cd056a9928775aaad903cd1741,CVE-2023-30253
+806630340,nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253,exploit.py,fe2dfab7eadade43e6baeba48fa8e763d4c395a0,CVE-2023-30253
+806630340,nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253,_GITHUB_REPO_METADATA_,,CVE-2023-30253

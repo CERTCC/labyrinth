@@ -1,0 +1,5 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2022-23942,0.50000000,https://github.com/nu0l/CVE-2022-22965,nu0l/CVE-2022-22965,476606565
+CNVD-2022-23942,0.33333333,https://github.com/wyunan/CVE-POC,wyunan/CVE-POC,478612578
+CNVD-2022-23942,0.25000000,https://github.com/iloveflag/Fast-CVE-2022-22965,iloveflag/Fast-CVE-2022-22965,563378340
+CNVD-2022-23942,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

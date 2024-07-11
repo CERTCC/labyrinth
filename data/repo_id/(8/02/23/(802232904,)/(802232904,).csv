@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+802232904,amalmurali47/hook,README.md,35aaf35bbe0ec4f9ad3c130be847b54c3bf25137,CVE-2024-32002
+802232904,amalmurali47/hook,README.md,35aaf35bbe0ec4f9ad3c130be847b54c3bf25137,GHSA-8H77-4Q3W-GFGV
+802232904,amalmurali47/hook,_GITHUB_REPO_METADATA_,,CVE-2024-32002

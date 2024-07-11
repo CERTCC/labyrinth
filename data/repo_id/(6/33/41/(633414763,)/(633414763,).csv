@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+633414763,YounesTasra-R4z3rSw0rd/CTF-Scripts,HTB/Beep/CVE-2012-4869/cve-2012-4869.py,29ecc704fa23a3013be49936aac9669e27dc314b,CVE-2012-4869
+633414763,YounesTasra-R4z3rSw0rd/CTF-Scripts,THM/Zeno/README.md,4cfc325ce0f7d8592e85dd1fa818618bbc75d1fe,CVE-2019-18417
+633414763,YounesTasra-R4z3rSw0rd/CTF-Scripts,HTB/Academy/Initial Foothold.md,89163faa45626a6feea1746aebebd9955905ce0b,CVE-2018-15133
+633414763,YounesTasra-R4z3rSw0rd/CTF-Scripts,HTB/Academy/poc.php,92addd05ef4626b1ecc09d731ba8c1a876081a65,VU#25
+633414763,YounesTasra-R4z3rSw0rd/CTF-Scripts,HTB/Academy/README.md,b387d9fb4d8c75bce1e67271fa3bbb1335fe0622,CVE-2018-15133
+633414763,YounesTasra-R4z3rSw0rd/CTF-Scripts,HTB/Beep/CVE-2012-4869/README.md,ca5ae358d787dfbe2e56fef7dadeeb455a259fad,CVE-2012-4869

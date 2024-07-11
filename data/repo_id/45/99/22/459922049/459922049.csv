@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+459922049,wambo-co/magento-1.9-cve-2022-24086,README.md,3613c9563845305adf912b43b7432fefec3d8055,CVE-2022-24086
+459922049,wambo-co/magento-1.9-cve-2022-24086,magento-1.9-cve-2022-24086.patch,98c602cfdd7293a3c146cc9f4106658f4e5975be,CVE-2022-24086
+459922049,wambo-co/magento-1.9-cve-2022-24086,_GITHUB_REPO_METADATA_,,CVE-2022-24086

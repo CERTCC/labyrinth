@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+499194358,intentagmbh/cve_2022-30190,demo-files-0602/payload-02.rtf,4d186168ec0786f82ec9e380813a69de9fb4bf6b,CVE-2022-30190
+499194358,intentagmbh/cve_2022-30190,demo-files-0602/payload-01.rtf,adfc9b4478d8df684a3569e02df515944e108d44,CVE-2022-30190
+499194358,intentagmbh/cve_2022-30190,_GITHUB_REPO_METADATA_,,CVE-2022-30190

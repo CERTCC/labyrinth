@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+696847089,gergelykalman/CVE-2023-32364-macos-app-sandbox-escape,README.md,53ea70c13c28cd6f6e2afe4b80fb4fe7cccdde86,CVE-2023-32364
+696847089,gergelykalman/CVE-2023-32364-macos-app-sandbox-escape,_GITHUB_REPO_METADATA_,,CVE-2023-32364

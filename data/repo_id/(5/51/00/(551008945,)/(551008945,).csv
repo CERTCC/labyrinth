@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+551008945,draco1725/POC,Exploit/Simple Online Public Access Catalog/XSS,066b27044e7b51538258549147724141f6ab3678,CVE-2022-42991
+551008945,draco1725/POC,Exploit/Stored Xss,2c254b97f6923dc20ec366e1d3772518283646e1,CVE-2022-3502
+551008945,draco1725/POC,Exploit/Train Scheduler App/XSS,2e7711da20c7f3647029167541b9cf0b7fe376ad,CVE-2022-42992
+551008945,draco1725/POC,Exploit/Password Storage Application/XSS,ca54123172a8d4ce50399d8e0d8dc4cc04b6a509,CVE-2022-42993

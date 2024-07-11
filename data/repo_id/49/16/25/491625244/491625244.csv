@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+491625244,MarcinGadz/spring-rce-poc,README.md,fdbe3ede06bd853260a9bc76db4f9e09e8e711ba,CVE-2022-22968
+491625244,MarcinGadz/spring-rce-poc,_GITHUB_REPO_METADATA_,,CVE-2022-22968

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+529630669,stryker-project/CVE-2022-27255-checker,checker.py,0e9b42f1d1656decf522c76c4b237571846a0a30,CVE-2022-27255
+529630669,stryker-project/CVE-2022-27255-checker,README.md,6c738ee42dc34b37de00f17e5f32d6995e78f463,CVE-2022-27255
+529630669,stryker-project/CVE-2022-27255-checker,_GITHUB_REPO_METADATA_,,CVE-2022-27255

@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,CVE-2013-6420
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,VU#32
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,VU#33
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,VU#396
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,VU#49
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,VU#53
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,VU#65
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,VU#82
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,VU#84
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,wp-cli.phar,44556e41382b62e87d8b35de6aef454285a6d3cc,VU#85
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,readme.md,6ef1e92c382ea466ca2bd7a6b4749e9bdb501620,CVE-2022-21661
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,sploit.py,a8ee8ea696209dac19e7659fd2cd86e601fe3a82,CVE-2022-21661
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
+497289034,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,_GITHUB_REPO_METADATA_,,CVE-2022-21661

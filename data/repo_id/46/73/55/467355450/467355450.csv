@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+467355450,rahul1406/cve-2022-0847dirtypipe-exploit,README.md,76a7fbf1796982b707bf0c05aa954a583251d880,CVE-2022-0847
+467355450,rahul1406/cve-2022-0847dirtypipe-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-0847

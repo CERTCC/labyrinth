@@ -1,5 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-59490,0.01960784,https://github.com/natthasath/cms-detect-exploit-cmseek,natthasath/cms-detect-exploit-cmseek,570450076
 BID-59490,0.01960784,https://github.com/Sorrok-Exploit/CMSeeK,Sorrok-Exploit/CMSeeK,382800310
 BID-59490,0.01960784,https://github.com/Tuhinshubhra/CMSeeK,Tuhinshubhra/CMSeeK,137285153
-BID-59490,0.01886792,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
+BID-59490,0.01694915,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
+BID-59490,0.01492537,https://github.com/N0b1ta/Bit-Cannon,N0b1ta/Bit-Cannon,430397431
 BID-59490,0.00518135,https://github.com/sabri-zaki/EasY_HaCk,sabri-zaki/EasY_HaCk,148261032

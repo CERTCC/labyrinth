@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+517823473,ehtec/camp-exploit,README.md,1665631aa406810dcffb49195ae501d05734c309,CVE-2022-37109
+517823473,ehtec/camp-exploit,exploit.txt,ad73a8416e5be41039f432edf12dbf3e34b2481a,CVE-2022-37109

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+799436271,quantiom/litespeed-cache-xss-poc,README.md,f6e42638884d3f7732e712267c62476ed6438e88,CVE-2023-40000
+799436271,quantiom/litespeed-cache-xss-poc,_GITHUB_REPO_METADATA_,,CVE-2023-40000

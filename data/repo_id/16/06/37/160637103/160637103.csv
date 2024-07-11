@@ -1,5 +1,1 @@
-repo_id,repo_full_name,file,file_sha1,match
-160637103,xairy/vmware-exploitation,README.md,4c52e33d81d011633791d1696652bb633852b702,CVE-2017-4901
-160637103,xairy/vmware-exploitation,README.md,4c52e33d81d011633791d1696652bb633852b702,CVE-2018-6973
-160637103,xairy/vmware-exploitation,README.md,4c52e33d81d011633791d1696652bb633852b702,CVE-2020-3947
-160637103,xairy/vmware-exploitation,README.md,4c52e33d81d011633791d1696652bb633852b702,ZDI-19-421
+

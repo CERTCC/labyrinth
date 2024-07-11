@@ -1,6 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-158777804,WinMin/awesome-vm-exploit,README.md,dd11cfdf4812c649481e348d03f9d83c2003ce3a,CVE-2015-7504
-158777804,WinMin/awesome-vm-exploit,README.md,dd11cfdf4812c649481e348d03f9d83c2003ce3a,CVE-2015-7512
-158777804,WinMin/awesome-vm-exploit,README.md,dd11cfdf4812c649481e348d03f9d83c2003ce3a,CVE-2017-4901
-158777804,WinMin/awesome-vm-exploit,README.md,dd11cfdf4812c649481e348d03f9d83c2003ce3a,CVE-2017-5123
-158777804,WinMin/awesome-vm-exploit,README.md,dd11cfdf4812c649481e348d03f9d83c2003ce3a,CVE-2020-14364
+158777804,WinMin/awesome-vm-exploit,README.md,a73cbf6a8cbbe3d861a48030648a4b70813c51eb,CVE-2015-7504
+158777804,WinMin/awesome-vm-exploit,README.md,a73cbf6a8cbbe3d861a48030648a4b70813c51eb,CVE-2015-7512
+158777804,WinMin/awesome-vm-exploit,README.md,a73cbf6a8cbbe3d861a48030648a4b70813c51eb,CVE-2017-4901
+158777804,WinMin/awesome-vm-exploit,README.md,a73cbf6a8cbbe3d861a48030648a4b70813c51eb,CVE-2017-5123
+158777804,WinMin/awesome-vm-exploit,README.md,a73cbf6a8cbbe3d861a48030648a4b70813c51eb,CVE-2020-14364
+158777804,WinMin/awesome-vm-exploit,README.md,a73cbf6a8cbbe3d861a48030648a4b70813c51eb,CVE-2022-31705
+158777804,WinMin/awesome-vm-exploit,README.md,a73cbf6a8cbbe3d861a48030648a4b70813c51eb,CVE-2023-27326

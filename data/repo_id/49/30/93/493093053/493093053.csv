@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+493093053,VinuKalana/DirtyPipe-CVE-2022-0847,README.md,0cfc7cd510fb2673d092ef3b57881694bbda7cfe,CVE-2022-0847
+493093053,VinuKalana/DirtyPipe-CVE-2022-0847,exploit.c,f6b79d0da3566fd0c765e62a22a72704ee0a1df4,CVE-2022-0847
+493093053,VinuKalana/DirtyPipe-CVE-2022-0847,_GITHUB_REPO_METADATA_,,CVE-2022-0847

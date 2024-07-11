@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+360327405,saferwall/malware-souk,corpus/Maze/README.md,3bc36e510e56a855dbdddada35cb14fad5a665c8,CVE-2016-7255
+360327405,saferwall/malware-souk,corpus/Maze/README.md,3bc36e510e56a855dbdddada35cb14fad5a665c8,CVE-2018-8453
+360327405,saferwall/malware-souk,yaml/maze.yaml,6aa4151784c0d3aa5d038ccbe40a9fbbce1e03d9,CVE-2016-7255
+360327405,saferwall/malware-souk,yaml/maze.yaml,6aa4151784c0d3aa5d038ccbe40a9fbbce1e03d9,CVE-2018-8453
+360327405,saferwall/malware-souk,corpus/Hive/samples/88f7544a29a2ceb175a135d9fa221cbfd3e8c71f32dd6b09399717f85ea9afd1.zip,753b81f9617b9b6479559aefe153f7f027fded9f,VU#87
+360327405,saferwall/malware-souk,corpus/Hive/samples/bdf3d5f4f1b7c90dfc526340e917da9e188f04238e772049b2a97b4f88f711e3.zip,ab57767d721d90b211fa100426fdc976b5c2202f,VU#98

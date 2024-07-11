@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+606530843,EkamSinghWalia/Detection-script-for-cve-2021-23358,README.md,b22794d9ca67c084ec3553ebd2cda6e81fd678df,CVE-2021-23358
+606530843,EkamSinghWalia/Detection-script-for-cve-2021-23358,cve-2021-23358.sh,e6ea0a598f5b63c4187ccd4e5538c126cc42dfa4,CVE-2021-23358
+606530843,EkamSinghWalia/Detection-script-for-cve-2021-23358,_GITHUB_REPO_METADATA_,,CVE-2021-23358

@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+247231763,TAbdiukov/Exploit-DB,ms08_067-custom/ms08_067_2018.py,038f24ad20ee7c507c1e261fca596762488e2467,MS08-067
+247231763,TAbdiukov/Exploit-DB,README.md,79bcb9ba7ac7b01198011889186c98f6ab85e50f,MS08-067
+247231763,TAbdiukov/Exploit-DB,ms08_067-custom/Instructions.md,f3e50fa05138365fd990e1525411c2c496928b53,MS08-067

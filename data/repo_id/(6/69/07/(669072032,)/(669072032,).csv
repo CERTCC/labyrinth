@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter05/firmware/openwrt-ar300m16-3.215-0921-1663732630.bin,241ced6c45678dbd0e2f1f5efaf81cef302e97b0,VU#27
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter03/vulnerablesp/yogiSP/jsonparse.py,5be6aeaa81a881ebe273d49caa16bb2ae0472d43,CVE-2017-11427
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter03/vulnerablesp/yogiSP/vulnsp.py,5e856e90169973c40b7c6b1f4a94fe685b6cafb0,CVE-2017-11427
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter03/vulnerablesp/yogiSP/templates/settings.html,603ea31a7cf22d992b64ca0eb57f1e2f1cf967fc,CVE-2017-11427
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#03
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#04
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#13
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#251
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#36
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#64
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#74
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#85
+669072032,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,Chapter06/app/Aurora-linux-x64-0.6.6.zip,b75d2b8dce202fcf45858ffe9ed54afe1834c6a7,VU#97

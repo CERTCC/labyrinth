@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+91351475,apoorv1126/Offensive-Security,reverse-shells,7e5a419c9d908a61c14afbaf967ced46e95ac376,VU#58
+91351475,apoorv1126/Offensive-Security,reverse-shells,7e5a419c9d908a61c14afbaf967ced46e95ac376,VU#87
+91351475,apoorv1126/Offensive-Security,HaackedMachines-HTB,baf9cd1211edd36174cc1c4c0dcd1d4b914985cd,MS14-070
+91351475,apoorv1126/Offensive-Security,Powershell-projects-offensive,ce213f70578fe17f4ba6763307d26eb42672e149,MS16-032

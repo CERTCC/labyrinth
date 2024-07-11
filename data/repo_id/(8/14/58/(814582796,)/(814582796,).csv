@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+814582796,r0lh/kygocera,kygocera.go,4ae7b00a38f313f84d5709bdf18a29df6658b21d,CVE-2022-1026
+814582796,r0lh/kygocera,README.md,54286594ce2686b450e7aa9273a4a31af4e558cb,CVE-2022-1026
+814582796,r0lh/kygocera,_GITHUB_REPO_METADATA_,,CVE-2022-1026

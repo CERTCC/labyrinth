@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+506149832,jweny/cve-2022-22980-exp,README.md,005663ce3d8dc87ae61e5964daa21760a953da70,CVE-2022-22980
+506149832,jweny/cve-2022-22980-exp,_GITHUB_REPO_METADATA_,,CVE-2022-22980

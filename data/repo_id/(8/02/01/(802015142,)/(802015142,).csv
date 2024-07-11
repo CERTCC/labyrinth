@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Internal.md,10698eb73e1ed24f768d3e677e8a12b749d8e083,CVE-2002-1614
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Internal.md,10698eb73e1ed24f768d3e677e8a12b749d8e083,CVE-2011-1485
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Internal.md,10698eb73e1ed24f768d3e677e8a12b749d8e083,CVE-2019-13272
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Alfred.md,a3bab83727b21f579067b5521af34b2368cd9019,CVE-2007-6750
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Alfred.md,a3bab83727b21f579067b5521af34b2368cd9019,MS10-054
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Alfred.md,a3bab83727b21f579067b5521af34b2368cd9019,MS10-061
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Daily Bugle.md,d9f7e49d8d3e4b0a05bef5664c07a0d6bc072d54,CVE-2017-8917
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Blue.md,e13b9667255118a24bfadd9812b770a19829338d,CVE-2012-0002
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Blue.md,e13b9667255118a24bfadd9812b770a19829338d,CVE-2012-0152
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Blue.md,e13b9667255118a24bfadd9812b770a19829338d,CVE-2012-1182
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Blue.md,e13b9667255118a24bfadd9812b770a19829338d,CVE-2017-0143
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Blue.md,e13b9667255118a24bfadd9812b770a19829338d,MS10-054
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Blue.md,e13b9667255118a24bfadd9812b770a19829338d,MS10-061
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Blue.md,e13b9667255118a24bfadd9812b770a19829338d,MS12-020
+802015142,h0r0x/Vulnerable-Machines-Writeups-Collection,THM/Blue.md,e13b9667255118a24bfadd9812b770a19829338d,MS17-010

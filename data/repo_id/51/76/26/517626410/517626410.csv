@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+517626410,sazolborman/Fake_News_Detection,model.pickle,2b76694a7395fa92eb91462630bf4ae85b471120,VU#47
+517626410,sazolborman/Fake_News_Detection,news.csv,4a56288b969f9aaa1b5117287263db1ad8b2ec18,BID-21
+517626410,sazolborman/Fake_News_Detection,news.csv,4a56288b969f9aaa1b5117287263db1ad8b2ec18,BID-35

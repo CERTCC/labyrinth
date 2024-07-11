@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+406167128,Nwqda/Sashimi-Evil-OctoBot-Tentacle,sashimi.py,dad47d3b6d811bcea0cb5bffc87d53ba44f2f982,CVE-2021-36711
+406167128,Nwqda/Sashimi-Evil-OctoBot-Tentacle,_GITHUB_REPO_METADATA_,,CVE-2021-36711

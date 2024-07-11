@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+473151472,mtthwstffrd/berdav-CVE-2021-4034,cve-2021-4034.sh,636089fa2cace9cc33f482d348e9de8cb5cfc571,CVE-2021-4034
+473151472,mtthwstffrd/berdav-CVE-2021-4034,dry-run/dry-run-cve-2021-4034.c,839aa6edf24024a62db30804caee7159f0a4f5e5,CVE-2021-4034
+473151472,mtthwstffrd/berdav-CVE-2021-4034,Makefile,95664620797325debd2639bfa62a6b8d1f48709e,CVE-2021-4034
+473151472,mtthwstffrd/berdav-CVE-2021-4034,dry-run/Makefile,c32ddde7ef0ee4286a619c7144ec53ea132f1e34,CVE-2021-4034
+473151472,mtthwstffrd/berdav-CVE-2021-4034,cve-2021-4034.c,dd1674bb5ef8fb2114be093f11c2a8674fc66fe5,CVE-2021-4034
+473151472,mtthwstffrd/berdav-CVE-2021-4034,README.md,ec3ec3bcb17a12c39870b61a2348c2c5c49d4113,CVE-2021-4034
+473151472,mtthwstffrd/berdav-CVE-2021-4034,_GITHUB_REPO_METADATA_,,CVE-2021-4034

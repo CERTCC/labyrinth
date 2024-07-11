@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+518331461,cscadoge/weblogic-cve-2018-2628,README.md,039a67e829481e52f8d846a706ff200465c4df24,CVE-2018-2628
+518331461,cscadoge/weblogic-cve-2018-2628,ysoserial-0.1-cve-2018-2628-all.jar,8bf7789ab4a373567c6c4207eb9d1f12bc52ceef,CVE-2018-2628
+518331461,cscadoge/weblogic-cve-2018-2628,ysoserial-0.1-cve-2018-2628-all.jar,8bf7789ab4a373567c6c4207eb9d1f12bc52ceef,VU#42
+518331461,cscadoge/weblogic-cve-2018-2628,ysoserial-0.1-cve-2018-2628-all.jar,8bf7789ab4a373567c6c4207eb9d1f12bc52ceef,VU#83
+518331461,cscadoge/weblogic-cve-2018-2628,weblogic-cve-2018-2628-exp.py,8dd98dc6075a7f89c21326221d54ea08066c4106,CVE-2018-2628
+518331461,cscadoge/weblogic-cve-2018-2628,_GITHUB_REPO_METADATA_,,CVE-2018-2628

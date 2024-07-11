@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+585696186,staturnzz/sw1tch,README.md,61b5082d0accdba2d139acad219163e1ecee18fe,CVE-2022-46689
+585696186,staturnzz/sw1tch,sw1tch.swift,8494c265220c3f8cf356ac9f73f97fe3e320acd7,CVE-2022-46689
+585696186,staturnzz/sw1tch,_GITHUB_REPO_METADATA_,,CVE-2022-46689

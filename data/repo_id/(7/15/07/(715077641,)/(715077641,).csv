@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+715077641,X1r0z/JNDIMap,scripts/solarwinds-amf-rce-1.groovy,899bbbf93ec2244f3f2dbcd67e9ec926d303853a,CVE-2024-0692
+715077641,X1r0z/JNDIMap,scripts/solarwinds-amf-rce-2.groovy,e3bb20cd5a69b8dbd5b71ddc7f4444a6f640d378,CVE-2024-0692

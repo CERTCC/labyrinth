@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+730705287,rajkshk2/windows-10-18362.30,cve-2020-0796.py,44b36ad303ec82deedf1b3a125beb652834c9fc4,CVE-2020-0796
+730705287,rajkshk2/windows-10-18362.30,cve-2020-0796-scanner.py,e3b2069b4f8c9644cf292fed0c4fec313d865c70,CVE-2020-0796

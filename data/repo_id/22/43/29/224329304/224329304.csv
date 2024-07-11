@@ -1,5 +1,10 @@
 repo_id,repo_full_name,file,file_sha1,match
 224329304,cn-panda/JavaCodeAudit,【04】SSRF 漏洞原理与实际案例介绍/【04】SSRF 漏洞原理与实际案例介绍.md,1dcad4fd81d799312e5b15ade19c3a07fe76baf0,CVE-2019-9827
+224329304,cn-panda/JavaCodeAudit,【04】SSRF 漏洞原理与实际案例介绍/hawtio-default-2.9.1.war,35eee7b06c06046f3436a50de30b8c94915bc311,VU#04
+224329304,cn-panda/JavaCodeAudit,【04】SSRF 漏洞原理与实际案例介绍/hawtio-default-2.9.1.war,35eee7b06c06046f3436a50de30b8c94915bc311,VU#37
+224329304,cn-panda/JavaCodeAudit,【04】SSRF 漏洞原理与实际案例介绍/hawtio-default-2.9.1.war,35eee7b06c06046f3436a50de30b8c94915bc311,VU#69
 224329304,cn-panda/JavaCodeAudit,【05】RCE 漏洞原理与实际案例介绍/【Java 代码审计入门-05】RCE 漏洞原理与实际案例介绍.md,560ffa8463af615b8b944337204004b2203563f2,CVE-2010-1871
+224329304,cn-panda/JavaCodeAudit,【06】文件包含漏洞原理与实际案例介绍/【Java 代码审计入门-06】文件包含漏洞原理与实际案例介绍.md,6e47eebda4e638fa8b5d9ec1a671bc736c782fb0,CVE-2020-1938
 224329304,cn-panda/JavaCodeAudit,【02】SQL 漏洞原理与实际案例介绍/【02】SQL 漏洞原理与实际案例介绍.md,9321b70ae170af26367fcadec66779904abb2eb5,CVE-2019-9615
 224329304,cn-panda/JavaCodeAudit,【03】XSS 漏洞原理与实际案例介绍/【03】XSS 漏洞原理与实际案例介绍.md,ad6146e3da6ba58ab22943c24604c420f9b50727,CVE-2018-19178
+224329304,cn-panda/JavaCodeAudit,【04】SSRF 漏洞原理与实际案例介绍/hawtio-default-2.5.0.war,d7582e03daed412df6e7f7046a72b825c08ef100,VU#9385

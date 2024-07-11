@@ -1,4 +1,15 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS16-050,0.25000000,https://github.com/Live-Hack-CVE/CVE-2016-1019,Live-Hack-CVE/CVE-2016-1019,582948832
+MS16-050,0.14285714,https://github.com/Live-Hack-CVE/CVE-2016-1011,Live-Hack-CVE/CVE-2016-1011,593682256
+MS16-050,0.14285714,https://github.com/Live-Hack-CVE/CVE-2016-1013,Live-Hack-CVE/CVE-2016-1013,593682226
+MS16-050,0.12500000,https://github.com/Live-Hack-CVE/CVE-2016-1016,Live-Hack-CVE/CVE-2016-1016,593732383
+MS16-050,0.12500000,https://github.com/Live-Hack-CVE/CVE-2016-1017,Live-Hack-CVE/CVE-2016-1017,593682343
+MS16-050,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS16-050,0.00028209,https://github.com/rothilion26/cve2023-data,rothilion26/cve2023-data,721764317
 MS16-050,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS16-050,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
+MS16-050,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS16-050,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
+MS16-050,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS16-050,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+MS16-050,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

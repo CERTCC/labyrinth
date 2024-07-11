@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+516548886,yudikubota/exemplo_ataque_reentrada,yarn.lock,e0135069eb9aaee181445cfff83211880a6a263a,VU#137
+516548886,yudikubota/exemplo_ataque_reentrada,yarn.lock,e0135069eb9aaee181445cfff83211880a6a263a,VU#18
+516548886,yudikubota/exemplo_ataque_reentrada,yarn.lock,e0135069eb9aaee181445cfff83211880a6a263a,VU#43
+516548886,yudikubota/exemplo_ataque_reentrada,yarn.lock,e0135069eb9aaee181445cfff83211880a6a263a,VU#62

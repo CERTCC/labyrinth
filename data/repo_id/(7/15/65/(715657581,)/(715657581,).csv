@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+715657581,uthrasri/CVE-2014-3570,pkcs7/t/msie-s-a-e.pem,2e951297b5c45343d28c40b5cd607f58f8b5d20f,VU#40
+715657581,uthrasri/CVE-2014-3570,pkcs7/t/msie-s-a-e,c33eecb5f41f5cc0f548f8825a76eced3fc28147,VU#55
+715657581,uthrasri/CVE-2014-3570,_GITHUB_REPO_METADATA_,,CVE-2014-3570

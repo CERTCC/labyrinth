@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+720209650,whoami-chmod777/Buffer-Overflow-Exploit,assets/resources/R-3.4.4-win.exe,c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5,VU#04
+720209650,whoami-chmod777/Buffer-Overflow-Exploit,assets/resources/R-3.4.4-win.exe,c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5,VU#16
+720209650,whoami-chmod777/Buffer-Overflow-Exploit,assets/resources/R-3.4.4-win.exe,c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5,VU#50
+720209650,whoami-chmod777/Buffer-Overflow-Exploit,assets/resources/R-3.4.4-win.exe,c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5,VU#57
+720209650,whoami-chmod777/Buffer-Overflow-Exploit,assets/resources/R-3.4.4-win.exe,c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5,VU#62
+720209650,whoami-chmod777/Buffer-Overflow-Exploit,assets/resources/R-3.4.4-win.exe,c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5,VU#72
+720209650,whoami-chmod777/Buffer-Overflow-Exploit,assets/resources/R-3.4.4-win.exe,c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5,VU#80
+720209650,whoami-chmod777/Buffer-Overflow-Exploit,assets/resources/R-3.4.4-win.exe,c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5,VU#85
+720209650,whoami-chmod777/Buffer-Overflow-Exploit,assets/resources/R-3.4.4-win.exe,c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5,VU#98

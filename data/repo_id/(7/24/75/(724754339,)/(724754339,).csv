@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+724754339,sourcelocation/Picasso-v3,bin/swiftshield-new-debug,26ab230aa31251dd443b0ba6eb49d1e7345bee58,VU#19
+724754339,sourcelocation/Picasso-v3,bin/swiftshield,4fe41b71be2f06dbbc2780f0724d9c242654c207,VU#19
+724754339,sourcelocation/Picasso-v3,Picasso/Exploit/KFDSwift/fun/grant_full_disk_access.m,8845073cd2bf4cef299be4c8d6df492b60092299,CVE-2022-46689
+724754339,sourcelocation/Picasso-v3,bin/swiftshield-ultra,8dc3b71ee5822c6a4db161ce4fdcc5e50435a74a,VU#19
+724754339,sourcelocation/Picasso-v3,Picasso/Exploit/KFDSwift/grant_full_disk_access.m,8f7fe711fc36be5ca821dc2718b4dda0cab56cbb,CVE-2022-46689
+724754339,sourcelocation/Picasso-v3,Picasso/Exploit/MacDirtyCowSwift/Exploit/grant_full_disk_access.h,ad38bef6487e17bec9b4b73d0b0b4ede5dda4d22,CVE-2022-46689
+724754339,sourcelocation/Picasso-v3,Picasso/Exploit/MacDirtyCowSwift/Exploit/grant_full_disk_access.m,de993408e2d2adb5c58e612f1ddbb3ec218eadb0,CVE-2022-46689
+724754339,sourcelocation/Picasso-v3,Picasso/Exploit/MacDirtyCowSwift/Exploit/vm_unaligned_copy_switch_race.h,ec17370085e7729169261c0cab52ba660adc942d,CVE-2022-46689
+724754339,sourcelocation/Picasso-v3,bin/swiftshield-old,ed173df173e535f2bdd4764b0dc1e809005ef247,VU#19
+724754339,sourcelocation/Picasso-v3,Picasso/Exploit/MacDirtyCowSwift/Wrappers.swift,f17d12a5d8c11fb24bc8cbb1801d69678851bca7,CVE-2022-46689

@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+466126446,puckiestyle/CVE-2021-3156,exploit_nss_d9.py,02eccdc6af9018d67a4a31c1af13ce638160e596,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,exploit_nss_u16.py,1d903a134f38108beeb8898ed2cc65ff0d038315,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,exploit_nss.py,2022bffd22f1cddbe3a786b3dddeb1b4578ab014,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,sudo-hax-me-a-sandwich,3b49bcbb59c0f0919f38528c3fa031b7e47661cf,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,exploit_cent7_userspec.py,64cb27a096839964dcdeac64977bb8aa37acfe83,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,README.md,709746162e1f1febcb4f49272618f8cdcd4501d8,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,exploit_nss_manual.py,954c478063700f80cec49a205879e3efab463287,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,exploit_defaults_mailer.py,ac29bc302207a2f8c7f10ec5d06d99f6f5971fd3,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,exploit_timestamp_race.c,d5375f8737e82b7960cd6579c6312f28f8fce504,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,exploit_nss_u14.py,fef9ac0563eaabf6ac71ab64e4f52bba71a904d6,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,exploit_userspec.py,fff19b056876013e8565f9e1617a3ec9730b1e4b,CVE-2021-3156
+466126446,puckiestyle/CVE-2021-3156,_GITHUB_REPO_METADATA_,,CVE-2021-3156

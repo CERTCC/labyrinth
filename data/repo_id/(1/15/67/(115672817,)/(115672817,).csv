@@ -1,0 +1,91 @@
+repo_id,repo_full_name,file,file_sha1,match
+115672817,houjingyi233/office-exploit-case-study,papers/Moniker Magic-Running Scripts Directly in Microsoft Office.pdf,02d098173b7ceb838e6b856be1f753e2cf4ba37c,CVE-2017-0199
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-8759/0b4ef455e385b750d9f90749f1467eaf00e46e8d6c2885c260e1b78211a51684.bin.gz,083c02db28992bc10edb4f2dc2c190587200cef1,CVE-2017-8759
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-0158/README.md,0e868014c29da43bf6d5ee824b669f4a935179a7,CVE-2012-0158
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-0158/README.md,0e868014c29da43bf6d5ee824b669f4a935179a7,CVE-2012-1856
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/mscomctl_2007.dbg,1e0737a11e5a6869f37dadee80c3df01fe8e955d,CVE-2012-0158
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/mscomctl_2007.dbg,1e0737a11e5a6869f37dadee80c3df01fe8e955d,CVE-2012-1856
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/25a473ec43acfe80182d3fd6cd9cf87ac362a18b78a554bf1dda8d9dc05bee08.bin.gz,2bddc6bc07c718825a7e1d6274cc3d7a1ad20fd0,CVE-2017-11882
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/25a473ec43acfe80182d3fd6cd9cf87ac362a18b78a554bf1dda8d9dc05bee08.bin.gz,2bddc6bc07c718825a7e1d6274cc3d7a1ad20fd0,CVE-2018-0798
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/25a473ec43acfe80182d3fd6cd9cf87ac362a18b78a554bf1dda8d9dc05bee08.bin.gz,2bddc6bc07c718825a7e1d6274cc3d7a1ad20fd0,CVE-2018-0802
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0261&CVE-2017-0262/91acb0d56771af0196e34ac95194b3d0bf3200bc5f6208caf3a91286958876f9.bin.gz,318690ad256c9ee63214d70c577ac8040321df29,CVE-2017-0262
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0261&CVE-2017-0262/91acb0d56771af0196e34ac95194b3d0bf3200bc5f6208caf3a91286958876f9.bin.gz,318690ad256c9ee63214d70c577ac8040321df29,CVE-2017-0261
+115672817,houjingyi233/office-exploit-case-study,papers/OLE object are still dangerous today-Exploiting Microsoft Office.pdf,33fb815c48be68f5ac64d4fb2a7b6bed9dccc132,CVE-2023-21716
+115672817,houjingyi233/office-exploit-case-study,papers/OLE object are still dangerous today-Exploiting Microsoft Office.pdf,33fb815c48be68f5ac64d4fb2a7b6bed9dccc132,CVE-2021-40444
+115672817,houjingyi233/office-exploit-case-study,papers/OLE object are still dangerous today-Exploiting Microsoft Office.pdf,33fb815c48be68f5ac64d4fb2a7b6bed9dccc132,GPZ-514
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2014-4114
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2017-0199
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2017-0262
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2017-8759
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2016-7193
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2015-0097
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2017-11882
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2014-6352
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2015-2545
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2013-3906
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2018-0798
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2012-0158
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2018-0802
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2017-0261
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2017-11826
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2014-1761
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2017-8570
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2012-1856
+115672817,houjingyi233/office-exploit-case-study,README.md,4106b6954baccbb1b45f9e18080175ed86e1ef90,CVE-2015-1641
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/cve-2018-0802 poc with aslr-bypass.rtf,4324d7fa6964098b524b8c8f12dad21043dc0147,CVE-2018-0802
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/cve-2018-0802 poc with aslr-bypass.rtf,4324d7fa6964098b524b8c8f12dad21043dc0147,CVE-2018-0798
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/cve-2018-0802 poc with aslr-bypass.rtf,4324d7fa6964098b524b8c8f12dad21043dc0147,CVE-2017-11882
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0261&CVE-2017-0262/README.md,4925cc7b3cf5332431a65cbd8fac2a293e62857f,CVE-2017-0261
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0261&CVE-2017-0262/README.md,4925cc7b3cf5332431a65cbd8fac2a293e62857f,CVE-2017-0262
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/README.md,4d77ddd4cf29b28de5220697a50f000cc89263bf,CVE-2012-1856
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/README.md,4d77ddd4cf29b28de5220697a50f000cc89263bf,CVE-2012-0158
+115672817,houjingyi233/office-exploit-case-study,CVE-2013-3906/README.md,5aab7b267b55bed30f5d3319e6079fe1457246c6,CVE-2013-3906
+115672817,houjingyi233/office-exploit-case-study,CVE-2015-0097/Create-Recordset.hta,683f44664070ad9e022c4f88133a2b56f709709b,CVE-2015-0097
+115672817,houjingyi233/office-exploit-case-study,CVE-2014-4114&CVE-2014-6352/e99f089bf209d5caea948f424881cbf6652658b973a5b97dbb59db6e03e8c907.bin.gz,70a6d065f4189cb944e033dcde5c9e9b0e6485a3,CVE-2014-6352
+115672817,houjingyi233/office-exploit-case-study,CVE-2014-4114&CVE-2014-6352/e99f089bf209d5caea948f424881cbf6652658b973a5b97dbb59db6e03e8c907.bin.gz,70a6d065f4189cb944e033dcde5c9e9b0e6485a3,CVE-2014-4114
+115672817,houjingyi233/office-exploit-case-study,CVE-2015-0097/README.md,7286202aeefa19e3b2a9bc617ef7451f417bedb8,CVE-2015-0097
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-1856/CVE-2012-1856分析报告.pdf,72f4b5c624dfd446b0e5f681039e078c985efd2a,VU#25
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-1856/CVE-2012-1856分析报告.pdf,72f4b5c624dfd446b0e5f681039e078c985efd2a,CVE-2012-0158
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-1856/CVE-2012-1856分析报告.pdf,72f4b5c624dfd446b0e5f681039e078c985efd2a,CVE-2012-1856
+115672817,houjingyi233/office-exploit-case-study,CVE-2013-3906/0639c38a0a563284cd96b3cd4caddc09263d6891c79c4241d98abb3fcea32c27.bin.gz,779688c23e815bf5bbf4a668089234442d03a560,CVE-2013-3906
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11826/aed93c002574f25dabd1859f080203a2c8f332e92c80db9aa983316695d938d3.bin.gz,780582343e4bc8689096fc7df1af6a450be68e60,CVE-2017-11826
+115672817,houjingyi233/office-exploit-case-study,CVE-2015-0097/Readme + Instructions.rtf,78ecb955180a33b6a90b303078ce73b6a7fb855e,CVE-2015-0097
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-8759/README.md,7a72d699ba347038b283a08a912e3a783ba3c3fc,CVE-2017-8759
+115672817,houjingyi233/office-exploit-case-study,CVE-2016-7193/00bc76898f07f18122f386b890d79c9338d223a5b5c89213a4bbf1040bccfa28.bin.gz,883fe2c2c4d48f72638cd9e4fa40423e7d5f46ca,CVE-2016-7193
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-1856/README.md,90343d076e5056a5b3eaa874ca14e41dedb5a0b0,CVE-2012-0158
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-1856/README.md,90343d076e5056a5b3eaa874ca14e41dedb5a0b0,CVE-2012-1856
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11826/README.md,9f9c26e386c8c32fe379b063bdd9e327b421c8dd,CVE-2017-11826
+115672817,houjingyi233/office-exploit-case-study,CVE-2014-1761/README.md,9fca65445b4f3d5f0caf92ab7ad87057ad39d844,CVE-2014-1761
+115672817,houjingyi233/office-exploit-case-study,CVE-2015-1641/8bb066160763ba4a0b65ae86d3cfedff8102e2eacbf4e83812ea76ea5ab61a31.bin.gz,a5853f2b4415740ad832a99b7058923fe09c070e,CVE-2015-1641
+115672817,houjingyi233/office-exploit-case-study,CVE-2015-2545/3a65d4b3bc18352675cd02154ffb388035463089d59aad36cadb1646f3a3b0fc.bin.gz,b687499374c05de74bb1aa4c355645e760781064,CVE-2015-2545
+115672817,houjingyi233/office-exploit-case-study,CVE-2016-7193/README.md,bd54371c9850c19a430520c7c871a5427ef74e71,CVE-2016-7193
+115672817,houjingyi233/office-exploit-case-study,CVE-2014-4114&CVE-2014-6352/70b8d220469c8071029795d32ea91829f683e3fbbaa8b978a31a0974daee8aaf.bin.gz,be346deea9c95cbfe28f11398a7561f4310c8914,CVE-2014-6352
+115672817,houjingyi233/office-exploit-case-study,CVE-2014-4114&CVE-2014-6352/70b8d220469c8071029795d32ea91829f683e3fbbaa8b978a31a0974daee8aaf.bin.gz,be346deea9c95cbfe28f11398a7561f4310c8914,CVE-2014-4114
+115672817,houjingyi233/office-exploit-case-study,CVE-2015-2545/README.md,bf97662fde7e2e270a319395e7a0ef5726450e9d,CVE-2015-2545
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0261&CVE-2017-0262/ef783cc3c4e1e0649b4629f3396cff4c0e0e0e67c07cacb8a9ae7c0cfa16bf0c.bin.gz,c6bc833c2d4d4e6754c67efbc342788785f5e514,CVE-2017-0261
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0261&CVE-2017-0262/ef783cc3c4e1e0649b4629f3396cff4c0e0e0e67c07cacb8a9ae7c0cfa16bf0c.bin.gz,c6bc833c2d4d4e6754c67efbc342788785f5e514,CVE-2017-0262
+115672817,houjingyi233/office-exploit-case-study,CVE-2015-0097/POC-Generator.vbs,c6e414d8ca058772a6d9001e2547f5d022140f52,CVE-2015-0097
+115672817,houjingyi233/office-exploit-case-study,CVE-2015-1641/README.md,caef6307a297ac7c522965110b92c5a8ac94a034,CVE-2015-1641
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0199&CVE-2017-8570/README.md,cb9b424ed4da745c9a5989a4587fcfc6912f6cb2,CVE-2017-0199
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0199&CVE-2017-8570/README.md,cb9b424ed4da745c9a5989a4587fcfc6912f6cb2,CVE-2017-8570
+115672817,houjingyi233/office-exploit-case-study,CVE-2014-4114&CVE-2014-6352/README.md,ccf7e083d6d143fc552e44f22df7e2e7679ac031,CVE-2014-4114
+115672817,houjingyi233/office-exploit-case-study,CVE-2014-4114&CVE-2014-6352/README.md,ccf7e083d6d143fc552e44f22df7e2e7679ac031,CVE-2014-6352
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/cve-2018-0802 poc with comments.rtf,d18202c5edbb1bd2fe200e5f20fe07936a190503,CVE-2018-0802
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/cve-2018-0802 poc with comments.rtf,d18202c5edbb1bd2fe200e5f20fe07936a190503,CVE-2017-11882
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/cve-2018-0802 poc with comments.rtf,d18202c5edbb1bd2fe200e5f20fe07936a190503,CVE-2018-0798
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0261&CVE-2017-0262/6785e29698444243677300db6a0c519909ae9e620d575e76d9be4862b33ed490.bin.gz,d2779fcb4f5a4bde7c8dac2cdf76d5e77777c8bd,CVE-2017-0262
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-0261&CVE-2017-0262/6785e29698444243677300db6a0c519909ae9e620d575e76d9be4862b33ed490.bin.gz,d2779fcb4f5a4bde7c8dac2cdf76d5e77777c8bd,CVE-2017-0261
+115672817,houjingyi233/office-exploit-case-study,CVE-2014-1761/e378eef9f4ea1511aa5e368cb0e52a8a68995000b8b1e6207717d9ed09e8555a.bin.gz,d6424836bc79c03a4cf23b34ea7747aa5939635d,CVE-2014-1761
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/MSCOMCTL_2007.OCX,da6b0ec081d628c33b150327f3bd16d3b7fa4729,CVE-2012-0158
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/MSCOMCTL_2007.OCX,da6b0ec081d628c33b150327f3bd16d3b7fa4729,CVE-2012-1856
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-0158/09700a4d4979dfb98ce3a04db59efd8d522d5f06bee756af767dc94519a604fd.bin.gz,dc1c1ec25416c2d838661757e10308779c8c79ae,CVE-2012-1856
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-0158/09700a4d4979dfb98ce3a04db59efd8d522d5f06bee756af767dc94519a604fd.bin.gz,dc1c1ec25416c2d838661757e10308779c8c79ae,CVE-2012-0158
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-1856/76021e5a95a666f468dc7ea99e5a49e5d42b82bc37e9e9a4338b24155ed4451a.bin.gz,e2708ece6538c3d4e022ed8c2f0ccbeb775a0479,CVE-2012-1856
+115672817,houjingyi233/office-exploit-case-study,CVE-2012-0158&CVE-2012-1856/CVE-2012-1856/76021e5a95a666f468dc7ea99e5a49e5d42b82bc37e9e9a4338b24155ed4451a.bin.gz,e2708ece6538c3d4e022ed8c2f0ccbeb775a0479,CVE-2012-0158
+115672817,houjingyi233/office-exploit-case-study,CVE-2015-0097/poc.bin,e3f4e18b352eb7f4f99f87da02eb9154b981a135,CVE-2015-0097
+115672817,houjingyi233/office-exploit-case-study,papers/Attacking Interoperability-An OLE Edition.pdf,eb8a21a1bfd28ff352752a3e8aa08d1a6a669319,CVE-2015-1770
+115672817,houjingyi233/office-exploit-case-study,papers/Attacking Interoperability-An OLE Edition.pdf,eb8a21a1bfd28ff352752a3e8aa08d1a6a669319,CVE-2015-2424
+115672817,houjingyi233/office-exploit-case-study,papers/Attacking Interoperability-An OLE Edition.pdf,eb8a21a1bfd28ff352752a3e8aa08d1a6a669319,GPZ-325
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/README.md,f858b82a6396e55f517d56584df3e4f53368ed00,CVE-2018-0802
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/README.md,f858b82a6396e55f517d56584df3e4f53368ed00,CVE-2017-11882
+115672817,houjingyi233/office-exploit-case-study,CVE-2017-11882&CVE-2018-0802&CVE-2018-0798/README.md,f858b82a6396e55f517d56584df3e4f53368ed00,CVE-2018-0798

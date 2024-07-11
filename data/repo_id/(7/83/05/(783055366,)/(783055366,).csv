@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+783055366,hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC,README.md,e31c8c2fe04f9dadd82e97e9ada618c19fad07a4,CVE-2024-25733
+783055366,hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC,_GITHUB_REPO_METADATA_,,CVE-2024-25733

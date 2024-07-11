@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+523154381,crowdbotics-dev/tst-tc2149-cvefmpnf-28650,yarn.lock,89ca9072cf57ac5b93653997a840069b17b2e034,VU#18
+523154381,crowdbotics-dev/tst-tc2149-cvefmpnf-28650,yarn.lock,89ca9072cf57ac5b93653997a840069b17b2e034,VU#359
+523154381,crowdbotics-dev/tst-tc2149-cvefmpnf-28650,yarn.lock,89ca9072cf57ac5b93653997a840069b17b2e034,VU#67
+523154381,crowdbotics-dev/tst-tc2149-cvefmpnf-28650,yarn.lock,89ca9072cf57ac5b93653997a840069b17b2e034,VU#85

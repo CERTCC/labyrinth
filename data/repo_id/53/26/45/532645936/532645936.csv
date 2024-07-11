@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+532645936,skateforever/pentest-exploits,services/NeowiseCarbonFTP-v1.4.py,e07317e65ccd531be2066d641f1501494723376f,CVE-2020-6857

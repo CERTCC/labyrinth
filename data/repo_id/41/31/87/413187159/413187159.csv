@@ -1,110 +1,324 @@
 repo_id,repo_full_name,file,file_sha1,match
-413187159,Mario-Kart-Felix/Build-exploits-packages,Python,0e936a9038fedba95db7b7dd29f953282a1dfc00,CVE-2012-1493
-413187159,Mario-Kart-Felix/Build-exploits-packages,Python,0e936a9038fedba95db7b7dd29f953282a1dfc00,CVE-2016-1561
 413187159,Mario-Kart-Felix/Build-exploits-packages,Python,0e936a9038fedba95db7b7dd29f953282a1dfc00,CVE-2013-0137
+413187159,Mario-Kart-Felix/Build-exploits-packages,Python,0e936a9038fedba95db7b7dd29f953282a1dfc00,CVE-2016-1561
+413187159,Mario-Kart-Felix/Build-exploits-packages,Python,0e936a9038fedba95db7b7dd29f953282a1dfc00,CVE-2012-1493
 413187159,Mario-Kart-Felix/Build-exploits-packages,Python,0e936a9038fedba95db7b7dd29f953282a1dfc00,CVE-2015-0936
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Login,1104788151bc368fd341d5a8f67a186061912f91,CVE-2019-11399
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Cve ipython,125d0bbbf434f229f56845dae6c60b3e452043e3,GHSA-PQ7M-3GW7-GQ5X
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Cve ipython,125d0bbbf434f229f56845dae6c60b3e452043e3,CVE-2022-21699
 413187159,Mario-Kart-Felix/Build-exploits-packages,cryptography,1e381948344a664322292cf4b365e5d2713f143a,CVE-2018-10903
-413187159,Mario-Kart-Felix/Build-exploits-packages,twisted,280ab22aae6a2b45d3325b36fcbdd409643de541,CVE-2020-10108
-413187159,Mario-Kart-Felix/Build-exploits-packages,twisted,280ab22aae6a2b45d3325b36fcbdd409643de541,CVE-2019-12387
+413187159,Mario-Kart-Felix/Build-exploits-packages,cryptography,1e381948344a664322292cf4b365e5d2713f143a,GHSA-HGGM-JPG3-V476
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30523
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30527
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30526
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30529
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30525
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30524
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30528
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30522
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21183
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21221
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2019-5786
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21220
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2020-27844
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21219
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2020-6505
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2020-6506
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2020-6507
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2020-6509
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21218
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21217
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30521
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30530
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30533
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30532
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30556
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30555
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30554
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30553
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30552
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30551
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30550
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30549
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30548
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30547
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30531
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30546
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30544
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30541
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30540
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30539
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30538
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30537
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30536
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30535
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30534
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21216
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30545
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21215
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21159
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21158
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21187
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21188
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21189
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21190
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21191
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21192
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21193
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21194
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21195
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21196
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21197
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21198
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21199
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21201
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21202
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21203
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21204
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21205
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21206
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21207
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21208
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21209
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21210
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21186
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21185
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21184
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21213
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30557
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21160
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21161
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21162
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21163
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21164
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21165
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21166
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21167
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21168
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21169
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21214
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21170
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21172
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21173
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21174
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21175
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21176
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21177
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21178
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21179
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21180
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21181
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21182
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21171
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30559
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30561
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21211
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0453
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0452
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30633
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30632
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30631
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30630
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30629
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30628
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30627
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30626
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0454
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30625
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30623
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30622
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30621
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30620
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30619
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30618
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30617
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30616
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30615
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30614
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30624
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30560
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0455
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0457
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-1096
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0610
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0609
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0608
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0607
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0606
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0605
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0604
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0603
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0470
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0456
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0469
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0467
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0466
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0465
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0464
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0463
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0462
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0461
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0460
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0459
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0458
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2022-0468
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30612
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30613
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30610
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30585
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30584
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30583
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30582
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30581
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30580
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30579
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30578
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30577
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30576
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30575
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30574
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30573
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30572
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30571
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30569
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30568
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30567
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30566
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30565
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30564
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30563
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30562
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30611
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30587
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30586
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-21212
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30601
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30600
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30604
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30599
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30588
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30606
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30607
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30598
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30602
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30597
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30594
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30593
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30592
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30591
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30590
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30589
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30608
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30609
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30596
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Chromium,249eb274d66ff2abf4cccf227fc19954130a2644,CVE-2021-30603
 413187159,Mario-Kart-Felix/Build-exploits-packages,twisted,280ab22aae6a2b45d3325b36fcbdd409643de541,CVE-2019-12855
 413187159,Mario-Kart-Felix/Build-exploits-packages,twisted,280ab22aae6a2b45d3325b36fcbdd409643de541,CVE-2020-10109
+413187159,Mario-Kart-Felix/Build-exploits-packages,twisted,280ab22aae6a2b45d3325b36fcbdd409643de541,CVE-2020-10108
+413187159,Mario-Kart-Felix/Build-exploits-packages,twisted,280ab22aae6a2b45d3325b36fcbdd409643de541,CVE-2019-12387
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Camera,3d304981aa5ebe3e5a656ad99e8dad89ed63da00,CVE-2021-36260
 413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Cve..,3f8dc51308346b118f5f2fafe5b53fbf73c04b53,CVE-2021-35526
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2015-2546
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2017-9506
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2016-0165
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2016-0167
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2014-0160
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2016-7201
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2014-3120
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2017-0101
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2017-0263
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,MS17-010
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Urllib3,403e7da5c039613570ce9aa4680ffaca890ac4c9,CVE-2021-33503
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Urllib3,403e7da5c039613570ce9aa4680ffaca890ac4c9,GHSA-Q2Q7-5PP4-W6PG
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Urllib3,403e7da5c039613570ce9aa4680ffaca890ac4c9,VU#92413403
 413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2016-7200
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2014-6271
-413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2018-8897
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2017-0263
 413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2018-8120
-413187159,Mario-Kart-Felix/Build-exploits-packages,CVE-2021-23440,4e24e5bf9e774714c30ec2b3f2ca02ff0a0946bd,CVE-2019-10747
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2016-0167
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2016-0165
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2017-9506
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2015-2546
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2016-7201
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2014-6271
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,MS17-010
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2017-0101
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2014-3120
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2014-0160
+413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Awesome hacking,420e893aec4e78d0843a7935d81a6c65d7b500c7,CVE-2018-8897
 413187159,Mario-Kart-Felix/Build-exploits-packages,CVE-2021-23440,4e24e5bf9e774714c30ec2b3f2ca02ff0a0946bd,CVE-2021-23440
+413187159,Mario-Kart-Felix/Build-exploits-packages,CVE-2021-23440,4e24e5bf9e774714c30ec2b3f2ca02ff0a0946bd,CVE-2019-10747
 413187159,Mario-Kart-Felix/Build-exploits-packages,ssh2 cve,58f55fbdd6edb223bf173dc312a1ab3108755a9c,CVE-2020-26301
 413187159,Mario-Kart-Felix/Build-exploits-packages,axios cve,5cc37526a0bb26f4ebd553da3e84946e66a80bd7,CVE-2021-3749
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-14234
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-6975
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2020-7471
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2020-9402
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-12781
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-3498
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-19844
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-12308
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2021-33203
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-14235
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2018-7537
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2017-12794
 413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-14233
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2018-7536
-413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-14232
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-14234
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-14235
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-12308
 413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2018-14574
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2017-12794
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2018-7536
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-12781
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-14232
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2021-33203
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-19844
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2020-9402
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2020-7471
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2018-7537
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-3498
+413187159,Mario-Kart-Felix/Build-exploits-packages,router exploits,69a4da134c6eee9f9a8606380d9085957c40952b,CVE-2019-6975
 413187159,Mario-Kart-Felix/Build-exploits-packages,javascript,79341946401011c806086dc6bbe28f7ffd4884f8,CVE-2021-3765
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2019-16759
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2015-1579
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2014-9735
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2015-4455
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2019-6340
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2014-3704
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2015-5151
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2019-9879
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2018-19207
 413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2015-8562
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2017-9841
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2017-16562
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2018-7600
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2019-9978
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2014-4725
-413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2008-3362
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2015-5151
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2015-4455
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2015-1579
 413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2016-9838
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2014-3704
 413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2006-2529
-413187159,Mario-Kart-Felix/Build-exploits-packages,pycrypto,81ece32fc316f4a6e5b7890afe1507604df9c08d,CVE-2018-6594
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2017-16562
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2018-19207
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2008-3362
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2014-9735
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2014-4725
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2017-9841
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2019-9879
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2019-9978
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2018-7600
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2019-6340
+413187159,Mario-Kart-Felix/Build-exploits-packages,User,7e3fce88a350f446c8f44ce794cce9f5a2d9c7c3,CVE-2019-16759
 413187159,Mario-Kart-Felix/Build-exploits-packages,pycrypto,81ece32fc316f4a6e5b7890afe1507604df9c08d,CVE-2013-7459
-413187159,Mario-Kart-Felix/Build-exploits-packages,escape sandbox,882d7c33bad2df0c352b4abf8926464d323460c0,CVE-2020-28493
+413187159,Mario-Kart-Felix/Build-exploits-packages,pycrypto,81ece32fc316f4a6e5b7890afe1507604df9c08d,CVE-2018-6594
 413187159,Mario-Kart-Felix/Build-exploits-packages,escape sandbox,882d7c33bad2df0c352b4abf8926464d323460c0,CVE-2019-10906
-413187159,Mario-Kart-Felix/Build-exploits-packages,optimize packageS,8b82ada2bf1d67771b05e2f8ea4d9f53837d3326,CVE-2005-0773
+413187159,Mario-Kart-Felix/Build-exploits-packages,escape sandbox,882d7c33bad2df0c352b4abf8926464d323460c0,CVE-2020-28493
 413187159,Mario-Kart-Felix/Build-exploits-packages,optimize packageS,8b82ada2bf1d67771b05e2f8ea4d9f53837d3326,CVE-2002-0639
-413187159,Mario-Kart-Felix/Build-exploits-packages,(Arithmetic).,947f2f7e536ed48cecbaa0634437333552a477b8,CVE-2005-0773
+413187159,Mario-Kart-Felix/Build-exploits-packages,optimize packageS,8b82ada2bf1d67771b05e2f8ea4d9f53837d3326,CVE-2005-0773
 413187159,Mario-Kart-Felix/Build-exploits-packages,(Arithmetic).,947f2f7e536ed48cecbaa0634437333552a477b8,CVE-2002-0639
+413187159,Mario-Kart-Felix/Build-exploits-packages,(Arithmetic).,947f2f7e536ed48cecbaa0634437333552a477b8,CVE-2005-0773
 413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2020-8570
-413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2018-8174
-413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2020-11882
-413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2017-8570
-413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2021-8174
 413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2021-0802
+413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2020-11882
+413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2021-8174
+413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2018-8174
+413187159,Mario-Kart-Felix/Build-exploits-packages,generate_rtf.py,98c9c7bed38034689df2299d1fd2fff7e0c17075,CVE-2017-8570
+413187159,Mario-Kart-Felix/Build-exploits-packages,latest tools,ab46a262b0e0527c4d934b4e1bcc7499e251bb4a,CVE-2020-0796
 413187159,Mario-Kart-Felix/Build-exploits-packages,latest tools,ab46a262b0e0527c4d934b4e1bcc7499e251bb4a,MS17-010
 413187159,Mario-Kart-Felix/Build-exploits-packages,latest tools,ab46a262b0e0527c4d934b4e1bcc7499e251bb4a,CVE-2019-15126
-413187159,Mario-Kart-Felix/Build-exploits-packages,latest tools,ab46a262b0e0527c4d934b4e1bcc7499e251bb4a,CVE-2020-0796
-413187159,Mario-Kart-Felix/Build-exploits-packages,cve ..,abc577a8b90c6a1ae650f73f62027d5de79f3923,CVE-2018-1000808
 413187159,Mario-Kart-Felix/Build-exploits-packages,cve ..,abc577a8b90c6a1ae650f73f62027d5de79f3923,CVE-2018-1000807
+413187159,Mario-Kart-Felix/Build-exploits-packages,cve ..,abc577a8b90c6a1ae650f73f62027d5de79f3923,CVE-2018-1000808
+413187159,Mario-Kart-Felix/Build-exploits-packages,srcapy,ac02fcd4fec75a4d0d3b4c5a6368fe117b19f8ce,GHSA-823F-CWM9-4G74
 413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2443
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2381
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0898
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2371
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2372
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-1971
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-1968
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0899
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-1576
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-1214
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0907
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2481
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2568
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2772
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2905
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2005-1080
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2006-1922
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2006-3619
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0906
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2008-5081
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2006-7055
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0081
-413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-4820
 413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0904
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0906
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-4820
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0907
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-1214
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-1576
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-1968
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2905
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-1971
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2371
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0899
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2772
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2372
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2381
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2568
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-2481
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0898
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2006-1922
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2008-5081
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2010-0081
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2006-3619
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2005-1080
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Test/1,af89539ebe87815d5ca361afa5ecbe224b616997,CVE-2006-7055
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Net,b19a542f1ca6426e70960fa7a0b929fab94348f6,CVE-2019-16920
 413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Mitre,b3360788c1a0e01abb831be21be861f8be2008f7,CVE-2021-27196
 413187159,Mario-Kart-Felix/Build-exploits-packages,set-value cve,b5e6f394a3ace76ba57fbfdeab1a34cd5b556fb8,CVE-2021-23440
 413187159,Mario-Kart-Felix/Build-exploits-packages,set-value cve,b5e6f394a3ace76ba57fbfdeab1a34cd5b556fb8,CVE-2019-10747
@@ -112,58 +326,59 @@ repo_id,repo_full_name,file,file_sha1,match
 413187159,Mario-Kart-Felix/Build-exploits-packages,djanoframework,c500a873e8d307a52b1614daaff40903adaf5b89,CVE-2020-25626
 413187159,Mario-Kart-Felix/Build-exploits-packages,SQLAlchemy,c6d4913c384a0f5e98aedf8968a364d3beac5c70,CVE-2019-7548
 413187159,Mario-Kart-Felix/Build-exploits-packages,SQLAlchemy,c6d4913c384a0f5e98aedf8968a364d3beac5c70,CVE-2019-7164
-413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-14493
-413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-14492
-413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-9423
-413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-5064
-413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-19624
-413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-16249
-413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-15939
 413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-5063
+413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-5064
+413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-14492
+413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-15939
+413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-9423
+413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-14493
+413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-16249
+413187159,Mario-Kart-Felix/Build-exploits-packages,Python 4.2,c9ae3bda2a85f4631bd38add619daee39a989f40,CVE-2019-19624
 413187159,Mario-Kart-Felix/Build-exploits-packages,requests,cda5551649dd4035d1a31d49ed4e4d605fc48fc6,CVE-2018-18074
-413187159,Mario-Kart-Felix/Build-exploits-packages,Pygments,ce6b2dacec187b1d49e79b204fc01f29b4039b78,CVE-2021-27291
 413187159,Mario-Kart-Felix/Build-exploits-packages,Pygments,ce6b2dacec187b1d49e79b204fc01f29b4039b78,CVE-2021-20270
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2015-4624
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2017-5264
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2060
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1637
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1636
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1635
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1634
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1633
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1632
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1631
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1630
+413187159,Mario-Kart-Felix/Build-exploits-packages,Pygments,ce6b2dacec187b1d49e79b204fc01f29b4039b78,CVE-2021-27291
+413187159,Mario-Kart-Felix/Build-exploits-packages,Cve/Cve....,d2b64afdc1335b4000b2713b1cb30e165da2502d,CVE-2018-19986
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1628
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2068
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2069
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2070
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2071
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2072
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2073
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2074
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2075
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2077
 413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1629
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1628
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1627
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-3362
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2013-7106
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2014-5335
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2015-2213
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2015-4624
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2017-5264
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2018-6941
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2076
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2066
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2067
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2064
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1627
 413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1626
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1625
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1625
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1630
 413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1624
 413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1623
 413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-0914
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2018-6941
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2062
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2061
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2064
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2015-2213
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2014-5335
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2013-7106
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-3362
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2077
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2076
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2063
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2074
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2075
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2072
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2071
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2070
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2069
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2068
-413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2067
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2066
 413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2065
-413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2073
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1632
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1631
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1633
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1634
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1635
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1636
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-1637
+413187159,Mario-Kart-Felix/Build-exploits-packages,build better,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2060
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2061
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2062
+413187159,Mario-Kart-Felix/Build-exploits-packages,Admin,dac90e7528b4e83efa5029527ec0cd2b9965cfcb,CVE-2012-2063
 413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Cookie,ef60aa82301f86b65cc9335f826260d891f1e1af,CVE-2015-5603
 413187159,Mario-Kart-Felix/Build-exploits-packages,.github/workflows/Cookie,ef60aa82301f86b65cc9335f826260d891f1e1af,BID-76698
 413187159,Mario-Kart-Felix/Build-exploits-packages,Cross-platform exploits,f5f1b61738e012b9033ce4e2bb0b84f537c066a3,CVE-2005-0773

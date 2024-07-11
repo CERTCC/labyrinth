@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+806452449,klsecservices/CVEs,CVE-2024-21413-Outlook-RCE.pdf,d682c2bbbb06bfcaeddb3e6fdbdd229b07ca1ded,CVE-2024-21413
+806452449,klsecservices/CVEs,CVE-2023-35359-Windows-LPE.pdf,ea1f75995e1adc9441be61281b077ce1dfc543c0,CVE-2023-35359
+806452449,klsecservices/CVEs,CVE-2023-35359-Windows-LPE.pdf,ea1f75995e1adc9441be61281b077ce1dfc543c0,CVE-2023-36874
+806452449,klsecservices/CVEs,CVE-2023-35359-Windows-LPE.pdf,ea1f75995e1adc9441be61281b077ce1dfc543c0,GPZ-240
+806452449,klsecservices/CVEs,CVE-2023-35359-Windows-LPE.pdf,ea1f75995e1adc9441be61281b077ce1dfc543c0,GPZ-2451

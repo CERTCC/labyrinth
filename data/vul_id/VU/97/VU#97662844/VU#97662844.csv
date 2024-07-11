@@ -1,3 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#97662844,0.02325581,https://github.com/sinjeanmin/cvedetails_2020,sinjeanmin/cvedetails_2020,419696106
 VU#97662844,0.02173913,https://github.com/sinjeanmin/cvedetails_2020_final,sinjeanmin/cvedetails_2020_final,424184998
+VU#97662844,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#97662844,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#97662844,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

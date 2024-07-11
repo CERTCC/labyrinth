@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+784171236,blackmagic2023/windows-kernal-priv-escalation,privesc.rb,db6b0ee70bdf7447e0190f7b4228294912ff741a,CVE-2024-21338
+784171236,blackmagic2023/windows-kernal-priv-escalation,privesc.rb,db6b0ee70bdf7447e0190f7b4228294912ff741a,MS08-067

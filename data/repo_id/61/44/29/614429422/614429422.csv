@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+614429422,ac3lives/sagex3-cve-2020-7388-poc,adxsrv_bypass.py,336137821d0d4c9f99273594b6add73dac6cf723,CVE-2020-7387
+614429422,ac3lives/sagex3-cve-2020-7388-poc,adxsrv_bypass.py,336137821d0d4c9f99273594b6add73dac6cf723,CVE-2020-7388
+614429422,ac3lives/sagex3-cve-2020-7388-poc,README.md,fbebb91c690bb3c39a62bb7a55413b63b865c934,CVE-2020-7387
+614429422,ac3lives/sagex3-cve-2020-7388-poc,README.md,fbebb91c690bb3c39a62bb7a55413b63b865c934,CVE-2020-7388
+614429422,ac3lives/sagex3-cve-2020-7388-poc,_GITHUB_REPO_METADATA_,,CVE-2020-7388

@@ -1,0 +1,15 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC,V0WKeep3r/CVE-2024-21626-runcPOC,753221669
+GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/laysakura/CVE-2024-21626-demo,laysakura/CVE-2024-21626-demo,751817784
+GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/cdxiaodong/CVE-2024-21626,cdxiaodong/CVE-2024-21626,751664848
+GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/Wall1e/CVE-2024-21626-POC,Wall1e/CVE-2024-21626-POC,751649154
+GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/NitroCao/CVE-2024-21626,NitroCao/CVE-2024-21626,751422888
+GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/zpxlz/CVE-2024-21626-POC,zpxlz/CVE-2024-21626-POC,751354058
+GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/Wall1e/CVE-2024-21626-POC,Wall1e/CVE-2024-21626-POC,751310449
+GHSA-XR7R-F8XQ-VFVV,0.00549451,https://github.com/jiayy/android_vuln_poc-exp,jiayy/android_vuln_poc-exp,67602977
+GHSA-XR7R-F8XQ-VFVV,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
+GHSA-XR7R-F8XQ-VFVV,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+GHSA-XR7R-F8XQ-VFVV,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
+GHSA-XR7R-F8XQ-VFVV,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-XR7R-F8XQ-VFVV,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-XR7R-F8XQ-VFVV,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

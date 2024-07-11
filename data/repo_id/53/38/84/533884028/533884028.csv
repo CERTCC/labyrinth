@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+533884028,hasharmujahid/CVE-2018-6574-go-get-RCE,README.md,e8dfe77f4cbaac23cb1b34fd63f8fd84bc1cc68e,CVE-2018-6574
+533884028,hasharmujahid/CVE-2018-6574-go-get-RCE,_GITHUB_REPO_METADATA_,,CVE-2018-6574

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+512323706,TUANB4DUT/typehub-exploiter,README.md,127a5e3b9148322df6767af0f9ebe2a30ae2eab5,CVE-2021-25094
+512323706,TUANB4DUT/typehub-exploiter,sexploiter.sh,ce2363a93cf947051beed34c18894e457f07d4f4,CVE-2021-25094
+512323706,TUANB4DUT/typehub-exploiter,_GITHUB_REPO_METADATA_,,CVE-2021-25094

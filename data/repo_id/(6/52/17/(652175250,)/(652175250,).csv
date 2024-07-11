@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+652175250,FunnyWolf/metasploit-payloads,c/meterpreter/source/extensions/python/Modules/_ssl.c,188e7b049ee14b5765fb18bdb0db2cc0ecc49ab4,CVE-2013-4238
+652175250,FunnyWolf/metasploit-payloads,java/javapayload/README.md,4beb3bda412a885687c1c4f91ca271b676f0d333,CVE-2008-5353
+652175250,FunnyWolf/metasploit-payloads,c/meterpreter/source/extensions/kiwi/mimikatz/mimikatz/modules/kuhl_m_lsadump.c,9a3852b2c2700a8787a7fcaa02513928c859d02a,CVE-2020-1472

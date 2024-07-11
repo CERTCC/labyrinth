@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+682662263,mind2hex/RaspAP_Hunter,raspap_hunter.sh,0cd9cdbacd77e292272a3716b73d968747206882,CVE-2022-39986
+682662263,mind2hex/RaspAP_Hunter,README.md,a43fd407b39b874e3e2c788578a42c6045164558,CVE-2022-39986
+682662263,mind2hex/RaspAP_Hunter,_GITHUB_REPO_METADATA_,,CVE-2022-39986

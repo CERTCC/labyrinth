@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+500986170,PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134,README.md,7a5bcf69c313dd738a34dcbffea482dbce012a99,CVE-2022-26134
+500986170,PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134,exploit.py,b7a2c4a46b771daa723e11f81b7f5317eb67481c,CVE-2022-26134
+500986170,PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134,_GITHUB_REPO_METADATA_,,CVE-2022-26134

@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+803849465,Kittysploit/kittysploit-framework,data/wordlists/lfi/win.txt,0488ea37244121bc98358ff08ff3eef701318aab,CVE-2019-18935

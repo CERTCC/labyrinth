@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+478371148,irgoncalves/irule-cve-2022-22965,irule-cve-2022-22965.tcl,4178c3bef657617a06b454aeea538084e48a62c8,CVE-2022-22965
+478371148,irgoncalves/irule-cve-2022-22965,README.md,e7f267f9b883119f20f358a836e239e9e19d6e2c,CVE-2022-22965
+478371148,irgoncalves/irule-cve-2022-22965,_GITHUB_REPO_METADATA_,,CVE-2022-22965

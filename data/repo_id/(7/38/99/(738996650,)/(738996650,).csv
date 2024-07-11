@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+738996650,julienbrs/exploit-CVE-2023-6553,src/backup-migration/backup-backup.1.3.6/backup-backup/admin/images/google-drive.svg,4cad77d934497999403be9646d9311fbdf5a33b5,VU#10
+738996650,julienbrs/exploit-CVE-2023-6553,src/backup-migration/backup-backup.1.3.6/backup-backup/admin/images/red-cross.svg,631cf1553e9f05074303e0acfe0be9ab78a2081d,VU#39
+738996650,julienbrs/exploit-CVE-2023-6553,src/backup-migration/backup-backup.1.3.6/backup-backup/admin/images/rackspace.svg,82d786774b02dd8231e4023032a358a0487a1c65,VU#9557
+738996650,julienbrs/exploit-CVE-2023-6553,README.md,d96bf0f6b7133f014252b8599e96e9965c52cf40,CVE-2023-6553
+738996650,julienbrs/exploit-CVE-2023-6553,_GITHUB_REPO_METADATA_,,CVE-2023-6553

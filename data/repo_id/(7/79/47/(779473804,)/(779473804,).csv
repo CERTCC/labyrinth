@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+779473804,bioless/xz_cve-2024-3094_detection,README.md,3fb4e1bb999bc6e9747be1a1e5268fcec802e5aa,CVE-2024-3094
+779473804,bioless/xz_cve-2024-3094_detection,xz_cve-2024-3094-detect.sh,4ca2a43a3169cc5a46bd9552b6713b8bbe323c28,CVE-2024-3094
+779473804,bioless/xz_cve-2024-3094_detection,xz_cve-2024-3094-detect.sh,4ca2a43a3169cc5a46bd9552b6713b8bbe323c28,GHSA-RXWQ-X6H5-X525
+779473804,bioless/xz_cve-2024-3094_detection,_GITHUB_REPO_METADATA_,,CVE-2024-3094

@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-3126,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 OSVDB-3126,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
+OSVDB-3126,0.00628931,https://github.com/GokulChandar17/SmartBridgeTeam-2.4,GokulChandar17/SmartBridgeTeam-2.4,660521990
