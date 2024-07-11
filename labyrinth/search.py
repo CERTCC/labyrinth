@@ -24,6 +24,24 @@ def main():
 if __name__ == "__main__":
     main()
 
+class RateLimitedIterator:
+    def __init__(self, paginated_list, github_client):
+        self.paginated_list = iter(paginated_list)
+        self.gh = github_client
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        while True:
+            try:
+                return next(self.paginated_list)
+            except RateLimitExceededException as e:
+                print("Rate limit exceeded, handling...")
+                # Handle the rate limit (e.g., sleep, log, check rate limits)
+                time.sleep(random.randint(10, 30))  # Example: sleep for a random time
+                check_rate_limits(self.gh)  # Check and handle rate limits
+                # The loop will retry fetching the next item after handling the rate limit
 
 def do_search(query, start_date=None, end_date=None, page_size=100):
 
@@ -67,22 +85,8 @@ def do_search(query, start_date=None, end_date=None, page_size=100):
         # result is a generator of repository objects
         count = 0
 
-        # manually iterate over the generator so we can catch rate limit exceptions at
-        # an individual result level
-        while True:
-            try:
-                r = next(result)
-            except StopIteration:
-                break
-            except RateLimitExceededException as e:
-                # we need to catch github.GithubException.RateLimitExceededException
-                print("Rate limit exceeded")
-                # take a random nap
-                time.sleep(random.randint(10, 30))
-                # and check rate limits
-                check_rate_limits(gh)
-                continue
-
+        result_iterator = RateLimitedIterator(result, gh)
+        for r in result_iterator:
             # timestamp
             ts = (
                 datetime.datetime.utcnow()
