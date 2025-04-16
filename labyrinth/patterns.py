@@ -27,6 +27,11 @@ ID_PATTERNS = [
     "CVE\s+:\s+[0-9]{4}-[0-9]+",
     # VU#nn, VU-nn, VU_nn, VUnn
     "VU[#-_]?[0-9]{2,}",
+    # Euro Vul Db
+    "EUVD[-_][0-9]{4}[-_][0-9]+",
+    # Global Security Db
+    "GSD[-_][0-9]{4}[-_][0-9]+",
+    # Bugtraq ID
     "BID-\d+",
     # bugtraq id in urls
     "securityfocus\.com/bid/\d+",
@@ -87,6 +92,14 @@ def normalize(id_str):
     if m:
         return f"CVE-{m.groups()[0]}-{int(m.groups()[1]):04d}"
 
+    m = re.match("EUVD\D*(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"EUVD-{m.groups()[0]}-{int(m.groups()[1]):04d}"
+    m = re.match("GSD\D*(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    
+    if m:
+        return f"GSD-{m.groups()[0]}-{int(m.groups()[1]):04d}"
+    
     m = re.match("BID\D*(\d+)", id_str, re.IGNORECASE)
     if m:
         return f"BID-{int(m.groups()[0])}"
