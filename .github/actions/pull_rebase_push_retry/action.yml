@@ -9,7 +9,6 @@ runs:
         git remote -v
         git branch -v
         git status
-        git config --list
       shell: bash
       
     # we'll just die if there is a merge conflict
