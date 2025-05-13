@@ -4,14 +4,21 @@ runs:
   using: "composite"
   steps:
 
+    - name: Debug Git Status
+      run: |
+        git remote -v
+        git branch -v
+        git status
+      shell: bash
+      
     # we'll just die if there is a merge conflict
     # but we can recover from pull-push-pull race conditions
     - name: push results
       run: |
         for retry in {1..10}
           do
-            git pull --rebase
-            git push && break
+            git pull --rebase -v || exit 1
+            git push -v && break
             sleep $[ ( $RANDOM % 10 ) + 1]
         done
       shell: bash
